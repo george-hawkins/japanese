@@ -68,9 +68,16 @@ See _ToKini Andy_'s [video](https://youtu.be/OJxndUGN8Cg).
 
 ### Unknowns
 
-I'm not sure why the green frequency dictionary bboxes often show more than one number, e.g. "288, 335".
+I'm not sure why the green frequency dictionary boxes often show more than one number, e.g. "288, 335".
 
 If you click on e.g. the purple Jitendex "bubble" a closeable box appears, with the dictionary's name, at the bottom of the entry - I've no idea what this is for and googling and looking at the Yomitan site didn't enlighten me.
+
+Anki
+----
+
+Trenton has a nice into to setting up Anki for Japanese where he doesn't go mad on add-ons. He covers vocab vs sentence decks (he's not particularly anti vocab cards).
+
+He also recommends the [Kaishi 1.5K deck](https://github.com/donkuri/Kaishi) as a good bootstrapping deck - i.e. aquire enough basic vocab that you can actually make sentence cards where all but one of the words in the sentence is unknown to you.
 
 iOS and Android dictionary
 --------------------------
