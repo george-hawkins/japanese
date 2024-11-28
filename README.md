@@ -77,7 +77,7 @@ Anki
 
 Trenton has a nice into to setting up Anki for Japanese where he doesn't go mad on add-ons. He covers vocab vs sentence decks (he's not particularly anti vocab cards).
 
-He also recommends the [Kaishi 1.5K deck](https://github.com/donkuri/Kaishi) as a good bootstrapping deck - i.e. aquire enough basic vocab that you can actually make sentence cards where all but one of the words in the sentence is unknown to you.
+He also recommends the [Kaishi 1.5K deck](https://github.com/donkuri/Kaishi) as a good bootstrapping deck - i.e. acquire enough basic vocab that you can actually make sentence cards where all but one of the words in the sentence is unknown to you.
 
 iOS and Android dictionary
 --------------------------
@@ -93,12 +93,14 @@ See _Dogen_'s [playlist](https://www.youtube.com/playlist?list=PLxMXdmBM9wPvsySi
 
 See _Jouzu Juls_'s japanese pronounciation [video](https://www.youtube.com/watch?v=aOxRYmWDaF4) that recommends _Dogen_'s video but adds really useful pointers, e.g.:
 
-* Using [minimal pairs](https://en.wikipedia.org/wiki/Minimal_pair) - he recommends the paid [Migaku Pitch Trainer](https://pitch-demo.migaku.io/) (but also mentions a free alternative).
+* Using [minimal pairs](https://en.wikipedia.org/wiki/Minimal_pair) - he recommends the paid [Migaku Pitch Trainer](https://pitch-demo.migaku.io/) (but also mentions a free alternative - see below, it's the one Trenton mentions too).
 * And if the whole thing is a complete struggle, he recommends a similar minimal pairs site but for music that has a [pitch section](https://www.musicca.com/exercises/circle/12) and an [interval section](https://www.musicca.com/exercises/circle/18) to get your brain attuned to the whole idea.
 
 Matt vs Japan has a video with the infamous Ken Cannon where they discuss pitch accent but importantly also have exercises (around the 6m 30s mark - but the bits before are also important, e.g. not confusing stress in English with pitch accent): <https://www.youtube.com/watch?v=SaNr2xa4n3Q>
 
 The `README` for the deck they created is [here](matt-ken-pitch-accent-deck/README.md), for the actual deck itself you need to use the link in the description section of the YouTube video.
+
+Trenton (in this [video](https://www.youtube.com/watch?v=7fvCb5_Nzq4)) suggests this [minimal pairs test](https://kotu.io/tests/pitchAccent/minimalPairs) (which is an open source GitHub project).
 
 Videos with text
 ----------------
