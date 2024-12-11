@@ -86,6 +86,28 @@ _Japanese_ used to be a very popular Japanese dictionary for both iOS and Androi
 
 The site still exists [here](https://www.japaneseapp.com/) but it seems to be dead at this stage, its Android [Play page](https://play.google.com/store/apps/details?id=com.renzo.japanese&pli=1) shows it isn't available for any recent phones. And its iOS [App Store page](https://apps.apple.com/us/app/japanese/id290664053) shows it hasn't got an update since 2019.
 
+Netflix
+-------
+
+Subscribing to Netflix Japan seems to have become very difficult in recent years - they've really clamped down on VPNs. And it's unclear to me if one can subscribe without a Japanese credit card.
+
+It's not obvious that one can get a Japanese credit card without a non-tourist residence visa and Japanese address. It _may_ be possible to get a prepaid virtual card, without such identity verification, from [WebMonkey](https://en.komoju.com/blog/payment-method/webmoney/) or possibly [Kyash](https://thebestjapan.com/kyash-an-easy-alternative-to-credit-cards/) (I don't know if they have a virtual card or just a physical one).
+
+Both NordVPN and ExpressVPN make a big deal of being suitable for use with Netflix but users report being frequently blocked.
+
+You can find whether Netflix in your region has much Japanese language content using [uNoGS](https://unogs.com/) (unofficial Netflix online Global Search).
+
+Just click _Advanced Search_, then _Uncheck All_ countries and just check your country, then set _Audio_ to _Japanese [Original]_ (and maybe set _Order_ to _Rating_) and click _Search_.
+
+If you're logged into the Netflix website you can also search like this <https://www.netflix.com/browse/audio/jp>
+
+Note: even Netflix Japan has none of the anime listed in [Top 10 Anime for Learning Real Japanese (JLPT N5 N4 level)](https://youtu.be/lktcZc9dYSI).
+
+Crunchyroll
+-----------
+
+Crunchyroll has lots of anime but oddly it doesn't have Japanese subtitles. There are many theories as to why, e.g. that it's content is specifically licensed for non-Japanese markets.
+
 Pitch accent
 ------------
 
@@ -115,6 +137,18 @@ I haven't found a definitive video for the extension but try these:
 * _Budget Livakivi_'s [How to Use And Set-Up Migaku For Sentence Mining (Japanese)](https://www.youtube.com/watch?v=4tKINZwRzVs).
 
 Yes, both are from the same person but he maintains two channels.
+
+Migaku
+------
+
+Works with:
+
+* Netflix
+* Disney+
+* YouTube
+* Rakuten Viki
+
+Rakuten Viki looks interesting in that it seems to be truly global (i.e. content available everywhere). However, it has only two Japanese anime series and seems to be mainly romantic dramas.
 
 YouTubers
 ---------
