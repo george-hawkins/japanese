@@ -9,6 +9,21 @@ TODO: hiragana long vowels.
 
 When found at the end of the word, the [sokuon](https://en.wikipedia.org/wiki/Sokuon) acts like a glottal stop (which may indicate angry or surprised speech). For example: あっ！ (from [here](https://www.japanesepod101.com/lesson/how-to-write-in-japanese-hiragana-and-katakana-4-the-hiragana-t-column?lp=160)).
 
+### ん
+
+ん usually sounds like an n but can sound like:
+
+* m if it comes before a b or p sound, e.g. こんぶ, しんぶん or かんぱい.
+* ng if it comes before a g sound, e.g. はんがく.
+
+### は, へ, を and ん
+
+ん changes sounds based on context, は, へ and を have even clearer alternate sounds:
+
+* は is wa when used as the topic marking particle.
+* へ is e when used as a preposition.
+* を is only really used as a particle and pronounced as o.
+
 Katakana
 --------
 
@@ -42,3 +57,20 @@ After typing e.g. "su" press `ctrl-K` to switch it from hiragana to katakana.
 * シェ - she (which in addition to plain シ and the normal digraphs シャ, シュ and ショ gives us the full set of sh* sounds).
 * ジェ - je
 
+* チェ - che (like シ, the completes the full set of ch* sounds). チェア - chair.
+
+Normally, digraphs are constructed with the *i kana in a column.
+
+As that kana is chi in the t column, so you only get the sounds チ (chi) and ジ (ji).
+
+If you want the sounds ti and di for loan words, this is done instead with te:
+
+* ティ for ti
+* ディ for di
+
+And just to be difficult, for the tu/du sound to is used:
+
+* トゥ for tu
+* ドゥ for du
+
+You can get the full set of f* sounds with ファ, フィ, フ, フェ and フォ.

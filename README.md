@@ -108,6 +108,17 @@ Crunchyroll
 
 Crunchyroll has lots of anime but oddly it doesn't have Japanese subtitles. There are many theories as to why, e.g. that it's content is specifically licensed for non-Japanese markets.
 
+Beginner anime
+--------------
+
+[Top 10 Anime for Learning Real Japanese (JLPT N5 N4 level)](https://youtu.be/lktcZc9dYSI) mentions:
+
+* TODO
+
+That Japanese Man Yuta in [How to Learn Japanese with Anime](https://www.youtube.com/watch?v=AXmPavo_quc) (at 5m 50s) suggests:
+
+* Teasing Master Takagi-san / からかい上手の高木さん / Karakai Jōzu no Takagi-san
+
 Pitch accent
 ------------
 
