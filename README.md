@@ -264,6 +264,24 @@ Shadowing
 
 I keep hearing about shadowing and it sounds very powerful but I don't have anything for this section yet.
 
+Grammar
+-------
+
+I keep seeing references to Tae Kim’s [Grammar Guide](https://guidetojapanese.org/learn/grammar) as an amazingly accessible guide to Japanese grammar, e.g. this [one](samland.md).
+
+There's a corresponding Anki [deck](https://ankiweb.net/shared/info/911122782). It comes from [Japanese like a breeze](https://www.japanese-like-a-breeze.com/) and the follow-up decks are only available via their [Patreon](https://www.patreon.com/jlabjapanese).
+
+The deck requires an addon (or you can edit the template to achieve the same degree of control) in order to e.g. hide romaji and show Kanji with furigana. For full instructions, see the deck's [manual](https://www.japanese-like-a-breeze.com/guide-for-beginners/). As the manual notes, the only thing you can change, without affecting ones ability to update to a newer version of the deck, is the template.
+
+You can also customize the cards, e.g. move images to the back, as covered [here](https://www.japanese-like-a-breeze.com/card-customization/). How the addon and the decks are intended to be used is described in a number of YouTube videos, starting with this [one](https://www.youtube.com/watch?v=GHFcHfvgX5c).
+
+Piracy
+------
+
+I don't condone piracy but I have wanted to get digital versions of physical books that I've bought so that it's easier to e.g. copy things from them into flash cards. I don't think it's reasonable that one should have to pay for a digital version for this purpose if one has already bought a physical copy and I'd rather not work with DRM encumbered digital copies.
+
+The solution to this is to download digital copies from [Anna'a Archive](https://annas-archive.org/).
+
 TODO
 ----
 
