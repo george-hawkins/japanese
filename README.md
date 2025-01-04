@@ -222,6 +222,16 @@ This seems to be a slam dunk, almost everyone seems to recommend these pages fro
 
 Note: there's a lot of free content but they also suggest buying their hirigana and katakana workbooks.
 
+### Japanese keyboard
+
+My notes on kana and typing Japanese on a computer (which is done using hirigana) are in [`kana.md`](kana.md).
+
+I never found the perfect up-to-date resouce on how to get started with typing but actually it's fairly simple once you've got over the initial WTF step.
+
+In short search YouTube and, despite most of them being stale when it comes to describing the basic initial setup, you'll get there eventually.
+
+There's also lots of web pages out there (also with lots of stale information). One I liked is Christopher Bolton's [guide](https://redcocoon.org/cab/j4mactyping.html) (but again, it's far from perfect - it describes how to manage speedier input without choosing your kanji after ever individual compound but doesn't cover basics like switching from hiragana to katakana).
+
 Comprehensible input
 --------------------
 
@@ -267,6 +277,8 @@ I keep hearing about shadowing and it sounds very powerful but I don't have anyt
 Grammar
 -------
 
+### Tae Kim
+
 I keep seeing references to Tae Kim’s [Grammar Guide](https://guidetojapanese.org/learn/grammar) as an amazingly accessible guide to Japanese grammar, e.g. this [one](samland.md).
 
 There's a corresponding Anki [deck](https://ankiweb.net/shared/info/911122782). It comes from [Japanese like a breeze](https://www.japanese-like-a-breeze.com/) and the follow-up decks are only available via their [Patreon](https://www.patreon.com/jlabjapanese).
@@ -274,6 +286,14 @@ There's a corresponding Anki [deck](https://ankiweb.net/shared/info/911122782). 
 The deck requires an addon (or you can edit the template to achieve the same degree of control) in order to e.g. hide romaji and show Kanji with furigana. For full instructions, see the deck's [manual](https://www.japanese-like-a-breeze.com/guide-for-beginners/). As the manual notes, the only thing you can change, without affecting ones ability to update to a newer version of the deck, is the template.
 
 You can also customize the cards, e.g. move images to the back, as covered [here](https://www.japanese-like-a-breeze.com/card-customization/). How the addon and the decks are intended to be used is described in a number of YouTube videos, starting with this [one](https://www.youtube.com/watch?v=GHFcHfvgX5c).
+
+### Cure Dolly
+
+Cure Dolly is another Japanese teacher with a near religous following (and she has some issues with Tae Kim's take on things that's covered in this [playlist](https://www.youtube.com/playlist?list=PLg9uYxuZf8x9hoAsh5-fjGDBw-17O5oTy)).
+
+She has a huge "from scratch" lesson series [playlist](https://www.youtube.com/playlist?list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj).
+
+Note: Jouzu Juls has a grammar [playlist](https://www.youtube.com/playlist?list=PLAaPL96Q8dWHx4H0WxdXLZlu7-DdbszsV) where he takes his shot at presenting some of her material in his own way where he hopes to "provide the same information with some enhancements and present it in a way that is open to more ears"
 
 Piracy
 ------
