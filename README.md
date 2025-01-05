@@ -111,13 +111,41 @@ Crunchyroll has lots of anime but oddly it doesn't have Japanese subtitles. Ther
 Beginner anime
 --------------
 
-[Top 10 Anime for Learning Real Japanese (JLPT N5 N4 level)](https://youtu.be/lktcZc9dYSI) mentions:
+Note: where a series is both an anime and a manga, I've linked to the Wikipedia anime episode guide rathe than the manga page.
 
-* TODO
+_Mochi real Japanese_ (in this [video](https://youtu.be/lktcZc9dYSI)) recommends (all are for beginners but she includes a difficulty and speed rating, 1 being the easiest):
 
-That Japanese Man Yuta in [How to Learn Japanese with Anime](https://www.youtube.com/watch?v=AXmPavo_quc) (at 5m 50s) suggests:
+* [Chibi Maruko-chan](https://en.wikipedia.org/wiki/Chibi_Maruko-chan) (ちびまる子ちゃん, lit. "Little Maruko-chan") - level 1, speed 2.
+* [Doraemon](https://en.wikipedia.org/wiki/Doraemon_(2005_TV_series)) (ドラえもん) - level 2, speed 2 (note there's the original 1979 version and a 2005 remake).
+* [Azumanga Daioh](https://en.wikipedia.org/wiki/Azumanga_Daioh) (あずまんが大王) - level 2, speed 2.
+* [Nichijou (aka My Ordinary Life)](https://en.wikipedia.org/wiki/List_of_Nichijou_episodes) (日常) - level 3, speed 2.
+* [My Neighbor Totoro](https://en.wikipedia.org/wiki/My_Neighbor_Totoro) (となりのトトロ) - level 2, speed 2.
+* [Kemono Friends](https://en.wikipedia.org/wiki/Kemono_Friends) (ものフレンズ) - level 3, speed 1.
+* [Hetalia: Axis Powers](https://en.wikipedia.org/wiki/List_of_Hetalia:_Axis_Powers_episodes) (ヘタリア Axis Powers) - level 4, speed 3 (the whole idea sounds amazingly culturally insensitive).
+* [Polar Bear Café (aka Shirokuma Cafe)](https://en.wikipedia.org/wiki/List_of_Polar_Bear_Caf%C3%A9_episodes) (しろくまカフェ) - level 2, speed 2.
+* [Maison Ikkoku](https://en.wikipedia.org/wiki/List_of_Maison_Ikkoku_episodes) (めぞん一刻, lit. "Ikkoku House") - level 4, speed 3 (comes up in lots of other people's recommendations too).
 
-* Teasing Master Takagi-san / からかい上手の高木さん / Karakai Jōzu no Takagi-san
+_That Japanese Man Yuta_ in [How to Learn Japanese with Anime](https://www.youtube.com/watch?v=AXmPavo_quc) (at 5m 50s) recommends [Teasing Master Takagi-san](https://en.wikipedia.org/wiki/List_of_Teasing_Master_Takagi-san_episodes) (からかい上手の高木さん, lit. "Good at Teasing, Miss Takagi")
+
+In this [video](https://www.youtube.com/watch?v=YbcceTdyoQs), he recommends:
+
+* Teasing Master Takagi-san - as above - he calls it his "number one recommendation".
+* [Spirited Away](https://en.wikipedia.org/wiki/Spirited_Away) (千と千尋の神隠し, lit. 'Sen and Chihiro's Spiriting Away').
+* [My Teen Romantic Comedy SNAFU](https://en.wikipedia.org/wiki/My_Teen_Romantic_Comedy_SNAFU_season_1) (やはり俺の青春ラブコメはまちがっている, lit. "My Youth Romantic Comedy Is Wrong, as I Expected") - he loves it but says it's more difficult and recommends it for more advanced learners.
+* [Haikyu!!](https://en.wikipedia.org/wiki/Haikyu!!_season_1) (ハイキュー!!, lit. "Volleyball!!").
+
+_Weeb Jail_ has a [playlist](https://www.youtube.com/playlist?list=PL-p7W9Jfmyda7wNKKOpO06AB2HrblVW-o) on learning Japanese with anime and in this [video](https://www.youtube.com/watch?v=DL3UL3CNmVc) recommends:
+
+* [Space Brothers](https://en.wikipedia.org/wiki/List_of_Space_Brothers_episodes) (宇宙兄弟) - he does say this is driven by his interest in space and technology (which means he understands the context).
+* [Your Name](https://en.wikipedia.org/wiki/Your_Name) (君の名は) - his favorite (that he's rewatched lots of time) - comes up again and again as a favorite of other people too.
+* [Pokemon](https://en.wikipedia.org/wiki/Pok%C3%A9mon_(TV_series)) (ポケットモンスター) - I guess someone had to mention it but he then goes on to say that while it's easy most of it is Pokemon names and their attacks and suggest instead Doraemon or...
+* [Crayon Shin-chan](https://en.wikipedia.org/wiki/List_of_Crayon_Shin-chan_episodes) (クレヨンしんちゃん).
+* [Death Note](https://en.wikipedia.org/wiki/Death_Note_(2006_TV_series)) (デスノート).
+* [Midnight Diner](https://en.wikipedia.org/wiki/Midnight_Diner_(Japanese_TV_series)) (深夜食堂) - actually live action rather than anime.
+
+_ToKini Andy_ doesn't seem to have any anime-recommendation videos but he does have some interesting takes [here](https://www.youtube.com/watch?v=MeqU_RqJjsM) on the often recommended manga _Yotsuba to!_ (よつばと) (he points out that some of the grammar is deliberately wrong) and [here](https://www.youtube.com/watch?v=3nJVz5Bf9t0) on Dorohedoro (ドロヘドロ) (for N2 and N1 level learners only).
+
+_Misa_ also doesn't have any anime-recommendation videos but she does have this [manga one](https://www.youtube.com/watch?v=ua5lkcDvl_o) (where she recommends _Yotsuba to!_, _Shirokuma Cafe_ and more).
 
 Pitch accent
 ------------
