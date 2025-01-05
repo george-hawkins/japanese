@@ -122,7 +122,7 @@ That Japanese Man Yuta in [How to Learn Japanese with Anime](https://www.youtube
 Pitch accent
 ------------
 
-See _Dogen_'s [playlist](https://www.youtube.com/playlist?list=PLxMXdmBM9wPvsySiMoBzgh8d68xqKz1YP). It starts with lots of short videos and then ends with a 2h 30m lecture.
+See _Dogen_'s [playlist](https://www.youtube.com/playlist?list=PLxMXdmBM9wPvsySiMoBzgh8d68xqKz1YP). It starts with lots of short videos and then ends with a 2h 30m lecture. His [Patreon](https://www.patreon.com/dogen) also has lots of pitch-accent, pronunciation and phonetics material.
 
 See _Jouzu Juls_'s japanese pronounciation [video](https://www.youtube.com/watch?v=aOxRYmWDaF4) that recommends _Dogen_'s video but adds really useful pointers, e.g.:
 
@@ -134,6 +134,17 @@ Matt vs Japan has a video with the infamous Ken Cannon where they discuss pitch 
 The `README` for the deck they created is [here](matt-ken-pitch-accent-deck/README.md), for the actual deck itself you need to use the link in the description section of the YouTube video.
 
 Trenton (in this [video](https://www.youtube.com/watch?v=7fvCb5_Nzq4)) suggests this [minimal pairs test](https://kotu.io/tests/pitchAccent/minimalPairs) (which is an open source GitHub project).
+
+Basically every major Japanese YouTuber has a pitch accent lesson (in some cases I've used a title taken from the content if the real title wasn't very clear):
+
+* _That Japanese Man Yuta_ - [How To Learn Japanese Pitch Accent The Simple Way](https://www.youtube.com/watch?v=jp22QXysMHg).
+* _Jouzu Juls_ - [Learn pitch accent before speaking](https://www.youtube.com/watch?v=aOxRYmWDaF4) (already linked above).
+* _Matt vs Japan_ - [How to hear pitch accent](https://www.youtube.com/watch?v=SaNr2xa4n3Q) (and see joint video with Ken Cannon linked above).
+* _Japanese Ammo with Misa_ - [Pitch Accent & Pronunciation playlist](https://www.youtube.com/playlist?list=PLd5-Wp_4tLqYkSIsRtsPbLIa0HnHkNzQW).
+* _Kaname Naito_ - [Japanese Pronunciation: Pitch Accent Basics](https://www.youtube.com/watch?v=K8E-cU19PMs) and the newer [Basics of Japanese Pitch Accent](https://www.youtube.com/watch?v=jt04eg9T2sE)
+* _Mochi real Japanese_ - [Japanese Pronuciation Practice](https://www.youtube.com/watch?v=D6wCNoFa0jU) (only very briefly touches on pitch accent at the 12m 10s mark).
+* _Trenton_ - see above.
+* _Dogen_ - see above.
 
 Videos with text
 ----------------
@@ -169,6 +180,23 @@ YouTubers
 * [_Matt vs Japan_](https://www.youtube.com/@mattvsjapan/videos) - he's another japanese YouTube star but unfortunately he seems to have ruined his reputation through activities outside YouTube (basically don't buy anything that's pushed by Matt) and hasn't produced any new YouTube content since early 2022. This all seems very sad as he comes across as very personable and I enjoy his videos and his YouTube persona is hard to reconsile with his behavior elsewhere (which you can find covered in videos like [this](https://www.youtube.com/watch?v=cfuENBQdEYo), [this](https://www.youtube.com/watch?v=OAXEjGkICrs) and [this](https://www.youtube.com/watch?v=zChi-zofP18) - the last one from Metatron gives Matt the greatest benefit of the doubt - there are many more similar videos on YouTube).
 * [_ToKini Andy_](https://www.youtube.com/@ToKiniAndy/videos) - he's another YouTube star in this space and he's the one who tries hardest to take a structured taught approach to his content, he has lots of [playlists](https://www.youtube.com/@ToKiniAndy/playlists) that e.g. go through learning the kanji or working thru Genki where he really tries to teach the content he's presenting. My feeling he's more practical than many other YouTubers and just gets down to learning rather than talking about learning. He's also migrated all his Patreon content to a subscription based [site](https://www.tokiniandy.com/) (that I suspect is well worth it, from what I've seen from him, but I haven't tried it yet).
 * [_Robin MacPherson_](https://www.youtube.com/@RobinMacPhersonFilms/videos) - Robin is the least Japanese specific of my picks here but I find his content engaging, e.g. [developing speaking skills alone](https://www.youtube.com/watch?v=QxHKkfbcRKQ) and he does have some Japanese specific content, e.g. this [grammar reference playlist](https://www.youtube.com/playlist?list=PLuIhQdwUVqqpq-aOnrEUjEq2oidCXbp9J).
+
+Added later:
+
+* [_That Japanese Man Yuta_](https://www.youtube.com/@ThatJapaneseManYuta)
+* [_Japanese Ammo with Misa_](https://www.youtube.com/@JapaneseAmmowithMisa/videos) - Misa shows a more academic understanding of what she's talking about than most YouTubers (pointing out terms like [_okurigana_](https://en.wikipedia.org/wiki/Okurigana) which I like but her content is still very accessible, she just points out such terms but doesn't weigh her discussions down with this kind of language).
+* [_Kaname Naito_](https://www.youtube.com/@kanamenaito/videos) - takes a more "teacher" like approach (but without yet having any lesson plan-like playlists) with e.g. good introductions to the [rhythm of Japanese](https://www.youtube.com/@kanamenaito/videos).
+* [_Trenton_](https://www.youtube.com/@%E3%83%88%E3%83%AC%E3%83%B3%E3%83%88%E3%83%B3/videos) - he has some interesting takes on some things (but doesn't have many videos out at this stage).
+
+Honorable mentions:
+
+* [_Mochi real Japanese_](https://www.youtube.com/@mochirealjapanese3430/videos) - some of the content seems a little light weight but there's some good stuff in there.
+* [_Weeb Jail_](https://www.youtube.com/@WeebJail/videos) - he's definitely the most [_otaku_](https://en.wikipedia.org/wiki/Otaku) of the creators linked here and most of his content is actually just English language anime related stuff but he does have some interesting Japanese language stuff (which he might have more usefully separated out into a second channel rather than having it mixed in with a sea of other stuff).
+* [_Game Gengo_](https://www.youtube.com/@GameGengo/videos) - I haven't really decided what I make of this but it's an interesting idea - teeaching Japanese through video game content, e.g. he has a full [Genki 1 playlist](https://www.youtube.com/playlist?list=PLT12i1gB38HGAc-zjgFA4YcJA2Z3gVZTL) where he goes chapter by chapter through Genki book 1 and covers all its vocab and grammar using video game content.
+
+Finally:
+
+* [_Learn Japanese with JapanesePod101.com_](https://www.youtube.com/@JapanesePod101/videos) - there's tons of great free content from [JapanesePod101.com](https://www.japanesepod101.com/) but if you can afford it, I think it's better to get a premium subscription on their site and consume the content there - even though their video player isn't as good as YouTube's, the content is presented with a lot of extras (e.g. transcriptions, extra text-based content and exercises) and in a lesson-plan structure. And the YouTube videos are sometimes heavily edited down versions of those on their site (e.g. the ones on hiragana are missing the stroke-order sections and the example words using the just learnt kana).
 
 Textbooks
 ---------
@@ -277,6 +305,10 @@ I keep hearing about shadowing and it sounds very powerful but I don't have anyt
 Grammar
 -------
 
+### Bunpro
+
+I keep on seeing reference to the site/web-app [Bunpro](https://bunpro.jp/) as a way to speed run learning Japanese grammar for self study. See Tofugu's [review](https://www.tofugu.com/reviews/bunpro/), Weeb Jail's [review](https://www.youtube.com/watch?v=hBOj45xt0vI) and others.
+
 ### Tae Kim
 
 I keep seeing references to Tae Kim’s [Grammar Guide](https://guidetojapanese.org/learn/grammar) as an amazingly accessible guide to Japanese grammar, e.g. this [one](samland.md).
@@ -310,4 +342,3 @@ Look at this sites that come up again and again:
 * [JapanesePod101](https://www.japanesepod101.com/), they have no end of free content, e.g. this [4 hour intro to Japanese](https://www.youtube.com/watch?v=XCILw-a0sdA) (despite the somewhat click-bait title, it seems good) but also have paid content (oddly the seem to have released this video a number of times on their channel, e.g. [here it is again](https://www.youtube.com/watch?v=8YV8KmfBbBM) four years earlier).
 * [Rocket Japanese](https://www.rocketlanguages.com/japanese) - I know nothing about this but it seems to be a competitor to JapanesePod101.
 
-[Trenton](https://www.youtube.com/@%E3%83%88%E3%83%AC%E3%83%B3%E3%83%88%E3%83%B3/videos) looks like he might be interesting - he has got that many videos out yet.
