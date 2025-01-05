@@ -1,9 +1,15 @@
 Hiragana
 --------
 
-Go to _Settings / Keyboard / Keyboard Shortcuts / Input Source_ to see the current shortcut to switch between English and Japanese - the default is `ctrl-space`.
+See also the _keyboard_ section in the main [`README.md`](README.md).
+
+On Mac, go to _Settings / Keyboard / Keyboard Shortcuts / Input Source_ to see the current shortcut to switch between English and Japanese - the default is `ctrl-space`.
 
 Usually, the IME can work out when you need a small (chiisai) kana, e.g. type "sho" to get しょ. But you can use "x" to force this, e.g. "xo" becomes ぉ.
+
+Apple Support have a complete overview of all the keyboard shortcuts [here](https://support.apple.com/guide/japanese-input-method/keyboard-shortcuts-jpim10263/mac), e.g. `ctrl-:` ot `ctrl-;` for roman letters, `ctrl-k` for katakana and `ctrl-j` to get back to hiragana.
+
+Unfortunately, the use of `esc` and lots of `ctrl` keys makes this near impossible to use with [vim](https://en.wikipedia.org/wiki/Vim_(text_editor)) if this happens to be your favorite editor.
 
 TODO: hiragana long vowels.
 

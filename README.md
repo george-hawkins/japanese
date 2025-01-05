@@ -150,6 +150,8 @@ _Misa_ also doesn't have any anime-recommendation videos but she does have this 
 Pitch accent
 ------------
 
+Pitch accent seems to be a controversial thing - some people seem to think it's essential and others that you can completely ignore it. _Metatron_ has a nice discussion of the "controversy" [here](https://www.youtube.com/watch?v=TwEw2WACbfc). Both he and ToKini Andy basically seem to say, you should probably ignore it until you're past N5 stage as there are more important things to focus on initially but that if you don't want your Japanese to sound weird, it's something you'll have to address eventually.
+
 See _Dogen_'s [playlist](https://www.youtube.com/playlist?list=PLxMXdmBM9wPvsySiMoBzgh8d68xqKz1YP). It starts with lots of short videos and then ends with a 2h 30m lecture. His [Patreon](https://www.patreon.com/dogen) also has lots of pitch-accent, pronunciation and phonetics material.
 
 See _Jouzu Juls_'s japanese pronounciation [video](https://www.youtube.com/watch?v=aOxRYmWDaF4) that recommends _Dogen_'s video but adds really useful pointers, e.g.:
@@ -233,7 +235,7 @@ There are obviously no end of textbooks for Japanese. However, I wanted one that
 
 Note: while Genki uses kanji and kana, it still uses a lot of English, i.e. it doesn't try to teach Japanese through Japanese.
 
-The publisher has a [self-study site](https://genki3.japantimes.co.jp/en/student/) for the book. And _ToKini Andy_ has a full [playlist](https://www.youtube.com/playlist?list=PLA_RcUI8km1NMhiEebcbqdlcHv_2ngbO2) going through each chapter of the book. He also has this [video](https://www.youtube.com/watch?v=S55aWpRaV44) on how to really self-study with Genki.
+The publisher has a [self-study site](https://genki3.japantimes.co.jp/en/student/) for the book. And _ToKini Andy_ has a full [playlist](https://www.youtube.com/playlist?list=PLA_RcUI8km1NMhiEebcbqdlcHv_2ngbO2) going through each chapter of the book. He also has this _great_ [video](https://www.youtube.com/watch?v=S55aWpRaV44) on how to really self-study with Genki. I think his [site](https://www.tokiniandy.com/) (requires subscription) is probably the way to go.
 
 Another YouTube playlist for Genki is this [one](https://www.youtube.com/playlist?list=PLouxzmENUE6RU9KZH-oCAvzwEKR1r9YP1) from _ShiroNekoJapanese_ - I haven't had a chance to look at it but it's an impressive amount of content and is linked to by others.
 
@@ -286,7 +288,11 @@ I never found the perfect up-to-date resouce on how to get started with typing b
 
 In short search YouTube and, despite most of them being stale when it comes to describing the basic initial setup, you'll get there eventually.
 
+For Mac, I like this [video](https://www.youtube.com/watch?v=ZzzYus2DgCg) from _Campanas de Japanese_.
+
 There's also lots of web pages out there (also with lots of stale information). One I liked is Christopher Bolton's [guide](https://redcocoon.org/cab/j4mactyping.html) (but again, it's far from perfect - it describes how to manage speedier input without choosing your kanji after ever individual compound but doesn't cover basics like switching from hiragana to katakana).
+
+_Jouzu Juls_ has a nice [How to Type Japanese on Windows](https://www.youtube.com/watch?v=g3xmRCrbLVU) video.
 
 Comprehensible input
 --------------------
