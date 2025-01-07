@@ -66,11 +66,16 @@ I haven't tried installing it - I suspect many people are simply "acquiring" ZIP
 
 See _ToKini Andy_'s [video](https://youtu.be/OJxndUGN8Cg).
 
-### Unknowns
+### Numbers
 
-I'm not sure why the green frequency dictionary boxes often show more than one number, e.g. "288, 335".
+Sometimes you see two frequency numbers for a given Yomitan definition:
 
-If you click on e.g. the purple Jitendex "bubble" a closeable box appears, with the dictionary's name, at the bottom of the entry - I've no idea what this is for and googling and looking at the Yomitan site didn't enlighten me.
+![Yomitan frequency counts](images/yomitan-freq-counts.png)
+
+The two numbers mean completely different things for BCCWJ and JPDB:
+
+* For JPDB, the first number is the frequency of this reading and the second is the frequency with which this kanji is instead written using the kana of this reading, i.e. おお in this case. See [here](https://github.com/Kuuuube/yomitan-dictionaries?tab=readme-ov-file#jpdb-v22-frequency-kana-recommended) and note that the second number is following by a little ㋕.
+* For BCCWJ, the first is the short-unit frequency and the second is the long-unit frequency - this is quite useful and the meaning is explained [here](https://community.wanikani.com/t/ordering-vocab-by-frecuency/35122/2).
 
 Anki
 ----
@@ -175,6 +180,24 @@ Basically every major Japanese YouTuber has a pitch accent lesson (in some cases
 * _Mochi real Japanese_ - [Japanese Pronuciation Practice](https://www.youtube.com/watch?v=D6wCNoFa0jU) (only very briefly touches on pitch accent at the 12m 10s mark).
 * _Trenton_ - see above.
 * _Dogen_ - see above.
+
+Japanese pronunciation
+----------------------
+
+TODO: See already links to pronunciation guides from Dogen, Mochi and others above.
+
+_Campanas de Japanese_ has a nice pronunciation [playlist](https://www.youtube.com/playlist?list=PLGos75KF4PaQWko1d_WJEVSmH71QFaTa8) and covers IPA, long vowels, sokuon, rhythm, pitch and more.
+
+### Japanese R sound
+
+Tofugu has a nice [short lesson](https://www.youtube.com/watch?v=V2wzUuGm7yw) to teach you what exactly to do to make this sound. I wish he'd included subtitles - it's hard sometimes to here if he's telling you to say da or la or asking you to start saying ra.
+
+_Campanas de Japanese_ also goes over what's involved [here](https://www.youtube.com/watch?v=hpRArmZxfFM) and points out that _ri_ is a bit different.
+
+See also this [video](https://www.youtube.com/watch?v=jUF5rAsaCKI) from _UBC eNunciate!_ (the tongue positions get clearer as they move from weird images of tongues moving within real people's mouths to diagrams).
+
+Actually, there are no end of these videos - YouTube will start suggesting more and more once you watch one or two - try them and see what makes sense.
+
 
 Videos with text
 ----------------
@@ -367,6 +390,42 @@ Piracy
 I don't condone piracy but I have wanted to get digital versions of physical books that I've bought so that it's easier to e.g. copy things from them into flash cards. I don't think it's reasonable that one should have to pay for a digital version for this purpose if one has already bought a physical copy and I'd rather not work with DRM encumbered digital copies.
 
 The solution to this is to download digital copies from [Anna'a Archive](https://annas-archive.org/).
+
+Readings
+--------
+
+Kanshudo has a very nice [intro to readings](https://www.kanshudo.com/howto/how-to-read-kanji), how to learn them (one at a time) and how to guess which reading that you already know will apply in a new situation (based on whether the kanji is used okurigana etc.).
+
+Tofugo has a rather more massive take on similar material [here](https://www.tofugu.com/japanese/onyomi-kunyomi/).
+
+### Reading frequency
+
+There seems to be a definitive frequency dictionary of kanji - the Routledge [A Frequency Dictionary of Japanese](https://www.routledge.com/A-Frequency-Dictionary-of-Japanese/Tono-Yamazaki-Maekawa/p/book/9780415610131).
+
+But I couldn't find anything similarly definitive for a frequency list of readings - given a kanji, I'd like figures on what are its most common readings.
+
+I did find:
+
+* [Kakimashou](https://www.kakimashou.com/dictionary/character/%E4%BA%BA) - I like that they use hiragana and katakana to distinguish between kun an on'yomi readings (this isn't standard but is fairly common in dictionaries - see this [note](https://www.sakurajapan.co.uk/post/the-difference-between-on-yomi-and-kun-yomi)).
+* [jpdb](https://jpdb.io/search?q=%E4%BA%BA).
+
+The both line up more-or-less on what they think are the most common readings. I also found various links to [ichi.moe](https://ichi.moe/cl/kanji/?q=%E4%BA%BA) as it also shows some kind of frequnency data for readings but it seems to be completely out of whack with Kakimashou or jpdb. This [comment](https://community.wanikani.com/t/which-site-for-kanji-readings-discrepancies/68756/4) in the Kanji section of the WaniKani forums seems to confirm my impression that ichi.moe data is suspect.
+
+### Phonetic-semantic composition
+
+> It seems that many kanji were created using a process called
+> phonetic-semantic composition. This process joins two (or more) kanji
+> (radicals), one (or more of them) usually called the bushu or dictionary
+> section header establishes the meaning of the kanji, and another one,
+> the phonetic component that establishes the (on’yomi) sound.
+>
+> This means that a lot of kanji have a built-in mnemonic ...
+
+See more [here](https://community.wanikani.com/t/wanikani-phonetic-semantic-composition-105-no-longer-supported/3878).
+
+Matthias Wilhelm took the original WaniKani script, rewrote it and announced it [here](https://community.wanikani.com/t/userscript-keisei-%E5%BD%A2%E5%A3%B0-semantic-phonetic-composition/21479).
+
+He maintains in on GitHub [here](https://github.com/mwil/wanikani-userscripts/tree/master/wanikani-phonetic-compounds) - it looks pretty cool but it may have [issues](https://github.com/mwil/wanikani-userscripts/issues/3) - however, from the thread where Matthias announced the script, it looks as if people are still clearly using it without issue.
 
 TODO
 ----
