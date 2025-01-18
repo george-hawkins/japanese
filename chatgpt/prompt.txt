@@ -1,0 +1,10 @@
+Create a sentence or short paragraph in Japanese that contains all the modern kana, either as hiragana or in the readings of the kanji. Generate the output as an HTML snippet in the following format:
+
+```html
+<p><!-- Japanese text using kanji and kana. --></p>
+<p><!-- Japanese text entirely in kana. --></p>
+<p><!-- English translation. --></p>
+<hr>
+```
+
+Do not include any additional text or explanation outside the HTML snippet. Do not use `<ruby>` tags or furigana in the part that uses kanji.
