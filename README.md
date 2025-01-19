@@ -166,7 +166,7 @@ Basically every major Japanese YouTuber has a pitch accent lesson (in some cases
 * _Matt vs Japan_ - [How to hear pitch accent](https://www.youtube.com/watch?v=SaNr2xa4n3Q) (and see joint video with Ken Cannon linked above).
 * _Japanese Ammo with Misa_ - [Pitch Accent & Pronunciation playlist](https://www.youtube.com/playlist?list=PLd5-Wp_4tLqYkSIsRtsPbLIa0HnHkNzQW).
 * _Kaname Naito_ - [Japanese Pronunciation: Pitch Accent Basics](https://www.youtube.com/watch?v=K8E-cU19PMs) and the newer [Basics of Japanese Pitch Accent](https://www.youtube.com/watch?v=jt04eg9T2sE)
-* _Speak Japanese Naturally_ - [The Very Basics of Japanese Pitch Accent | 2 Rules and 4 Patterns](https://www.youtube.com/watch?v=c9OArpr2A78) - short but with practical advise and some really clear rules.
+* _Speak Japanese Naturally_ - [Japanese Pitch Accent and Intonation playlist](https://www.youtube.com/playlist?list=PLFGs3d9Sobfgr4clmLcHUM_X4JBCyIP2n) - the first video is nice and short but with practical advise and some really clear rules.
 * _Mochi real Japanese_ - [Japanese Pronuciation Practice](https://www.youtube.com/watch?v=D6wCNoFa0jU) (only very briefly touches on pitch accent at the 12m 10s mark).
 * _Trenton_ - see above.
 * _Dogen_ - see above.
@@ -533,4 +533,4 @@ Look at this sites that come up again and again:
 
 * [JapanesePod101](https://www.japanesepod101.com/), they have no end of free content, e.g. this [4 hour intro to Japanese](https://www.youtube.com/watch?v=XCILw-a0sdA) (despite the somewhat click-bait title, it seems good) but also have paid content (oddly the seem to have released this video a number of times on their channel, e.g. [here it is again](https://www.youtube.com/watch?v=8YV8KmfBbBM) four years earlier).
 * [Rocket Japanese](https://www.rocketlanguages.com/japanese) - I know nothing about this but it seems to be a competitor to _JapanesePod101_.
-
+* [Listening practice playlist](https://www.youtube.com/playlist?list=PLFGs3d9SobfjFHWguksKU91CC5cyEFeWi) from _Speak Japanese Naturally_
