@@ -8,6 +8,8 @@ Current plan
 
 **1.** Learn hiragana and katakana using resources below.
 
+Using the _JapanesePod101_ lesson series (see below) and the Hiragana and Katakana Pro apps for drilling. And the self-study workbook [Learning Japanese Hiragana and Katakana](https://www.amazon.com/dp/4805312270) and the [Genkouyoushi notebook](https://www.amazon.com/dp/B08D4RPJBN) for writing practice.
+
 **2.** Learn all kanji using RTK and Skritter (and possibly using WaniKani later to learn readings).
 
 **3.** Complete Genki 1 using the self-study material from _ToKini Andy_, along with "1000 Essential Vocabulary for the JLPT N5" from Collectif (_ToKini Andy_ suggests more actively learning this vocabulary than the chapter-by-chapter vocabulary introduced by Genki) and possibly using the Bunpro grammar site.
@@ -164,7 +166,7 @@ Basically every major Japanese YouTuber has a pitch accent lesson (in some cases
 * _Matt vs Japan_ - [How to hear pitch accent](https://www.youtube.com/watch?v=SaNr2xa4n3Q) (and see joint video with Ken Cannon linked above).
 * _Japanese Ammo with Misa_ - [Pitch Accent & Pronunciation playlist](https://www.youtube.com/playlist?list=PLd5-Wp_4tLqYkSIsRtsPbLIa0HnHkNzQW).
 * _Kaname Naito_ - [Japanese Pronunciation: Pitch Accent Basics](https://www.youtube.com/watch?v=K8E-cU19PMs) and the newer [Basics of Japanese Pitch Accent](https://www.youtube.com/watch?v=jt04eg9T2sE)
-* _Speak Japanese Naturally_ - [The Very Basics of Japanese Pitch Accent | 2 Rules and 4 Patterns](https://www.youtube.com/watch?v=c9OArpr2A78) - short but with practical advise.
+* _Speak Japanese Naturally_ - [The Very Basics of Japanese Pitch Accent | 2 Rules and 4 Patterns](https://www.youtube.com/watch?v=c9OArpr2A78) - short but with practical advise and some really clear rules.
 * _Mochi real Japanese_ - [Japanese Pronuciation Practice](https://www.youtube.com/watch?v=D6wCNoFa0jU) (only very briefly touches on pitch accent at the 12m 10s mark).
 * _Trenton_ - see above.
 * _Dogen_ - see above.
@@ -189,9 +191,9 @@ Actually, there are no end of these videos - YouTube will start suggesting more 
 
 ### Long vowels
 
-JapanesePod101 has a [pronunciation lesson series](https://www.japanesepod101.com/lesson-library/ultimate-japanese-pronunciation-guide) that covers [pitch accent](https://www.japanesepod101.com/lesson/ultimate-japanese-pronunciation-guide-10-perfecting-pitch-accent-in-japanese?lp=171) and [long vowels](https://www.japanesepod101.com/lesson/ultimate-japanese-pronunciation-guide-8-the-secret-to-mastering-the-japanese-long-vowel?lp=171).
+_JapanesePod101_ has a [pronunciation lesson series](https://www.japanesepod101.com/lesson-library/ultimate-japanese-pronunciation-guide) that covers [pitch accent](https://www.japanesepod101.com/lesson/ultimate-japanese-pronunciation-guide-10-perfecting-pitch-accent-in-japanese?lp=171) and [long vowels](https://www.japanesepod101.com/lesson/ultimate-japanese-pronunciation-guide-8-the-secret-to-mastering-the-japanese-long-vowel?lp=171).
 
-JapanesePod101, a little confusingly, often offers similar content multiple times presented by different teachers (though they also provide over-arching _pathways_ where they curate their currently recommended sequences of lessons for particular goals).
+_JapanesePod101_, a little confusingly, often offers similar content multiple times presented by different teachers (though they also provide over-arching _pathways_ where they curate their currently recommended sequences of lessons for particular goals).
 
 So, they also offer:
 
@@ -200,9 +202,9 @@ So, they also offer:
 
 For a non-video take on things, including the odd issue with え and お sounds, see Coto Academy's [Long Vowels and Double Consonants](https://cotoacademy.com/pronunciation-in-japan-long-vowels-and-double-consonants-in-japanese/).
 
-For an example of how you can probably over-think all this, see e.g. this JapanesePod101 [forum discussion](https://www.japanesepod101.com/forum/viewtopic.php?t=3245).
+For an example of how you can probably over-think all this, see e.g. this _JapanesePod101_ [forum discussion](https://www.japanesepod101.com/forum/viewtopic.php?t=3245).
 
-JapanesePod101 also have a [hiragana worksheets series](https://www.japanesepod101.com/lesson-library/learn-hiragana-with-worksheets) that includes a simple PDF [worksheet for long vowels](https://www.japanesepod101.com/lesson/pathway-lessons-57-hiragana-worksheet-long-vowels?lp=411) (with answer key)..
+_JapanesePod101_ also have a [hiragana worksheets series](https://www.japanesepod101.com/lesson-library/learn-hiragana-with-worksheets) that includes a simple PDF [worksheet for long vowels](https://www.japanesepod101.com/lesson/pathway-lessons-57-hiragana-worksheet-long-vowels?lp=411) (with answer key)..
 
 _Campanas de Japanese_ has a nice [long vowels video](https://www.youtube.com/watch?v=_MBcIAEmucY) that as well as covering the oddities of writing also covers the rhythm involved and is more helpful than most in how to listen out for these sounds.
 
@@ -331,18 +333,18 @@ Tofugu has also done a [series of videos](https://www.youtube.com/playlist?list=
 
 ### JapanesePod101
 
-While everyone recommends Tofugu (and it is a super resource), I preferred the JapanesePod101 ["How to Write in Japanese: Hiragana and Katakana"](https://www.japanesepod101.com/lesson-library/how-to-write-in-japanese-hiragana-and-katakana) series of lessons (which, despite its title, starts with teaching you to read/recognise the kana before going into the writing).
+While everyone recommends Tofugu (and it is a super resource), I preferred the _JapanesePod101_ ["How to Write in Japanese: Hiragana and Katakana"](https://www.japanesepod101.com/lesson-library/how-to-write-in-japanese-hiragana-and-katakana) series of lessons (which, despite its title, starts with teaching you to read/recognise the kana before going into the writing).
 
-The first lesson is free but you have to subscribe to JapanesePod101 for the rest. I'd highly recommend doing so.
+The first lesson is free but you have to subscribe to _JapanesePod101_ for the rest. I'd highly recommend doing so.
 
 An alternative to subscribing is to watch the video for the lessons combined into two one hour long videos:
 
 * [Learn ALL Hiragana](https://www.youtube.com/watch?v=6p9Il_j0zjc)
 * [Learn ALL Katakana](https://www.youtube.com/watch?v=s6DKRgtVLGA)
 
-The videos are somewhat compressed forms of the ones available on the JapanesePod101 site (they cut down on the writing aspect and have less reading practice) but otherwise contain all the core content. The videos on the JapanesePod101 site also come with lesson notes, lots of vocab (with audio)) and the ability to create flashcards.
+The videos are somewhat compressed forms of the ones available on the _JapanesePod101_ site (they cut down on the writing aspect and have less reading practice) but otherwise contain all the core content. The videos on the _JapanesePod101_ site also come with lesson notes, lots of vocab (with audio)) and the ability to create flashcards.
 
-A little oddly, the lessons do not cover hiragana long vowels (they do get a bit of a mention in the katakana series) but JapanesePod101 does cover them elsewhere (see long vowel notes elsewhere in this `README`).
+A little oddly, the lessons do not cover hiragana long vowels (they do get a bit of a mention in the katakana series) but _JapanesePod101_ does cover them elsewhere (see long vowel notes elsewhere in this `README`).
 
 ### Apps
 
@@ -385,12 +387,12 @@ Note: if you're online, I think Tofugu's [online quiz](https://kana-quiz.tofugu.
 JapanesePod101
 --------------
 
-JapanesePod101 is an excellent resource so I'm unhappy that my first note is a complaint. For some reason they maintain two flashcard like features:
+_JapanesePod101_ is an excellent resource so I'm unhappy that my first note is a complaint. For some reason they maintain two flashcard like features:
 
 * On many leasons you can chose to add vocabulary to their own [SRS flashcards system](https://www.japanesepod101.com/learningcenter/flashcards/flashcards#/) that you can practice on their website or on their app - there appears to be no way to export these cards to Anki
 * They also have [wordbank system](https://www.japanesepod101.com/learningcenter/account/wordbank) which you can sync to their own flashcards system or export to XML (and from there potentially into Anki).
 
-I think this is just a small part of JapanesePod101 so, I don't think they need to use it as a way to lock people into their service - I think they should have done this all using Anki or added proper Anki intergration.
+I think this is just a small part of _JapanesePod101_ so, I don't think they need to use it as a way to lock people into their service - I think they should have done this all using Anki or added proper Anki intergration.
 
 Japanese keyboard
 -----------------
@@ -530,5 +532,5 @@ TODO
 Look at this sites that come up again and again:
 
 * [JapanesePod101](https://www.japanesepod101.com/), they have no end of free content, e.g. this [4 hour intro to Japanese](https://www.youtube.com/watch?v=XCILw-a0sdA) (despite the somewhat click-bait title, it seems good) but also have paid content (oddly the seem to have released this video a number of times on their channel, e.g. [here it is again](https://www.youtube.com/watch?v=8YV8KmfBbBM) four years earlier).
-* [Rocket Japanese](https://www.rocketlanguages.com/japanese) - I know nothing about this but it seems to be a competitor to JapanesePod101.
+* [Rocket Japanese](https://www.rocketlanguages.com/japanese) - I know nothing about this but it seems to be a competitor to _JapanesePod101_.
 
