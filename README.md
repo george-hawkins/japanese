@@ -3,6 +3,17 @@ Japanese
 
 Notes on starting to learn Japanese
 
+Current plan
+------------
+
+**1.** Learn hiragana and katakana using resources below.
+
+**2.** Learn all kanji using RTK and Skritter (and possibly using WaniKani later to learn readings).
+
+**3.** Complete Genki 1 using the self-study material from _ToKini Andy_, along with "1000 Essential Vocabulary for the JLPT N5" from Collectif (_ToKini Andy_ suggests more actively learning this vocabulary than the chapter-by-chapter vocabulary introduced by Genki) and possibly using the Bunpro grammar site.
+
+Will set up Anki as described by _ToKini Andy_ and _Jouzu Juls_.
+
 Yomichan
 --------
 
@@ -35,18 +46,32 @@ It's not obvious that one can get a Japanese credit card without a non-tourist r
 
 Both NordVPN and ExpressVPN make a big deal of being suitable for use with Netflix but users report being frequently blocked.
 
+For a take on the best VPN services for 2024, see Wired's [best VPN story](https://www.wired.com/story/best-vpn/) and Wirecutter's [similar story](https://www.nytimes.com/wirecutter/reviews/best-vpn-service/). Both recommend Mullvad for privacy, which for a Hacker News reader sounds convincing and makes the articles seem more credible that the usual reviews that seem more like shills for NordVPN and ExpressVPN (the two VPN providers that are clearly spending the most on advertising). Being good at privacy doesn't imply a focus on circumventing geo-blocking, which is what one is looking for to access Netflix Japan and other Japanese streaming services - for this the Wired article suggests Surfshark VPN.
+
+Note: once you've signed up to Netflix in a particular location, it is possible to mark yourself on indefinite holiday in another location so, it may be possible to simply switch to your own location and stop using a VPN.
+
 You can find whether Netflix in your region has much Japanese language content using [uNoGS](https://unogs.com/) (unofficial Netflix online Global Search).
 
 Just click _Advanced Search_, then _Uncheck All_ countries and just check your country, then set _Audio_ to _Japanese [Original]_ (and maybe set _Order_ to _Rating_) and click _Search_.
 
 If you're logged into the Netflix website you can also search like this <https://www.netflix.com/browse/audio/jp>
 
-Note: even Netflix Japan has none of the anime listed in [Top 10 Anime for Learning Real Japanese (JLPT N5 N4 level)](https://youtu.be/lktcZc9dYSI).
+Note: even Netflix Japan has none of the anime listed in [Top 10 Anime for Learning Real Japanese (JLPT N5 N4 level)](https://youtu.be/lktcZc9dYSI) (see below for the anime covered in this video).
 
 Crunchyroll
 -----------
 
-Crunchyroll has lots of anime but oddly it doesn't have Japanese subtitles. There are many theories as to why, e.g. that it's content is specifically licensed for non-Japanese markets.
+[Crunchyroll](https://www.crunchyroll.com/) has lots of anime but oddly it doesn't have Japanese subtitles. There are many theories as to why, e.g. that it's content is specifically licensed for non-Japanese markets.
+
+### Download subtitles (for Crunchyroll, Netflix and more)
+
+But there are ways to get around this, e.g. using the Chrome extension [asbplayer](https://chromewebstore.google.com/detail/asbplayer-language-learni/hkledmpjpaehamkiehglnbelcpdflcab) (it's open source and also available [here on GitHub](https://github.com/killergerbah/asbplayer)).
+
+Or using [substital](https://substital.com/) or [Jimaku Player](https://github.com/sheodox/jimaku-player/) (tho' development stopped 2 years ago).
+
+[jimaku.cc](https://jimaku.cc/) seems to be the place to download subtitles.
+
+Note: Jimaku Player isn't associated with jimaku.cc - it's just one of many tools for playing subtitles from jimaku.cc.
 
 Beginner anime
 --------------
@@ -87,6 +112,33 @@ _ToKini Andy_ doesn't seem to have any anime-recommendation videos but he does h
 
 _Misa_ also doesn't have any anime-recommendation videos but she does have this [manga one](https://www.youtube.com/watch?v=ua5lkcDvl_o) (where she recommends _Yotsuba to!_, _Shirokuma Cafe_ and more).
 
+Popular anime
+-------------
+
+There are no end of lists of most popular anime (e.g. this [one](https://movieweb.com/most-popular-anime-of-all-time/) from MovieWeb or this [one](https://www.cbr.com/best-anime-of-all-time/) from CBR - both sites were acquired by Valnet and have an identical visual look and an odd load-as-you-scroll scheme that means if you jump down to see their number one choice, you have to wait for the loading to catch up).
+
+IMDB also let's you view all anime sorted by popularity [here](https://www.imdb.com/search/title/?keywords=anime) (where popularity is determined by how many people have visited the IMDB page for the series).
+
+Anime that I keep coming across include ones like Doraemon and Shirokuma Cafe (see above) and:
+
+* Dandadan
+* Chainsaw Man
+* Sakamoto Days
+* Frieren: Beyond Journey's End
+* Mob Psycho 100
+* One Piece
+* Naruto
+
+### Animelon
+
+While I don't want to recommend piracy, a lot of the anime one finds mentioned on YouTube and elsewhere are almost impossible to acquire legally in much of the world.
+
+[Animelon](https://animelon.com/) hosts a well curated and huge library of pirated anime. And it seems actively geared towards helping learners with play-along transcripts (with the choice of Japanese with kanji or just hiragana or romaji along with translations and tests and exercises).
+
+See their [about page](https://animelon.com/about) for much more - e.g. how you can customize subtitles and click on them for more details. It looks like a super resource and it's a pity it's not really legal.
+
+There doesn't seem to be an obvious way to download their content and page loading and playback often takes a long time. Hosting and delivering video content isn't cheap and they seem to be generally underfunded (they take donations) and relatively frequently seem to disappear altogether for shorter or longer periods.
+
 Pitch accent
 ------------
 
@@ -94,7 +146,7 @@ Pitch accent seems to be a controversial thing - some people seem to think it's 
 
 See _Dogen_'s [playlist](https://www.youtube.com/playlist?list=PLxMXdmBM9wPvsySiMoBzgh8d68xqKz1YP). It starts with lots of short videos and then ends with a 2h 30m lecture. His [Patreon](https://www.patreon.com/dogen) also has lots of pitch-accent, pronunciation and phonetics material.
 
-See _Jouzu Juls_'s japanese pronounciation [video](https://www.youtube.com/watch?v=aOxRYmWDaF4) that recommends _Dogen_'s video but adds really useful pointers, e.g.:
+See _Jouzu Juls_'s japanese pronunciation [video](https://www.youtube.com/watch?v=aOxRYmWDaF4) that recommends _Dogen_'s video but adds really useful pointers, e.g.:
 
 * Using [minimal pairs](https://en.wikipedia.org/wiki/Minimal_pair) - he recommends the paid [Migaku Pitch Trainer](https://pitch-demo.migaku.io/) (but also mentions a free alternative - see below, it's the one Trenton mentions too).
 * And if the whole thing is a complete struggle, he recommends a similar minimal pairs site but for music that has a [pitch section](https://www.musicca.com/exercises/circle/12) and an [interval section](https://www.musicca.com/exercises/circle/18) to get your brain attuned to the whole idea.
@@ -112,9 +164,11 @@ Basically every major Japanese YouTuber has a pitch accent lesson (in some cases
 * _Matt vs Japan_ - [How to hear pitch accent](https://www.youtube.com/watch?v=SaNr2xa4n3Q) (and see joint video with Ken Cannon linked above).
 * _Japanese Ammo with Misa_ - [Pitch Accent & Pronunciation playlist](https://www.youtube.com/playlist?list=PLd5-Wp_4tLqYkSIsRtsPbLIa0HnHkNzQW).
 * _Kaname Naito_ - [Japanese Pronunciation: Pitch Accent Basics](https://www.youtube.com/watch?v=K8E-cU19PMs) and the newer [Basics of Japanese Pitch Accent](https://www.youtube.com/watch?v=jt04eg9T2sE)
+* _Speak Japanese Naturally_ - [The Very Basics of Japanese Pitch Accent | 2 Rules and 4 Patterns](https://www.youtube.com/watch?v=c9OArpr2A78) - short but with practical advise.
 * _Mochi real Japanese_ - [Japanese Pronuciation Practice](https://www.youtube.com/watch?v=D6wCNoFa0jU) (only very briefly touches on pitch accent at the 12m 10s mark).
 * _Trenton_ - see above.
 * _Dogen_ - see above.
+* _JapanesePod101_ - see below.
 
 Japanese pronunciation
 ----------------------
@@ -133,6 +187,28 @@ See also this [video](https://www.youtube.com/watch?v=jUF5rAsaCKI) from _UBC eNu
 
 Actually, there are no end of these videos - YouTube will start suggesting more and more once you watch one or two - try them and see what makes sense.
 
+### Long vowels
+
+JapanesePod101 has a [pronunciation lesson series](https://www.japanesepod101.com/lesson-library/ultimate-japanese-pronunciation-guide) that covers [pitch accent](https://www.japanesepod101.com/lesson/ultimate-japanese-pronunciation-guide-10-perfecting-pitch-accent-in-japanese?lp=171) and [long vowels](https://www.japanesepod101.com/lesson/ultimate-japanese-pronunciation-guide-8-the-secret-to-mastering-the-japanese-long-vowel?lp=171).
+
+JapanesePod101, a little confusingly, often offers similar content multiple times presented by different teachers (though they also provide over-arching _pathways_ where they curate their currently recommended sequences of lessons for particular goals).
+
+So, they also offer:
+
+* [Kantan Kana #8: Hiragana や, ゆ, よ and long vowels](https://www.japanesepod101.com/lesson/video-s2-8-kantan-kana-8).
+* [Why Does a U Extend an O?](https://www.japanesepod101.com/lesson/absolute-beginner-questions-answered-by-hiroko-4-why-does-a-u-extend-an-o) (there doesn't seem to be a similar one for _i_ extending _e_).
+
+For a non-video take on things, including the odd issue with え and お sounds, see Coto Academy's [Long Vowels and Double Consonants](https://cotoacademy.com/pronunciation-in-japan-long-vowels-and-double-consonants-in-japanese/).
+
+For an example of how you can probably over-think all this, see e.g. this JapanesePod101 [forum discussion](https://www.japanesepod101.com/forum/viewtopic.php?t=3245).
+
+JapanesePod101 also have a [hiragana worksheets series](https://www.japanesepod101.com/lesson-library/learn-hiragana-with-worksheets) that includes a simple PDF [worksheet for long vowels](https://www.japanesepod101.com/lesson/pathway-lessons-57-hiragana-worksheet-long-vowels?lp=411) (with answer key)..
+
+_Campanas de Japanese_ has a nice [long vowels video](https://www.youtube.com/watch?v=_MBcIAEmucY) that as well as covering the oddities of writing also covers the rhythm involved and is more helpful than most in how to listen out for these sounds.
+
+Seth Clydesdale maintains a huge site [Genki Study Resources](https://sethclydesdale.github.io/genki-study-resources/lessons-3rd/) that includes a short double-consonants/long-vowel [listening exercise](https://sethclydesdale.github.io/genki-study-resources/lessons-3rd/lesson-1/literacy-wb-7/).
+
+The MIT OpenCourseWare site makes their [hiragana resource](https://mitocw.ups.edu.ec/resources/res-21g-01-kana-spring-2010/hiragana/) available and there they have a handout and online exercises for double consonants and long vowels. Note: they use the less-common romanization system called [Nihon-shiki](https://en.wikipedia.org/wiki/Nihon-shiki_romanization#Romanization_charts) rather than the more common [Hepburn](https://en.wikipedia.org/wiki/Hepburn_romanization#Romanization_charts).
 
 Videos with text
 ----------------
@@ -163,7 +239,7 @@ Rakuten Viki looks interesting in that it seems to be truly global (i.e. content
 YouTubers
 ---------
 
-* [_Dogen_](https://www.youtube.com/@Dogen/videos) - _Dogen_ seems to be the king of japanese YouTubers but he mixes comedy (which may be a bit confusing/unhelpful for beginners) with serious content. Some of his content is only available to Patreons (see [here](https://www.patreon.com/dogen).
+* [_Dogen_](https://www.youtube.com/@Dogen/videos) - _Dogen_ seems to be the king of japanese YouTubers but he mixes comedy (which may be a bit confusing/unhelpful for beginners) with serious content. Some of his content is only available to Patreons (see [here](https://www.patreon.com/dogen)).
 * [_Jouzu Juls_](https://www.youtube.com/@JouzuJuls/videos) - he isn't in the top league as far as subscribers go but I really like a lot of his videos.
 * [_Matt vs Japan_](https://www.youtube.com/@mattvsjapan/videos) - he's another japanese YouTube star but unfortunately he seems to have ruined his reputation through activities outside YouTube (basically don't buy anything that's pushed by Matt) and hasn't produced any new YouTube content since early 2022. This all seems very sad as he comes across as very personable and I enjoy his videos and his YouTube persona is hard to reconsile with his behavior elsewhere (which you can find covered in videos like [this](https://www.youtube.com/watch?v=cfuENBQdEYo), [this](https://www.youtube.com/watch?v=OAXEjGkICrs) and [this](https://www.youtube.com/watch?v=zChi-zofP18) - the last one from Metatron gives Matt the greatest benefit of the doubt - there are many more similar videos on YouTube).
 * [_ToKini Andy_](https://www.youtube.com/@ToKiniAndy/videos) - he's another YouTube star in this space and he's the one who tries hardest to take a structured taught approach to his content, he has lots of [playlists](https://www.youtube.com/@ToKiniAndy/playlists) that e.g. go through learning the kanji or working thru Genki where he really tries to teach the content he's presenting. My feeling he's more practical than many other YouTubers and just gets down to learning rather than talking about learning. He's also migrated all his Patreon content to a subscription based [site](https://www.tokiniandy.com/) (that I suspect is well worth it, from what I've seen from him, but I haven't tried it yet).
@@ -194,6 +270,8 @@ There are obviously no end of textbooks for Japanese. However, I wanted one that
 Note: while Genki uses kanji and kana, it still uses a lot of English, i.e. it doesn't try to teach Japanese through Japanese.
 
 The publisher has a [self-study site](https://genki3.japantimes.co.jp/en/student/) for the book. And _ToKini Andy_ has a full [playlist](https://www.youtube.com/playlist?list=PLA_RcUI8km1NMhiEebcbqdlcHv_2ngbO2) going through each chapter of the book. He also has this _great_ [video](https://www.youtube.com/watch?v=S55aWpRaV44) on how to really self-study with Genki. I think his [site](https://www.tokiniandy.com/) (requires subscription) is probably the way to go.
+
+A huge number of people have developed resources to go with Genki, e.g. Seth Clydesdale maintains a huge site [Genki Study Resources](https://sethclydesdale.github.io/genki-study-resources/lessons-3rd/) - it's name might imply that it's pointers to other resources but it's a coherent set of online exercises to work through as you progress thru the book.
 
 Another YouTube playlist for Genki is this [one](https://www.youtube.com/playlist?list=PLouxzmENUE6RU9KZH-oCAvzwEKR1r9YP1) from _ShiroNekoJapanese_ - I haven't had a chance to look at it but it's an impressive amount of content and is linked to by others.
 
@@ -236,9 +314,86 @@ This seems to be a slam dunk, almost everyone seems to recommend these pages fro
 * [Hirigana](https://www.tofugu.com/japanese/learn-hiragana/)
 * [Katakana](https://www.tofugu.com/japanese/learn-katakana/)
 
-Note: there's a lot of free content but they also suggest buying their hirigana and katakana workbooks.
+There's almost an excess of content here, e.g. for hiragana there's:
 
-### Japanese keyboard
+* There's the main page (linked to above), with mnemonics and audio.
+* A [one page chart](https://files.tofugu.com/articles/japanese/2014-06-30-learn-hiragana/hiragana-chart-by-tofugu.jpg) of all basic, dakuten/han-dakuten and combination hiragana.
+* A [one page chart](https://files.tofugu.com/articles/japanese/2016-03-07-hiragana-mnemonics-chart/hiragana-mnemonic-chart-by-tofugu.jpg) of all the mnemonics.
+* A [Google Docs worksheet](https://docs.google.com/document/d/1muxTHS0NqIzKPUStedahoTRbvQRlUlQi0J3XMPi-DJE/) to print out and practice.
+* An [online quiz](https://kana-quiz.tofugu.com/) to practice.
+* A massive [Learn Hiragana Book PDF](https://www.tofugu.com/japanese/learn-hiragana-book-pdf) that features much of the content of the main page plus stroke order and writing practice (something the main page doesn't address at all) plus reading practice. Unlike the main page it doesn't feature any audio.
+
+Note: the one page charts are both in JPG format (I would have used PDF or PNG).
+
+This can feel a bit overwhelming and may convince one that the task is much harder that it ultimately is. I'd suggest using the PDF book as splitting things into page size chunks makes things less dauting that one apparently never ending web page.
+
+Tofugu has also done a [series of videos](https://www.youtube.com/playlist?list=PL8dUxOTCkXEryT497YDSZu7uSOw5ICBwN) (one for each row/column of the hiragana chart). However, he never went further than the N row, i.e. he only got 5 rows in and then abandoned the project.
+
+### JapanesePod101
+
+While everyone recommends Tofugu (and it is a super resource), I preferred the JapanesePod101 ["How to Write in Japanese: Hiragana and Katakana"](https://www.japanesepod101.com/lesson-library/how-to-write-in-japanese-hiragana-and-katakana) series of lessons (which, despite its title, starts with teaching you to read/recognise the kana before going into the writing).
+
+The first lesson is free but you have to subscribe to JapanesePod101 for the rest. I'd highly recommend doing so.
+
+An alternative to subscribing is to watch the video for the lessons combined into two one hour long videos:
+
+* [Learn ALL Hiragana](https://www.youtube.com/watch?v=6p9Il_j0zjc)
+* [Learn ALL Katakana](https://www.youtube.com/watch?v=s6DKRgtVLGA)
+
+The videos are somewhat compressed forms of the ones available on the JapanesePod101 site (they cut down on the writing aspect and have less reading practice) but otherwise contain all the core content. The videos on the JapanesePod101 site also come with lesson notes, lots of vocab (with audio)) and the ability to create flashcards.
+
+A little oddly, the lessons do not cover hiragana long vowels (they do get a bit of a mention in the katakana series) but JapanesePod101 does cover them elsewhere (see long vowel notes elsewhere in this `README`).
+
+### Apps
+
+After seeing it mentioned on YouTube, I actually did all my reading drill practice with:
+
+* [Hiragana Pro](https://play.google.com/store/apps/details?id=com.myapps.hiragana)
+* [Katakana Pro](https://play.google.com/store/apps/details?id=com.myapps.katakana)
+
+The pay versions (that remove ads) costs just US$1.50.
+
+The UI seemed a little non-obvious at the start so here are some quick notes:
+
+* You can choose what you want to practice with the three tabs at the top - _Basic_, _Variants_ or _Combinations_.
+* Pressing on any of the characters plays the its audio.
+* But that's not the main point - once you've selected a tab, e.g. _Basic_, it's the four buttons at the bottom that are important:
+  * The first button allows you to select between the normal go at your own pace mode and a timed compete against yourself mode.
+  * The second button allows you to select between a multi-choice mode and a mode where you instead have to type the romaji for each character.
+  * 🔁 - the third button is the most important - press it and a panel appears where:
+    * You can select which column of kana you want to practice, e.g. just the first three if that's all you've learned so far.
+    * ⭐ - stars - 1, 3, 5 or 10 - are how many times you want to be drilled on each character per practice session.
+    * 🔀 - shuffle - whether you wanted the kana presented in a random order or the typical order that they appear in charts.
+    * 🎓 - teaching mode - in this mode, each kana is introduced once with its sound without you being actually tested on it.
+    * ▶️  - what it's all about - start a new practice session.
+  * The last on the four buttons on the main screen is also a play button - but this just _resumes_ an existing practice session.
+
+I always just used the third button - 🔁 - with one star selected, shuffle mode on and teaching mode off and pressed the play button there.
+
+Once you start a session, you'll see e.g. a _0 / 46_ count, this is how many kana (or variants or combinations) you still need to complete for this session (if you selected 5 stars, then you'll have to complete 5 * 46 kana). Then above the current kana, you'll see a stars - this indicates how more times you've been tested on this kana in this practice session. There's also a back arrow to return to the main screen (and as noted, you can use the main ▶️  play button to resume the session). Oddly, there's no confetti or obvious end once you hit e.g. the full _46 / 46_ count - it just carries on testing you and it's up to you to press the back button to finish up if you want.
+
+I found the option to let you select you many times you wanted to be drilled on each kana per round of practice a little odd. E.g. if you select a count of 5, it's not the case that you just see a given kana five times in a given round - you're actually forced to do a subset of the kana five times before going onto the next subset and so on. I always just switched to one star and simply repeated a practive round if I wanted to drill more than once.
+
+Additional feature that I'd like are:
+
+* Being able to test across everything is a single practice session, i.e. basic, variants and combinations.
+* A mode where you hear the sound with the romaji multi-choice replaced by a kana multi-choice.
+* A similar mode where you see the romaji and have a kana multi-choice.
+
+Note: if you're online, I think Tofugu's [online quiz](https://kana-quiz.tofugu.com/) (mentioned above) offers very similar value to these apps.
+
+JapanesePod101
+--------------
+
+JapanesePod101 is an excellent resource so I'm unhappy that my first note is a complaint. For some reason they maintain two flashcard like features:
+
+* On many leasons you can chose to add vocabulary to their own [SRS flashcards system](https://www.japanesepod101.com/learningcenter/flashcards/flashcards#/) that you can practice on their website or on their app - there appears to be no way to export these cards to Anki
+* They also have [wordbank system](https://www.japanesepod101.com/learningcenter/account/wordbank) which you can sync to their own flashcards system or export to XML (and from there potentially into Anki).
+
+I think this is just a small part of JapanesePod101 so, I don't think they need to use it as a way to lock people into their service - I think they should have done this all using Anki or added proper Anki intergration.
+
+Japanese keyboard
+-----------------
 
 My notes on kana and typing Japanese on a computer (which is done using hirigana) are in [`kana.md`](kana.md).
 
@@ -265,6 +420,11 @@ What I've found so far:
 * _Refold_ have a ["seeder" playlist](https://www.youtube.com/watch?v=j-umeYLvhtU&list=PLn4GkF3M9WXeGgs4G_N_BfT62sfm1DSa3) - they explain how to use this to create a YouTube immersion account for yourself [here](https://www.youtube.com/watch?v=-zf5DGuD-XA) and then how to use this with a seeder playlist [here](https://www.youtube.com/watch?v=z3DiQgVF5e0).
 
 They have a [full guide](https://refold.la/how-to-learn-japanese/) specifically for Japanese and it's got lots of free content as well as links to content that they sell (and some that they give away).
+
+Tech
+----
+
+See [`tech.md`](tech.md) for my thought on options for consuming media on the go and for e.g. practicing stroke order.
 
 Online dictionary
 -----------------
@@ -300,6 +460,8 @@ Grammar
 ### Bunpro
 
 I keep on seeing reference to the site/web-app [Bunpro](https://bunpro.jp/) as a way to speed run learning Japanese grammar for self study. See Tofugu's [review](https://www.tofugu.com/reviews/bunpro/), Weeb Jail's [review](https://www.youtube.com/watch?v=hBOj45xt0vI) and others.
+
+Bunpro is apparently very free format - you decide what you want to learn - which may not be great if you want a very directed approach. But they do have decks to accompany all kinds of sources including Genki.
 
 ### Tae Kim
 
