@@ -62,7 +62,20 @@ This is quite exasperating and seems to imply Skritter thinks you'll never have 
 Other UI issues:
 
 * Decks that I'd started using didn't always then appear in the _Recent Decks_ section and I'd have to browse for them. After a while they would be appear in _Recent Decks_.
-* Occassionally, on completing a character, the _Forgot_ / _Got it_ options wouldn't show up, i.e. it behaved as there was still one or more strokes to complete even when this wasn't the case.
+* Occassionally, on completing a character, the _Forgot_ / _Got it_ options wouldn't show up, i.e. it behaved as there was still one or more strokes to complete even when this wasn't the case. This only seemed to happen for multi-character cards.
+
+Latest version
+--------------
+
+If you go to the Google Play store, it's clear the app is updated frequently - the last version had come out a few weeks earler when I took this screenshot:
+
+![latest version](images/skritter/latest-version.png)
+
+However, every page on the [Skritter Forums](https://forum.skritter.com/) tells you that the most recent version came out in 2022:
+
+![forum version banner](images/skritter/latest-version-forum.png)
+
+This made me think development of the application was long dead - perhaps it's time for them to remove this banner if it's not being updated.
 
 Payment
 -------

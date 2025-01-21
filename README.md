@@ -292,15 +292,19 @@ _Matt vs Japan_ makes a very convincing case for [Remembering the Kanji 1](https
 
 Anyway, Remembering the Kanji (often referred to on forums as just RTK) looks like a great start to me.
 
+### Skritter
+
 And an interesting app for training stroke order looks to be [Skritter](https://skritter.com/) - it's subscription based and relatively and I don't know how much if anything it really adds over e.g. Anki (while paid, I believe you can continue revising all content you've seen/learned already forvever even if you end your subscription).
 
 An interesting aspect to Skritter is that they also have lots of content that's tied to other learning resources, e.g. you can practice the kanji in the order and way they're introduced in Genki.
 
 They have a nice [blog post](https://blog.skritter.com/2021/05/the-ultimate-guide-to-japanese-stroke-order/) that provides a far more in-depth set of rules for stroke order than just the common simple top-to-bottom left-to-right rule.
 
-See this [StackExchange question](https://japanese.stackexchange.com/q/204/66028) about the stroke order of 右 and 左 for an example of how things aren't so simple (the first two answers are the most valuable).
+Aside: see this [StackExchange question](https://japanese.stackexchange.com/q/204/66028) about the stroke order of 右 and 左 for an example of how things aren't so simple (the first two answers are the most valuable). Or, even more basic, see the different stroke orders for mo in hiragana vs katakana, i.e. も vs モ.
 
 See reviews [here](https://ltl-school.com/skritter-review/), [here](https://www.joyokanjikai.com/learning-japanese/skritter-review/) and [here](https://www.youtube.com/watch?v=5Pglt4az_N0) (the last is by _Robin MacPherson_ who's mentioned above).
+
+The rest of my Skritter notes are in [`skritter.md`](skritter.md).
 
 ### Misc
 
