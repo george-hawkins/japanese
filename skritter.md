@@ -5,7 +5,7 @@ I think I'm growing to like Skritter and in fact I think it's your only real app
 
 I signed up first on the website before installing the app - if you go this route you have to provide a credit card or activation code (see the payment section below).
 
-If you download the app, I believe you may be able to signup without providing either and use some free decks - but I can't confirm as I downloaded the app and used the sign-up I'd created on the website.
+If you download the app, there's also an option to start a 7-day free trial or chose from a number or subscription options - it's not very obvious but you can just close this step, continue to the app's main screen and use the many free decks that they have.
 
 Aften that it assumes, you want to learn Chinese and so asks you what type of characters you want to learn.
 
@@ -27,7 +27,7 @@ Once, I'd got this far, I then went and installed the _Skritter: Write Japanese_
 
 It walks you thru some basic Skritter usage and then dumps you on a main page that initially looks rather visually confusing.
 
-But actually most of the things that I initially thought were setup elements or elements of the UI were essentially just news feed items.
+But actually most of the things that I initially thought were setup elements or elements of the UI were essentially just newsfeed items, you can click them and e.g. find out what new features have been added to the app recently..
 
 Once I'd clicked them away (clicked the eye icon), it looked a bit more digestable:
 
@@ -35,23 +35,19 @@ xxx
 
 But it's not very clear what you should do, even though you've got one deck sitting there, you're told there are no decks due.
 
-I think at this point, they should probably push you straight to a YouTube video that walks you thru a first session with Skritter (and they should push you to the real YouTube app - they do have in app videos but on Android, at least, the in-app video playback experience is subpar vs YouTube and I'd rather flip-back and forward between Skritter and YouTube rather than use the in-app player).
+I think at this point, they should probably push you straight to a YouTube video that walks you thru a first session with Skritter. Instead you have to hunt for this - if you press the "hamburger" icon (upper left) and select _Help_, the fist item there is _Skritter Mobile Guide_ which does feature a useful video and links to explanations of all the elements.
 
-In fairness, I suspect a link to the guide may have been one of the things I clicked away while trying to get a handle on what I was even looking at on the apps main page. Perhaps, this video should have been introduced as part of the tiny walk thru you get after opening the app for the first time.
-
-On their website, they do have a [_Skritter Mobile Guide_](https://docs.skritter.com/article/214-skritter-mobile-guide):
+The exact same content is also available on their website - see [_Skritter Mobile Guide_](https://docs.skritter.com/article/214-skritter-mobile-guide).
 
 xxx
 
-And there's a useful video and links for explanations of all the elements. The video is hosted on Vimeo (which has gone to hell in the last few years, so the playback can be slow to start).
-
-And if you click the link below the video, that should take you to the same video on Vimeo, you just get:
+If you click the link below the video, that should take you to the same video on Vimeo, you just get:
 
 xxx
 
 It seems they've got things currently set up so that this video restricted so it can only be played back if embedded in their site.
 
-But they do also have the video available [here](https://www.youtube.com/watch?app=desktop&v=gQaWYWn1HD0) on YouTube (so maybe they should update their website to point to this content).
+But they do also have the video available [here](https://www.youtube.com/watch?app=desktop&v=gQaWYWn1HD0) on YouTube (so maybe they should update their website to point to this content, Vimeo has kind of gone to hell in the last few years and the playback for content hosted there can be slow to start).
 
 Anyway, it turns out that you have to _learn_ content first before it starts appearing as due or avaiable for testing.
 
@@ -59,10 +55,17 @@ So, right from the start I find this a very odd aspect of Skritter - if you star
 
 This is quite exasperating and seems to imply Skritter thinks you'll never have learn anything independent of being taught it by Skritter. So, if e.g. you already know the content of the hiragana and katakana decks then look forward to clicking the _Mark as Learned_ button 139 times and 151 times for each respectively to convince Skritter of this. Or forever, unflick the _Learned only_ toggle for such decks when you hit the _Test_ button for them.
 
+Exit test mode and lose progress:
+
+![lose progress](images/skritter/screenshots/Screenshot_20250121-230614.png)
+
 Other UI issues:
 
 * Decks that I'd started using didn't always then appear in the _Recent Decks_ section and I'd have to browse for them. After a while they would be appear in _Recent Decks_.
-* Occassionally, on completing a character, the _Forgot_ / _Got it_ options wouldn't show up, i.e. it behaved as there was still one or more strokes to complete even when this wasn't the case. This only seemed to happen for multi-character cards.
+
+TODO: I think this was me:
+
+> Occassionally, on completing a character, the _Forgot_ / _Got it_ options wouldn't show up, i.e. it behaved as there was still one or more strokes to complete even when this wasn't the case. This only seemed to happen for multi-character cards.
 
 Latest version
 --------------
