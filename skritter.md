@@ -68,8 +68,8 @@ To continue to the next card, you can just tap the canvas, i.e. the area where y
 
 Rather than hitting the erasure button, you can just swipe upwards.
 
-Loosing progress
-----------------
+Losing progress
+---------------
 
 If you want to exit test mode, you'll lose all your progress - you can't exit and resume later:
 
@@ -96,7 +96,7 @@ And I thought I was going mad when I repeatedly seemed to be getting it wrong as
 
 | Hiragana | Katakana |
 |----------|----------|
-| ![wanwan hiragana](wanwan-hiragana.png) | ![wanwan katakana](wanwan-katakana.png) |
+| ![wanwan hiragana](images/skritter/screenshots/wanwan-hiragana.png) | ![wanwan katakana](images/skritter/screenshots/wanwan-katakana.png) |
 
 Interesting, neither is the definitive spelling - each seem to be common according to the National Diet Library [ngram viewer](https://lab.ndl.go.jp/ngramviewer/):
 
