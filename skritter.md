@@ -39,7 +39,7 @@ Once I'd clicked them away (clicked the eye icon), it looked a bit more digestab
 
 But it's not very clear what you should do, even though you've got one deck sitting there, you're told there are no cards due.
 
-I think at this point, they should probably push you straight to a YouTube video that walks you thru a first session with Skritter. Instead you have to hunt for this - if you press the "hamburger" icon (upper left) and select _Help_, the fist item there is _Skritter Mobile Guide_ which does feature a useful video and links to explanations of all the elements.
+I think at this point, they should probably push you straight to a YouTube video that walks you thru a first session with Skritter. Instead you have to hunt for this - if you press the ☰ "hamburger" icon (upper left) and select _Help_, the fist item there is _Skritter Mobile Guide_ which does feature a useful video and links to explanations of all the elements.
 
 The exact same content is also available on their website - see [_Skritter Mobile Guide_](https://docs.skritter.com/article/214-skritter-mobile-guide).
 
