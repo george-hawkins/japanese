@@ -159,4 +159,4 @@ Reviews
 
 The always excellent Tofugu has a short review of Skritter [here](https://www.tofugu.com/japanese-learning-resources-database/skritter/).
 
-
+Robin MacPherson has a YouTube review of Skritter [here](https://www.youtube.com/watch?v=5Pglt4az_N0).
