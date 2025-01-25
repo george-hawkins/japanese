@@ -115,6 +115,10 @@ You only seem to be able to change the description rather than the romaji, i.e. 
 
 Make sure to hit the save button (lower right) rather than just pressing the back button (upper left) after making changes.
 
+**Update:** for decks provided by Skritter, i.e. ones you didn't create yourself, you don't have much ability to edit (beyond editing the description and mnemonic). But if you make a copy of a given deck (open the deck, click the upper-right three dots icon - ⋮ - and select _Copy_), you then have much more edit control, as described in the editting section of this [page](https://docs.skritter.com/article/271-making-and-editing-custom-decks-on-mobile).
+
+For Skritter decks, you can go to the page for a card and at the bottom of the page, there's a _Submit Correction_ button.
+
 Raw squigs
 ----------
 
@@ -149,3 +153,10 @@ For payment, the most direct option is to provide a credit card and, if you have
 Skritter is used by academic institutions and activation codes are a mechanism that allows them to provide codes to students to enable them to signup for Skritter without requiring personal credit card details.
 
 Like coupons, short-lived activation codes are sometimes given out for promotional purposes.
+
+Reviews
+-------
+
+The always excellent Tofugu has a short review of Skritter [here](https://www.tofugu.com/japanese-learning-resources-database/skritter/).
+
+
