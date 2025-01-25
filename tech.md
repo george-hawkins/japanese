@@ -3,7 +3,9 @@ Tablet and more - early 2025
 
 I was looking for a tablet for e.g. consuming [Comprehensible Japanese](https://cijapanese.com/) content on the way into work or practicing stroke order with [Skritter](https://skritter.com/).
 
-Maybe a table with pen support is overkill for Skritter (one can just use ones fingers) but here's what I came up with...
+Maybe a table with pen support is overkill for Skritter (one can just use ones fingers) but below is what I came up with.
+
+**Update:** it turns out Skritter only has beta support for active styluses.
 
 Cheap-ish Samsung bundle
 ------------------------
@@ -50,6 +52,17 @@ Pens for normal tablets
 
 You can also buy pens for the normal capacitive touch technology used by all pads not specifically designed for pens.
 
-Oddly, no name-brand manufacturer seems to be big in the market for these pens and they all come from no-name Chinese suppliers (like the current Amazon's Choice [here](https://www.amazon.com/dp/B0CLTYFXN9/)). The most popular pen on any regional Amazon store seems to be fairly completely random with different brand names used for essentially identical products in different regions. These pens are extremely cheap because they're basically doing nothing more than looking like like the tip of your finger to the tablet (which just involves not blocking the your body's ability to disrupt the screen's electrostatic field, i.e. not act as an isulator in the way that e.g. most gloves do).
+Oddly, no name-brand manufacturer seems to be big in the market for these pens and they all come from no-name Chinese suppliers. The most popular pen on any regional Amazon store seems to be fairly random with different brand names used for essentially identical products in different regions. These pens are extremely cheap because they're basically doing nothing more than looking like like the tip of your finger to the tablet (which just involves not blocking the your body's ability to disrupt the screen's electrostatic field, i.e. not act as an isulator in the way that e.g. most gloves do).
 
 The big issue with using such pens (apart from issues like the lack of pressure sensitivity) is an issue called _palm rejection_. When writing on a sheet of paper, most people like to rest their hand/palm on the paper while doing so and tablets that are designed for use with pens ignore your palm if you rest it on the table while drawing with the pen. Normal capacitive touch tablets just see both the pen tip and your palm as touches and can't distinguish or reject/ignore your palm.
+
+Here are some passive styluses that are available both on Amazon US and on the EU and UK stores (tho' from different sellers) and which seem to be reasonably popular in all regions:
+
+* Mixoo 2-in-1 stylus - 34K - [US](https://www.amazon.com/dp/B01N2OJX82/) / [EU](https://www.amazon.de/dp/B01N2OJX82/)
+* Meko 2-in-1 stylus - 16K - [US](https://www.amazon.com/dp/B00CPQJFFS/) / [EU](https://www.amazon.de/dp/B00CPQJFFS/)
+* ELZO stylus - 13K - [US](https://www.amazon.com/dp/B071VG7C61/) / [EU](https://www.amazon.de/dp/B071VG7C61/)
+* ELZO 3-in-1 stylus - 6K - [US](https://www.amazon.com/dp/B07235HQSG/) / [EU](https://www.amazon.de/dp/B07235HQSG/)
+
+The above brands appear in at least one or two online reviews. For whatever reason, Meko brand some of their pens Meko and some B&D (the one linked to above is branded B&D).
+
+The numbers, 34K etc., are the number of reviews (an easily gamed metric) on the the Amazon US site for the given stylus.
