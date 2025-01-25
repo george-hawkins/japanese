@@ -115,6 +115,11 @@ You only seem to be able to change the description rather than the romaji, i.e. 
 
 Make sure to hit the save button (lower right) rather than just pressing the back button (upper left) after making changes.
 
+Raw squigs
+----------
+
+Skritter calls the strokes you make "squigs". By default, after you enter each squig, it's snapped to a perfect version of the stroke. While this is a fun feature initially, I think you should disable it (they even recommend this in the introductory video linked to above). So, just go to settings and toggle on the _Raw squigs_ option and you'll get a more "honest" picture of how well your squigs match the strokes you're aiming for.
+
 Other UI issues
 ---------------
 
