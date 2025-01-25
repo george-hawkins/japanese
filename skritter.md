@@ -102,6 +102,8 @@ Interesting, neither is the definitive spelling - each seem to be common accordi
 
 ![wanwan hiragana and katakana ngrams](images/skritter/wanwan-ngrams.png)
 
+So, while both are technically correct, it would be nice if each card was clearly tagged to indicate whether the hiragana or katakana spelling was expected.
+
 Corrections
 -----------
 
