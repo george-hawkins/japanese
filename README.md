@@ -16,6 +16,39 @@ Using the _JapanesePod101_ lesson series (see below) and the Hiragana and Kataka
 
 Will set up Anki as described by _ToKini Andy_ and _Jouzu Juls_.
 
+Tofugu
+------
+
+I've come across many excellent resources, but one really stands out - it kept on coming up again and again when looking into any particular aspect of learning Japanese. It's the Tofugu website.
+
+At this stage, I've got to the point where if I find something covered on Tofugu or reviewed on Tofugu, I tend to view that as the last word or the definitive take on the thing.
+
+The only downside is that the articles tend to be huge, they're anything but bitesize and you have to commit real time to reading and digesting them. But it's worth it.
+
+Noteable articles:
+
+* [A roadmap to learning Japanese from zero](https://www.tofugu.com/learn-japanese/).
+* [A guide to Japanese pronunciation](https://www.tofugu.com/japanese/japanese-pronunciation/) - I like Tofugu as he doesn't try to over simplify. This article possibly goes to far in the other direction, especially for something that's a real getting-started aspect of things - trying to make the right sounds from the get go. At points it feels like a introductory lecture to a university linguistics course. But there's really good information here. I suspect tho' that most beginners will go mad or give up if they keep on reading through the pitch accent section (and aren't actually doing this as part of a linguistics course).
+* [Learn kanji with radicals and mnemonics](https://www.tofugu.com/japanese/kanji-radicals-mnemonic-method/) - this is really about the "mechanics" of kanji, i.e. what you should understand about kanji - radicals, readings - _before_ you start trying to learn them. It also makes clear (as does every resource introducing kanji) that individual kanji aren't words, it's kanji combined with other kanji and/or kana that make up Japanese vocabulary.
+* [On'yomi and kun'yomi - what's the difference](https://www.tofugu.com/japanese/onyomi-kunyomi/) - all about on'yomi (Chinese derived) and kun'yomi (Japanese) readings, including how to know which reading will apply in a given situation and choosing the "best" reading to learn first.
+* [The best kanji learning programs](https://www.tofugu.com/japanese/best-kanji-learning-programs/) - program doesn't mean application, this article covers books, apps, websites, videos and more.
+
+Many other Tofugu resources are linked to below for specific topics, e.g. learning kana.
+
+Tofugu is also the creator of [WaniKani](https://www.wanikani.com/), a web app that's one of the most popular ways to learn kanji. There's a lot of disagreement about what the "best" way to learn kanji is, and some people are convinced WaniKani is not the way to do things while others find it an amazing tool. I'm starting my journey so can't comment. Tofugu himself is refreshingly measured in his take, he has large articles on the mechanics of learning kanji, points out that he created WaniKani to capture his insights into the process but doesn't suggest it's a silver bullet or the only way to do things. It's this kind of thing that makes his content feel very trustworthy.
+
+Note: Tofugu also has a YouTube [channel](https://www.youtube.com/@Tofugu/videos) but it's an odd contrast with his website - while it does have learning Japanese content, it's more a personal channel rather than a core learning resource.
+
+Speed running the basics
+------------------------
+
+These playlists are too lightweight to be provide a real grounding in grammara etc. but I found them nice for providing some kind of basic overview:
+
+* ToKini Andy's [_Absolute Beginner Japanese_ playlist](https://www.youtube.com/playlist?list=PLA_RcUI8km1OvB9uN-8h0BSJnCLsHJvty).
+* Japanese Ammo with Misa's [_Absolute Beginner Japanese_ playlist](https://www.youtube.com/playlist?list=PLd5-Wp_4tLqZor0fbsXtP7t6npWeE-2IU).
+
+Yes, ToKini and Misa used identical names for their playlists!
+
 Yomichan
 --------
 
@@ -141,6 +174,13 @@ See their [about page](https://animelon.com/about) for much more - e.g. how you 
 
 There doesn't seem to be an obvious way to download their content and page loading and playback often takes a long time. Hosting and delivering video content isn't cheap and they seem to be generally underfunded (they take donations) and relatively frequently seem to disappear altogether for shorter or longer periods.
 
+More piracy
+-----------
+
+Again, I don't want be seen to condone piracy, but I have wanted to get digital versions of physical books that I've bought so that it's easier to e.g. copy things from them into flash cards. I don't think it's reasonable that one should have to pay for a digital version for this purpose if one has already bought a physical copy and I'd rather not work with DRM encumbered digital copies.
+
+The solution to this is to download digital copies from [Anna'a Archive](https://annas-archive.org/).
+
 Pitch accent
 ------------
 
@@ -150,7 +190,7 @@ See _Dogen_'s [playlist](https://www.youtube.com/playlist?list=PLxMXdmBM9wPvsySi
 
 See _Jouzu Juls_'s japanese pronunciation [video](https://www.youtube.com/watch?v=aOxRYmWDaF4) that recommends _Dogen_'s video but adds really useful pointers, e.g.:
 
-* Using [minimal pairs](https://en.wikipedia.org/wiki/Minimal_pair) - he recommends the paid [Migaku Pitch Trainer](https://pitch-demo.migaku.io/) (but also mentions a free alternative - see below, it's the one Trenton mentions too).
+* Using [minimal pairs](https://en.wikipedia.org/wiki/Minimal_pair) - he recommends the paid [Migaku Pitch Trainer](https://pitch.migaku.io/) (there's a free demo version [here](https://pitch-demo.migaku.io/) but also mentions a free alternative - see below, it's the one Trenton mentions too.
 * And if the whole thing is a complete struggle, he recommends a similar minimal pairs site but for music that has a [pitch section](https://www.musicca.com/exercises/circle/12) and an [interval section](https://www.musicca.com/exercises/circle/18) to get your brain attuned to the whole idea.
 
 Matt vs Japan has a video with the infamous Ken Cannon where they discuss pitch accent but importantly also have exercises (around the 6m 30s mark - but the bits before are also important, e.g. not confusing stress in English with pitch accent): <https://www.youtube.com/watch?v=SaNr2xa4n3Q>
@@ -237,6 +277,34 @@ Works with:
 * Rakuten Viki
 
 Rakuten Viki looks interesting in that it seems to be truly global (i.e. content available everywhere). However, it has only two Japanese anime series and seems to be mainly romantic dramas.
+
+### Migaku resources
+
+Migaku started as a browser extension and this is still the main feature. They've started adding to this - however, I think they could do a better job of making you aware what they have available. I found myself discovering content they have via other sites, e.g. they have a [demo pitch trainer](https://pitch-demo.migaku.io/) and if you subscribe you can access the [full version](https://pitch.migaku.io/) but I'm stumped if I can find a way to the full version via the Migaku dashboard:
+
+This is what I've discovered so far:
+
+* The Migaku [Chrome browser extension](https://chromewebstore.google.com/detail/migaku-really-learn-langu/lkhiljgmbeecmljiogckofcalncmfnfo).
+* Their [courses](https://study.migaku.com/course-download).
+* The full version [pitch trainer](https://pitch.migaku.io/).
+
+The mechanics of starting a course are odd - there's just a big _Download_ button. You're left wondering if it's going to download some kind of application but if you press it, it just whirrs away for a short while and the _Download_ button is replaced with a _Browse Course_ and a _Start Studying_ button. So, if there is some downloading going on, it's something internal to the mechanics of the webapp and not downloading as most people understand it. And the information that you see, if you press _Browse Course_ feels like stuff you should definitely be able to see without the download step - i.e. what are the details of the course and what is it going to cover.
+
+I find the navigation, when studying courses via the website, to be bizarre, e.g. while working your way thru the course they occassionally throw you into card learning sessions - I'm stumped if I can find an obvious way to navigate back to the course itself while in this mode.
+
+The mobile app contains the same content that you can get to via the browser extension's dashboard. As of early 2025, all I can say is that while the app looks pretty it could do with a _lot_ of useability testing. Once you're familar with how something works it can seem obvious - I suspect this is the problem with the Migaku app (and with the web content), they should get in a few users and watch them go from zero and see what difficulties they encounter.
+
+Maybe it all becomes clear if one works ones way thru the [Migaku User Guides playlist](https://www.youtube.com/playlist?list=PLKOLm5uwuh3Fed5Fbrn8uouwmWP-zxn03) on YouTube but while it's fine to teach users about all the features, it's not fine to use this as a mechanism to compensate for poor UI design (I'm talking here about useability - the app and website look beautiful).
+
+That Migaku has decided to move beyond just its core browser extension and move into actively teaching Japanese seems a fairly recent move. At the moment, the learning content seems rather jumbled in with the core purpose of the browser extension.
+
+Migaku seems to be the marker leader in working with subtitles to video as a learning resource. The courses etc. feel like something quite distinct to this and there they're competing in a market with lots of established competitors - I imagine many might wish they carve this out as a separate operation or that they focus on elements, such as the pitch accent trainer, where they can fill odd holes in the existing market.
+
+PS I also wish the dashboard, that you bring up via the Migaku extension button (to the left of the address bar in Chrome), would just open in a new tab rather than opening a new window.
+
+**Update:** it turns out that you can return to studying a course by clicking the arrow to the the right side of the _Study all decks_. Obvious once you know, but another example of beauty over functionality, I just saw this box as a header for the rest of the content on the page and I'd view studying decks as just meaning card review, it'd never occur to me that it'd also mean study course content related to the decks:
+
+![Study Migaku decks](images/migaku-study-decks.png)
 
 YouTubers
 ---------
@@ -386,7 +454,19 @@ Additional feature that I'd like are:
 * A mode where you hear the sound with the romaji multi-choice replaced by a kana multi-choice.
 * A similar mode where you see the romaji and have a kana multi-choice.
 
-Note: if you're online, I think Tofugu's [online quiz](https://kana-quiz.tofugu.com/) (mentioned above) offers very similar value to these apps.
+#### Alternatives
+
+I found Hiragana Pro and Katakana Pro nice simple and polished implementations - they do one task (drilling kana to romaji) well.
+
+However, it's not a particularly complicated task and I later came across other very similar resources:
+
+* If you're online, I think Tofugu's [online quiz](https://kana-quiz.tofugu.com/) (mentioned above) offers very similar value.
+* Another really nice web app is [Real Kana](https://realkana.com/) - its unusual feature is presenting the kana in various different fonts, this doesn't sound like much but there can be surprising variation across fonts so it's good to be confronted by this and learn to deal with it. Go to the _Extra_ tab and tick the checkboxes below all the different typefaces, go to the _Hiragana_ tab and tick the checkboxes below all the columns you want to learn, then click _Study_ and start typing the romaji for each character you see.
+* [Skritter](https://skritter.com/dashboard) - this is app is covered elsewhere here, it's a much more substantial app and as it has a much broader focus than just learning kanji, it'll take more effort to get started. But if you're interested in an app that also teaches stroke order, this is basically your only option. Skritter is not cheap, however they're hiragana and katakana decks are free for drilling.
+
+Hiragana Pro, Katakana Pro, Tofugu’s quiz and Real Kana only cover drilling the romaji for kana, e.g. given ぶ, what's the romaji? Skritter also covers the other direction, e.g. given bu, what's the kana. None cover going from audio to kana.
+
+Skritter, Hiragana Pro and Katakana Pro have audio, Tofugu’s quiz and Real Kana do not.
 
 JapanesePod101
 --------------
@@ -486,13 +566,6 @@ Cure Dolly is another Japanese teacher with a near religous following (and she h
 She has a huge "from scratch" lesson series [playlist](https://www.youtube.com/playlist?list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj).
 
 Note: Jouzu Juls has a grammar [playlist](https://www.youtube.com/playlist?list=PLAaPL96Q8dWHx4H0WxdXLZlu7-DdbszsV) where he takes his shot at presenting some of her material in his own way where he hopes to "provide the same information with some enhancements and present it in a way that is open to more ears"
-
-Piracy
-------
-
-I don't condone piracy but I have wanted to get digital versions of physical books that I've bought so that it's easier to e.g. copy things from them into flash cards. I don't think it's reasonable that one should have to pay for a digital version for this purpose if one has already bought a physical copy and I'd rather not work with DRM encumbered digital copies.
-
-The solution to this is to download digital copies from [Anna'a Archive](https://annas-archive.org/).
 
 Readings
 --------
