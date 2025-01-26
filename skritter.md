@@ -1,6 +1,28 @@
 Skritter
 ========
 
+Beginner decks:
+
+* [Hiragana](https://skritter.com/vocablists/view/5859349090140160)
+* [Katakana](https://skritter.com/vocablists/view/6560713457926144)
+* [Japanese Stroke Order](https://skritter.com/vocablists/view/5232099579265024)
+* [Radicals](https://skritter.com/vocablists/view/44942698)
+* [Remembering the Kanji Volume 1, Sixth edition](https://skritter.com/vocablists/view/112160761)
+* [Genki 1, Third edition](https://skritter.com/vocablists/view/4567269533941760)
+* [JLPT N5](https://skritter.com/vocablists/view/5669108168916992)
+
+Other decks that may be interesting:
+
+* [Jouyou kanji deck](https://skritter.com/vocablists/view/6155907291021312) (see their accompanying [blog post](https://blog.skritter.com/2021/04/new-japanese-jouyou-kanji-decks/) for more details.
+* [WaniKani vocab](https://skritter.com/vocablists/view/4920661450031104)
+
+I suspect there are better ways to learn the Jouyou kanji, e.g. WaniKani, and as WaniKani is fairly free format (as I understand it), i.e. it doesn't push you through vocab in a particular order, I'm not sure how the Skritter WaniKani deck will line up with what you learn in WaniKani _but_ it may be useful if you want to learn the stroke order of the characters that you learn via WaniKani.
+
+Skritter have decks, like the N5 one linked above, for the levels N5 thru to N1. They also have kanji decks, e.g. [100 Kanji for JLPT N5](https://skritter.com/vocablists/view/6107563985338368), for each level. However, these are _single_ kanji decks, i.e. individual kanji in isolation and everyone (even Skritter themselves - see the Jouyou blog post linked above) says this isn't the way to learn kanji. But the decks _may_ be useful if you just want to drill the kanji that you must know for a particular JLPT level.
+
+Getting started
+---------------
+
 I think I'm growing to like Skritter and in fact I think it's your only real app option for learning stroke order. However, the "getting started" experience isn't great.
 
 I signed up first on the website before installing the app - if you go this route you have to provide a credit card or an activation code (see the payment section below).
@@ -160,3 +182,5 @@ Reviews
 The always excellent Tofugu has a short review of Skritter [here](https://www.tofugu.com/japanese-learning-resources-database/skritter/).
 
 Robin MacPherson has a YouTube review of Skritter [here](https://www.youtube.com/watch?v=5Pglt4az_N0).
+
+JoyoKanjiKai's [review](https://www.joyokanjikai.com/learning-japanese/skritter-review/). Unlike Tofugu and Robin MacPherson, I haven't developed an opinion on JoyoKanjiKai, I list his review as it seems fairly in-depth.

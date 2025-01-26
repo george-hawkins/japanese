@@ -10,9 +10,9 @@ Current plan
 
 Using the _JapanesePod101_ lesson series (see below) and the Hiragana and Katakana Pro apps for drilling. And the self-study workbook [Learning Japanese Hiragana and Katakana](https://www.amazon.com/dp/4805312270) and the [Genkouyoushi notebook](https://www.amazon.com/dp/B08D4RPJBN) for writing practice.
 
-**2.** Learn all kanji using RTK and Skritter (and possibly using WaniKani later to learn readings).
+**2.** Learn all kanji using RTK and Skritter (and possibly using WaniKani later to learn readings) - see [`skritter.md`](skritter.md) for relevant Skritter decks.
 
-**3.** Complete Genki 1 using the self-study material from _ToKini Andy_, along with "1000 Essential Vocabulary for the JLPT N5" from Collectif (_ToKini Andy_ suggests more actively learning this vocabulary than the chapter-by-chapter vocabulary introduced by Genki) and possibly using the Bunpro grammar site.
+**3.** Complete Genki 1 using the self-study material from _ToKini Andy_ (kickstart with this [video](https://www.youtube.com/watch?v=S55aWpRaV44), [playlist](https://www.youtube.com/playlist?list=PLA_RcUI8km1NMhiEebcbqdlcHv_2ngbO2) and [site](https://www.tokiniandy.com/)), along with "1000 Essential Vocabulary for the JLPT N5" from Collectif (_ToKini Andy_ suggests more actively learning this vocabulary than the chapter-by-chapter vocabulary introduced by Genki) and possibly using the Bunpro grammar site.
 
 Will set up Anki as described by _ToKini Andy_ and _Jouzu Juls_.
 
@@ -46,8 +46,15 @@ These playlists are too lightweight to be provide a real grounding in grammara e
 
 * ToKini Andy's [_Absolute Beginner Japanese_ playlist](https://www.youtube.com/playlist?list=PLA_RcUI8km1OvB9uN-8h0BSJnCLsHJvty).
 * Japanese Ammo with Misa's [_Absolute Beginner Japanese_ playlist](https://www.youtube.com/playlist?list=PLd5-Wp_4tLqZor0fbsXtP7t6npWeE-2IU).
+* Robin MacPherson's [_Grammar Reference_ playlist](https://www.youtube.com/playlist?list=PLuIhQdwUVqqpq-aOnrEUjEq2oidCXbp9J).
 
 Yes, ToKini and Misa used identical names for their playlists!
+
+ToKini Andy also has [_How I would learn Japanese_](https://www.youtube.com/watch?v=L1NQoQivkIY) which I think would have been a great first video for his beginner playlist.
+
+TODO: rewatch this video and note down the core elements here.
+
+At the start of his playlist, Robin MacPherson mentions his upcoming course on learning Japanese through reading (working through nice graded readers) which sounds interesting but I can't find any other reference to this course via Google or on his [Patreon](https://www.patreon.com/robinmacpherson/collections). The only other Japanese-specific reader snippet that I could find from him is [here](https://www.youtube.com/watch?v=08eXk5PXVD8&t=695s) where he recommends the book [_Read Real Japanese_](https://www.tofugu.com/reviews/read-real-japanese/).
 
 Yomichan
 --------
@@ -296,6 +303,8 @@ The mobile app contains the same content that you can get to via the browser ext
 
 Maybe it all becomes clear if one works ones way thru the [Migaku User Guides playlist](https://www.youtube.com/playlist?list=PLKOLm5uwuh3Fed5Fbrn8uouwmWP-zxn03) on YouTube but while it's fine to teach users about all the features, it's not fine to use this as a mechanism to compensate for poor UI design (I'm talking here about useability - the app and website look beautiful).
 
+There's also a large [FAQ](https://migaku.com/faq).
+
 That Migaku has decided to move beyond just its core browser extension and move into actively teaching Japanese seems a fairly recent move. At the moment, the learning content seems rather jumbled in with the core purpose of the browser extension.
 
 Migaku seems to be the marker leader in working with subtitles to video as a learning resource. The courses etc. feel like something quite distinct to this and there they're competing in a market with lots of established competitors - I imagine many might wish they carve this out as a separate operation or that they focus on elements, such as the pitch accent trainer, where they can fill odd holes in the existing market.
@@ -339,7 +348,9 @@ There are obviously no end of textbooks for Japanese. However, I wanted one that
 
 Note: while Genki uses kanji and kana, it still uses a lot of English, i.e. it doesn't try to teach Japanese through Japanese.
 
-The publisher has a [self-study site](https://genki3.japantimes.co.jp/en/student/) for the book. And _ToKini Andy_ has a full [playlist](https://www.youtube.com/playlist?list=PLA_RcUI8km1NMhiEebcbqdlcHv_2ngbO2) going through each chapter of the book. He also has this _great_ [video](https://www.youtube.com/watch?v=S55aWpRaV44) on how to really self-study with Genki. I think his [site](https://www.tokiniandy.com/) (requires subscription) is probably the way to go.
+The publisher has a [self-study site](https://genki3.japantimes.co.jp/en/student/) for the book.
+
+And _ToKini Andy_ has a full [playlist](https://www.youtube.com/playlist?list=PLA_RcUI8km1NMhiEebcbqdlcHv_2ngbO2) going through each chapter of the book. He also has this _great_ [video](https://www.youtube.com/watch?v=S55aWpRaV44) on how to really self-study with Genki. I think his [site](https://www.tokiniandy.com/) (requires subscription) is probably the way to go.
 
 A huge number of people have developed resources to go with Genki, e.g. Seth Clydesdale maintains a huge site [Genki Study Resources](https://sethclydesdale.github.io/genki-study-resources/lessons-3rd/) - it's name might imply that it's pointers to other resources but it's a coherent set of online exercises to work through as you progress thru the book.
 
