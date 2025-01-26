@@ -195,6 +195,8 @@ Pitch accent seems to be a controversial thing - some people seem to think it's 
 
 See _Dogen_'s [playlist](https://www.youtube.com/playlist?list=PLxMXdmBM9wPvsySiMoBzgh8d68xqKz1YP). It starts with lots of short videos and then ends with a 2h 30m lecture. His [Patreon](https://www.patreon.com/dogen) also has lots of pitch-accent, pronunciation and phonetics material.
 
+**Update:** Dogen now has a course on the interactive pitch-accent platform [Emurse](https://emurse.io/courses) which he describes in this [video](https://www.youtube.com/watch?v=ido7aSi9axA). This looks great, in that it can show you if you're hitting the correct pitches as you try to mimic a native speaker. Intriguing, right at the end of the video (at 30m 42s) he says "if you're already using a pitch accent application, whether that's free or not ..." - so, are there competing applications and if so what are they? Are there also applications that work like this for e.g. drilling vowel length and the _r_ and _fu_ sounds?
+
 See _Jouzu Juls_'s japanese pronunciation [video](https://www.youtube.com/watch?v=aOxRYmWDaF4) that recommends _Dogen_'s video but adds really useful pointers, e.g.:
 
 * Using [minimal pairs](https://en.wikipedia.org/wiki/Minimal_pair) - he recommends the paid [Migaku Pitch Trainer](https://pitch.migaku.io/) (there's a free demo version [here](https://pitch-demo.migaku.io/) but also mentions a free alternative - see below, it's the one Trenton mentions too.
