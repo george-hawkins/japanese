@@ -20,6 +20,8 @@ I suspect there are better ways to learn the Jouyou kanji, e.g. WaniKani, and as
 
 Skritter have decks, like the N5 one linked above, for the levels N5 thru to N1. They also have kanji decks, e.g. [100 Kanji for JLPT N5](https://skritter.com/vocablists/view/6107563985338368), for each level. However, these are _single_ kanji decks, i.e. individual kanji in isolation and everyone (even Skritter themselves - see the Jouyou blog post linked above) says this isn't the way to learn kanji. But the decks _may_ be useful if you just want to drill the kanji that you must know for a particular JLPT level.
 
+The stroke order deck is rather odd - if it's supposed to teach you stroke order _before_ you actually get onto learning specific kanji then the description for each card should just be the kanji that demonstrates the aspect of stroke order that you're learning. Instead, the cards include readings and definitions but not the actual kanji. So you have to learn that given just e.g. the reading て and the definition "head" that it's the kanji 手 that's needed when the real goal was supposed to be just learning about top-to-bottom stoke order.
+
 Getting started
 ---------------
 
@@ -149,10 +151,23 @@ Skritter calls the strokes you make "squigs". By default, after you enter each s
 Other UI issues
 ---------------
 
-* Decks that I'd started using didn't always then appear in the _Recent Decks_ section and I'd have to browse for them. After a while they would be appear in _Recent Decks_.
+* When starting a deck, it seems to take a while for it to appear in the _Recent Decks_ section.Instead, I have to click the _Decks_ button (in the bottom bar) and find it in the _My Library_ tab. After a while they appear in _Recent Decks_.
 * When logged in, you can change your password without knowing your existing password - not _such_ a big deal but perhaps indicative of a somewhat casual approach to account security.
 * It's definitely far more forgiving for some characters than others, e.g. almost anything I enter gets accepted for ワ but it's extremely unforgiving for how I enter ひ.
 * When you get a stroke wrong repeatedly, the stroke is displayed in blue but the stroke direction is not - I kept entering the first stroke for よ in the same direction as the first stroke for ヒ and not understanding why Skritter wouldn't accept my stroke even if I did it exactly over the blue stroke being shown. Now I'm aware what might be happening and try changing direction in similar situations but it was very non-obvious first time.
+
+Useability issues
+-----------------
+
+I've already covered being forced to mark every card in a deck as learned individually if you've already learned this content outside Skritter.
+
+Now, choosing what you learn - in the app's settings you can toggle off learning:
+
+* Definitions
+* Readings
+* Writings
+
+I'd like to be able to toggle this on a per deck, e.g. just study writings for kana. I can sort of achieve this by leaving everything toggle on in settings and then when I click _Due Cards_ just selecting e.g. one of the kana decks and then disabling definitions and readings for this review session. But you have to do this every time you want to review that deck and it means you're forced to learn all decks individually (as there's no way to e.g. say OK I just did review sessions for my two kana decks with just writing enabled, now I want to review _all_ other decks in one session with definitions, readings and writings enabled). 
 
 Latest version
 --------------
