@@ -12,7 +12,7 @@ Using the _JapanesePod101_ lesson series (see below) and the Hiragana and Kataka
 
 **2.** Learn all kanji using RTK and Skritter (and possibly using WaniKani later to learn readings) - see [`skritter.md`](skritter.md) for relevant Skritter decks.
 
-**3.** Complete Genki 1 using the self-study material from _ToKini Andy_ (kickstart with this [video](https://www.youtube.com/watch?v=S55aWpRaV44), [playlist](https://www.youtube.com/playlist?list=PLA_RcUI8km1NMhiEebcbqdlcHv_2ngbO2) and [site](https://www.tokiniandy.com/)), along with "1000 Essential Vocabulary for the JLPT N5" from Collectif (_ToKini Andy_ suggests more actively learning this vocabulary than the chapter-by-chapter vocabulary introduced by Genki) and possibly using the Bunpro grammar site.
+**3.** Complete Genki 1 using the self-study material from _ToKini Andy_ (kickstart with this [video](https://www.youtube.com/watch?v=S55aWpRaV44), [playlist](https://www.youtube.com/playlist?list=PLA_RcUI8km1NMhiEebcbqdlcHv_2ngbO2) and [site](https://www.tokiniandy.com/)), along with "1000 Essential Vocabulary for the JLPT N5" from Collectif (_ToKini Andy_ suggests more actively learning this vocabulary than the chapter-by-chapter vocabulary introduced by Genki) and possibly using the Bunpro grammar webapp.
 
 Will set up Anki as described by _ToKini Andy_ and _Jouzu Juls_.
 
@@ -620,6 +620,22 @@ See more [here](https://community.wanikani.com/t/wanikani-phonetic-semantic-comp
 Matthias Wilhelm took the original WaniKani script, rewrote it and announced it [here](https://community.wanikani.com/t/userscript-keisei-%E5%BD%A2%E5%A3%B0-semantic-phonetic-composition/21479).
 
 He maintains in on GitHub [here](https://github.com/mwil/wanikani-userscripts/tree/master/wanikani-phonetic-compounds) - it looks pretty cool but it may have [issues](https://github.com/mwil/wanikani-userscripts/issues/3) - however, from the thread where Matthias announced the script, it looks as if people are still clearly using it without issue.
+
+Buying from Japan
+-----------------
+
+A lot of manga and other Japanese products aren't easily available outside Japan. Unfortunately, Amazon Japan no longer ships internationally.
+
+I've tried two services:
+
+* [CDJapan](https://www.cdjapan.co.jp/) - there search function is a bit frustrating - when searching for e.g. a magazine  you can't put in its original Japanese name, you have to use its English transalation - so Weekly Shonen Jump rather than 週刊少年ジャンプ. And its default _relevance_ sorting is a bit odd, I found I often had to switch from searching to _All_ to _Books_ (which includes magazines and manga) and then flip from _Relevance_ sorting to _Latest First_ and then trawl down until I found what I was looking for. I often also searched for the item on Amazon Japan, using the item's Japanese name, e.g. 週刊少年ジャンプ, so I could visually confirm that I'd really found what I was looking for on CDJapan . I bought 12 magazines for about US$50 but then paid US$75 for shipping (to Western Europe).
+* [ZenMarket](https://zenmarket.jp/) - this is a service that will buy things for you on Japanese sites, such as Amazon Japan, that won't ship internationally. You find what you want on Amazon Japan and then just paste the URL of each item into the ZenMarket product search field, it then shows you the Amazon page and lets you add that product to your ZenMarket basket. Once you've filled up your basket, click to buy everything. This is where things get a little odd, they want you to deposit money up front before you complete your order but at this stage you only know the price of the items you selected but not the shipping costs. So, you deposit at least enough to buy the items in your cart. These items are then shipped to ZenMarket and its only then that they can work out how much each item weighs and its size and so determine a shipping cost. So once your items arrive, it's up to you to then go to their parcels section and bundle up those items into one or more parcels (I can't see why you'd split things across multiple parcels but maybe it makes sense for some cases). ZenMarket is noticeably more expensive on a per-item basis as they charge a &yen;500 fee per item but you get access to the whole Amazon Japan range rather than just the books and magazines that CDJapan chooses to offer. TODO: how did shipping compare to CDJapan - I bought ten items for US$75 but don't know the shipping yet.
+
+Both services seem to be popular in the Japanese learning community so despite both being odd in their own ways, I'm not too worried that either might fail to deliver.
+
+I bought the top 15 of the manga in the Wikipedia [list of Japanese manga magazines by circulation](https://en.wikipedia.org/wiki/List_of_Japanese_manga_magazines_by_circulation).
+
+And I bought the latest copies of the three major anime magazine - [Newtype](https://en.wikipedia.org/wiki/Newtype), [Animage](https://en.wikipedia.org/wiki/Animage) and [Animedia](https://en.wikipedia.org/wiki/Animedia).
 
 TODO
 ----
