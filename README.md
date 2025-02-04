@@ -626,16 +626,55 @@ Buying from Japan
 
 A lot of manga and other Japanese products aren't easily available outside Japan. Unfortunately, Amazon Japan no longer ships internationally.
 
-I've tried two services:
-
-* [CDJapan](https://www.cdjapan.co.jp/) - there search function is a bit frustrating - when searching for e.g. a magazine  you can't put in its original Japanese name, you have to use its English transalation - so Weekly Shonen Jump rather than 週刊少年ジャンプ. And its default _relevance_ sorting is a bit odd, I found I often had to switch from searching to _All_ to _Books_ (which includes magazines and manga) and then flip from _Relevance_ sorting to _Latest First_ and then trawl down until I found what I was looking for. I often also searched for the item on Amazon Japan, using the item's Japanese name, e.g. 週刊少年ジャンプ, so I could visually confirm that I'd really found what I was looking for on CDJapan . I bought 12 magazines for about US$50 but then paid US$75 for shipping (to Western Europe).
-* [ZenMarket](https://zenmarket.jp/) - this is a service that will buy things for you on Japanese sites, such as Amazon Japan, that won't ship internationally. You find what you want on Amazon Japan and then just paste the URL of each item into the ZenMarket product search field, it then shows you the Amazon page and lets you add that product to your ZenMarket basket. Once you've filled up your basket, click to buy everything. This is where things get a little odd, they want you to deposit money up front before you complete your order but at this stage you only know the price of the items you selected but not the shipping costs. So, you deposit at least enough to buy the items in your cart. These items are then shipped to ZenMarket and its only then that they can work out how much each item weighs and its size and so determine a shipping cost. So once your items arrive, it's up to you to then go to their parcels section and bundle up those items into one or more parcels (I can't see why you'd split things across multiple parcels but maybe it makes sense for some cases). ZenMarket is noticeably more expensive on a per-item basis as they charge a &yen;500 fee per item but you get access to the whole Amazon Japan range rather than just the books and magazines that CDJapan chooses to offer. TODO: how did shipping compare to CDJapan - I bought ten items for US$75 but don't know the shipping yet.
-
-Both services seem to be popular in the Japanese learning community so despite both being odd in their own ways, I'm not too worried that either might fail to deliver.
+I've tried the following two services listen below. Both seem to be popular in the Japanese learning community so despite both being odd in their own ways, I'm not too worried that either might fail to deliver.
 
 I bought the top 15 of the manga in the Wikipedia [list of Japanese manga magazines by circulation](https://en.wikipedia.org/wiki/List_of_Japanese_manga_magazines_by_circulation).
 
 And I bought the latest copies of the three major anime magazine - [Newtype](https://en.wikipedia.org/wiki/Newtype), [Animage](https://en.wikipedia.org/wiki/Animage) and [Animedia](https://en.wikipedia.org/wiki/Animedia).
+
+However, read [`manga-purchases.md`](manga-purchases.md) before copying my example.
+
+### CDJapan
+
+[CDJapan](https://www.cdjapan.co.jp/) is the more similar of the two to a normal online store. They stock all kinds of Japanese books, magazines, figurines and more.
+
+The site isn't the slickest and their search function is a bit frustrating - when searching for e.g. a magazine  you can't put in its original Japanese name, you have to use its English transalation - i.e. Weekly Shonen Jump rather than 週刊少年ジャンプ. And its default _relevance_ sorting is a bit odd - it rarely considered the latest edition of a given magazine the most relevant.
+
+I found I often had to switch from searching to _All_ to _Books_ (which includes magazines and manga) and then flip from _Relevance_ sorting to _Latest First_ and then trawl down until I found what I was looking for.
+
+I also often searched for the item on Amazon Japan, using the item's Japanese name, e.g. 週刊少年ジャンプ, so I could visually confirm that what I'd found on CDJapan was really what I was looking for.
+
+The cost of the individual items was low (I paid about US$50 for 12 substantial magazines) but the shipping was not - those magazines cost US$75 to ship to Western Europe (there wasn't an option to select anything cheaper than FedEx one-week delivery).
+
+The items I bought arrived promptly and were very carefully packaged and in perfect condition.
+
+### ZenMarket
+
+[ZenMarket](https://zenmarket.jp/) is a service that will buy things for you on Japanese sites, such as Amazon Japan, that won't ship internationally.
+
+They operate quite differently to a usual online store. They require you to maintain a balance with them up front, i.e. you lodge money with them, and then when you put in an order for particular items from e.g. Amazon they pay for those items out of your balance.
+
+There's nothing stopping you lodging just enough money to cover your upcoming purchases but things become more difficult when it comes to shipping.
+
+The intial purchase works like this - you find what you want on Amazon Japan and then just paste the URL of each item into the ZenMarket product search field, it then shows you the item's Amazon page and lets you add that product to your ZenMarket basket. Once you've filled up your basket, click to buy everything.
+
+If you haven't already lodged enough money to complete the purchase it asks you to do so now before the purchase can be completed.
+
+Once that's done, you've only handled the purchasing of the items but not the shipping to you. The items are first shipped to ZenMarket and they send you an email to tell you've they've arrived at their warehouse (and to indicate the weight of each item).
+
+Unlike a normal online store, ZenMarket don't have a handle on the size and weight of things until they arrive at their warehouse. And they won't give you a definite shipping cost.
+
+Instead, once all your item have arrived, you then have to go to their parcels section and bundle up those items into one or more parcels (I can't see why you'd split things across multiple parcels but maybe it makes sense for some cases). You can get a guesstimate for the shipping costs with their [How much will it cost?] calculator. But they don't make it easy - you first have to go thru the _create new parcel_ step and select all your items - this gives you a total weight, then go to the calculator and select the destination country, enter the weight and a guesstimate for the size (e.g. 35x25x15 would be big enough for at least ten A4 sized magazines).
+
+For my collection of ten magazines, weighing just a little under 5kg, the calculator's guesstimate for shipping to Western Europe came to around US$30 for surface shipping (2-3 months) and the cheapest air shipping was FedEx at around US$55. I also looked at shipping to the US - prices were very similar but they also had an additional option - Zen Express which cost around US$35 for 3-4 weeks shipping.
+
+But it's just a guesstimate, you have to complete the parcel section and only once they've really bundled all your items into a parcel do they send you a notification email with the actual price.
+
+TODO: what was the actual shipping cost.
+
+ZenMarket is noticeably more expensive on a per-item basis than CDJapan as they charge a &yen;500 fee per item but you get access to the whole Amazon Japan range rather than just the books and magazines that CDJapan chooses to offer. And while pasting URLs from Amanzon Japan into ZenMarket may not be super convenient, finding the item you want is much easier with the normal Amanzon Japan search than with CDJapan's search.
+
+I find the whole maintaining a balance with them thing a bit odd - I thought it might be needed to cover unexpected costs but they never actually withdraw funds without also stating a clear exact amount so I don't know why they don't just take payment for these amounts (the initial item purchases and then the shipping) like a most stores.
 
 TODO
 ----
