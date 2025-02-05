@@ -161,9 +161,11 @@ Other UI issues
 
 The audio recording quality is also highly variable - for some cards the audio has a lot of noise that hasn't been cleaned up and its quite discordant when you hit these cards after lots of cards with clean audio.
 
-Here's an example of how oddly lenient it can be at times, it happily accepted my い as a match for イ (while it's oddly particular about ひ and particular strokes of some other characters):
+Here's an example of how oddly lenient it can be at times, it happily accepted my い as a match for イ (while being oddly particular about ひ and particular strokes of some other characters):
 
 ![lenient match](images/skritter/screenshots/lenient.png)
+
+Obviously, you can correct it and hit the _forgot_ button if necessary.
 
 Useability issues
 -----------------
