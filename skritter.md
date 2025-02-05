@@ -94,6 +94,8 @@ To continue to the next card, you can just tap the canvas, i.e. the area where y
 
 Rather than hitting the erase button, you can just swipe upwards.
 
+However, I'd recommend disabling the swipe-upwards-to-erase setting as I found it impossible otherwise to enter e.g. 法 as the third stroke is upward and was always interpreted as erase.
+
 Losing progress
 ---------------
 
@@ -155,6 +157,13 @@ Other UI issues
 * When logged in, you can change your password without knowing your existing password - not _such_ a big deal but perhaps indicative of a somewhat casual approach to account security.
 * It's definitely far more forgiving for some characters than others, e.g. almost anything I enter gets accepted for ワ but it's extremely unforgiving for how I enter ひ.
 * When you get a stroke wrong repeatedly, the stroke is displayed in blue but the stroke direction is not - I kept entering the first stroke for よ in the same direction as the first stroke for ヒ and not understanding why Skritter wouldn't accept my stroke even if I did it exactly over the blue stroke being shown. Now I'm aware what might be happening and try changing direction in similar situations but it was very non-obvious first time.
+
+
+The audio recording quality is also highly variable - for some cards the audio has a lot of noise that hasn't been cleaned up and its quite discordant when you hit these cards after lots of cards with clean audio.
+
+Here's an example of how oddly lenient it can be at times, it happily accepted my い as a match for イ (while it's oddly particular about ひ and particular strokes of some other characters):
+
+![lenient match](images/skritter/screenshots/lenient.png)
 
 Useability issues
 -----------------
