@@ -42,11 +42,10 @@ Note: Tofugu also has a YouTube [channel](https://www.youtube.com/@Tofugu/videos
 Speed running the basics
 ------------------------
 
-These playlists are too lightweight to be provide a real grounding in grammara etc. but I found them nice for providing some kind of basic overview:
+These playlists are too lightweight to provide a real grounding in grammar etc. but I found them nice for providing some kind of basic overview:
 
 * ToKini Andy's [_Absolute Beginner Japanese_ playlist](https://www.youtube.com/playlist?list=PLA_RcUI8km1OvB9uN-8h0BSJnCLsHJvty).
 * Japanese Ammo with Misa's [_Absolute Beginner Japanese_ playlist](https://www.youtube.com/playlist?list=PLd5-Wp_4tLqZor0fbsXtP7t6npWeE-2IU).
-* Robin MacPherson's [_Grammar Reference_ playlist](https://www.youtube.com/playlist?list=PLuIhQdwUVqqpq-aOnrEUjEq2oidCXbp9J).
 
 Yes, ToKini and Misa used identical names for their playlists!
 
@@ -54,7 +53,7 @@ ToKini Andy also has [_How I would learn Japanese_](https://www.youtube.com/watc
 
 TODO: rewatch this video and note down the core elements here.
 
-At the start of his playlist, Robin MacPherson mentions his upcoming course on learning Japanese through reading (working through nice graded readers) which sounds interesting but I can't find any other reference to this course via Google or on his [Patreon](https://www.patreon.com/robinmacpherson/collections). The only other Japanese-specific reader snippet that I could find from him is [here](https://www.youtube.com/watch?v=08eXk5PXVD8&t=695s) where he recommends the book [_Read Real Japanese_](https://www.tofugu.com/reviews/read-real-japanese/).
+Robin MacPherson has a [_Grammar Reference_ playlist](https://www.youtube.com/playlist?list=PLuIhQdwUVqqpq-aOnrEUjEq2oidCXbp9J) that he clearly imagined would develop into something much larger but he never got beyond the first five mini episodes. As someone who seems to be very interested in the mechanics of language learning, I thought he might bring something new to teaching the basics but that's not the case. At the start of his playlist, he mentions his upcoming course on learning Japanese through reading (working through nice graded readers) which sounds interesting but I can't find any other reference to this course via Google or on his [Patreon](https://www.patreon.com/robinmacpherson/collections). The only other Japanese-specific reader snippet that I could find from him is [here](https://www.youtube.com/watch?v=08eXk5PXVD8&t=695s) where he recommends the book [_Read Real Japanese_](https://www.tofugu.com/reviews/read-real-japanese/).
 
 Yomichan
 --------
