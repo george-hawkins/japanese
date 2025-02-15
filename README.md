@@ -589,7 +589,7 @@ Readings
 
 Kanshudo has a very nice [intro to readings](https://www.kanshudo.com/howto/how-to-read-kanji), how to learn them (one at a time) and how to guess which reading that you already know will apply in a new situation (based on whether the kanji is used okurigana etc.).
 
-Tofugo has a rather more massive take on similar material [here](https://www.tofugu.com/japanese/onyomi-kunyomi/).
+Tofugu has a rather more massive take on similar material [here](https://www.tofugu.com/japanese/onyomi-kunyomi/).
 
 ### Reading frequency
 
@@ -629,22 +629,47 @@ I really gave buying digital content a good shot but for a lot of content piracy
 
 As mentioned elsewhere [Animelon](https://animelon.com/) is an option for anime (but it can be fairly flaky).
 
+### Manga
+
+**Update:** I wasn't so impressed by Tachiyomi/Mihon for original Japanese language content. Unless getting the content for free is crucial to you, I think it's probably more convenient to get material from one of the providers covered in the Tofugu page ["the best Japanese e-book retailers for Japanese learners"](https://www.tofugu.com/japanese/how-to-buy-japanese-ebooks/) - all of them carry the major manga series (i.e. there doesn't seem to be exclusivity deals on them that mean you have to choose a particular store). BookWalker, BookLive and Honto don't require a Japanese address or credit card, Amazon Japan is a lot more inconvenient (but at least doesn't require a Japanese credit card) but may be worth the effort for the huge range and if you've already bought into the Amazon ecosystem, i.e. Kindle etc. (although using a Kindle with e.g. both a US account and a Japanese account isn't straight forward - it maybe possible using Amazon Household where you can share content between users in a household, i.e. while using your US account, you link to your Japanese account in the same way you would if the account were held by someone else in the same household.
+
+#### Tachiyomi/Mihon
+
 [Tachiyomi](https://en.wikipedia.org/wiki/Tachiyomi) used to be the solution for manga (on Android, there seems to be no equivalent on iOS). But it's no longer developed due to a cease and desist letter from Kakao Entertainment. Its spiritual successor seems to be [Mihon](https://mihon.app/) (repo [here](https://github.com/mihonapp/mihon) on GitHub). Mihon is essentially Tachiyomi without its extensions. It's the extensions that actually enable manga piracy and the hope is that developing Mihon separately from these extensions will avoid the legal issues that Tachiyomi had.
 
 Tachiyomi just needs a repository of extensions - using the normal browser on the Android phone that has Tachiyomi installed, you just have to browse to the [Keiyoushi getting started page](https://keiyoushi.github.io/docs/guides/getting-started). If you click the _Add repository_ button there, it'll open the underlying link using Mihon and it'll pickup the necessary repository data.
 
-The repository data for the extensions is hosted in the [`keiyoushi/extensions` GitHub repo](https://github.com/keiyoushi/extensions/blob/repo/index.min.json) (without apparent legal issue) and all that _Add repository_ button does is trigger Mihon to open the raw JSON data in the [`index.min.js`](https://github.com/keiyoushi/extensions/blob/repo/index.min.json) file there. You can do the same thing yourself manually directly in Mihon without going via the _getting started_ page - click the _More_ button on the main Mihon screen and select _Settings_, followed by _Browse_ and _Extension repos_, press _Add_ button and paste in the URL for the _raw_ `index.min.js` data.
+The repository data for the extensions is hosted in the [`keiyoushi/extensions` GitHub repo](https://github.com/keiyoushi/extensions/) (without apparent legal issue) and all that _Add repository_ button does is trigger Mihon to open the raw JSON data in the [`index.min.js`](https://github.com/keiyoushi/extensions/blob/repo/index.min.json) file there. You can do the same thing yourself manually directly in Mihon without going via the _getting started_ page - click the _More_ button on the main Mihon screen and select _Settings_, followed by _Browse_ and _Extension repos_, press _Add_ button and paste in the URL for the _raw_ `index.min.js` data.
 
-There's a scary amount of extensions but from googling and YouTube, some starters might be:
+There's a scary amount of extensions but from googling and YouTube the most popular ones seem to be:
 
 * Asura Scans (legal)
-* KadoComi (legal - previously called ComicWalker).
 * MangaDex
 * MangaKakalot
 * MangaHub
-* Bato.to
 
 Note: MangaLife and MangaSee are often mentioned online but are now be dead.
+
+However, all of the above are for Manga that have been translated into English. The only frequently mentioned extension with Japanese content, that I came across, was Bato.to.
+
+It's clear that the most popular genre there are basically romance through to [hentai](https://en.wikipedia.org/wiki/Hentai). Independent of your attitudes to such content, it's probably not what you want as an introduction to reading Japanese. To get rather less romance/sex content select _Filter_, set _Sort_ to _Most Views 365 Days_, tick _Japanese_ under _Languages_ and then under _Genre_ click twice (so that tick becomes an x and so excludes the choice):
+
+* Hentai
+* Smut
+* Adult
+* Josei (W)
+* Shoujo (G)
+* Yaoi (BL)
+
+Nothing is implied by the selecting _yaoi_ without selecting its lesbian counterpart - the choice just reflect prevelance. And if you prefer content targetting women rather than men, you may want to flip the _josei_ and _shoujo_ to their male counterparts.
+
+You still end up with a lot of odd content and disappointingly little well-known content, e.g. Naruto or Frieren, but you will find:
+
+* Doraemon
+* Yotsuba to!
+* Teasing Master Takagi-san
+
+If you search for these, you'll find many versions - you'll just have to look through them all for the most complete one in Japanese with reasonable image quality.
 
 ### Harry Potter
 
@@ -669,6 +694,8 @@ You can gauge the anticipated ability of the reader from the most difficult word
 * [普通](https://jisho.org/word/%E6%99%AE%E9%80%9A) (普 is N2 / junior high)
 * [奥さん](https://jisho.org/word/%E5%A5%A5%E3%81%95%E3%82%93) (奥 is N2 / junior high)
 * [認める](https://jisho.org/word/%E8%AA%8D%E3%82%81%E3%82%8B) (認 is N3 / grade 6)
+
+You'll also find editions of the Harry Potter books (and of other books that you simply can't easily purchase outside Japan) on Anna's Archive.
 
 Buying from Japan
 -----------------
