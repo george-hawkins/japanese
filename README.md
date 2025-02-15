@@ -620,6 +620,56 @@ Matthias Wilhelm took the original WaniKani script, rewrote it and announced it 
 
 He maintains in on GitHub [here](https://github.com/mwil/wanikani-userscripts/tree/master/wanikani-phonetic-compounds) - it looks pretty cool but it may have [issues](https://github.com/mwil/wanikani-userscripts/issues/3) - however, from the thread where Matthias announced the script, it looks as if people are still clearly using it without issue.
 
+Buying digital content
+----------------------
+
+The internet promised the death of geography, but buying digital versions of anime, manga and books, unless you're in Japan, feels to be much more difficult than it should be.
+
+I really gave buying digital content a good shot but for a lot of content piracy seems the only non-painful option.
+
+As mentioned elsewhere [Animelon](https://animelon.com/) is an option for anime (but it can be fairly flaky).
+
+[Tachiyomi](https://en.wikipedia.org/wiki/Tachiyomi) used to be the solution for manga (on Android, there seems to be no equivalent on iOS). But it's no longer developed due to a cease and desist letter from Kakao Entertainment. Its spiritual successor seems to be [Mihon](https://mihon.app/) (repo [here](https://github.com/mihonapp/mihon) on GitHub). Mihon is essentially Tachiyomi without its extensions. It's the extensions that actually enable manga piracy and the hope is that developing Mihon separately from these extensions will avoid the legal issues that Tachiyomi had.
+
+Tachiyomi just needs a repository of extensions - using the normal browser on the Android phone that has Tachiyomi installed, you just have to browse to the [Keiyoushi getting started page](https://keiyoushi.github.io/docs/guides/getting-started). If you click the _Add repository_ button there, it'll open the underlying link using Mihon and it'll pickup the necessary repository data.
+
+The repository data for the extensions is hosted in the [`keiyoushi/extensions` GitHub repo](https://github.com/keiyoushi/extensions/blob/repo/index.min.json) (without apparent legal issue) and all that _Add repository_ button does is trigger Mihon to open the raw JSON data in the [`index.min.js`](https://github.com/keiyoushi/extensions/blob/repo/index.min.json) file there. You can do the same thing yourself manually directly in Mihon without going via the _getting started_ page - click the _More_ button on the main Mihon screen and select _Settings_, followed by _Browse_ and _Extension repos_, press _Add_ button and paste in the URL for the _raw_ `index.min.js` data.
+
+There's a scary amount of extensions but from googling and YouTube, some starters might be:
+
+* Asura Scans (legal)
+* KadoComi (legal - previously called ComicWalker).
+* MangaDex
+* MangaKakalot
+* MangaHub
+* Bato.to
+
+Note: MangaLife and MangaSee are often mentioned online but are now be dead.
+
+### Harry Potter
+
+There are multiple versions of Harry Potter available in Japan. I'd like to have been able to get the ones published by Shizuyamasha (like this one on [Amazon.co.jp](https://www.amazon.co.jp/-/en/dp/4863892306/) or on [CDJapan](https://www.cdjapan.co.jp/product/NEOBK-1634333)) but it's only available as a print book.
+
+Only the version published by Pottermore (now called Wizarding World Digital) is easily available as an e-book - here on [Amazon.co.jp](https://www.amazon.co.jp/-/en/dp/B0192CTNQI/) (but also available on all Amazon stores, e.g. here on [Amazon.com](https://www.amazon.com/-/en/dp/B0192CTNQI/)).
+
+Unfortunately, this book seems to be an exception in being available on the non-Japanese Amazon stores - most (all?) manga (e.g. this Kindle version of the [first Frieren volume](https://www.amazon.co.jp/-/en/dp/B08FDH57JT/)) is only available on the Japanese store.
+
+You can also buy the same Harry Potter books from Kobo [here](https://www.kobo.com/us/en/ebook/TwusRt80ZzaeAZVQKo_Lfg) (click the flag icon upper-right to choose your country).
+
+Here's a screenshot of the first two sentences of ハリー・ポッターと賢者の石:
+
+![Harry Potter book 1 first sentences](images/kindle-harry-potter.png)
+
+The dots for emphasis (see まともな) was new to me (explained [here](https://japanese.stackexchange.com/a/40342/66028) on the Japanese StackExchange).
+
+Interestingly, this book can only be read on newer Kindles, it cannot be read by the Kindle [Cloud Reader](https://read.amazon.com/kindle-library) but can be opened by the Mac and Windows apps and the Android and iOS apps. I don't know if this is to do with it being Japanese, e.g. furigana, or something specific to this book, e.g. the images at the start of each chapter being in an new format.
+
+You can gauge the anticipated ability of the reader from the most difficult words on the first page or so that do _not_ have furigana. These include:
+
+* [普通](https://jisho.org/word/%E6%99%AE%E9%80%9A) (普 is N2 / junior high)
+* [奥さん](https://jisho.org/word/%E5%A5%A5%E3%81%95%E3%82%93) (奥 is N2 / junior high)
+* [認める](https://jisho.org/word/%E8%AA%8D%E3%82%81%E3%82%8B) (認 is N3 / grade 6)
+
 Buying from Japan
 -----------------
 
