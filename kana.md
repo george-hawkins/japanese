@@ -51,7 +51,7 @@ After typing e.g. "su" press `ctrl-K` to switch it from hiragana to katakana.
 * ヴォ - vo
 * Where's vu? It's above - just ヴ on its own.
 
-ウォ may seem odd as there is ヲ - this seems to sum up the web consensus:
+ウォ may seem odd as there is ヲ - [this](https://www.reddit.com/r/LearnJapanese/comments/2qqdmn/comment/cn8myc8/) seems to sum up the web consensus:
 
 > を/ヲ isn't really pronounced "wo" anymore, it's generally pronounced like お.
 > The only real reason ヲ still exists is because its hiragana counterpart を

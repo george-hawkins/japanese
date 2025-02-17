@@ -67,9 +67,63 @@ At this stage, I have quite a lot of Yomitan notes, so I've split them out into 
 Anki
 ----
 
-Trenton has a nice into to setting up Anki for Japanese where he doesn't go mad on add-ons. He covers vocab vs sentence decks (he's not particularly anti vocab cards).
+_Trenton_ has a nice into to setting up Anki for Japanese where he doesn't go mad on add-ons. He covers vocab vs sentence decks (he's not particularly anti vocab cards).
+
+TODO: see also setup videos from _ToKini Andy_ and _Jouzu Juls_
 
 He also recommends the [Kaishi 1.5K deck](https://github.com/donkuri/Kaishi) as a good bootstrapping deck - i.e. acquire enough basic vocab that you can actually make sentence cards where all but one of the words in the sentence is unknown to you.
+
+### Decks
+
+There are lots of decks in the [Japanese shared-decks section](https://ankiweb.net/shared/decks?search=japanese&sort=rating) of the AnkiWeb site.
+
+However, I'm not crazy about how shared decks are managed/maintained on AnkiWeb. The [Kaishi 1.5K deck](https://github.com/donkuri/Kaishi) is one of the few ones with a clear source and a clear mechanism for handling updates (via GitHub) - for the others, it's generally unclear who they come from and you've got to go on the ratings.
+
+It's clear many of the decks are unmaintained (which may or may not be an issue - like a good book, they may be perfect and not require anything in the way of maintenance).
+
+The most popular deck by a long shot in the Tae Kim deck from _Japanese like a breeze_. A few of the highly rated decks are targetting Chinese speakers rather than English speakers.
+
+The various Core 2000 decks have been popular over the years but the Kaishi 1.5K deck seems like a better choice today with it's aim to be a more openly maintained equivalent with better quality control.
+
+There are many RTK decks - the most popular one is this [one](https://ankiweb.net/shared/info/1654787298) (92 likes - last update Dec 2020). **Note**: apparently you should click on each keyword as you learn it, this will take you to the relevant Koohii page - you can then choose your favorite story and copy and paste it into the _Story_ field in the card.
+
+Most of its data comes from this [GitHub project](https://github.com/hochanh/hochanh.github.io/tree/master/rtk) which you can find running [here](https://hochanh.github.io/rtk/) on GitHub pages (e.g. take a look at it's [RTK1-v6 page for 古](https://hochanh.github.io/rtk/%E5%8F%A4/index.html)).
+
+There are other popular RTK decks - like this [one](https://ankiweb.net/shared/info/1862058740) (83 likes - last update Apr 2017) and this [one](https://ankiweb.net/shared/info/2009196675) (54 likes - last update Jul 2018).
+
+Which one you choose may depend on your preferences, the one with 92 likes is very minimalist, with not much more than the character and the RTK keyword (and uses a font designed to show the stroke order) - and you paste in a story. This seems closest to the intention of RTK - i.e. don't get overwhelmed at the start. The one with 83 likes is the opposite, it has readings and lots of other details to go with each character and two already provided stories from Koohii. The 54 likes one is similar, though not quite so overwhelming.
+
+Note: some of these decks get outraged downvotes due to the NSFW stories they contain - this is a bit unfair as these (and many other desks) just mine a service called [Koohii](https://kanji.koohii.com/) (covered elsewhere on this page) for the most popular user submitted stories.
+
+The one thing I think the 92 likes one is missing is the constituents, i.e. the known parts in italics that RTK points out for each new kanji e.g. the constituents for 式 (style) are 工 (craft) and the radical 弋 (arrow). But I guess that could easily be added at the same time that you add a story to a given card.
+
+Other very popular decks include the [All in One Kanji Deck](https://ankiweb.net/shared/info/798002504) (225 likes - last updated Apr 2017) but it seems to follow the route of treating kanji individually, each with a huge number or readings, rather than the approach lots of other people argue in favor of - a more digestible vocabulary based approach that introduces each new readings in the context of a concrete sentence where it's used.
+
+While not particularly popular, I'll link to them here as I'm interested in using [JLPT Tango N5](https://www.amazon.com/dp/4872179811/):
+
+* [22 likes - last updated Jun 2021](https://ankiweb.net/shared/info/419481234)
+* [14 likes - last updated Feb 2020](https://ankiweb.net/shared/info/1295779105)
+* [12 likes - reuploaded Apr 2023](https://ankiweb.net/shared/info/866090213)
+
+They may be good as they are or serve as a convenient basis for making cards e.g. by using their audio or already typed in sentences.
+
+Mentioned elsewhere in this page:
+
+* The Tae Kim deck from _Japanese like a breeze_.
+* The pitch accent deck from _Matt vs Japan_ and _Ken Cannon_.
+
+Koohii
+------
+
+Koohii is a website for learning RTK. It's big plus is that it encourages users to submit stories which can be a great help if you're not great at inventing them yourself (although if you can, the process of inventing a story should also help it stick).
+
+Perhaps unsurprisingly a _lot_ of these stories are NSFW.
+
+But many of them are interesting and inventive. For an example take a look at character 16 in lesson 2 - [古](https://kanji.koohii.com/study/kanji/16). On the whole, I'd collapse the _New & updated stories_ section and just look at the _Shared stories_ section where you can see the stories that have been highly stared by other users.
+
+The original RTK stories are **not** here as they are copyrighted but you could just get RTK in e-book or PDF format and copy them in when creating your own customized non-shared cards.
+
+Koohii has a big [help section](https://kanji.koohii.com/learnmore). It uses its own SRS system and you review the cards online. It'd be nice of there was Anki integration (there is an export to CSV which could be crunched somehow for import into Anki).
 
 iOS and Android dictionary
 --------------------------
@@ -385,7 +439,7 @@ An interesting aspect to Skritter is that they also have lots of content that's 
 
 They have a nice [blog post](https://blog.skritter.com/2021/05/the-ultimate-guide-to-japanese-stroke-order/) that provides a far more in-depth set of rules for stroke order than just the common simple top-to-bottom left-to-right rule.
 
-Aside: see this [StackExchange question](https://japanese.stackexchange.com/q/204/66028) about the stroke order of 右 and 左 for an example of how things aren't so simple (the first two answers are the most valuable). Or, even more basic, see the different stroke orders for mo in hiragana vs katakana, i.e. も vs モ.
+Aside: see this [Japanese StackExchange question](https://japanese.stackexchange.com/q/204/66028) about the stroke order of 右 and 左 for an example of how things aren't so simple (the first two answers are the most valuable). Or, even more basic, see the different stroke orders for mo in hiragana vs katakana, i.e. も vs モ (see [this](https://japanese.stackexchange.com/q/4149/66028) Japanese StackExchange answer and for a nice graphic showing the different orders, see the Wikipedia [Mo (kana) page](https://en.wikipedia.org/wiki/Mo_(kana))).
 
 See reviews [here](https://ltl-school.com/skritter-review/), [here](https://www.joyokanjikai.com/learning-japanese/skritter-review/) and [here](https://www.youtube.com/watch?v=5Pglt4az_N0) (the last is by _Robin MacPherson_ who's mentioned above).
 
@@ -524,6 +578,10 @@ What I've found so far:
 
 They have a [full guide](https://refold.la/how-to-learn-japanese/) specifically for Japanese and it's got lots of free content as well as links to content that they sell (and some that they give away).
 
+TODO: post readability data generated using jReadability for the transcripts of all the _Comprehensible Japanese_ complete beginner videos to the [_Comprehensible Japanese_ forum](https://community.cijapanese.com/).
+
+<https://github.com/george-hawkins/comprehensible-japanese-grader/blob/master/complete-beginner-scores.md>
+
 Tech
 ----
 
@@ -557,6 +615,13 @@ Shadowing
 
 I keep hearing about shadowing and it sounds very powerful but I don't have anything for this section yet.
 
+WaniKani
+--------
+
+[WaniKani](https://www.wanikani.com/) - for a short review by Tofugu (the author), see [here](https://www.tofugu.com/japanese-learning-resources-database/wanikani/).
+
+For an in detail discussion from a level 60 user (the expert level on WaniKani) of the experience and his "ultimate" guide see the first two posts in this [forum thread](https://community.wanikani.com/t/my-journey-of-368-days-the-ultimate-guide-for-wk/31318). See also the other posts linked to at the end of each of these two posts.
+
 Grammar
 -------
 
@@ -570,7 +635,7 @@ Bunpro is apparently very free format - you decide what you want to learn - whic
 
 I keep seeing references to Tae Kim’s [Grammar Guide](https://guidetojapanese.org/learn/grammar) as an amazingly accessible guide to Japanese grammar, e.g. this [one](samland.md).
 
-There's a corresponding Anki [deck](https://ankiweb.net/shared/info/911122782). It comes from [Japanese like a breeze](https://www.japanese-like-a-breeze.com/) and the follow-up decks are only available via their [Patreon](https://www.patreon.com/jlabjapanese).
+There's a corresponding Anki [deck](https://ankiweb.net/shared/info/911122782). It comes from [_Japanese like a breeze_](https://www.japanese-like-a-breeze.com/) and the follow-up decks are only available via their [Patreon](https://www.patreon.com/jlabjapanese).
 
 The deck requires an addon (or you can edit the template to achieve the same degree of control) in order to e.g. hide romaji and show Kanji with furigana. For full instructions, see the deck's [manual](https://www.japanese-like-a-breeze.com/guide-for-beginners/). As the manual notes, the only thing you can change, without affecting ones ability to update to a newer version of the deck, is the template.
 
@@ -631,9 +696,113 @@ As mentioned elsewhere [Animelon](https://animelon.com/) is an option for anime 
 
 ### Manga
 
-**Update:** I wasn't so impressed by Tachiyomi/Mihon for original Japanese language content. Unless getting the content for free is crucial to you, I think it's probably more convenient to get material from one of the providers covered in the Tofugu page ["the best Japanese e-book retailers for Japanese learners"](https://www.tofugu.com/japanese/how-to-buy-japanese-ebooks/) - all of them carry the major manga series (i.e. there doesn't seem to be exclusivity deals on them that mean you have to choose a particular store). BookWalker, BookLive and Honto don't require a Japanese address or credit card, Amazon Japan is a lot more inconvenient (but at least doesn't require a Japanese credit card) but may be worth the effort for the huge range and if you've already bought into the Amazon ecosystem, i.e. Kindle etc. (although using a Kindle with e.g. both a US account and a Japanese account isn't straight forward - it maybe possible using Amazon Household where you can share content between users in a household, i.e. while using your US account, you link to your Japanese account in the same way you would if the account were held by someone else in the same household.
+Initially, I thought Tachiyomi/Mihon (see below) might be the solution to acquiring managa content. But in the end I wasn't as impressed as I expected to be - Mihon may be great for acquiring translated content but unless you're already part of an online community that's up on how and where to acquire original Japanese language content, I think it's not very convenient.
 
-#### Tachiyomi/Mihon
+After a bit more digging, I think it's probably more convenient to buy the content legally from one of the providers covered in the Tofugu page ["the best Japanese e-book retailers for Japanese learners"](https://www.tofugu.com/japanese/how-to-buy-japanese-ebooks/) - all of them carry the major manga series (i.e. there doesn't seem to be exclusivity deals on them that mean you have to choose a particular store).
+
+BookWalker, BookLive and Honto don't require a Japanese address or credit card, Amazon Japan is a more inconvenient (but at least doesn't require a Japanese credit card) but may be worth the effort for the huge range and if you've already bought into the Amazon ecosystem, i.e. Kindle etc. (although using a Kindle with e.g. both a US account and a Japanese account isn't straight forward - it maybe possible using Amazon Household where you can share content between users in a household, i.e. while using your US account, you link to your Japanese account in the same way you would if the account were held by someone else in the same household.
+
+My impression is that of the three - BookWalker, BookLive and Honto - that are easy to use outside Japan, BookWalker is the most popular with Honto second and BookLive a less well known player.
+
+Oddly, the BookLive Android app is only available as a `.apk` file (rather than from Google Play) and the Honto Android app is available as either a `.apk` file with full store functionality or just as a viewer on Google Play. I understand this is in order to get around paying fees on purchases to Google but it's not something I've seen in the US or Europe for apps aimed at the average consumer (and even as a geek, [sideloading](https://en.wikipedia.org/wiki/Sideloading), i.e. bypassing the Play Store and any related security, is not something I'd be happy with).
+
+Some of the apps are all region-restricted to Japan but you can try:
+
+| BookWalker  | Honto | BookLive |
+|-------------|-------|----------|
+| [iOS app](https://apps.apple.com/us/app/id580775134) | [iOS app](https://apps.apple.com/us/app/id378685597) | [iOS app](https://apps.apple.com/us/app/id456859610) |
+| [Android app](https://play.google.com/store/apps/details?id=jp.bookwalker.kreader.android.epub) | [Android app](https://play.google.com/store/apps/details?id=jp.co.dnp.eps.ebook_app.android) | [Android `.apk`](https://booklive.jp/download/android) |
+
+All of the stores also have web-based readers and reader applications for Mac and Windows that shouldn't have any region based restrictions.
+
+#### Rakuten
+
+In the end my first manga purchase wasn't from any of the above but from Rakuten which, like BookWalker etc, doesn't require a VPN or a Japanese credit card. I did this because it seems to have the least nailed down DRM (which I wanted the freedom to remove for flexibilty, not for piracy). In the end, the desktop reader app was underwhelming and the resolution of the purchased manga was disappointing.
+
+For some reason the same content is available through two different interfaces:
+
+* [Demon Slayer on Ratuken kobo](https://www.kobo.com/jp/en/ebook/YLiGzKyT6TOxJtM-zDstgA) - here you can select Japan as the country but English as the language for the site.
+* [Demon Slayer on Ratuken ブックス](https://books.rakuten.co.jp/rk/cc86b86093ac33e9b126d33ecc3b2d80/) - here only Japanese is supported as the site language - the signin button is the smallest that I've seen on an e-commerce site - it's the tiny "ログイン▶" to the left of the shopping cart icon.
+
+I signed up via Ratuken kobo (with the country set to Japan and the language set to English). Oddly, the signup process is completely different depending on if you have the country set to Japan or if you have it set to somewhere else. E.g. for Switzerland, the sign up process is similar to what you'd expect on any major e-commerce site (and involves a verification email that just never arrived if I used my custom domain email address so, I had to use a generic Gmail account). Whereas the signup process for Japan involves a set of pages that look straight out of 90s web design (and involve no verification email).
+
+Once you've created an account, you can use it to sign in to both Ratuken kobo and Ratuken ブックス (if you sign into e.g. Ratuken kobo, that's not automatically recognised by Ratuken ブックス - you have to sign in separately to it).
+
+I could buy digital content without any issue and could pay for it with Google Pay (backed by my day-to-day credit card).
+
+Bizarrely, the Mac app asked me if I wanted email communication in German, French or Italian (I'm based in Switzerland) but not English despite the app interface being in English and having created the account, I signed in with, with the country set to Japan.
+
+The desktop app (on Mac) is underwhelming - there's more flickering than I've seen in any modern app if you scroll around on graphic like a manga page.
+
+And the scans (from Demon Slayer - one of the most popular manga series) are so low resolution that some of the furigana are hard to read. Which is very disappointing as I'd imagined being able to zoom in on the furigana being a big win over the print edition where they're absolutely microscopic. Unlike the much nicer Kaiju No. 8 image below, you have to zoom in to look at the furigana properly and really see how how resolution they are.
+
+![blurry kobo furigana](images/blurry-kobo-furigana.png)
+
+I could DeDRM the book (which is a positive) and found that the pages are an amazingly tiny 764x1200 - even if you assume the diminutive [tankōbon](https://en.wikipedia.org/wiki/Tank%C5%8Dbon) size of 4.3x6.7" that's around 180dpi, i.e. well short of the 300dpi to 600dpi you'd expect for any kind of reasonable print quality.
+
+> **Update:**
+>
+> You can read the start of the same book as a sample in BookWalker and the other e-book store mentioned here in each store's web-based reader and they're similarly blurry - so, it's not a Kobo specific issue. Demon Slayer is a long running series so, I thought the issue might be that the small file size was more important when the first volume was produced but latest volume (volume 23, published in late 2020, uses the same 764x1200 size - tho' interestingly they use a slightly larger font so the furigana are slightly more readable).
+>
+> It turns out the resolution is particular to the title, e.g. 怪獣8号 (Kaiju No. 8) uses a much more respectable 300dpi (which is really the low end of what should be acceptable). Unlike Demon Slayer, Kaiju No. 8 doesn't use furigana for every kanji - but as seen here, they're much clearer when it does:
+>
+> ![non blurry kaiju no. 8 furigana](images/non-blurry-kaiju-no-8-furigana.png)
+>
+> So the lesson seems to be - read the free sample using the store's web-based reader and check out the image quality there before buying.
+>
+> Aside: take a look at the Kaiju no. 8 image and the Demon Slayer one - as well as the resolution issue, the [JPEG artifacts](https://en.wikipedia.org/wiki/Compression_artifact) are far worse. But both use JPEG which simply isn't a great format for black&white line art.
+
+To DRM the book:
+
+* I installed the [Kobo desktop app](https://www.kobo.com/jp/en/p/desktop).
+* I signed in via the app (it went through an odd account linking process which involved it making me log in twice with the same account details).
+* I opened the Demon Slayer manga that I'd just bought.
+* This resulted in the data for the book ending up in a file like `/Users/<my user name>/Library/Application Support/Kobo/Kobo Desktop Edition/kepub/65d7891a-5821-42ae-a763-d609ed882afd` (on Windows, it'd end up under `C:\Users\<my user name>\AppData\Local\Kobo`). But it's not important where it ends up.
+* I quit out of the Kobo desktop app - this is important as apparent the Obok plugin (used later to remove the DRM) gets confused if it and the Kobo desktop app are accessing the book at the same time.
+* I installed [Calibre](https://calibre-ebook.com/download) (despite looking rather old fashioned, it's extremely popular, has been around forever and is open source - code is [here](https://github.com/kovidgoyal/calibre) on GitHub).
+* I downloaded the latest [DeDRM_tools release](https://github.com/noDRM/DeDRM_tools/releases) (which was `DeDRM_tools_10.0.3.zip`).
+* I unzipped the DeDRM_tools release - the unpacked folder contains various files, the only important one is `Obok_plugin.zip` - do **not** unzip it.
+* I opened Calibre, went to _Preferences_, clicked on _Plugins_ (in the _Advanced_ section) and then clicked the _Load plugin from file_.
+* It open a file dialog which I used to select the `Obok_plugin.zip` file - and then I went thru all the confirmation steps and let it restart Calibre when it finished the process.
+* On restarting, the _Obok DeDRM_ icon appeared on the righ in the main toolbar.
+* On clicking it automatically found my Kobo book and I just had to click OK.
+* It DeDRM'd the book and added to the Calibre library.
+* Sadly, clicking the _View_ icon then resulted in the error "Failed to open the book at ..." with the details showing that it had failed in the method `find_cover_image_in_page` with the error `TypeError: Invalid input object: bytes`.
+
+So something is not quite right (perhaps I should submit a bug report) but it was still possible to extract all the JPEGs that made up the pages:
+
+* If you click on the _Folder Book files_ link that's below the front cover image of the book in Calibre, it'll open the location of the book in the Finder (or Explorer on Windows).
+* The first odd thing is that the important file - the ePub file - will have a oddly Chinese name like `Gui Mie noRen  1 - Wu Sang Hu Shi Qing.epub` - this is because Calibre seems to convert each character to ASCII, using its pinyin name - an issue the author won't fix (see [here](https://bugs.launchpad.net/calibre/+bug/1795123)) as you never actually see this name it you're using Calibre or any other reader app (which should instead use the name in the e-book's metadata).
+
+Anwyay, an `.epub` file is really just a normal ZIP file but with the extension changed so it can be associated with a Reader app. So, to unpack it (using the filename just mentioned as an example):
+
+```
+$ mkdir demon-slayer-1
+$ cd demon-slayer-1
+$ cp "$HOME/Calibre Library/Wu Sang Hu Shi Qing/Gui Mie noRen  1 (2)/Gui Mie noRen  1 - Wu Sang Hu Shi Qing.epub" ebook.zip
+$ unzip ebook.zip
+$ $ ls OPS/images
+08_880723_880723_1_003_001.jpg  08_880723_880723_1_021_001.jpg  ...
+```
+
+I could then open the disappointingly low-resolution images in any image viewer.
+
+### More on DRM
+
+As noted, if you want to be able to view your purchased content in e.g. [Calibre](https://calibre-ebook.com/) or some other viewer that's e.g. got better learner Japanese dictionary support (e.g. Yomitan), you'll need to remove the [DRM](https://en.wikipedia.org/wiki/Digital_rights_management).
+
+While this is a solved problem for Kindle and any readers that use Adobe Digital Editions, e.g. Kobo, it seems BookWalker and Honto use their own DRM schemes. The one from BookWalker seems essentially uncrakable while it may be possible to remove the DRM from Honto using the Windows application [Epubor Honto](https://jp.epubor.com/honto-converter/).
+
+Note: it seems Kobo devices use Adobe Digital Editions while the Kobo desktop app uses its own Kobo DRM (which is can be removed with the Obok plugin as covered above).
+
+So, perhaps yet another reason to bite-the-bullet and get setup with Amazon Japan or Rakuten Kobo Japan and e.g. taking the extremely popular [鬼滅の刃](https://en.wikipedia.org/wiki/Demon_Slayer:_Kimetsu_no_Yaiba) as an example:
+
+* Buy [鬼滅の刃 on Amazon Japan](https://www.amazon.co.jp/-/en/dp/B01EJ7AK5O) in Kindle format.
+* Or buy [it on Rakuten Kobo Japan](https://www.kobo.com/jp/ja/ebook/YLiGzKyT6TOxJtM-zDstgA) and download it with Adobe Digital Editions DRM.
+
+And then work through it with the English version ([here](https://www.amazon.com/-/en/dp/B07CTBBGZF/) on Amazon US) as an aid.
+
+### Tachiyomi/Mihon
 
 [Tachiyomi](https://en.wikipedia.org/wiki/Tachiyomi) used to be the solution for manga (on Android, there seems to be no equivalent on iOS). But it's no longer developed due to a cease and desist letter from Kakao Entertainment. Its spiritual successor seems to be [Mihon](https://mihon.app/) (repo [here](https://github.com/mihonapp/mihon) on GitHub). Mihon is essentially Tachiyomi without its extensions. It's the extensions that actually enable manga piracy and the hope is that developing Mihon separately from these extensions will avoid the legal issues that Tachiyomi had.
 
@@ -697,6 +866,23 @@ You can gauge the anticipated ability of the reader from the most difficult word
 
 You'll also find editions of the Harry Potter books (and of other books that you simply can't easily purchase outside Japan) on Anna's Archive.
 
+Manga best sellers
+------------------
+
+Wikipedia maintains a list of best selling manga of all time [here](https://en.wikipedia.org/wiki/List_of_best-selling_manga). The usual suspects top the list (along with long established series like Doraemon and Golgo 13):
+
+* One Piece
+* Detective Conan
+* Naruto
+* Demon Slayer
+* Attack on Titan
+
+And sites like Comics Beat publish yearly pieces based on sales data from Japan - the [2024 page](https://www.comicsbeat.com/top-10-best-selling-manga-of-2024/) includes:
+
+* Jujutsu Kaisen
+* One Piece
+* Frieren: Beyond Journey’s End
+
 Buying from Japan
 -----------------
 
@@ -748,11 +934,24 @@ Instead, once all your item have arrived, you then have to go to their parcels s
 
 For reference my 10 large A4 magazines weighhed a little over 5Kg and were eventually packed into a 35x28x18cm parcel The calculator's guesstimate for shipping to Western Europe came to around US$35 for surface shipping (2-3 months) and the cheapest air shipping was FedEx at around US$80. I also looked at shipping to the US - prices were very similar but they also had an additional option - Zen Express which cost around US$50 for 3-4 weeks shipping.
 
-But it's just a guesstimate, you have to complete the parcel section and only once they've really bundled all your items into a parcel do they send you a notification email with the actual price. It took about 3 days to actually put together the parcel (they do point out that they're short staffed and trying to hire at the moment) and the final fee was about US$5 more than the calculator guesstimate.
+But it's just a guesstimate, you have to complete the parcel section and only once they've really bundled all your items into a parcel do they send you a notification email with the actual price. It took about 3 days to actually put together the parcel (they do point out that they're short staffed and trying to hire at the moment) and the final fee was about US$5 more than the calculator guesstimate (even after applying the best discount code they currently had available).
 
 ZenMarket is noticeably more expensive on a per-item basis than CDJapan as they charge a &yen;500 fee per item but you get access to the whole Amazon Japan range rather than just the books and magazines that CDJapan chooses to offer. And while pasting URLs from Amanzon Japan into ZenMarket may not be super convenient, finding the item you want is much easier with the normal Amanzon Japan search than with CDJapan's search.
 
 I find the whole maintaining a balance with them thing a bit odd - I thought it might be needed to cover unexpected costs but they never actually withdraw funds without also stating a clear exact amount so I don't know why they don't just take payment for these amounts (the initial item purchases and then the shipping) like a most stores.
+
+KanjiVG
+-------
+
+Most of the stroke order diagrams seen everywhere come from the [KanjiVG project](https://kanjivg.tagaini.net/viewer.html?kanji=%E5%8F%B3).
+
+It comes with it's own viewer so you can e.g. easily compare the oddly different stoke order for [左](https://kanjivg.tagaini.net/viewer.html?kanji=%E5%B7%A6) and [右](https://kanjivg.tagaini.net/viewer.html?kanji=%E5%8F%B3).
+
+But you can also access all the associated data which has been used in lots of other [projects](https://kanjivg.tagaini.net/projects.html) including the [Nihilist stroke-order font](https://www.nihilist.org.uk/) used in e.g. many Anki decks.
+
+You can also find the data extracted into various forms in the repo [`Kimtaro/kanjivg2svg`](https://github.com/Kimtaro/kanjivg2svg) (see the `svgs.tar.gz` file) and others have generated PNGs from there (see this [Reddit thread](https://www.reddit.com/r/LearnJapanese/comments/awr5vw/downloading_stroke_order_image/)).
+
+See elsewhere on this page for a link to a Japanese StackExchange question where the reasons for the different stroke orders for 右 and 左 are explained.
 
 TODO
 ----
