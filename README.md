@@ -738,7 +738,7 @@ And the scans (from Demon Slayer - one of the most popular manga series) are so 
 
 ![blurry kobo furigana](images/blurry-kobo-furigana.png)
 
-I could DeDRM the book (which is a positive) and found that the pages are an amazingly tiny 764x1200 - even if you assume the diminutive [tankōbon](https://en.wikipedia.org/wiki/Tank%C5%8Dbon) size of 4.3x6.7" that's around 180dpi, i.e. well short of the 300dpi to 600dpi you'd expect for any kind of reasonable print quality.
+I could de-DRM the book (which is a positive) and found that the pages are an amazingly tiny 764x1200 - even if you assume the diminutive [tankōbon](https://en.wikipedia.org/wiki/Tank%C5%8Dbon) size of 4.3x6.7" that's around 180dpi, i.e. well short of the 300dpi to 600dpi you'd expect for any kind of reasonable print quality.
 
 > **Update:**
 >
@@ -752,7 +752,19 @@ I could DeDRM the book (which is a positive) and found that the pages are an ama
 >
 > Aside: take a look at the Kaiju no. 8 image and the Demon Slayer one - as well as the resolution issue, the [JPEG artifacts](https://en.wikipedia.org/wiki/Compression_artifact) are far worse. But both use JPEG which simply isn't a great format for black&white line art.
 
-To DRM the book:
+> **Update 2:**
+>
+> I looked to see if all the stores I'd looked at used the same reasonable resolution for Kaiju No. 8. Surprisingly, the answer is no. Kobo, Honto and BookWalker all used a page width of 1304 pixels (i.e. around 300dpi), while BookLive used 1078 pixels and Amazon used 720 pixels.
+>
+> * Amazon: 720
+> * BookLive: 1078
+> * BookWalker: 1304
+> * Honto: 1304
+> * Kobo: 1304
+>
+> I'd heard that Amazon was notorious for super low resolution and this seems to confirm it.
+
+To de-DRM the book:
 
 * I installed the [Kobo desktop app](https://www.kobo.com/jp/en/p/desktop).
 * I signed in via the app (it went through an odd account linking process which involved it making me log in twice with the same account details).
