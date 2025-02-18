@@ -754,7 +754,7 @@ I could de-DRM the book (which is a positive) and found that the pages are an am
 
 > **Update 2:**
 >
-> I looked to see if all the stores I'd looked at used the same reasonable resolution for Kaiju No. 8. Surprisingly, the answer is no. Kobo, Honto and BookWalker all used a page width of 1304 pixels (i.e. around 300dpi), while BookLive used 1078 pixels and Amazon used 720 pixels.
+> I looked to see if all the stores I'd looked at used the same reasonable resolution for Kaiju No. 8. Surprisingly, the answer is no. Kobo, Honto and BookWalker all used a page width of 1304 pixels (i.e. around 300dpi), while BookLive used 1078 pixels and Amazon used just 720 pixels.
 >
 > * Amazon: 720
 > * BookLive: 1078
@@ -763,6 +763,14 @@ I could de-DRM the book (which is a positive) and found that the pages are an am
 > * Kobo: 1304
 >
 > I'd heard that Amazon was notorious for super low resolution and this seems to confirm it.
+>
+> Out of curiosity, I downloaded the English translation of [Chainsaw Main 17](https://www.viz.com/manga-books/manga/chainsaw-man-volume-17/product/8147/digital) produced by VIZ Media who pride themselves on producing very high quality print edition translated manga. I thought they might insist on high resolution scans for the digital versions of their products. The version on Kobo was a bit higher resolution than Kaiju No. 8. - each page was 1500x2250 pixels.
+>
+> Aside: Calibre (see below) had issues opening the de-DRMed Japanese language Demon Slayer and Kaiju No. 8 manga but interestingly it could open and page thru the VIZ Media translation of Chainsaw Main - so, it's not some fundamental issue with books where the pages are images rather than text - but it still wasn't perfect, for some reason it behaved as if there were one or more blank pages between each of the real pages, i.e. time you turned a page I had to page thru several blank pages to get to the next real page.
+>
+> I think using the diminutive tankōbon as the reference when calculating DPI is being generous - the manga would have originally appeared in [Weekly Shōnen Jump](https://en.wikipedia.org/wiki/Weekly_Sh%C5%8Dnen_Jump) or similar which use a 7x10" format (that's also common for US graphic novels). And while the 4.3x6.7" tankōbon size may be common when collecting a particular series into volumes, I also have Japanese volumes of Akira (from Kodansha) and Nausicaä (from Animage) that use the 7x10" format.
+>
+> So, overall, the manga e-book experience is underwhelming.
 
 To de-DRM the book:
 
