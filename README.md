@@ -940,9 +940,9 @@ The items I bought arrived promptly and were very carefully packaged and in perf
 
 They operate quite differently to a usual online store. They require you to maintain a balance with them up front, i.e. you lodge money with them, and then when you put in an order for particular items from e.g. Amazon they pay for those items out of your balance.
 
-There's nothing stopping you lodging just enough money to cover your upcoming purchases but things become more difficult when it comes to shipping.
+There's nothing stopping you lodging just enough money to cover your upcoming purchases and the same later when it comes to shipping.
 
-The intial purchase works like this - you find what you want on Amazon Japan and then just paste the URL of each item into the ZenMarket product search field, it then shows you the item's Amazon page and lets you add that product to your ZenMarket basket. Once you've filled up your basket, click to buy everything.
+The intial purchase works like this - you find what you want on Amazon Japan and then just paste the URL of each item into the ZenMarket product search field, it then shows you the item's Amazon page and lets you add that product to your ZenMarket basket. Once you've filled up your basket, click to buy everything. They charge a fixed ¥500 handling fee per item, e.g. if you buy eight items, you pay an additional 8 * ¥500 = ¥4000 (about US$27) on top of the Amazon Japan prices.
 
 If you haven't already lodged enough money to complete the purchase it asks you to do so now before the purchase can be completed.
 
@@ -952,13 +952,15 @@ Unlike a normal online store, ZenMarket don't have a handle on the size and weig
 
 Instead, once all your item have arrived, you then have to go to their parcels section and bundle up those items into one or more parcels (I can't see why you'd split things across multiple parcels but maybe it makes sense for some cases). You can get a guesstimate for the shipping costs with their [How much will it cost?] calculator. But they don't make it easy - you first have to go thru the _create new parcel_ step and select all your items - this gives you a total weight, then go to the calculator and select the destination country, enter the weight and a guesstimate for the size.
 
-For reference my 10 large A4 magazines weighhed a little over 5Kg and were eventually packed into a 35x28x18cm parcel The calculator's guesstimate for shipping to Western Europe came to around US$35 for surface shipping (2-3 months) and the cheapest air shipping was FedEx at around US$80. I also looked at shipping to the US - prices were very similar but they also had an additional option - Zen Express which cost around US$50 for 3-4 weeks shipping.
+For reference my 10 large A4 magazines weighed a little over 5Kg and were eventually packed into a 35x28x18cm parcel The calculator's guesstimate for shipping to Western Europe came to around US$35 for surface shipping (2-3 months) and the cheapest air shipping was FedEx at around US$80. I also looked at shipping to the US - prices were very similar but they also had an additional option - Zen Express which cost around US$50 for 3-4 weeks shipping.
 
 But it's just a guesstimate, you have to complete the parcel section and only once they've really bundled all your items into a parcel do they send you a notification email with the actual price. It took about 3 days to actually put together the parcel (they do point out that they're short staffed and trying to hire at the moment) and the final fee was about US$5 more than the calculator guesstimate (even after applying the best discount code they currently had available).
 
-ZenMarket is noticeably more expensive on a per-item basis than CDJapan as they charge a &yen;500 fee per item but you get access to the whole Amazon Japan range rather than just the books and magazines that CDJapan chooses to offer. And while pasting URLs from Amanzon Japan into ZenMarket may not be super convenient, finding the item you want is much easier with the normal Amanzon Japan search than with CDJapan's search.
+ZenMarket is more expensive on a per-item basis than CDJapan, due to the &yen;500 fee per item, but you get access to the whole Amazon Japan range rather than just the books and magazines that CDJapan chooses to offer. And while pasting URLs from Amazon Japan into ZenMarket may not be super convenient, finding the item you want is much easier with the normal Amazon Japan search than with CDJapan's search.
 
 I find the whole maintaining a balance with them thing a bit odd - I thought it might be needed to cover unexpected costs but they never actually withdraw funds without also stating a clear exact amount so I don't know why they don't just take payment for these amounts (the initial item purchases and then the shipping) like a most stores.
+
+The shipping with FedEx was fairly slow (it took 12 days from pickup to delivery compared with 6 days for CDJapan even though it also used FedEx). The items came extremely well wrapped with the items first wrapped in plastic bags and then in bubble wrap with extra pieces of stiff card where necessary to ensure items weren't bent in transport - the packing was somewhat over the top for my collection of very cheap manga and other magazines.
 
 KanjiVG
 -------
