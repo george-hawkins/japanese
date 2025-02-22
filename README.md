@@ -10,11 +10,11 @@ Current plan
 
 Using the _JapanesePod101_ lesson series (see below) and the Hiragana and Katakana Pro apps for drilling. And the self-study workbook [Learning Japanese Hiragana and Katakana](https://www.amazon.com/dp/4805312270) and the [Genkouyoushi notebook](https://www.amazon.com/dp/B08D4RPJBN) for writing practice.
 
-**2.** Learn all kanji using RTK and Skritter (and possibly using WaniKani later to learn readings) - see [`skritter.md`](skritter.md) for relevant Skritter decks.
+**2.** Learn all kanji using RTK and Skritter (and possibly using WaniKani later to learn readings) - see [`skritter.md`](skritter.md) for relevant Skritter decks. Read the Kanshudo guide to reading kanji.
 
 **3.** Complete Genki 1 using the self-study material from _ToKini Andy_ (kickstart with this [video](https://www.youtube.com/watch?v=S55aWpRaV44), [playlist](https://www.youtube.com/playlist?list=PLA_RcUI8km1NMhiEebcbqdlcHv_2ngbO2) and [site](https://www.tokiniandy.com/)), along with "1000 Essential Vocabulary for the JLPT N5" from Collectif (_ToKini Andy_ suggests more actively learning this vocabulary than the chapter-by-chapter vocabulary introduced by Genki) and possibly using the Bunpro grammar webapp.
 
-Will set up Anki as described by _ToKini Andy_ and _Jouzu Juls_.
+Will set up Anki as described by _Jouzu Juls_ and _Trenton_.
 
 Tofugu
 ------
@@ -46,6 +46,7 @@ These playlists are too lightweight to provide a real grounding in grammar etc. 
 
 * ToKini Andy's [_Absolute Beginner Japanese_ playlist](https://www.youtube.com/playlist?list=PLA_RcUI8km1OvB9uN-8h0BSJnCLsHJvty).
 * Japanese Ammo with Misa's [_Absolute Beginner Japanese_ playlist](https://www.youtube.com/playlist?list=PLd5-Wp_4tLqZor0fbsXtP7t6npWeE-2IU).
+* _JapanesePod101_'s [Learn Japanese in 4 Hours](https://www.youtube.com/watch?v=XCILw-a0sdA) (the title is clickbait but...).
 
 Yes, ToKini and Misa used identical names for their playlists!
 
@@ -64,14 +65,27 @@ Yomichan was the main browser extension for hovering over words on any webpage t
 
 At this stage, I have quite a lot of Yomitan notes, so I've split them out into [`yomitan.md`](yomitan.md).
 
+Han unification
+---------------
+
+As a geek, I thought [Unicode](https://en.wikipedia.org/wiki/Unicode) had solved all text encoding problems. However, it seems that a decision called Han unfication (taken back when Unicode was strictly 16 bits and they wanted to limit the number of code points needed for the [CJK characters](https://en.wikipedia.org/wiki/CJK_characters)) means that when looking at text, you may see characters rendered using a Chinese variant rather than a Japanese one. And these variants can be dramatically different:
+
+![Chinese and Japanese character variants](images/han-unification.png)
+
+Whether you see 直 in its Chinese or Japanese variant depends on the font family being used. This is obviously a serious issue if you're learning kanji and is covered in the Anki setup videos linked to below. It's also something to be aware of when using anything else, e.g. Chrome etc.
+
+For more on Han unification, see the [Wikipedia article](https://en.wikipedia.org/wiki/Han_unification) (or the more digestible [subsection](https://en.wikipedia.org/wiki/Unicode#Han_unification) in the main Unicode Wikipedia article).
+
 Anki
 ----
 
-_Trenton_ has a nice into to setting up Anki for Japanese where he doesn't go mad on add-ons. He covers vocab vs sentence decks (he's not particularly anti vocab cards).
+How to use Anki and how to best set it up:
 
-TODO: see also setup videos from _ToKini Andy_ and _Jouzu Juls_
+* ["You Should Be Using Anki"](https://www.youtube.com/watch?v=_MWtbI4IwfU) by _Trenton_ - a nice intro to using and setting up Anki for Japanese where he doesn't go mad on add-ons. He covers vocab vs sentence decks (he's not particularly anti vocab cards).
+  He also recommends the [Kaishi 1.5K deck](https://github.com/donkuri/Kaishi) as a good bootstrapping deck - i.e. acquire enough basic vocab that you can actually make sentence cards where all but one of the words in the sentence is unknown to you.
+* ["How to Install & Use Anki"](https://www.youtube.com/watch?v=DcY2Svs3h8M) by _Jouzu Juls_. He also has videos on [fixing the Han unification issue](https://www.youtube.com/watch?v=wlmfncz-Wxg), [fixing pitch accent display](https://www.youtube.com/watch?v=gQFiLNL8yes) and an updated 2024 video on [Anki plugins](https://www.youtube.com/watch?v=ahGkFX4JPc8).
 
-He also recommends the [Kaishi 1.5K deck](https://github.com/donkuri/Kaishi) as a good bootstrapping deck - i.e. acquire enough basic vocab that you can actually make sentence cards where all but one of the words in the sentence is unknown to you.
+_ToKini Andy_ dosn't have a Anki getting-started video but he does think integrating Yomitan with Anki is the way to "supercharge your Japanese reading" and covers setting up the HTML etc. for the perfect cards and covers two addons - [AnkiConnect](https://ankiweb.net/shared/info/2055492159) (that allows external tools, like Yomitan, talk to Anki) and [Edit Field During Review](https://ankiweb.net/shared/info/385888438) (that allows you to edit cards while reviewing them). Both addons are open source.
 
 ### Decks
 
@@ -244,6 +258,8 @@ The solution to this is to download digital copies from [Anna'a Archive](https:/
 Pitch accent
 ------------
 
+**TLDR;** do the Musicca training, the Minimal Pitch Trainer, Dogen's Emurse course and look at the Kotu test and the Matt vs Japan / Ken Cannon deck. Take a look at _Dogen_'s Patreon.
+
 Pitch accent seems to be a controversial thing - some people seem to think it's essential and others that you can completely ignore it. _Metatron_ has a nice discussion of the "controversy" [here](https://www.youtube.com/watch?v=TwEw2WACbfc). Both he and ToKini Andy basically seem to say, you should probably ignore it until you're past N5 stage as there are more important things to focus on initially but that if you don't want your Japanese to sound weird, it's something you'll have to address eventually.
 
 See _Dogen_'s [playlist](https://www.youtube.com/playlist?list=PLxMXdmBM9wPvsySiMoBzgh8d68xqKz1YP). It starts with lots of short videos and then ends with a 2h 30m lecture. His [Patreon](https://www.patreon.com/dogen) also has lots of pitch-accent, pronunciation and phonetics material.
@@ -257,14 +273,14 @@ See _Dogen_'s [playlist](https://www.youtube.com/playlist?list=PLxMXdmBM9wPvsySi
 
 See _Jouzu Juls_'s japanese pronunciation [video](https://www.youtube.com/watch?v=aOxRYmWDaF4) that recommends _Dogen_'s video but adds really useful pointers, e.g.:
 
-* Using [minimal pairs](https://en.wikipedia.org/wiki/Minimal_pair) - he recommends the paid [Migaku Pitch Trainer](https://pitch.migaku.io/) (there's a free demo version [here](https://pitch-demo.migaku.io/) but also mentions a free alternative - see below, it's the one Trenton mentions too.
-* And if the whole thing is a complete struggle, he recommends a similar minimal pairs site but for music that has a [pitch section](https://www.musicca.com/exercises/circle/12) and an [interval section](https://www.musicca.com/exercises/circle/18) to get your brain attuned to the whole idea.
+* Using [minimal pairs](https://en.wikipedia.org/wiki/Minimal_pair) - he recommends the paid [Migaku Pitch Trainer](https://pitch.migaku.io/) (there's a free demo version [here](https://pitch-demo.migaku.io/)) but also mentions a free alternative - see below, it's the one Trenton mentions too.
+* And if the whole thing is a complete struggle, he recommends Musicca, a similar minimal pairs site, but for music that has a [pitch section](https://www.musicca.com/exercises/circle/12) and an [interval section](https://www.musicca.com/exercises/circle/18) to get your brain attuned to the whole idea.
 
 Matt vs Japan has a video with the infamous Ken Cannon where they discuss pitch accent but importantly also have exercises (around the 6m 30s mark - but the bits before are also important, e.g. not confusing stress in English with pitch accent): <https://www.youtube.com/watch?v=SaNr2xa4n3Q>
 
 The `README` for the deck they created is [here](matt-ken-pitch-accent-deck/README.md), for the actual deck itself you need to use the link in the description section of the YouTube video.
 
-Trenton (in this [video](https://www.youtube.com/watch?v=7fvCb5_Nzq4)) suggests this [minimal pairs test](https://kotu.io/tests/pitchAccent/minimalPairs) (which is an open source GitHub project).
+Trenton (in this [video](https://www.youtube.com/watch?v=7fvCb5_Nzq4)) suggests the Kotu [minimal pairs test](https://kotu.io/tests/pitchAccent/minimalPairs) (which is an open source [GitHub project](https://github.com/k3zi/kotu.kez.io)).
 
 Basically every major Japanese YouTuber has a pitch accent lesson (in some cases I've used a title taken from the content if the real title wasn't very clear):
 
@@ -279,12 +295,30 @@ Basically every major Japanese YouTuber has a pitch accent lesson (in some cases
 * _Dogen_ - see above.
 * _JapanesePod101_ - see below.
 
+Minimal pairs data
+------------------
+
+Minimal pairs are mentioned in the pitch accent section. But they're also relevant for e.g. long and short vowels. I tried googling for minimal pairs data but I didn't come across much.
+
+Apparently, the [Fluent Forever Pronunciation Trainer decks](https://fluent-forever.com/product/fluent-forever-pronunciation-trainer/) feature minimal pairs. Note: the link is to the old Anki decks that are still available to purchase (for US$12 each). Fluent Forever now focuses on decks for their own app (which, rather sadly, gets mediocre reviews on iOS and poor reviews on Android).
+
+There's this [Reddit post](https://www.reddit.com/r/japaneseresources/comments/183y3yi/list_of_4420_minimal_pairs/) where the author wrote a Python program to look for pairs in a data set of the 10,000 most frequent Japanese words on the internet, e.g. pairs like:
+
+* じょうし and じょし
+* さっき and さき
+
+And the resulting Google Sheets [document](https://docs.google.com/spreadsheets/d/1V_VEpg7jB7Lrgih_8Qbx_embMaNbmp2tizFk7UCiyxI/).
+
+Another hand-made set of Google Sheets can be found here on the [old Koohii forum](https://web.archive.org/web/20141018215154/http://forum.koohii.com/viewtopic.php?id=12246).
+
 Japanese pronunciation
 ----------------------
 
 TODO: See already links to pronunciation guides from Dogen, Mochi and others above.
 
 _Campanas de Japanese_ has a nice pronunciation [playlist](https://www.youtube.com/playlist?list=PLGos75KF4PaQWko1d_WJEVSmH71QFaTa8) and covers IPA, long vowels, sokuon, rhythm, pitch and more.
+
+_Japanese Ammo with Misa_ has a [nice one](https://www.youtube.com/watch?v=cRchrkpA5vs) too.
 
 ### Japanese R sound
 
@@ -408,9 +442,17 @@ There are obviously no end of textbooks for Japanese. However, I wanted one that
 
 Note: while Genki uses kanji and kana, it still uses a lot of English, i.e. it doesn't try to teach Japanese through Japanese.
 
-The publisher has a [self-study site](https://genki3.japantimes.co.jp/en/student/) for the book.
+### Genki
+
+The publisher has a [Genki 3 site](https://genki3.japantimes.co.jp/en/), it's of limited value but it does have some interesting material:
+
+* [How to use Genki](https://genki3.japantimes.co.jp/en/intro/) (ship to section 3) - interestingly, they anticipate you spending 9 hours on each lesson (6 on conversation and grammar and 3 on reading and writing).
+* [OTO Navi](https://bookclub.japantimes.co.jp/en/book/b491927.html) - unfortunately, the audio for the books is only available packaged into an app called OTO Navi (available for iOS and Android) - tho' videos for the dialogues are available on Vimeo.
+* [Self-study room](https://genki3.japantimes.co.jp/en/student/) - more Genki related apps and a drills section - it features [Quizlet](https://quizlet.com/) tests for vocab, grammar and kanji for each lesson and a link to each lessons dialogues as a video on Vimeo. 
 
 And _ToKini Andy_ has a full [playlist](https://www.youtube.com/playlist?list=PLA_RcUI8km1NMhiEebcbqdlcHv_2ngbO2) going through each chapter of the book. He also has this _great_ [video](https://www.youtube.com/watch?v=S55aWpRaV44) on how to really self-study with Genki. I think his [site](https://www.tokiniandy.com/) (requires subscription) is probably the way to go.
+
+For a brief no-nonsense self-study video, see ["How to Efficiently Self Study the Genki Textbooks"](https://www.youtube.com/watch?v=mnHIQsxZBu4) from _Alivia's Japanese Nook_, it's interesting to see what she skips, how she gave up on over-extensive notes and how she enjoyed the workbooks more than the exercises in the text books.
 
 A huge number of people have developed resources to go with Genki, e.g. Seth Clydesdale maintains a huge site [Genki Study Resources](https://sethclydesdale.github.io/genki-study-resources/lessons-3rd/) - it's name might imply that it's pointers to other resources but it's a coherent set of online exercises to work through as you progress thru the book.
 
@@ -418,9 +460,11 @@ Another YouTube playlist for Genki is this [one](https://www.youtube.com/playlis
 
 And see this [playlist](https://www.youtube.com/playlist?list=PLnEKCkcXNkol_qrzZBJDpwb7VQaJPnXiQ).
 
-And I'm not really sure what [this](https://www.youtube.com/playlist?list=PLT12i1gB38HGAc-zjgFA4YcJA2Z3gVZTL) is but it looks interesting - it may even be completely unrelated!
+See also _Game Gengo_'s Genki playlist mentioned elsewhere.
 
 TODO: see which playlists really have value.
+
+### Tobira
 
 A new contender in this space is [Tobira](https://tobiraweb.9640.jp/) - _ToKini Andy_ compares it to Genki in this [video](https://www.youtube.com/watch?v=p60pe02X2O0).
 
@@ -430,6 +474,8 @@ Kanji
 _Matt vs Japan_ makes a very convincing case for [Remembering the Kanji 1](https://uhpress.hawaii.edu/title/remembering-the-kanji-1-a-complete-course-on-how-not-to-forget-the-meaning-and-writing-of-japanese-characters/) by James W. Heisig [here](https://www.youtube.com/watch?v=TgRte6oSoF8) (though note that in video description section he says "I COMPLETELY DISAGREE WITH THIS VIDEO NOW" but the unfortunate consensus is that this coincides with Matt's attempt to monetize things with his own content and the content of this 2018 video is more valuable than his later monetization efforts).
 
 Anyway, Remembering the Kanji (often referred to on forums as just RTK) looks like a great start to me.
+
+See _ToKini Andy_'s [JLPT N5 and Kanken Level 10 kanji playlist](https://www.youtube.com/playlist?list=PLA_RcUI8km1ME3ewzc4pcJ-cA-cw0-nKa) for a nice series introducing kanji, how to learn them and then covering the 118 kanji of JLPT N5 and Kanken 10. He covers why you should not do the classic approach of learning individual kanji with all its readings (all without any context). Jump to the 14m 24s to see how he suggests learning the readings and suggests writing each kanji _every_ time it shows up in review, i.e. write one or more kanji per card reviewed, as he's convinced this helps memorization. He also mentions RTK and WaniKani. There's a Anki deck to go with the series (mentioned at the end of the video) available to Patreon members.
 
 ### Skritter
 
@@ -489,6 +535,12 @@ The videos are somewhat compressed forms of the ones available on the _JapaneseP
 
 A little oddly, the lessons do not cover hiragana long vowels (they do get a bit of a mention in the katakana series) but _JapanesePod101_ does cover them elsewhere (see long vowel notes elsewhere in this `README`).
 
+### ToKini Andy
+
+I liked _ToKini Andy_'s [hiragana](https://www.youtube.com/watch?v=uOJVWVONTw8) and [katakana](https://www.youtube.com/watch?v=W2D3RpA3iCU) where he goes thru how he draws each kana and his Japanese wife destroys them - and you hopefully learn something from the issues pointed out. However, I think he often picks up on unimportant differences between his characters and her perfect ones.
+
+He also has a 2+ hour video teaching [hiragana and katakana in pairs](https://www.youtube.com/watch?v=PGJ7JWSgst0), i.e. in parallel. I came across this video late - it looks very good but I used the JapanesePod101 resources.
+
 ### Apps
 
 After seeing it mentioned on YouTube, I actually did all my reading drill practice with:
@@ -542,12 +594,33 @@ Skritter, Hiragana Pro and Katakana Pro have audio, Tofugu’s quiz and Real Kan
 JapanesePod101
 --------------
 
-_JapanesePod101_ is an excellent resource so I'm unhappy that my first note is a complaint. For some reason they maintain two flashcard like features:
+_JapanesePod101_ is an excellent resource (mentioned elsewhere a number of times on this page) so I'm unhappy that my first note is a complaint. For some reason they maintain two flashcard like features:
 
 * On many leasons you can chose to add vocabulary to their own [SRS flashcards system](https://www.japanesepod101.com/learningcenter/flashcards/flashcards#/) that you can practice on their website or on their app - there appears to be no way to export these cards to Anki
 * They also have [wordbank system](https://www.japanesepod101.com/learningcenter/account/wordbank) which you can sync to their own flashcards system or export to XML (and from there potentially into Anki).
 
 I think this is just a small part of _JapanesePod101_ so, I don't think they need to use it as a way to lock people into their service - I think they should have done this all using Anki or added proper Anki intergration.
+
+### Pathways
+
+_JapanesePod101_ uses the term "pathway" to mean a series of lessons.
+
+My big issue with _JapanesePod101_ is that they have many very similar courses, e.g. for beginners:
+
+* [Level 1.1 Can Do Japanese](https://www.japanesepod101.com/lesson-library/can-do-japanese-for-absolute-beginners-1-1) (126 lessons).
+* [Level 1 Japanese](https://www.japanesepod101.com/lesson-library/level-1-japanese) (92 lessons).
+* [JLPT N5 Recommended Course](https://www.japanesepod101.com/lesson-library/jlpt-n5-recommended-course-1) (two parts - 90 + 60 lessons).
+* [Ultimate Video Getting Started](https://www.japanesepod101.com/lesson-library/ultimate-video-getting-started) (74 lessons).
+
+If you sign up, they do recommend "Level 1.1 Can Do Japanese" as your first pathway. And the "Ultimate Video Getting Started" features a lot of the content that they promote on YouTube (e.g. their introductions to hiragana and katakana mentioned elsewhere on this page) and looks like a good start covering all the basics.
+
+But I wish they'd give some more guidance on why you might choose one pathway over another or about whether some pathways are targetted at people with some specific goals.
+
+### Misc
+
+_JapanesePod101_ [Mastering Kanji e-book](https://cdn.innovativelanguage.com/sns/em/2019/Mastering_Kanji_1500.pdf) and the [pathway](https://www.japanesepod101.com/lesson-library/introduction-to-japanese-kanji) that goes with it (the videos are also available as a [YouTube playlist](https://www.youtube.com/playlist?list=PLPSfPyOOcp3T_aUjrx4OZsWgJ4tP-Ulpg)).
+
+Oddly, they give the book away (see link) but also sell it for US$20 [here](https://store.innovativelanguage.com/eBook-A-Radical-Approach-to-Mastering-Kanji_p_742.html) on their e-books store.
 
 Japanese keyboard
 -----------------
@@ -592,9 +665,13 @@ Online dictionary
 
 [jiisho](https://jisho.org/) is the clear king here - they pull together information from a lot of sources (see the footer at the bottom of the example linked just below).
 
-E.g. see their page for the kanji [四](https://jisho.org/search/%E5%9B%9B%20%23kanji).
+E.g. see their page for the kanji [四](https://jisho.org/search/%E5%9B%9B%20%23kanji). Mouse over the large representation of the kanji to see it in a more brush stroke style.
 
 You can also do English word lookup as well as Romaji and Japanese characters.
+
+See also [jpdb](https://jpdb.io/) (it's not primarily a dictionary but features kanji lookup). It feels a bit light-weight compared to Jisho but does have pitch accent diagrams and audio (two features oddly missing from Jisho).
+
+Compare the Jisho [page for 年](https://jisho.org/search/%E5%B9%B4%20%23kanji) and the Jpdb [page](https://jpdb.io/vocabulary/2084840/%E5%B9%B4).
 
 Refold
 ------
@@ -667,7 +744,7 @@ I did find:
 * [Kakimashou](https://www.kakimashou.com/dictionary/character/%E4%BA%BA) - I like that they use hiragana and katakana to distinguish between kun an on'yomi readings (this isn't standard but is fairly common in dictionaries - see this [note](https://www.sakurajapan.co.uk/post/the-difference-between-on-yomi-and-kun-yomi)).
 * [jpdb](https://jpdb.io/search?q=%E4%BA%BA).
 
-The both line up more-or-less on what they think are the most common readings. I also found various links to [ichi.moe](https://ichi.moe/cl/kanji/?q=%E4%BA%BA) as it also shows some kind of frequnency data for readings but it seems to be completely out of whack with Kakimashou or jpdb. This [comment](https://community.wanikani.com/t/which-site-for-kanji-readings-discrepancies/68756/4) in the Kanji section of the WaniKani forums seems to confirm my impression that ichi.moe data is suspect.
+The both line up more-or-less on what they think are the most common readings. I also found various links to [ichi.moe](https://ichi.moe/cl/kanji/?q=%E4%BA%BA) as it also shows some kind of frequnency data for readings but it seems to be completely out of whack with Kakimashou or jpdb. This [comment](https://community.wanikani.com/t/which-site-for-kanji-readings-discrepancies/68756/4) in the kanji section of the WaniKani forums seems to confirm my impression that ichi.moe data is suspect.
 
 ### Phonetic-semantic composition
 
@@ -975,11 +1052,16 @@ You can also find the data extracted into various forms in the repo [`Kimtaro/ka
 
 See elsewhere on this page for a link to a Japanese StackExchange question where the reasons for the different stroke orders for 右 and 左 are explained.
 
-TODO
-----
+Overcoming procrastination/avoidance
+------------------------------------
 
-Look at this sites that come up again and again:
+_ToKini Andy_ has a video on using a notebook approach to overcome procrastination [here](https://www.youtube.com/watch?v=7ELqLfEXrds).
 
-* [JapanesePod101](https://www.japanesepod101.com/), they have no end of free content, e.g. this [4 hour intro to Japanese](https://www.youtube.com/watch?v=XCILw-a0sdA) (despite the somewhat click-bait title, it seems good) but also have paid content (oddly the seem to have released this video a number of times on their channel, e.g. [here it is again](https://www.youtube.com/watch?v=8YV8KmfBbBM) four years earlier).
-* [Rocket Japanese](https://www.rocketlanguages.com/japanese) - I know nothing about this but it seems to be a competitor to _JapanesePod101_.
-* [Listening practice playlist](https://www.youtube.com/playlist?list=PLFGs3d9SobfjFHWguksKU91CC5cyEFeWi) from _Speak Japanese Naturally_
+The idea comes from _Reysu_'s ["A notebook to save you from infinite scrolling"](https://www.youtube.com/watch?v=OmyfB513E1s) video. He uses a squared A5 [Leuchtturm1917 notebook](https://www.leuchtturm1917.com/notebook-classic.html?preselect=2024).
+
+Listening practice
+------------------
+
+This section should be far bigger but to start with:
+
+* [Listening practice playlist](https://www.youtube.com/playlist?list=PLFGs3d9SobfjFHWguksKU91CC5cyEFeWi) from _Speak Japanese Naturally_ - features subtitles with furigana - assumes a fairly advanced level of Japanese from the first video on.
