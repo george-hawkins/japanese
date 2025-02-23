@@ -12,7 +12,7 @@ Using the _JapanesePod101_ lesson series (see below) and the Hiragana and Kataka
 
 **2.** Learn all kanji using RTK and Skritter (and possibly using WaniKani later to learn readings) - see [`skritter.md`](skritter.md) for relevant Skritter decks. Read the Kanshudo guide to reading kanji.
 
-**3.** Complete Genki 1 using the self-study material from _ToKini Andy_ (kickstart with this [video](https://www.youtube.com/watch?v=S55aWpRaV44), [playlist](https://www.youtube.com/playlist?list=PLA_RcUI8km1NMhiEebcbqdlcHv_2ngbO2) and [site](https://www.tokiniandy.com/)), along with "1000 Essential Vocabulary for the JLPT N5" from Collectif (_ToKini Andy_ suggests more actively learning this vocabulary than the chapter-by-chapter vocabulary introduced by Genki) and possibly using the Bunpro grammar webapp.
+**3.** Complete Genki 1 using the self-study material from _ToKini Andy_ (kickstart with this [video](https://www.youtube.com/watch?v=S55aWpRaV44), [playlist](https://www.youtube.com/playlist?list=PLA_RcUI8km1NMhiEebcbqdlcHv_2ngbO2) and [site](https://www.tokiniandy.com/)), along with the Tango N5 book (_ToKini Andy_ suggests more actively learning this vocabulary than the chapter-by-chapter vocabulary introduced by Genki) and possibly using the Bunpro grammar webapp.
 
 Will set up Anki as described by _Jouzu Juls_ and _Trenton_.
 
@@ -56,6 +56,19 @@ TODO: rewatch this video and note down the core elements here.
 
 Robin MacPherson has a [_Grammar Reference_ playlist](https://www.youtube.com/playlist?list=PLuIhQdwUVqqpq-aOnrEUjEq2oidCXbp9J) that he clearly imagined would develop into something much larger but he never got beyond the first five mini episodes. As someone who seems to be very interested in the mechanics of language learning, I thought he might bring something new to teaching the basics but that's not the case. At the start of his playlist, he mentions his upcoming course on learning Japanese through reading (working through nice graded readers) which sounds interesting but I can't find any other reference to this course via Google or on his [Patreon](https://www.patreon.com/robinmacpherson/collections). The only other Japanese-specific reader snippet that I could find from him is [here](https://www.youtube.com/watch?v=08eXk5PXVD8&t=695s) where he recommends the book [_Read Real Japanese_](https://www.tofugu.com/reviews/read-real-japanese/).
 
+Tango N5 1000
+-------------
+
+The Japanese title for this book is はじめての日本語能力試験N5単語1000 (which could be translated as "1000 JLPT N5 vocab for beginners").
+
+And the publisher's English title for the book is 1000 Essential Vocabulary for the JLPT N5.
+
+But on the web, it's commonly called N5 Tango (N5単語 - tango being the word for vocab).
+
+You can find it on Amazon [here](https://www.amazon.com/dp/4872179811/) (I don't know where the French "Trilingue en Japonais - Anglais - Chinois" in the Amazon title comes from - it's not even correct as the book is trilingual in Japanese, English and _Vietnamese_).
+
+The audio files that go with the book can be found [here](https://ask-books.com/jp/978-4-87217-981-1/) on the publisher's website.
+
 Yomichan
 --------
 
@@ -75,6 +88,20 @@ As a geek, I thought [Unicode](https://en.wikipedia.org/wiki/Unicode) had solved
 Whether you see 直 in its Chinese or Japanese variant depends on the font family being used. This is obviously a serious issue if you're learning kanji and is covered in the Anki setup videos linked to below. It's also something to be aware of when using anything else, e.g. Chrome etc.
 
 For more on Han unification, see the [Wikipedia article](https://en.wikipedia.org/wiki/Han_unification) (or the more digestible [subsection](https://en.wikipedia.org/wiki/Unicode#Han_unification) in the main Unicode Wikipedia article).
+
+### Android
+
+Open the _Google Keep_ app and paste 直 into a new note. Looking at the image of Chinese and Japanese variants, which variant do you see?
+
+On my Android Google Pixel 6a, I saw the Chinese variant.
+
+The solution was surprisingly easy (from this Reddit [post](https://www.reddit.com/r/LearnJapanese/comments/tvwpln/) - just go to _Settings / System / Languages / System Languages_ and add Japanese as a language:
+
+![system languages](images/android-languages.png)
+
+Then leave your phone alone for about 5 minutes as it goes off to Google Play and queries it for additional language data for every app on your phone and things behave a little oddly while this is happening.
+
+The only obvious difference after doing this is that the Japanese variant of 直 is shown in apps like Google Keep rather than the Chinese variant.
 
 Anki
 ----
@@ -113,7 +140,7 @@ The one thing I think the 92 likes one is missing is the constituents, i.e. the 
 
 Other very popular decks include the [All in One Kanji Deck](https://ankiweb.net/shared/info/798002504) (225 likes - last updated Apr 2017) but it seems to follow the route of treating kanji individually, each with a huge number or readings, rather than the approach lots of other people argue in favor of - a more digestible vocabulary based approach that introduces each new readings in the context of a concrete sentence where it's used.
 
-While not particularly popular, I'll link to them here as I'm interested in using [JLPT Tango N5](https://www.amazon.com/dp/4872179811/):
+While not particularly popular, I'll link to them here as I'm interested in using JLPT Tango N5:
 
 * [22 likes - last updated Jun 2021](https://ankiweb.net/shared/info/419481234)
 * [14 likes - last updated Feb 2020](https://ankiweb.net/shared/info/1295779105)
@@ -145,6 +172,8 @@ iOS and Android dictionary
 _Japanese_ used to be a very popular Japanese dictionary for both iOS and Android.
 
 The site still exists [here](https://www.japaneseapp.com/) but it seems to be dead at this stage, its Android [Play page](https://play.google.com/store/apps/details?id=com.renzo.japanese&pli=1) shows it isn't available for any recent phones. And its iOS [App Store page](https://apps.apple.com/us/app/japanese/id290664053) shows it hasn't got an update since 2019.
+
+**Update:** on Android, I now use the app [Japanese Dictionary Takoboto](https://play.google.com/store/apps/details?id=jp.takoboto) (or just use Jisho in my browser).
 
 Netflix
 -------
