@@ -968,7 +968,7 @@ If you search for these, you'll find many versions - you'll just have to look th
 
 ### Harry Potter
 
-There are multiple versions of Harry Potter available in Japan. I'd like to have been able to get the ones published by Shizuyamasha (like this one on [Amazon.co.jp](https://www.amazon.co.jp/-/en/dp/4863892306/) or on [CDJapan](https://www.cdjapan.co.jp/product/NEOBK-1634333)) but it's only available as a print book.
+There are multiple versions of Harry Potter available in Japan. I'd like to have been able to get the ones published by Shizuyamasha, as they include furigana for every single kanji, (like this one on [Amazon.co.jp](https://www.amazon.co.jp/-/en/dp/4863892306/) or on [CDJapan](https://www.cdjapan.co.jp/product/NEOBK-1634333)) but it's only available as a print book.
 
 Only the version published by Pottermore (now called Wizarding World Digital) is easily available as an e-book - here on [Amazon.co.jp](https://www.amazon.co.jp/-/en/dp/B0192CTNQI/) (but also available on all Amazon stores, e.g. here on [Amazon.com](https://www.amazon.com/-/en/dp/B0192CTNQI/)).
 
@@ -991,6 +991,8 @@ You can gauge the anticipated ability of the reader from the most difficult word
 * [認める](https://jisho.org/word/%E8%AA%8D%E3%82%81%E3%82%8B) (認 is N3 / grade 6)
 
 You'll also find editions of the Harry Potter books (and of other books that you simply can't easily purchase outside Japan) on Anna's Archive.
+
+An interesting series to accompany reading Harry Potter is 「ハリー・ポッター」が英語で楽しく読める本 ("Harry Potter" is a fun book to read in English). It's aimed at Japanese students who want to read Harry Potter in English but the details it provides on going from English to Japanese can also be used if you're going the other direction. See the complete series [here](https://www.amazon.co.jp/-/en/gp/product/B074CGP8XC) on Amazon.co.jp.
 
 Manga best sellers
 ------------------
