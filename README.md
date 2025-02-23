@@ -1092,6 +1092,8 @@ _Game Gengo_ has a whole channel covering this [approach](https://www.youtube.co
 
 E.g. if you have a Nintendo Switch, he rates the top Switch games for learning Japanese in [this video](https://www.youtube.com/watch?v=0E6ojcCS22k). [Persona 4](https://p-ch.jp/remaster/p4g/) comes top. But if you look at his [Persona 5 episode](https://www.youtube.com/watch?v=zbjakTmdBhM), I think it very rather involved for anyone who doesn't already know a good deal of Japanese.
 
+The Nintendo 3DS seems to have been great for apps that teach you kanji (see this [video](https://www.youtube.com/watch?v=Negh7VkFRVE) from _Game Gengo_). However, few seems to have survived into the Switch era - the only ones I could find were [Kanji Exam Smart Preparation](https://store-jp.nintendo.com/item/software/D70010000057667) and [Nobita's Kanji Strategy](https://store-jp.nintendo.com/item/software/D70010000033205).
+
 So, there are many normal games that you can play in Japanese. However, _good_ games designed to actively teach you Japanese seem fairly rare. An indy game that attempts this and has had good reviews form _Game Gengo_ and others is [Wagotabi](https://www.wagotabi.com/).
 
 Overcoming procrastination/avoidance
