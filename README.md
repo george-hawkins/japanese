@@ -14,6 +14,8 @@ Using the _JapanesePod101_ lesson series (see below) and the Hiragana and Kataka
 
 **3.** Complete Genki 1 using the self-study material from _ToKini Andy_ (kickstart with this [video](https://www.youtube.com/watch?v=S55aWpRaV44), [playlist](https://www.youtube.com/playlist?list=PLA_RcUI8km1NMhiEebcbqdlcHv_2ngbO2) and [site](https://www.tokiniandy.com/)), along with the Tango N5 book (_ToKini Andy_ suggests more actively learning this vocabulary than the chapter-by-chapter vocabulary introduced by Genki) and possibly using the Bunpro grammar webapp.
 
+**4.** Get to a point where I can use Satori Reader.
+
 Will set up Anki as described by _Jouzu Juls_ and _Trenton_.
 
 Tofugu
@@ -684,6 +686,21 @@ TODO: post readability data generated using jReadability for the transcripts of 
 
 <https://github.com/george-hawkins/comprehensible-japanese-grader/blob/master/complete-beginner-scores.md>
 
+### Listening practice
+
+This section should be far bigger but to start with:
+
+* [Listening practice playlist](https://www.youtube.com/playlist?list=PLFGs3d9SobfjFHWguksKU91CC5cyEFeWi) from _Speak Japanese Naturally_ - features subtitles with furigana - assumes a fairly advanced level of Japanese from the first video on.
+
+Graded readers
+--------------
+
+I did look into this at depth at one stage but didn't write any notes at the time, unfortunately.
+
+But the outcome was that [Satori Reader](https://www.satorireader.com/) looks to the stand-out site and app in this space. Every time it comes up, it seems to get very positive feedback - hence, me adding it to the core set of resources I want to use but maybe only once I've completed N5 and N4.
+
+See _Tofugu_'s [review](https://www.tofugu.com/japanese-learning-resources-database/satori-reader-apps/). Note: my impression is that Satori Reader is primarily about reading and listening to graded content that's been carefully chosen to match your ability. But back in 2017, it seems to have focused more on shadowing (see this earlier _Tofugu_ [review](https://www.tofugu.com/reviews/satori-reader/)). I don't know if they've given up on that element or simply de-emphasized it.
+
 Tech
 ----
 
@@ -1094,6 +1111,8 @@ E.g. if you have a Nintendo Switch, he rates the top Switch games for learning J
 
 The Nintendo 3DS seems to have been great for apps that teach you kanji (see this [video](https://www.youtube.com/watch?v=Negh7VkFRVE) from _Game Gengo_). However, few seems to have survived into the Switch era - the only ones I could find were [Kanji Exam Smart Preparation](https://store-jp.nintendo.com/item/software/D70010000057667) and [Nobita's Kanji Strategy](https://store-jp.nintendo.com/item/software/D70010000033205).
 
+Note: to buy apps, like Kanji Exam Smart Preparation, that are only available on the Japanese Nintendo store, you'll have to create a Japan-specific account but you don't need a Japanese credit card or VPN (as you do e.g. for Amazon Japan). See about 1m 5s into this [video](https://www.youtube.com/watch?v=8KElg6pEPvk) for more details.
+
 So, there are many normal games that you can play in Japanese. However, _good_ games designed to actively teach you Japanese seem fairly rare. An indy game that attempts this and has had good reviews form _Game Gengo_ and others is [Wagotabi](https://www.wagotabi.com/).
 
 Overcoming procrastination/avoidance
@@ -1102,10 +1121,3 @@ Overcoming procrastination/avoidance
 _ToKini Andy_ has a video on using a notebook approach to overcome procrastination [here](https://www.youtube.com/watch?v=7ELqLfEXrds).
 
 The idea comes from _Reysu_'s ["A notebook to save you from infinite scrolling"](https://www.youtube.com/watch?v=OmyfB513E1s) video. He uses a squared A5 [Leuchtturm1917 notebook](https://www.leuchtturm1917.com/notebook-classic.html?preselect=2024).
-
-Listening practice
-------------------
-
-This section should be far bigger but to start with:
-
-* [Listening practice playlist](https://www.youtube.com/playlist?list=PLFGs3d9SobfjFHWguksKU91CC5cyEFeWi) from _Speak Japanese Naturally_ - features subtitles with furigana - assumes a fairly advanced level of Japanese from the first video on.
