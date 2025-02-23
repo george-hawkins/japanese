@@ -205,13 +205,15 @@ Crunchyroll
 
 ### Download subtitles (for Crunchyroll, Netflix and more)
 
-But there are ways to get around this, e.g. using the Chrome extension [asbplayer](https://chromewebstore.google.com/detail/asbplayer-language-learni/hkledmpjpaehamkiehglnbelcpdflcab) (it's open source and also available [here on GitHub](https://github.com/killergerbah/asbplayer)).
+But there are ways to get around this, e.g. using the Chrome extension [asbplayer](https://chromewebstore.google.com/detail/asbplayer-language-learni/hkledmpjpaehamkiehglnbelcpdflcab). It's open source and also available [here on GitHub](https://github.com/killergerbah/asbplayer)).
 
 Or using [substital](https://substital.com/) or [Jimaku Player](https://github.com/sheodox/jimaku-player/) (tho' development stopped 2 years ago).
 
 [jimaku.cc](https://jimaku.cc/) seems to be the place to download subtitles.
 
 Note: Jimaku Player isn't associated with jimaku.cc - it's just one of many tools for playing subtitles from jimaku.cc.
+
+asbplayer seems to be the most popular player in this space, is being actively developed and is recommended by people like Refold (see this [video](https://www.youtube.com/watch?v=GYsf-NOVoYc)).
 
 Beginner anime
 --------------
@@ -439,6 +441,14 @@ PS I also wish the dashboard, that you bring up via the Migaku extension button 
 **Update:** it turns out that you can return to studying a course by clicking the arrow to the the right side of the _Study all decks_. Obvious once you know, but another example of beauty over functionality, I just saw this box as a header for the rest of the content on the page and I'd view studying decks as just meaning card review, it'd never occur to me that it'd also mean study course content related to the decks:
 
 ![Study Migaku decks](images/migaku-study-decks.png)
+
+### Migaku alternatives
+
+In the end, I was disappointed at how hard it is to get Japanese content legally. If you don't care what you watch, there is lots of Japanese content available on Netflix outside Japan but if you come across something specific on YouTube and think "I'd like to watch that", the chances are it won't be available in Japanese internationally (and even within Japan, Netflix doesn't have many of the most popular anime).
+
+So, given that Migaku only with content from suppliers such as Netflix that's a serious limit on the content for which it's useful.
+
+For something similar for content from any source, including locally hosted content, see asbplayer mentioned elsewhere here.
 
 YouTubers
 ---------
