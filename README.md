@@ -1119,11 +1119,28 @@ _Game Gengo_ has a whole channel covering this [approach](https://www.youtube.co
 
 E.g. if you have a Nintendo Switch, he rates the top Switch games for learning Japanese in [this video](https://www.youtube.com/watch?v=0E6ojcCS22k). [Persona 4](https://p-ch.jp/remaster/p4g/) comes top. But if you look at his [Persona 5 episode](https://www.youtube.com/watch?v=zbjakTmdBhM), I think it very rather involved for anyone who doesn't already know a good deal of Japanese.
 
-The Nintendo 3DS seems to have been great for apps that teach you kanji (see this [video](https://www.youtube.com/watch?v=Negh7VkFRVE) from _Game Gengo_). However, few seems to have survived into the Switch era - the only ones I could find were [Kanji Exam Smart Preparation](https://store-jp.nintendo.com/item/software/D70010000057667) and [Nobita's Kanji Strategy](https://store-jp.nintendo.com/item/software/D70010000033205).
+### Kanji games
+
+The Nintendo 3DS seems to have been great for apps that teach you kanji (see this [video](https://www.youtube.com/watch?v=Negh7VkFRVE) from _Game Gengo_). However, few seems to have survived into the Switch era - the only ones I could find were:
+
+* [Kanji Exam Smart Preparation](https://store-jp.nintendo.com/item/software/D70010000057667) - 5,478円
+* [Nobita's Kanji Strategy](https://store-jp.nintendo.com/item/software/D70010000033205) - 1,125円
+* The House of Kanji and the Ghosts - 1,000円 for each grade, i.e.  6,000円 for all six.
+  * [Grade 1](https://store-jp.nintendo.com/item/software/D70010000016950)
+  * [Grade 2](https://store-jp.nintendo.com/item/software/D70010000016951)
+  * [Grade 3](https://store-jp.nintendo.com/item/software/D70010000017177)
+  * [Grade 4](https://store-jp.nintendo.com/item/software/D70010000016953)
+  * [Grade 5](https://store-jp.nintendo.com/item/software/D70010000017176)
+  * [Grade 6](https://store-jp.nintendo.com/item/software/D70010000016955)
+* [Kanji Stadium](https://store-jp.nintendo.com/item/software/D70010000046161) - free (features in-app purchases)
+
+The first three involve writing kanji while the last one - Kanji Stadium is more unusual quiz-show format that seems to be about recognising kanji.
 
 Note: to buy apps, like Kanji Exam Smart Preparation, that are only available on the Japanese Nintendo store, you'll have to create a Japan-specific account but you don't need a Japanese credit card or VPN (as you do e.g. for Amazon Japan). See about 1m 5s into this [video](https://www.youtube.com/watch?v=8KElg6pEPvk) for more details.
 
-So, there are many normal games that you can play in Japanese. However, _good_ games designed to actively teach you Japanese seem fairly rare. An indy game that attempts this and has had good reviews form _Game Gengo_ and others is [Wagotabi](https://www.wagotabi.com/).
+### Educational games
+
+_Good_ games designed to actively teach you Japanese seem fairly rare. An indy game that attempts this and has had good reviews form _Game Gengo_ and others is [Wagotabi](https://www.wagotabi.com/).
 
 Overcoming procrastination/avoidance
 ------------------------------------
