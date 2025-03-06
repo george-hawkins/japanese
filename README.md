@@ -1055,6 +1055,8 @@ In the end, my experience is that buying low-value items like magazines from Jap
 
 TODO: ZenMarket let me pay the tax upfront did CDJapan also cover this or did I get a bill later?
 
+**Update:** I later bought the two volumes ([1-1](https://www.cdjapan.co.jp/product/NEOBK-2969551) and [1-2](https://www.cdjapan.co.jp/product/NEOBK-2969553)) that correspond to the first Harry Potter book (in a version that has furigana for _every_ kanji but unfortunately is not available in e-book format) from CDJapan. Each volume was US$5 and airmail shipping (with no tracking) was US$12. At a total price of US$22, this _felt_ less of a shock shipping-wise than my manga haul and the airmail shipping, at 12 days, was no worse than the time it took FedEx to deliver my ZenMarket order.
+
 ### CDJapan
 
 [CDJapan](https://www.cdjapan.co.jp/) is the more similar of the two to a normal online store. They stock all kinds of Japanese books, magazines, figurines and more.
