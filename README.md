@@ -91,6 +91,11 @@ Whether you see 直 in its Chinese or Japanese variant depends on the font famil
 
 For more on Han unification, see the [Wikipedia article](https://en.wikipedia.org/wiki/Han_unification) (or the more digestible [subsection](https://en.wikipedia.org/wiki/Unicode#Han_unification) in the main Unicode Wikipedia article).
 
+Fonts
+-----
+
+If you want to compare how characters look in many different fonts then try [Google Fonts](https://fonts.google.com/?subset=japanese&preview.text=%E7%9B%B4%E5%9C%A8%E5%AD%98%E3%81%B2%E3%82%AB&preview.text_type=custom&script=Jpan) with the language filter set to Japanese and with the particular characters you're curious about in the preview text area.
+
 ### Android
 
 Open the _Google Keep_ app and paste 直 into a new note. Looking at the image of Chinese and Japanese variants, which variant do you see?
@@ -115,6 +120,8 @@ How to use Anki and how to best set it up:
 * ["How to Install & Use Anki"](https://www.youtube.com/watch?v=DcY2Svs3h8M) by _Jouzu Juls_. He also has videos on [fixing the Han unification issue](https://www.youtube.com/watch?v=wlmfncz-Wxg), [fixing pitch accent display](https://www.youtube.com/watch?v=gQFiLNL8yes) and an updated 2024 video on [Anki plugins](https://www.youtube.com/watch?v=ahGkFX4JPc8).
 
 _ToKini Andy_ dosn't have a Anki getting-started video but he does think integrating Yomitan with Anki is the way to "supercharge your Japanese reading" and covers setting up the HTML etc. for the perfect cards and covers two addons - [AnkiConnect](https://ankiweb.net/shared/info/2055492159) (that allows external tools, like Yomitan, talk to Anki) and [Edit Field During Review](https://ankiweb.net/shared/info/385888438) (that allows you to edit cards while reviewing them). Both addons are open source.
+
+For a clean simple template, see [Crop Theft](https://github.com/Kuuuube/crop-theft) - there's no end of these templates but this one comes from someone who seems to put some effort into developing Japanese related tools (see [here](https://github.com/Kuuuube#japanese-tools) on GitHub).
 
 ### Decks
 
@@ -281,6 +288,8 @@ See their [about page](https://animelon.com/about) for much more - e.g. how you 
 
 There doesn't seem to be an obvious way to download their content and page loading and playback often takes a long time. Hosting and delivering video content isn't cheap and they seem to be generally underfunded (they take donations) and relatively frequently seem to disappear altogether for shorter or longer periods.
 
+**Update:** see [here](https://github.com/Kuuuube/animelon_dl) for an Animelon downloader.
+
 More piracy
 -----------
 
@@ -314,6 +323,8 @@ Matt vs Japan has a video with the infamous Ken Cannon where they discuss pitch 
 The `README` for the deck they created is [here](matt-ken-pitch-accent-deck/README.md), for the actual deck itself you need to use the link in the description section of the YouTube video.
 
 Trenton (in this [video](https://www.youtube.com/watch?v=7fvCb5_Nzq4)) suggests the Kotu [minimal pairs test](https://kotu.io/tests/pitchAccent/minimalPairs) (which is an open source [GitHub project](https://github.com/k3zi/kotu.kez.io)).
+
+**Update:** probably not terribly relevant but for an alternative implementation see Kuuuube's version - GitHub [repo](https://github.com/Kuuuube/minimal-pairs) and the [online test](https://github.com/Kuuuube/minimal-pairs).
 
 Basically every major Japanese YouTuber has a pitch accent lesson (in some cases I've used a title taken from the content if the real title wasn't very clear):
 
@@ -533,6 +544,26 @@ Aside: see this [Japanese StackExchange question](https://japanese.stackexchange
 See reviews [here](https://ltl-school.com/skritter-review/), [here](https://www.joyokanjikai.com/learning-japanese/skritter-review/) and [here](https://www.youtube.com/watch?v=5Pglt4az_N0) (the last is by _Robin MacPherson_ who's mentioned above).
 
 The rest of my Skritter notes are in [`skritter.md`](skritter.md).
+
+### Skritter alternatives
+
+I didn't find any good shoot-out style reviews that tried to compare apps where learning to write the kanji is one of the main goals.
+
+These are some apps that I've come across but I haven't tried out any of them:
+
+* Obenkyo - [Google Play](https://play.google.com/store/apps/details?id=com.Obenkyo).
+* Japanese Kanji Study - [Google Play](https://play.google.com/store/apps/details?id=com.mindtwisted.kanjistudy), [website](https://kanjistudyapp.com/) and Tofugu [review](https://www.tofugu.com/japanese-learning-resources-database/japanese-kanji-study/).
+* Ringotan - [Google Play](https://play.google.com/store/apps/details?id=com.Ringotan), [iOS App Store](https://apps.apple.com/us/app/ringotan/id1633001064), [WaniKani announcement](https://community.wanikani.com/t/ringotan-free-app-for-learning-how-to-write-kanji/51702), [Reddit announcement](https://www.reddit.com/r/LearnJapanese/comments/m6yk84/ringotan_free_android_app_for_learning_how_to/), [website](https://www.ringotan.com/).
+* Kanji Senpai - [Google Play](https://play.google.com/store/apps/details?id=jp.rodriguez.kanjisenpai.android), [website](https://kanjisenpai.rodriguez.jp/).
+* Japanese Kanji Study - [Google Play](https://play.google.com/store/apps/details?id=com.porolingo.kanji).
+* Learn Japanese! - Kanji Study - [Google Play](https://play.google.com/store/apps/details?id=com.lulilanguages.j5KjAnd) and [iOS App Store](https://apps.apple.com/us/app/learn-japanese-kanji/id1078107994).
+
+### Writing practice sheets
+
+There are many sites that can generate kanji practice sheets for print out. Here's two I liked:
+
+* Henckq's [Generator for Kanji Writing Practice Sheets](https://henckq.nl/kanji/) - a nice feature of this is that it can generate sheets corresponding to chapters of RTK.
+* Jensen Kuras's [Kanji Worksheets](https://jensechu.github.io/kanji/) (and GitHub [repo](https://github.com/jensechu/kanji)) - nice, simple and clean.
 
 ### Misc
 
