@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--
+Copyright (C) 2009/2010/2011 Ulrich Apel.
+This work is distributed under the conditions of the Creative Commons
+Attribution-Share Alike 3.0 Licence. This means you are free:
+* to Share - to copy, distribute and transmit the work
+* to Remix - to adapt the work
+
+Under the following conditions:
+* Attribution. You must attribute the work by stating your use of KanjiVG in
+  your own copyright header and linking to KanjiVG's website
+  (http://kanjivg.tagaini.net)
+* Share Alike. If you alter, transform, or build upon this work, you may
+  distribute the resulting work only under the same or similar license to this
+  one.
+
+See http://creativecommons.org/licenses/by-sa/3.0/ for more details.
+-->
+
+<svg
+   width="109"
+   height="109"
+   viewBox="0 0 109 109"
+   version="1.1"
+   id="svg5"
+   sodipodi:docname="right-migi.1.svg"
+   inkscape:version="1.4 (e7c3feb1, 2024-10-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:kvg="http://kanjivg.tagaini.net">
+  <defs
+     id="defs5" />
+  <sodipodi:namedview
+     id="namedview5"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="10.715596"
+     inkscape:cx="54.546661"
+     inkscape:cy="54.5"
+     inkscape:window-width="2560"
+     inkscape:window-height="1387"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
+  <path
+     id="kvg:053f3-s1"
+     kvg:type="㇒"
+     d="m 53.5,21.5 c 0.62,1.12 0.69,2.23 0.25,4 C 49.62,42 39.5,61 25.25,74.25"
+     style="fill:none;stroke:#f71941;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+  <path
+     id="kvg:053f3-s2"
+     kvg:type="㇐"
+     d="m 13,42.15 c 1.9,0.56 5.9,0.52 7.79,0.34 23.41,-2.24 49.76,-5.74 67.67,-6.3 3.24,-0.1 6.45,0.31 9.17,0.81"
+     style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round" />
+  <path
+     id="kvg:053f3-s3"
+     kvg:type="㇑"
+     d="m 41.75,66.5 c 0.75,0.75 1.35,1.93 1.54,2.95 0.94,5 2.38,16.66 3.07,22.76 0.24,2.15 0.39,2.8 0.39,3.54"
+     style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round" />
+  <path
+     id="kvg:053f3-s4"
+     kvg:type="㇕b"
+     d="m 43.25,68 c 5.25,-0.5 29.75,-3.25 37,-3.75 1.75,-0.12 3.24,1.52 3,2.75 -1,5.12 -3.38,18 -4.5,23.25"
+     style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round" />
+  <path
+     id="kvg:053f3-s5"
+     kvg:type="㇐b"
+     d="m 47,93.25 c 5.79,-0.2 19.51,-1.58 28.25,-2.23 2.21,-0.17 4.18,-0.27 5.75,-0.27"
+     style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round" />
+  <g
+     id="kvg:StrokeNumbers_053f3"
+     style="font-size:8;fill:#808080">
+    <text
+       transform="matrix(1 0 0 1 47 20)"
+       id="text1">1</text>
+    <text
+       transform="matrix(1 0 0 1 8.25 40)"
+       id="text2">2</text>
+    <text
+       transform="matrix(1 0 0 1 37.25 78.63)"
+       id="text3">3</text>
+    <text
+       transform="matrix(1 0 0 1 45.75 64.50)"
+       id="text4">4</text>
+    <text
+       transform="matrix(1 0 0 1 51.75 89.43)"
+       id="text5">5</text>
+  </g>
+</svg>

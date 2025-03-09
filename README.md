@@ -528,6 +528,8 @@ They have a nice [blog post](https://blog.skritter.com/2021/05/the-ultimate-guid
 
 Aside: see this [Japanese StackExchange question](https://japanese.stackexchange.com/q/204/66028) about the stroke order of 右 and 左 for an example of how things aren't so simple (the first two answers are the most valuable). Or, even more basic, see the different stroke orders for mo in hiragana vs katakana, i.e. も vs モ (see [this](https://japanese.stackexchange.com/q/4149/66028) Japanese StackExchange answer and for a nice graphic showing the different orders, see the Wikipedia [Mo (kana) page](https://en.wikipedia.org/wiki/Mo_(kana))).
 
+**Update:** see [`stroke-order.md`](stroke-order.md) for a deeper dive into these stroke order issues.
+
 See reviews [here](https://ltl-school.com/skritter-review/), [here](https://www.joyokanjikai.com/learning-japanese/skritter-review/) and [here](https://www.youtube.com/watch?v=5Pglt4az_N0) (the last is by _Robin MacPherson_ who's mentioned above).
 
 The rest of my Skritter notes are in [`skritter.md`](skritter.md).
@@ -1111,6 +1113,11 @@ But you can also access all the associated data which has been used in lots of o
 You can also find the data extracted into various forms in the repo [`Kimtaro/kanjivg2svg`](https://github.com/Kimtaro/kanjivg2svg) (see the `svgs.tar.gz` file) and others have generated PNGs from there (see this [Reddit thread](https://www.reddit.com/r/LearnJapanese/comments/awr5vw/downloading_stroke_order_image/)).
 
 See elsewhere on this page for a link to a Japanese StackExchange question where the reasons for the different stroke orders for 右 and 左 are explained.
+
+Stroke order
+------------
+
+For more on stroke order, see [`stroke-order.md`](stroke-order.md).
 
 Games
 -----
