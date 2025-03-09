@@ -121,7 +121,7 @@ How to use Anki and how to best set it up:
 
 _ToKini Andy_ dosn't have a Anki getting-started video but he does think integrating Yomitan with Anki is the way to "supercharge your Japanese reading" and covers setting up the HTML etc. for the perfect cards and covers two addons - [AnkiConnect](https://ankiweb.net/shared/info/2055492159) (that allows external tools, like Yomitan, talk to Anki) and [Edit Field During Review](https://ankiweb.net/shared/info/385888438) (that allows you to edit cards while reviewing them). Both addons are open source.
 
-For a clean simple template, see [Crop Theft](https://github.com/Kuuuube/crop-theft) - there's no end of these templates but this one comes from someone who seems to put some effort into developing Japanese related tools (see [here](https://github.com/Kuuuube#japanese-tools) on GitHub).
+For a clean simple template, see [Crop Theft](https://github.com/Kuuuube/crop-theft) - there's no end of these templates but this one comes from someone who seems to put some effort into developing Japanese related tools (see [here](https://github.com/Kuuuube#japanese-tools) on GitHub). See the FAQ if you don't see sentences etc. as expected when reviewing the cards.
 
 ### Decks
 

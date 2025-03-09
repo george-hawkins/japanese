@@ -5,9 +5,9 @@ Even before you've finished learning the basic kana, it's clear that there are n
 
 The hiragana and katakana _mo_ characters look somewhat similar, yet their stroke order is different:
 
-<img src="images/kanjisvg/hira-mo.svg" width="120px" />
-
-<img src="images/kanjisvg/kata-mo.svg" width="120px" />
+| Hiragana                                                  | Katakana                                                  |
+|-----------------------------------------------------------|-----------------------------------------------------------|
+| <img src="images/kanjisvg/hira-mo.1.svg" width="120px" /> | <img src="images/kanjisvg/kata-mo.1.svg" width="120px" /> |
 
 Even experienced teachers can find themselves corrected on this one - e.g. see this [video](https://www.youtube.com/watch?v=uOJVWVONTw8) where _ToKini Andy_ discovers that he's been getting the order wrong for twelve years (see the intro and in more detail 1hr 4min 38s into the video).
 
