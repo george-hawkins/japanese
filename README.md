@@ -121,7 +121,7 @@ How to use Anki and how to best set it up:
 
 _ToKini Andy_ dosn't have a Anki getting-started video but he does think integrating Yomitan with Anki is the way to "supercharge your Japanese reading" and covers setting up the HTML etc. for the perfect cards and covers two addons - [AnkiConnect](https://ankiweb.net/shared/info/2055492159) (that allows external tools, like Yomitan, talk to Anki) and [Edit Field During Review](https://ankiweb.net/shared/info/385888438) (that allows you to edit cards while reviewing them). Both addons are open source.
 
-For a clean simple template, see [Crop Theft](https://github.com/Kuuuube/crop-theft) - there's no end of these templates but this one comes from someone who seems to put some effort into developing Japanese related tools (see [here](https://github.com/Kuuuube#japanese-tools) on GitHub). See the FAQ if you don't see sentences etc. as expected when reviewing the cards.
+For a clean simple template, see [Crop Theft](https://github.com/Kuuuube/crop-theft) - there's no end of these templates but this one comes from someone who seems to put some effort into developing Japanese related tools (see [here](https://github.com/Kuuuube#japanese-tools) on GitHub). See the FAQ if you don't see sentences etc. as expected when reviewing the cards. I suspect tho' that the template that's part of the Kaishi 1.5K deck is at least as good and probably the one to go with.
 
 ### Decks
 
@@ -821,6 +821,8 @@ Readings
 Kanshudo has a very nice [intro to readings](https://www.kanshudo.com/howto/how-to-read-kanji), how to learn them (one at a time) and how to guess which reading that you already know will apply in a new situation (based on whether the kanji is used okurigana etc.).
 
 Tofugu has a rather more massive take on similar material [here](https://www.tofugu.com/japanese/onyomi-kunyomi/).
+
+**Update:** it turns out on and kun'yomi readings don't cover everything, e.g. delicious is usually written as おいしい but it can also be written as 美味しい but if you look up the readings for 美味, there's none that combine to give おい. For an explanation of this issue (ateji 当て字) see this [article](https://www.tofugu.com/japanese/weird-kanji-readings/) from Tofugu (jūbako-yomi 重箱読じゅうばこよみ and yutō-yomi 湯桶読ゆとうよみ where on'yomi readings are used for one or more characters in a word and kon'yomi readings for the others).
 
 ### Reading frequency
 
