@@ -1184,6 +1184,20 @@ Note: to buy apps, like Kanji Exam Smart Preparation, that are only available on
 
 _Good_ games designed to actively teach you Japanese seem fairly rare. An indy game that attempts this and has had good reviews form _Game Gengo_ and others is [Wagotabi](https://www.wagotabi.com/).
 
+Subscriptions I've paid for
+---------------------------
+
+* Comprehensible Japanese - [pricing](https://cijapanese.com/pricing)
+* JapanesePod101 - [pricing](https://www.japanesepod101.com/pricing)
+* Migaku - [pricing](https://migaku.com/pricing)
+* Skritter - [pricing at bottom of main page](https://skritter.com/)
+* Kanshudo - [pricing](https://www.kanshudo.com/pro)
+
+Thought so far:
+
+* I liked JapanesePod101 for their hiragana and katakana lessons but I'm not sure I'll use it much more.
+* I'm now unconvinced I'll actually use Migaku beyond the pitch trainer (which isn't exactly its core value proposition).
+
 Overcoming procrastination/avoidance
 ------------------------------------
 

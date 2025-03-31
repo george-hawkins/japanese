@@ -24,6 +24,8 @@ When introducing stroke order, most sites and videos don't go much beyond the ba
 
 The fact that they felt it necessary to tag on an exception to rule 4, that they didn't cover in the accompanying video, shows it's hard to come up with even a basic set of rules.
 
+**Update:** ToKini Andy presents a fairly similar set of rules with a bit more details in videos two and three of his [JLPT N5 kanji series](https://www.youtube.com/playlist?list=PLA_RcUI8km1ME3ewzc4pcJ-cA-cw0-nKa).
+
 It would better to call these guidelines than rules as even within the first kanji that you learn, you'll find exceptions. The stroke order is a product of the historical development of how these characters were drawn and sometimes this has surprising consequences.
 
 The best known example, within the first 100 kanji that you typically learn, is 右 and　左 (left and right). Despite their similarity, they have different first strokes:
