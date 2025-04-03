@@ -1088,7 +1088,7 @@ However, read [`manga-purchases.md`](manga-purchases.md) before copying my examp
 
 In the end, my experience is that buying low-value items like magazines from Japan is expensive due to the shipping. E.g. below you can see I spent around US$50 on ten or so magazines at both CDJapan and ZenMarket but shipping was more than US$70 in both cases.
 
-TODO: ZenMarket let me pay the tax upfront did CDJapan also cover this or did I get a bill later?
+Both CDJapan and ZenMarket handled paying the import duties as part of the overall order cost (for ZenMarket, doing so was an optional part of the package creation process, for CDJapan, duties were not split out as a separate item and there was no option not to pay them). This is very convenient for countries like Switzerland where paying the duties up front is much cheaper than letting FedEx, UPS or whoever handle this as part of the import process.
 
 **Update:** I later bought the two volumes ([1-1](https://www.cdjapan.co.jp/product/NEOBK-2969551) and [1-2](https://www.cdjapan.co.jp/product/NEOBK-2969553)) that correspond to the first Harry Potter book (in a version that has furigana for _every_ kanji but unfortunately is not available in e-book format) from CDJapan. Each volume was US$5 and airmail shipping (with no tracking) was US$12. At a total price of US$22, this _felt_ less of a shock shipping-wise than my manga haul and the airmail shipping, at 12 days, was no worse than the time it took FedEx to deliver my ZenMarket order.
 
