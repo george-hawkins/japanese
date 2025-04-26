@@ -990,6 +990,14 @@ So, perhaps yet another reason to bite-the-bullet and get setup with Amazon Japa
 
 And then work through it with the English version ([here](https://www.amazon.com/-/en/dp/B07CTBBGZF/) on Amazon US) as an aid.
 
+### Manga upscaling
+
+As noted above, the resolution of digital versions of manga is often disappointing and furigana in particular are often blurry and hard to read.
+
+One solution is to try sites like nyaa.si (see elsewhere here) where uploaders have often tracked down the highest quality versions available.
+
+Another approach is to use AI upscaling - there are many tools for this, a popular open source one is [Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN) (active development seems to have stopped in April 2024). Rather confusingly they use the term anime for both manga and anime, so their `RealESRGAN_x4plus_anime_6B.pth` model is meant for four-times scaling of manga images while their `realesr-animevideov3.pth` model is meant for video. See their [anime model page](https://github.com/xinntao/Real-ESRGAN/blob/master/docs/anime_model.md) and their [model zoo page](https://github.com/xinntao/Real-ESRGAN/blob/master/docs/model_zoo.md) for more details. In the [releases section](https://github.com/xinntao/Real-ESRGAN/releases), you'll find binaries for macOS, Windows and Linux for v0.2.5 (but only source for the latest v0.3 version).
+
 ### Tachiyomi/Mihon
 
 [Tachiyomi](https://en.wikipedia.org/wiki/Tachiyomi) used to be the solution for manga (on Android, there seems to be no equivalent on iOS). But it's no longer developed due to a cease and desist letter from Kakao Entertainment. Its spiritual successor seems to be [Mihon](https://mihon.app/) (repo [here](https://github.com/mihonapp/mihon) on GitHub). Mihon is essentially Tachiyomi without its extensions. It's the extensions that actually enable manga piracy and the hope is that developing Mihon separately from these extensions will avoid the legal issues that Tachiyomi had.
