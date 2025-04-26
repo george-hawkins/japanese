@@ -1028,6 +1028,34 @@ You still end up with a lot of odd content and disappointingly little well-known
 
 If you search for these, you'll find many versions - you'll just have to look through them all for the most complete one in Japanese with reasonable image quality.
 
+### Top anime series and movies
+
+For some guides to the best anime series and movies, try:
+
+* [Rotten Tomatoes - 100 best anime movies of all time](https://editorial.rottentomatoes.com/guide/best-anime-movies/) - as usual with these kind of lists on Rotten Tomatoes, there's odd scoring (things that almost no one has watched but where a couple of audience reviewes have given it 100% can end up beating out far more well known and popular movies) but on the whole all the classics are there. I couldn't find an equivalent all-time list for series on Rotten Tomatoes.
+* [Rotten Tomatoes - best anime TV shows](https://www.rottentomatoes.com/browse/tv_series_browse/genres:anime~sort:popular) - this isn't an all time list, it's a list of the anime series that are popular this month. I couldn't find an equivalent current popularity list for movies on Rotten Tomatoes.
+* [MyAnimeList](https://myanimelist.net/) - this site has top anime movies and series ranked in various ways, the [most favorited list](https://myanimelist.net/topanime.php?type=favorite) seems to correspond to my impression of what the classic series are.
+* [AniList](https://anilist.co/) (scroll down past the initial intro that makes it look like you have to join first). They've got trending, this season and all-time lists - try the [all time favorites](https://anilist.co/search/anime?sort=FAVOURITES_DESC) - but note that you get quite different sortings depending on whether you sort by _favorites_, _popularity_, _average score_ etc. (I haven't looked into how _popularity_ etc. are calculated), _favorites_ seems a good sorting choice.
+
+There seems to a lot of inconsistency on these sites when it comes to naming - the English names are used for some series and the romaji name for others, e.g. Shingeki no Kyojin might be used instead of Attack on Titan while Fullmetal Alchemist is called just that rather than Hagane no Renkinjutsushi.
+
+### Manga and anime piracy
+
+Anime and manga piracy sites seem to come and go - I've found no end of references and links to sites that no longer exits.
+
+I've mentioned some sites elsewhere here that existed, as of early 2025, and here are two more:
+
+* [nyaa.si](https://nyaa.si/) - a very minimalist torrenting site for anime and manga - much of the content is dubbed anime or translated manga but you can e.g. find original untranslated manga in the _literature - raw_ section - in this section you need to search for the original Japanese name, e.g. "チェンソーマン" rather than "Chainsaw Man". For anime, it's easier - even if the show is dubbed, it'll generally also have the original Japanese audio and subtitles so here you can just search for "Chainsaw Man". When displaying results rows are colored green, red or white - red isn't bad (see [here](https://www.reddit.com/r/animepiracy/comments/acr86d/what_does_a_red_bar_and_green_bar_on_nyaa_mean/) for an explanation). The site nyaa.si seems to have been around a long time but it's occassionally down - I've seen warning **not** to use mirrors as some are apparently known to have been set up to distribute malware.
+* nyaa.si seems to have been around for a while, _perhaps_ the fact that it doesn't directly host the content protects it to some extent. At the moment, much of the raw manga content actually comes from [dl-raw.ac](https://dl-raw.ac/). It also sections for novels and magazines. If it's dead by the time you read this then try searching for "raw manga" on Reddit ("raw manga" seems to be the term for untranslated manga).
+
+When you download manga, they're in a format like `.epub` or `.cbz`. Many of these formats are just a zip of a defined file layout, so often you can just rename the file, replacing e.g. `.cbz` with `.zip` and unpack them to find images that correspond to the pages of the manga.
+
+There are also no end of apps for reading these formats, an open-source one (with a paid pro version) that I've tried is [Koodo Reader](https://koodoreader.com/). On my Mac, when I first tried to run it, I got:
+
+> “Koodo Reader” is damaged and can’t be opened. You should move it to the Bin.
+
+This is easy to resolve, just take a look at the troubleshooting section [here](https://www.koodoreader.com/en/document).
+
 ### Harry Potter
 
 There are multiple versions of Harry Potter available in Japan. I'd like to have been able to get the ones published by Shizuyamasha, as they include furigana for every single kanji, (like this one on [Amazon.co.jp](https://www.amazon.co.jp/-/en/dp/4863892306/) or on [CDJapan](https://www.cdjapan.co.jp/product/NEOBK-1634333)) but it's only available as a print book.
