@@ -939,6 +939,10 @@ I could de-DRM the book (which is a positive) and found that the pages are an am
 > I think using the diminutive tankōbon as the reference when calculating DPI is being generous - the manga would have originally appeared in [Weekly Shōnen Jump](https://en.wikipedia.org/wiki/Weekly_Sh%C5%8Dnen_Jump) or similar which use a 7x10" format (that's also common for US graphic novels). And while the 4.3x6.7" tankōbon size may be common when collecting a particular series into volumes, I also have Japanese volumes of Akira (from Kodansha) and Nausicaä (from Animage) that use the 7x10" format.
 >
 > So, overall, the manga e-book experience is underwhelming.
+>
+> **Update 3:**
+>
+> See [`digital-manga`](digital-manga) for more on my adventures in trying to find high-quality manga and with upscaling.
 
 To de-DRM the book:
 
