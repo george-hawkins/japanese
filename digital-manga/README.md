@@ -116,6 +116,8 @@ I'd like to try:
 * The 4x HAT L model from the 3.0.0 `IllustrationJaNai_V3denoise_onnx.zip` asset (HAT L is the highest quality one and the ONNX versions of the models should be the ones optimized for the lowest resource usage).
 * The `4x_MangaJaNai_2048p_V1_ESRGAN_70k.pth` model from the 1.0.0 assets, 4x mean 4-times scaling and 2048p means it's for 2048px tall source images (and that's what the Kobo images used above are).
 
+I'd be curious if one or both are closer to the Upscayl approach (trying to recover detail lost thru halftoning) or the the `waifu2x` approach (trying to be true to only what's really there, i.e. live with the halftoning). From the notes, I suspect the Illustration one at least is closer to the Upscayl approach.
+
 I couldn't get these models to run locally, I think the way to do it would be to use [Google Colab](https://colab.research.google.com/) and download use the Python backend to the Window-only [MangaJaNaiConverterGui](https://github.com/the-database/MangaJaNaiConverterGui) that has a CLI mode and a nice [README](https://github.com/the-database/MangaJaNaiConverterGui/tree/main/MangaJaNaiConverterGui/backend/src).
 
 And then using [`ai-manga-upscale-colab.ipynb`](https://github.com/Spladenly/ai-manga-upscale-colab/blob/main/ai-manga-upscale-colab.ipynb) as a basis, one could do something similar with the MangaJaNaiConverterGui backend Python.
