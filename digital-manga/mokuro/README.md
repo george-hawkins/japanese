@@ -7,7 +7,9 @@ First upscale your images by 2 (or whatever factor is needed to result in images
 
 On my M2 MacBook Air, it took 2 hours 15 minutes for Upscayl to upscale the 79 pages of the Frieren sample that I had.
 
-Then I converted the resulting PNGs to AVIFs:
+Note: there's a meteor shower scene in the Frieren sample just before Himmel's death where he says "綺麗だ". The artifacts introduced by the upscaling are quite dramatic (smudges and a strange gridlike discontinuity in the gradient used in the more open areas of the sky). Similarly, see the bottom-left of the bottom panel on the previous page to this (where Himmel says "ありがとうフリーレン"), something has gone seriously wrong. And on the page previous to that, in the bottom-left panel with the sunlight. These issues are enough to make me consider trying another upscaling algorithm (see MangaJaNai and `waifu2x` mentioned [here](../README.md)).
+
+Once I'd generated the PNGs, I converted them to AVIFs:
 
 ```
 $ magick mogrify -format avif -define heic:chroma=444 -define heic:speed=3 -quality 65 *.png
