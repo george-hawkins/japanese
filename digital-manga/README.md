@@ -13,7 +13,12 @@ This is a great shame, especially for manga like [Frieren](https://en.wikipedia.
 
 Note: in my cheap &yen;500 Frieren [tankobon](https://en.wikipedia.org/wiki/Tank%C5%8Dbon), printed on plain paper, the furigana and their dakuten and handakuten are extremely clearly printed despite the small page size.
 
-You need about 600dpi before the dakuten and handakuten on furigana are clear at the usual font sizes used in speech bubbles. And even then, it's only super clear it you're using a sensible lossless format like PNG or a modern lossy format like AVIF. Unfortunately, most e-book publishers use JPEG for manga - JPEG is terrible for black and white line art and introduces terrible artifacts.
+You need about 600dpi before the dakuten and handakuten on furigana are clear at the usual font sizes used in speech bubbles. And even then, it's only super clear it you're using a sensible lossless format like PNG or a modern lossy format like AVIF. Unfortunately, most e-book publishers use JPEG for manga - JPEG is awful for black and white line art and introduces terrible artifacts.
+
+TLDR;
+-----
+
+Upscaling only gets you so far and a great solution that involves OCR manga text is [Mokuro](https://github.com/kha-white/mokuro) combined with [Mokuro Reader](https://github.com/Gnathonic/mokuro-reader), see [`mokuro/README.md`](mokuro/README.md) for more.
 
 Finding high-resolution manga
 -----------------------------
@@ -137,6 +142,8 @@ Downscaling
 -----------
 
 It's probably ridiculous downscaling after upscaling but the models do have an intended target upscaling factor, generally 4 (however, it seems OK-ish to override this).
+
+**Update:** using Upscayl with an upscaling of 2 produces results that are almost indistinguishable from upscaling to 4 and then downscaling as decribed here. So downscaling, as described here, seems pointless.
 
 Anyway, I downscaled to PNG like this:
 
