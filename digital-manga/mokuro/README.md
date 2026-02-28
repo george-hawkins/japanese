@@ -62,7 +62,9 @@ $ ls
 frieren-png/  frieren-png.html  frieren-png.mokuro
 ```
 
-The `frieren-png.html` is the old HTML format that Mokuro still outputs but is no longer actively developing, you can open it your browser (but it's very poor compared to the Mokuro Reader covered in the next section).
+The `frieren-png.html` is the old HTML format that Mokuro still outputs but is no longer actively developing, you can open it in your browser (but it's very poor compared to the Mokuro Reader covered in the next section).
+
+Note: I think the OCRing assumes or deduces a particular text orientation and sticks with it. Or this is my guess, as it seemed to do much worse at OCRing the table-of-contents page of my sample which had horizontal text compared with the other pages that had vertical text.
 
 Take a look at the resulting `frieren-png.mokuro` file, you'll see that it includes paths to the image files that are relative to the directory you specified when starting `mokuro`, if, afterward, you change the paths or e.g. change the image format from `.png` to `.avif`, you'll need to update these.
 
@@ -77,6 +79,8 @@ $ zip -r frieren.zip frieren.mokuro frieren
 The resulting `.zip` file was 58MiB.
 
 You can just go to <https://reader.mokuro.app/> and select the upload button and open the just created `.zip` file.
+
+The short [table of keyboard shortcuts](https://github.com/Gnathonic/mokuro-reader?tab=readme-ov-file#%EF%B8%8F-keyboard-shortcuts) is worth reading.
 
 The Mokuro Reader is an entirely client side app, i.e. there's no server component.
 
