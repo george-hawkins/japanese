@@ -138,6 +138,11 @@ def ai_process_bw():
 
 I.e. it's calling out to Python scripts (that are actually on a linked Google Driver folder).
 
+MangaJaNai on Collab
+--------------------
+
+In the end, after becoming very disappointed with the Upscayl results (see following sections), I did try the MangaJaNai models using Google Collab GPUs. See [`collab.md`](collab.md) for the details.
+
 Upscayl results
 ---------------
 
