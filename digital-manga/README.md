@@ -138,6 +138,21 @@ def ai_process_bw():
 
 I.e. it's calling out to Python scripts (that are actually on a linked Google Driver folder).
 
+Upscayl results
+---------------
+
+Here's a comparison of part of a panel before and after upscaling:
+
+| Original image | Upscaled image |
+|----------------|----------------|
+|![Original](pre-upscale-halftoning.png) | ![Upscaled](post-upscale-halftoning.png) |
+
+Note: I've scaled both images to be the same size to make comparison here easier.
+
+I was very impressed by how Upscayl tried to reverse the effects of halftoning, e.g. the dark inside of Himmel's cloak and the outside of Eisen's clock and the top of the bell tower in the background.
+
+But there are less impressive effects, the tiles of the roof are clearly visible in the original but have become a blur in the upscaled version.
+
 Upscaling artifacts
 -------------------
 
@@ -151,7 +166,7 @@ Note: I've scaled both images to be the same size to make comparison here easier
 
 As you can see the upscaled image is dramatically different to the original. There are very noticeable horizontal and vertical discontinuities, these are the "seams" introduced by tiling. If your computer hasn't got the memory needed to upscale the image in a single pass, it cuts it into tiles and upscales each individually but in doing so it loses a coherent sense of the overall image and discontinuities result at the edges of the tiles. Even stranger than the seams are the blotches introduced in the upscaling that don't seem correspond to anything in the original image. There's also odd sudden patches of bluriness, in otherwise crisp areas, e.g. bottom-left in the mountains and bottom right.
 
-The solution to the seams is to do the upscaling on a machine that's capable of handling the image as a single tile. On my M2 MacBook Air, the biggest tiles it could handle were 400x400, so if you upscaled 4 times, then there's a seam for every 100 pixels across and down of the original image.
+The solution to the seams is to do the upscaling on a machine that's capable of handling the image as a single tile. On my M2 MacBook Air, the biggest tiles it could handle were 400x400, so if you upscaled 4 times, then there's a seam for every 100 pixels across and down of the original image. Once you start noticing the seams, you start noticing them everywhere, even on images that looked OK before.
 
 For many images, the seams are far less noticeable than here but in images like the one above, they're so bad that they make you think the upscaling system should try and measure the discontinuity at the edges and flag up images like this one.
 
