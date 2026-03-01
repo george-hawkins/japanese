@@ -168,7 +168,7 @@ Here are the results:
 
 | &nbsp; | First image | Second image |
 |--------|-------------|--------------|
-| Originals | [`collab/originals/i-0008.jpg`](originals/i-0008.jpg) | [`collab/originals/i-0029.jpg`](originals/i-0029.jpg) |
+| Originals | ![`collab/originals/i-0008.jpg`](originals/i-0008.jpg) | ![`collab/originals/i-0029.jpg`](originals/i-0029.jpg) |
 | Detail 4x DAT2 | <img src="collab/detail-4x-DAT2/i-0008.avif" width="1303" height="2048"> | <img src="collab/detail-4x-DAT2/i-0029.avif" width="1303" height="2048"> |
 | Denoise 4x DAT2 | <img src="collab/denoise-4x-DAT2/i-0008.avif" width="1303" height="2048"> | <img src="collab/denoise-4x-DAT2/i-0029.avif" width="1303" height="2048"> |
 | Detail 4x FDAT XL | <img src="collab/detail-4x-FDAT-XL/i-0008.avif" width="1303" height="2048"> | <img src="collab/detail-4x-FDAT-XL/i-0029.avif" width="1303" height="2048"> |
