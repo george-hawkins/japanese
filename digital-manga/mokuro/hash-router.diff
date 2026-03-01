@@ -1,0 +1,57 @@
+diff --git a/src/lib/util/hash-router.ts b/src/lib/util/hash-router.ts
+index 2c7e6ed..6b63cca 100644
+--- a/src/lib/util/hash-router.ts
++++ b/src/lib/util/hash-router.ts
+@@ -4,6 +4,7 @@
+  */
+ 
+ import { writable, derived, get } from 'svelte/store';
++import { base } from '$app/paths';
+ 
+ /**
+  * View types for in-app navigation
+@@ -97,10 +98,10 @@ export function viewToHash(view: View): string {
+     case 'libraries':
+       return '#/libraries';
+     case 'add-library': {
+-      const base = '#/add-library';
++      const addLibraryBase = '#/add-library';
+       if (view.params && Object.keys(view.params).length > 0) {
+         const searchParams = new URLSearchParams(view.params);
+-        return `${base}?${searchParams.toString()}`;
++        return `${addLibraryBase}?${searchParams.toString()}`;
+       }
+       return base;
+     }
+@@ -121,7 +122,7 @@ interface NavigateOptions {
+ export function navigate(view: View, options?: NavigateOptions): void {
+   const hash = viewToHash(view);
+   // Always use root path to avoid issues when navigating from legacy paths like /upload
+-  const url = '/' + hash;
++  const url = base + '/' + hash;
+   if (options?.replaceState) {
+     window.history.replaceState(null, '', url);
+   } else {
+@@ -255,11 +256,11 @@ export function initRouter(): () => void {
+   // Handle /upload path: redirect to hash-based #/upload while preserving query params
+   // This supports cross-site imports like /upload?manga=X&volume=Y
+   if (pathname.startsWith('/upload')) {
+-    const newUrl = '/' + window.location.search + '#/upload';
++    const newUrl = base + '/' + window.location.search + '#/upload';
+     window.history.replaceState(null, '', newUrl);
+   } else if (pathname && pathname !== '/') {
+     // Redirect all other legacy routes to catalog
+-    window.history.replaceState(null, '', '/#/catalog');
++    window.history.replaceState(null, '', base + '/#/catalog');
+   }
+ 
+   // Parse initial hash
+@@ -268,7 +269,7 @@ export function initRouter(): () => void {
+ 
+   // Ensure hash exists (default to catalog)
+   if (!window.location.hash || window.location.hash === '#' || window.location.hash === '#/') {
+-    window.history.replaceState(null, '', '#/catalog');
++    window.history.replaceState(null, '', base + '/#/catalog');
+   }
+ 
+   // Listen for hash changes (back/forward buttons)

@@ -104,7 +104,7 @@ Update to the latest version of `node` (using `nvm`, the [Node Version Manager](
 
 ```
 $ nvm install node
-$ $ nvm current
+$ nvm current
 v25.7.0
 ```
 
@@ -146,7 +146,9 @@ https://my-name.github.io/my-repo
 
 Change `my-repo` to match your setup.
 
-**TODO:** the reader rewrites the URL so you end up with URLs like `https://my-name.github.io/#/series/2c506203-d0f5-4010-819a-8cb3e3cb8770`, notice the lack of the `my-repo` bit - this works fine until the tab needs to be reloaded at which point it fails. Fix whatever needs to be fixed to get `my-repo` to appear in the modified URLs that the reader generates.
+**NOTE:** the reader rewrites the URL so you end up with URLs like `https://my-name.github.io/#/series/2c506203-d0f5-4010-819a-8cb3e3cb8770`, notice the lack of the `my-repo` bit - this works fine until the tab needs to be reloaded at which point it fails.
+
+**Update:** see #-router section below for a fix for this.
 
 By default the build process will produce `.js.map` files that are only needed for Javascript debugging and which substantially increase the size of the static site (14MiB vs 3.8MiB).
 
@@ -192,3 +194,9 @@ https://my-name.github.io/static-mokuro-reader/
 ```
 
 Click this to open your own version of the reader.
+
+## Hash router
+
+I made some changes to `src/lib/util/hash-router.ts` to take `base` into account.
+
+See [`hash-router.diff`](hash-router.diff).
