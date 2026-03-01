@@ -201,3 +201,61 @@ Compared to the Upscayl results, the output images are far truer to the original
 | <img width="900" height="1106" src="colab/compare-original.png"> | <img src="colab/compare-detail-4x-dat2.png"> |
 
 Compare e.g. the strokes on Frieren's boots, the artifacts around the text and the clarity of the text and the rest of the image.
+
+Mokuro
+------
+
+I downloaded the `output` folder from Google Drive, it was so large that Google Drive broke it into two `.zip` files so that the first one didn't go over the 2GiB limit that can be problematic for some older systems.
+
+Once I've unpacked the downloaded `.zip` files, I had everything under `frieren-4x-png/vol1-sample`.
+
+First I downscaled it to 2-times PNGs (as Mokuro doesn't like workings with AVIFs):
+
+```
+$ mkdir -p frieren-2x-png/vol1-sample
+$ for png in $(find frieren-4x-png -name '*.png')
+do
+    dest=${png/4/2}
+    magick $png -colorspace RGB -distort Resize 50% -colorspace sRGB $dest
+    echo $dest
+done
+```
+
+And I downscaled it to 2-times AVIFs:
+
+```
+$ mkdir -p frieren-2x-png/vol1-sample
+$ for png in $(find frieren-4x-png -name '*.png')
+do
+    dest=${png/-4x-png/}
+    dest=${dest%.png}.avif
+    magick $png -colorspace RGB -distort Resize 50% -colorspace sRGB -define heic:chroma=444 -define heic:speed=3 -quality 65 $dest
+    echo $dest
+done
+```
+
+And I ran Mokuro on the PNGs:
+
+```
+$ cd .../mokuro
+$ source venv/bin/activate
+$ cd -
+$ mokuro frieren-2x-png
+$ cp frieren-2x-png.mokuro frieren.mokuro
+$ sed -i -e 's/-2x-png//g' -e 's/\.png/.avif/g' frieren.mokuro
+$ zip -r frieren.zip frieren.mokuro frieren
+```
+
+Note: you might want to edit the `frieren.mokuro` before zipping it, e.g. by default I see:
+
+```
+"title": "mangajanai", "title_uuid": "e7eb7e51-5557-466c-8623-983f0d238933", "volume": "frieren"
+```
+
+Where `title` is the name of the containing folder and `frieren` is the name of the folder containing my volume.
+
+So one could change these to `Frieren` and `Volume 1 (Sample)` respectively.
+
+Remember if you see a double page picture where it doesn't line up with which two pages are being displayed at a time, then just press `c` in Mokuro Reader. There may be a more sensible way to do this as this doesn't seem to be what `c` is really meant for - but it works.
+
+Conversely, if panels are touching in the middle of the two pages being displayed, when they shouldn't, pressing `c` will also resolve this.
