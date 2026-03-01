@@ -138,6 +138,25 @@ def ai_process_bw():
 
 I.e. it's calling out to Python scripts (that are actually on a linked Google Driver folder).
 
+Upscaling artifacts
+-------------------
+
+Initially, I was very impressed by the Upscayl but then I quickly started noticing two issues, tiling (which is solvable) and shimmering artifacts:
+
+| Original image | Upscaled image |
+|----------------|----------------|
+|![Original](pre-upscale.png) | ![Upscaled](upscale-artifacts.png) |
+
+Note: I've scaled both images to be the same size to make comparison here easier.
+
+As you can see the upscaled image is dramatically different to the original. There are very noticeable horizontal and vertical discontinuities, these are the "seams" introduced by tiling. If your computer hasn't got the memory needed to upscale the image in a single pass, it cuts it into tiles and upscales each individually but in doing so it loses a coherent sense of the overall image and discontinuities result at the edges of the tiles. Even stranger than the seams are the blotches introduced in the upscaling that don't seem correspond to anything in the original image. There's also odd sudden patches of bluriness, in otherwise crisp areas, e.g. bottom-left in the mountains and bottom right.
+
+The solution to the seams is to do the upscaling on a machine that's capable of handling the image as a single tile. On my M2 MacBook Air, the biggest tiles it could handle were 400x400, so if you upscaled 4 times, then there's a seam for every 100 pixels across and down of the original image.
+
+For many images, the seams are far less noticeable than here but in images like the one above, they're so bad that they make you think the upscaling system should try and measure the discontinuity at the edges and flag up images like this one.
+
+As to the blotches and bluriness, I don't know what if there's any solution there is to them. 
+
 Downscaling
 -----------
 
