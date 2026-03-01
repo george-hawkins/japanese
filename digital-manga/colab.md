@@ -1,4 +1,4 @@
-Upscaling with MangaJaNai and Collab
+Upscaling with MangaJaNai and Colab
 ====================================
 
 Go to <https://colab.research.google.com/> and open a new notebook (and close the release notes panel if shown).
@@ -12,16 +12,30 @@ Add this to the first cell and run it:
 ```
 # @title 1. Install Dependencies
 !pip install spandrel Pillow torch
-!mkdir -p /content/input /content/output /content/models
 ```
 
-In the _Files_ view, you'll see `input` etc.
+Connecting Google Drive
+-----------------------
 
-Drag your input images into the `input` folder (I tried the _Upload to session storage_ button but it can only upload to the root folder and could only handle single files, according to Gemini it's _notoriously_ broken).
+Initially, I tried doing everything with the normal Colab session storage but this disappears whenever a session terminates and this becomes very frustrating.
 
-Note: any files uploaded like this will disappear once your session ends - a more durable solution is to mount Google Drive folders in your workspace.
+So on my Google Drive, I created a folder called `colab` and a subdirectory called `upscaling` and in there created the folders `input`, `output` and `models`.
 
-At the time of writing the 3.0.0 release was the latest MangaJaNai [release](https://github.com/the-database/MangaJaNai/releases).
+I uploaded my input JPEGs to `input`. And uploaded `4x_IllustrationJaNai_V3detail_DAT2_28k_bf16.safetensors`.
+
+```
+# @title 2. Mount Google Drive
+from google.colab import auth
+from google.colab import drive
+
+# Triggers authentication flow.
+auth.authenticate_user()
+
+# And mount drive.
+drive.mount('/content/drive')
+```
+
+When asked what it could access, I just selected "See, edit, create, and delete all of your Google Drive files" but this failed with "credential propagation was unsuccessful". It seems you have to give it all access or it just doesn't work.
 
 .onnx vs .safetensor
 --------------------
@@ -45,12 +59,14 @@ So I was forced to use the `.safetensor` downloads. Unfortunately, these are a b
 Choosing the models
 -------------------
 
+At the time of writing the 3.0.0 release was the latest MangaJaNai [release](https://github.com/the-database/MangaJaNai/releases).
+
 I chose the _detail_ and _denoise_ `.safetensors` downloads:
 
 * `IllustrationJaNai_V3detail.zip`
 * `IllustrationJaNai_V3denoise.zip`
 
-I extracted them and dragged the best models from each (see the associated release notes for details) into my Collab models folder:
+I extracted them and dragged the best models from each (see the associated release notes for details) into my Colab models folder:
 
 * `4x_IllustrationJaNai_V3detail_HAT_L_28k_bf16.safetensors`
 * `4x_IllustrationJaNai_V3detail_DAT2_28k_bf16.safetensors`
@@ -71,11 +87,12 @@ And run the cell. Add another cell with:
 
 ```
 # @title 3. Check CUDA and maximize available RAM
+import torch
+import gc
+
 if not torch.cuda.is_available():
     raise RuntimeError("CUDA is not available")
 
-import gc
-import torch
 gc.collect()
 torch.cuda.empty_cache()
 ```
@@ -92,7 +109,7 @@ Note: the code below does _not_ attempt to do tiling, it either upscales the who
 
 **Update:** when using `.safetensors`, the _T4_ didn't have enough GPU RAM to handle my images, so I purchased a [100 compute units](https://colab.research.google.com/signup) for EUR 10 and switched to the _A100 GPU_. But even the 40GiB of the _A100 GPU_ wasn't enough so I switched to the _H100 GPU_ and its 80GiB.
 
-**IMPORTANT:** when finished, go to the _Runtime_ and select _Disconnect and delete runtime_ to stop consuming credits.
+**IMPORTANT:** when finished, go to the _Runtime_ and select _Disconnect and delete runtime_ to stop consuming credits. For the free and pay-as-you-go tiers, your session will timeout after 90 minutes of inactivity, so this is the maximum, for these tiers, that you can accidentally over consume. Remember once you session is disconnected, you lose all data that was part of that session (so best to use Google Drive for data that should survive the end of the session).
 
 After restarting my session with a GPU, I had to rerun the first cell again, upload my input images again and my models, and run the remaining cells again.
 
@@ -108,13 +125,15 @@ import numpy as np
 from PIL import Image
 from spandrel import ModelLoader
 from pathlib import Path
+from datetime import datetime
 
 # Setup
 device = torch.device("cuda")
 print(f"model: {model_file}")
-model_path = f"/content/models/{model_file}"
-input_dir = Path("/content/input")
-output_dir = Path("/content/output")
+root = "/content/drive/MyDrive/colab/upscaling"
+model_path = f"{root}/models/{model_file}"
+input_dir = Path(f"{root}/input")
+output_dir = Path(f"{root}/output")
 
 # Load Model
 loader = ModelLoader()
@@ -122,7 +141,7 @@ model = loader.load_from_file(model_path).to(device).eval()
 
 print(f"Processing images from {input_dir}...")
 
-for img_path in input_dir.glob("*"):
+for img_path in sorted(input_dir.glob("*")):
     if img_path.suffix.lower() in [".jpg", ".jpeg", ".png", ".webp"]:
         # Load image
         img = Image.open(img_path).convert("RGB")
@@ -136,9 +155,10 @@ for img_path in input_dir.glob("*"):
         output_img = output_tensor.squeeze(0).permute(1, 2, 0).clamp(0, 1).cpu().numpy()
         output_img = (output_img * 255).astype(np.uint8)
         Image.fromarray(output_img).save(output_dir / f"{img_path.stem}.png")
-        print(f"Finished: {img_path.name}")
+        current_time = datetime.now().strftime("%H:%M:%S.%f")[:-3]
+        print(f"{current_time} Finished: {img_path.name}")
 
-print("Done! Check the /content/output folder.")
+print(f"Done! Check the {output_dir} folder.")
 ```
 
 Even with the _H100 GPU_, the best _detail_ model (4x HAT L) didn't have enough GPU RAM to run (my input images were 1303x2048). But the 4x DAT2 models ran. The release notes for the models suggests the 4x FDAT XL models should run considerably quicker than the higher quality 4x DAT2 models, but I didn't find this to be the case:
@@ -168,16 +188,16 @@ Here are the results - to my eye, there's very little difference between the var
 
 | &nbsp; | First image | Second image |
 |--------|-------------|--------------|
-| Originals | ![`originals/i-0008.jpg`](collab/originals/i-0008.jpg) | ![`originals/i-0029.jpg`](collab/originals/i-0029.jpg) |
-| Detail 4x DAT2 | <img src="collab/detail-4x-DAT2/i-0008.avif" width="1303" height="2048"> | <img src="collab/detail-4x-DAT2/i-0029.avif" width="1303" height="2048"> |
-| Denoise 4x DAT2 | <img src="collab/denoise-4x-DAT2/i-0008.avif" width="1303" height="2048"> | <img src="collab/denoise-4x-DAT2/i-0029.avif" width="1303" height="2048"> |
-| Detail 4x FDAT XL | <img src="collab/detail-4x-FDAT-XL/i-0008.avif" width="1303" height="2048"> | <img src="collab/detail-4x-FDAT-XL/i-0029.avif" width="1303" height="2048"> |
-| Denoise 4x FDAT XL | <img src="collab/denoise-4x-FDAT-XL/i-0008.avif" width="1303" height="2048"> | <img src="collab/denoise-4x-FDAT-XL/i-0029.avif" width="1303" height="2048"> |
+| Originals | ![`originals/i-0008.jpg`](colab/originals/i-0008.jpg) | ![`originals/i-0029.jpg`](colab/originals/i-0029.jpg) |
+| Detail 4x DAT2 | <img src="colab/detail-4x-DAT2/i-0008.avif" width="1303" height="2048"> | <img src="colab/detail-4x-DAT2/i-0029.avif" width="1303" height="2048"> |
+| Denoise 4x DAT2 | <img src="colab/denoise-4x-DAT2/i-0008.avif" width="1303" height="2048"> | <img src="colab/denoise-4x-DAT2/i-0029.avif" width="1303" height="2048"> |
+| Detail 4x FDAT XL | <img src="colab/detail-4x-FDAT-XL/i-0008.avif" width="1303" height="2048"> | <img src="colab/detail-4x-FDAT-XL/i-0029.avif" width="1303" height="2048"> |
+| Denoise 4x FDAT XL | <img src="colab/denoise-4x-FDAT-XL/i-0008.avif" width="1303" height="2048"> | <img src="colab/denoise-4x-FDAT-XL/i-0029.avif" width="1303" height="2048"> |
 
 Compared to the Upscayl results, the output images are far truer to the originals. I liked the way Upscayl tried to reverse the effects of halftoning but given its other issues (introducing blurring and splotches) being truer to the originals wins out. Basically, MangaJaNai gets rid of the JPEG artifacts and reduces bluriness but leaves everything else as is:
 
 | Original image | MangaJaNai image |
 |----------------|------------------|
-| <img width="900" height="1106" src="collab/compare-original.png"> | <img src="collab/compare-detail-4x-dat2.png"> |
+| <img width="900" height="1106" src="colab/compare-original.png"> | <img src="colab/compare-detail-4x-dat2.png"> |
 
 Compare e.g. the strokes on Frieren's boots, the artifacts around the text and the clarity of the text and the rest of the image.
