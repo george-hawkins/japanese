@@ -159,12 +159,12 @@ I downscaled the images to be just double the original size and encoded the as A
 $ for png in $(find . -name '*.png')
 do
     avif=${png%.png}.avif
-    magick $png -colorspace RGB -distort Resize 50% -colorspace sRGB -define heic:chroma=400 -define heic:speed=3 -quality 65 $avif
+    magick $png -colorspace RGB -distort Resize 50% -colorspace sRGB -define heic:chroma=444 -define heic:speed=3 -quality 65 $avif
     echo $avif
 done
 ```
 
-Here are the results:
+Here are the results - to my eye, there's very little difference between the various models:
 
 | &nbsp; | First image | Second image |
 |--------|-------------|--------------|
@@ -173,3 +173,11 @@ Here are the results:
 | Denoise 4x DAT2 | <img src="collab/denoise-4x-DAT2/i-0008.avif" width="1303" height="2048"> | <img src="collab/denoise-4x-DAT2/i-0029.avif" width="1303" height="2048"> |
 | Detail 4x FDAT XL | <img src="collab/detail-4x-FDAT-XL/i-0008.avif" width="1303" height="2048"> | <img src="collab/detail-4x-FDAT-XL/i-0029.avif" width="1303" height="2048"> |
 | Denoise 4x FDAT XL | <img src="collab/denoise-4x-FDAT-XL/i-0008.avif" width="1303" height="2048"> | <img src="collab/denoise-4x-FDAT-XL/i-0029.avif" width="1303" height="2048"> |
+
+Compared to the Upscayl results, the output images are far truer to the originals. I liked the way Upscayl tried to reverse the effects of halftoning but given its other issues (introducing blurring and splotches) being truer to the originals wins out. Basically, MangaJaNai gets rid of the JPEG artifacts and reduces bluriness but leaves everything else as is:
+
+| Original image | MangaJaNai image |
+|----------------|------------------|
+| <img width="900" height="1106" src="collab/compare-original.png"> | <img src="collab/compare-detail-4x-dat2.png"> |
+
+Compare e.g. the strokes on Frieren's boots, the artifacts around the text and the clarity of the text and the rest of the image.
