@@ -75,7 +75,7 @@ I extracted them and dragged the best models from each (see the associated relea
 Click the _+ Code_ to add another code cell and add:
 
 ```
-# @title 2. Select Model
+# @title 3. Select Model
 #model_file = "4x_IllustrationJaNai_V3detail_HAT_L_28k_bf16.safetensors"
 model_file = "4x_IllustrationJaNai_V3detail_DAT2_28k_bf16.safetensors"
 #model_file = "4x_IllustrationJaNai_V3denoise_DAT2_27k_bf16.safetensors"
@@ -86,7 +86,7 @@ model_file = "4x_IllustrationJaNai_V3detail_DAT2_28k_bf16.safetensors"
 And run the cell. Add another cell with:
 
 ```
-# @title 3. Check CUDA and maximize available RAM
+# @title 4. Check CUDA and maximize available RAM
 import torch
 import gc
 
@@ -119,7 +119,7 @@ Upscaling
 Now, add annother cell with:
 
 ```
-# @title 4. Run Upscaling
+# @title 5. Run Upscaling
 import torch
 import numpy as np
 from PIL import Image
