@@ -208,3 +208,20 @@ https://my-name.github.io/my-repo/#/reader/e7eb7e51-5557-466c-8623-983f0d238933/
 ```
 
 If you hit refresh, it'll fallback to the main page rather than simply reloading the relevant page. However, if I refresh on <https://reader.mokuro.app/> it reloads the page as expected rather than returning to the main page. So, there's still at least one issue around `base`.
+
+Updating Mokuro Reader
+----------------------
+
+```
+$ nvm current
+$ npm run build
+$ cd ~/git/static-mokuro-reader
+$ git checkout pages
+$ git rm -r *
+$ cd -
+$ cp -r build/* ~/git/static-mokuro-reader
+$ cd -
+$ git add .
+$ git commit -a -m 'Did xyz.'
+$ git push
+```
