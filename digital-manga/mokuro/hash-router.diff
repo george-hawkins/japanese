@@ -1,5 +1,5 @@
 diff --git a/src/lib/util/hash-router.ts b/src/lib/util/hash-router.ts
-index 2c7e6ed..6b63cca 100644
+index 2c7e6ed..1038f47 100644
 --- a/src/lib/util/hash-router.ts
 +++ b/src/lib/util/hash-router.ts
 @@ -4,6 +4,7 @@
@@ -32,21 +32,29 @@ index 2c7e6ed..6b63cca 100644
    if (options?.replaceState) {
      window.history.replaceState(null, '', url);
    } else {
-@@ -255,11 +256,11 @@ export function initRouter(): () => void {
+@@ -251,15 +252,17 @@ export const isOnReader = derived(currentView, ($currentView) => $currentView.ty
+ export function initRouter(): () => void {
+   // Handle legacy pathname-based routes from before hash router migration
+   const pathname = window.location.pathname;
++  // Strip the base path so comparisons work whether or not a base is configured
++  const appPath = (base ? pathname.slice(base.length) : pathname) || '/';
+ 
    // Handle /upload path: redirect to hash-based #/upload while preserving query params
    // This supports cross-site imports like /upload?manga=X&volume=Y
-   if (pathname.startsWith('/upload')) {
+-  if (pathname.startsWith('/upload')) {
 -    const newUrl = '/' + window.location.search + '#/upload';
++  if (appPath.startsWith('/upload')) {
 +    const newUrl = base + '/' + window.location.search + '#/upload';
      window.history.replaceState(null, '', newUrl);
-   } else if (pathname && pathname !== '/') {
+-  } else if (pathname && pathname !== '/') {
++  } else if (appPath !== '/') {
      // Redirect all other legacy routes to catalog
 -    window.history.replaceState(null, '', '/#/catalog');
 +    window.history.replaceState(null, '', base + '/#/catalog');
    }
  
    // Parse initial hash
-@@ -268,7 +269,7 @@ export function initRouter(): () => void {
+@@ -268,7 +271,7 @@ export function initRouter(): () => void {
  
    // Ensure hash exists (default to catalog)
    if (!window.location.hash || window.location.hash === '#' || window.location.hash === '#/') {

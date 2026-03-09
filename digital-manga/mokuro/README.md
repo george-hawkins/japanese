@@ -201,16 +201,7 @@ I made some changes to `src/lib/util/hash-router.ts` to take `base` into account
 
 See [`hash-router.diff`](hash-router.diff).
 
-However, if you open a comic and are looking at a page the URL will be something like:
-
-```
-https://my-name.github.io/my-repo/#/reader/e7eb7e51-5557-466c-8623-983f0d238933/9f604cd8-0d3b-41b2-b5d2-3f3fd0e9c4ac
-```
-
-If you hit refresh, it'll fallback to the main page rather than simply reloading the relevant page. However, if I refresh on <https://reader.mokuro.app/> it reloads the page as expected rather than returning to the main page. So, there's still at least one issue around `base`.
-
-Updating Mokuro Reader
-----------------------
+### Updating Mokuro Reader
 
 ```
 $ nvm current
