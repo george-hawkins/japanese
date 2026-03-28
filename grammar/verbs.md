@@ -70,14 +70,18 @@ Reading and saying the transformations aloud is **key**. For example:
 
 Let’s turn the godan て-form transformations into a mnemonic cheat sheet — pairing each sound group with a fun image or story so it sticks.
 
-| Sound Group             | て-form ending     | Example Verbs                    | Mnemonic Story                                                                                                                                |
-| ----------------------- |-------------------|----------------------------------| --------------------------------------------------------------------------------------------------------------------------------------------- |
-| **う・つ・る → って**          | って                | 会う（あって）、<br>待つ（まって）、<br>取る（とって）  | **“Tap Tap Tap”**: Imagine tapping a table for each of these verbs — the hard double つ becomes って. Think of them as “hard-hitting” actions.   |
-| **む・ぶ・ぬ → んで**          | んで                | 飲む（のんで）、<br>遊ぶ（あそんで）、<br>死ぬ（しんで） | **“Nasal whisper of action”**: The nasal ん softens these heavier verbs — carrying, playing, dying — giving them a soft “n” before the past で. |
-| **く → いて**              | いて                | 書く（かいて）、<br>歩く（あるいて）             | **“K becomes I, then て”**: The k-sound slides into i before て — like a pen scratching a line.                                                 |
-| **ぐ → いで**              | いで                | 泳ぐ（およいで）、<br>急ぐ（いそいで）            | **“Grow into I”**: The g-sound jumps into い before で, like a swimmer diving into the water.                                                   |
-| **す → して**              | して                | 話す（はなして）、<br>出す（でして）             | **“S speaks softly”**: The s-sound shifts into し, like gently speaking the past.                                                              |
-| **Irregular Exception** | 行って、<br>して、<br>来て | 行く（いって）、<br>する（して）、<br>来る（きて）    | **“Special heroes”**: These are rare, legendary verbs — they break the rules, so you remember them as special cases.                          |
+<!--
+The &nbsp; characters force Chrome etc. to give the columns more width, otherwise the last
+column gets too much width and the words in the other columns get broken over multiple lines.
+-->
+| Sound Group &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  | て-form ending     | Example Verbs &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;                    | Mnemonic Story                                                                                                                                |
+|----------------------------|-------------------|----------------------------------| --------------------------------------------------------------------------------------------------------------------------------------------- |
+| **う・つ・る → って**             | って                | 会う（あって）、<br>待つ（まって）、<br>取る（とって）  | **“Tap Tap Tap”**: Imagine tapping a table for each of these verbs — the hard double つ becomes って. Think of them as “hard-hitting” actions.   |
+| **む・ぶ・ぬ → んで**             | んで                | 飲む（のんで）、<br>遊ぶ（あそんで）、<br>死ぬ（しんで） | **“Nasal whisper of action”**: The nasal ん softens these heavier verbs — carrying, playing, dying — giving them a soft “n” before the past で. |
+| **く → いて**                 | いて                | 書く（かいて）、<br>歩く（あるいて）             | **“K becomes I, then て”**: The k-sound slides into i before て — like a pen scratching a line.                                                 |
+| **ぐ → いで**                 | いで                | 泳ぐ（およいで）、<br>急ぐ（いそいで）            | **“Grow into I”**: The g-sound jumps into い before で, like a swimmer diving into the water.                                                   |
+| **す → して**                 | して                | 話す（はなして）、<br>出す（でして）             | **“S speaks softly”**: The s-sound shifts into し, like gently speaking the past.                                                              |
+| **Irregular Exception**    | 行って、<br>して、<br>来て | 行く（いって）、<br>する（して）、<br>来る（きて）    | **“Special heroes”**: These are rare, legendary verbs — they break the rules, so you remember them as special cases.                          |
 
 ### How to drill with this cheat sheet
 
