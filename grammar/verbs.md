@@ -89,3 +89,26 @@ column gets too much width and the words in the other columns get broken over mu
 2. **Say it aloud**: Emphasize the double consonant (って) or nasal (んで).
 3. **Visualize the story**: Imagine the action (tapping table, whispering, swimming, etc.).
 4. **Use flashcards**: Write dictionary form on one side, て-form (with furigana) on the other.
+
+## Example sentences
+
+| Verb | Present | て form | English |
+|------|---------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------|
+| <ruby>買<rp>(</rp><rt>か</rt><rp>)</rp></ruby>う  | パンを<ruby>買<rp>(</rp><rt>か</rt><rp>)</rp></ruby>う。                                                    | パンを&ZeroWidthSpace;**<ruby>買<rp>(</rp><rt>か</rt><rp>)</rp></ruby>って**、<ruby>家<rp>(</rp><rt>いえ</rt><rp>)</rp></ruby>に<ruby>帰<rp>(</rp><rt>かえ</rt><rp>)</rp></ruby>りました。                                                  | I bought bread and went home. |
+| <ruby>待<rp>(</rp><rt>ま</rt><rp>)</rp></ruby>つ  | <ruby>友達<rp>(</rp><rt>ともだち</rt><rp>)</rp></ruby>を<ruby>待<rp>(</rp><rt>ま</rt><rp>)</rp></ruby>つ。  | <ruby>友<rp>(</rp><rt>とも</rt><rp>)</rp></ruby>だちを&ZeroWidthSpace;**<ruby>待<rp>(</rp><rt>ま</rt><rp>)</rp></ruby>って**、<ruby>映画<rp>(</rp><rt>えいが</rt><rp>)</rp></ruby>を<ruby>見<rp>(</rp><rt>み</rt><rp>)</rp></ruby>ました。 | I waited for my friend and watched a movie. |
+| <ruby>取<rp>(</rp><rt>と</rt><rp>)</rp></ruby>る  | <ruby>本<rp>(</rp><rt>ほん</rt><rp>)</rp></ruby>を<ruby>取<rp>(</rp><rt>と</rt><rp>)</rp></ruby>る。        | <ruby>本<rp>(</rp><rt>ほん</rt><rp>)</rp></ruby>を&ZeroWidthSpace;**<ruby>取<rp>(</rp><rt>と</rt><rp>)</rp></ruby>って**、<ruby>読<rp>(</rp><rt>よ</rt><rp>)</rp></ruby>みました。                                                   | I took a book and read it. |
+| <ruby>書<rp>(</rp><rt>か</rt><rp>)</rp></ruby>く  | <ruby>手紙<rp>(</rp><rt>てがみ</rt><rp>)</rp></ruby>を<ruby>書<rp>(</rp><rt>か</rt><rp>)</rp></ruby>く。    | <ruby>手紙<rp>(</rp><rt>てがみ</rt><rp>)</rp></ruby>を&ZeroWidthSpace;**<ruby>書<rp>(</rp><rt>か</rt><rp>)</rp></ruby>いて**、<ruby>送<rp>(</rp><rt>おく</rt><rp>)</rp></ruby>りました。                                                | I wrote a letter and sent it. |
+| <ruby>話<rp>(</rp><rt>はな</rt><rp>)</rp></ruby>す| <ruby>先生<rp>(</rp><rt>せんせい</rt><rp>)</rp></ruby>と<ruby>話<rp>(</rp><rt>はな</rt><rp>)</rp></ruby>す  | <ruby>先生<rp>(</rp><rt>せんせい</rt><rp>)</rp></ruby>と&ZeroWidthSpace;**<ruby>話<rp>(</rp><rt>はな</rt><rp>)</rp></ruby>して**、<ruby>質問<rp>(</rp><rt>しつもん</rt><rp>)</rp></ruby>しました。                                           | I talked with the teacher and asked a question. |
+| <ruby>泳<rp>(</rp><rt>およ</rt><rp>)</rp></ruby>ぐ| <ruby>海<rp>(</rp><rt>うみ</rt><rp>)</rp></ruby>で<ruby>泳<rp>(</rp><rt>およ</rt><rp>)</rp></ruby>ぐ。      | <ruby>海<rp>(</rp><rt>うみ</rt><rp>)</rp></ruby>で&ZeroWidthSpace;**<ruby>泳<rp>(</rp><rt>およ</rt><rp>)</rp></ruby>いで**、<ruby>楽<rp>(</rp><rt>たの</rt><rp>)</rp></ruby>しかったです。                                               | I swam in the sea and it was fun. |
+| <ruby>死<rp>(</rp><rt>し</rt><rp>)</rp></ruby>ぬ  | その<ruby>魚<rp>(</rp><rt>さかな</rt><rp>)</rp></ruby>が<ruby>死<rp>(</rp><rt>し</rt><rp>)</rp></ruby>ぬ。  | その<ruby>魚<rp>(</rp><rt>さかな</rt><rp>)</rp></ruby>は&ZeroWidthSpace;**<ruby>死<rp>(</rp><rt>し</rt><rp>)</rp></ruby>んで**しまいました。                                                                                           | That fish ended up dying. |
+| <ruby>遊<rp>(</rp><rt>あそ</rt><rp>)</rp></ruby>ぶ| <ruby>公園<rp>(</rp><rt>こうえん</rt><rp>)</rp></ruby>で<ruby>遊<rp>(</rp><rt>あそ</rt><rp>)</rp></ruby>ぶ  | <ruby>公園<rp>(</rp><rt>こうえん</rt><rp>)</rp></ruby>で&ZeroWidthSpace;**<ruby>遊<rp>(</rp><rt>あそ</rt><rp>)</rp></ruby>んで**います。                                                                                             | I am playing in the park. |
+| <ruby>飲<rp>(</rp><rt>の</rt><rp>)</rp></ruby>む  | コーヒーを<ruby>飲<rp>(</rp><rt>の</rt><rp>)</rp></ruby>む。                                                | コーヒーを&ZeroWidthSpace;**<ruby>飲<rp>(</rp><rt>の</rt><rp>)</rp></ruby>んで**、<ruby>働<rp>(</rp><rt>はたら</rt><rp>)</rp></ruby>きました。</div>                                                                                    | I drank coffee and worked. |
+
+
+
+
+ 
+
+
+ 
+      
