@@ -268,6 +268,10 @@ Reading and saying the transformations aloud is **key**. For example:
 * [Shino Sensei](https://www.youtube.com/watch?v=W_M3KHy3z48)
 * [Thanawan Pinlaem](https://www.youtube.com/watch?v=uW1YcozsWh4)
 
+## Worksheet
+
+See [`te-form-worksheet.md`](te-form-worksheet.md).
+
 # Adjectives
 
 い-adjectives like "self-powered" cars—they have their own engines (conjugations) built-in. な-adjectives are more like "trailers"—they are basically nouns that need a hitch (a copula like です/だ) to go anywhere.
