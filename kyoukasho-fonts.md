@@ -98,7 +98,10 @@ The more "normal" leading of FC-M:
 See also
 --------
 
+If you're looking for a brush-style font where the characters are drawn in a similar style to kyoukasho, try [Yuji Syuku](https://fonts.google.com/specimen/Yuji+Syuku) on Google Fonts.
+
 See also this [blog post](https://nihongolaborotterdam.com/2019/12/16/handwriting/) from Nihongo Labo Rotterdam, titled "What I want to tell you about Japanese typeface and handwriting."
 
 The FC-M font comes from this [post](https://community.wanikani.com/t/japanese-font-depository/52874/23) on the WaniKani forums. Derek says it's "the font used in most grade school dictionaries. Similar to the Epson one, but there [are] some differences that probably make this font better since the connecting strokes are a bit smoother."
 
+Note: Google Fonts has [LXGW WenKai TC](https://fonts.google.com/specimen/LXGW+WenKai+TC) which is based on and looks almost identical to Klee One. According to its [GitHub page](https://github.com/lxgw/LxgwWenkaiTC) it's supposed to be for Traditional Chinese (the "TC" in the name). However, many of the glyphs, e.g. for 直, still appear as one would expect in Japanese rather than Traditional Chinese. It's still probably best to ignore this font if searching Google Fonts for kyoukasho fonts.
