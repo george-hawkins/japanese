@@ -1,4 +1,4 @@
-Kanji practive suggestions from ChatGPT and Gemini
+Kanji practice suggestions from ChatGPT and Gemini
 ==================================================
 
 I find some kanji very hard to draw, e.g. 遊 where I usually draw the ⻌ part badly. So I asked ChatGPT and Gemini for kanji to drill in order to perfect the fundamentals needed for all kanji.
