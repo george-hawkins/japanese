@@ -565,6 +565,8 @@ There are many sites that can generate kanji practice sheets for print out. Here
 * Henckq's [Generator for Kanji Writing Practice Sheets](https://henckq.nl/kanji/) - a nice feature of this is that it can generate sheets corresponding to chapters of RTK.
 * Jensen Kuras's [Kanji Worksheets](https://jensechu.github.io/kanji/) (and GitHub [repo](https://github.com/jensechu/kanji)) - nice, simple and clean.
 
+Update: my own Python-based [worksheet generator](https://github.com/george-hawkins/japanese-worksheets).
+
 ### Misc
 
 You can find beautiful stroke order diagrams on [KanjiVG](https://kanjivg.tagaini.net/viewer.html?kanji=%E5%8F%B3) and using the data they provide you can use the [`kanjivg2svg` tool](https://github.com/Kimtaro/kanjivg2svg) to generate the kind of stroke order diagrams seen on [jisho.org](https://jisho.org/). Or you can download the full set of converted diagrams [here](https://www.reddit.com/r/LearnJapanese/comments/awr5vw/downloading_stroke_order_image/) (but see follow-ups covering issues and see if those issues have been addressed in the latest version of the file available on Google Drive).
