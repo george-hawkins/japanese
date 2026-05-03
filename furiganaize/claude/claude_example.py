@@ -79,6 +79,7 @@ examples = [
 
 # Claude suggested the following snippet but admitted submitting SYSTEM_PROMPT on each turn
 # of the loop wasn't great and suggested I ask it about how to do this batch style.
+# Update: see book-annotation.md for a more cost-efficient approach.
 for example in examples:
     print(example[0])
     text = example[1]

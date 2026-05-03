@@ -3,6 +3,8 @@ Claude
 
 After trying GiNZA and OpenJTalk, I found Claude did far better even with Sonnet (Claude Code, running Opus 4.7, recommended Sonet as good enough for this task.
 
+See [`book-annotation.md`](book-annotation.md) for a more cost-efficient approach than `claude_example.py`.
+
 Quick HOWTO
 -----------
 
