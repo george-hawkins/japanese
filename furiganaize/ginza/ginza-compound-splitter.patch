@@ -1,0 +1,18 @@
+--- a/venv/lib/python3.12/site-packages/ginza/__init__.py
++++ b/venv/lib/python3.12/site-packages/ginza/__init__.py
+@@ -1,5 +1,5 @@
+ from functools import singledispatch
+-from typing import Callable, Iterable, Union, Tuple, TypeVar
++from typing import Callable, Iterable, Optional, Union, Tuple, TypeVar
+
+ from sudachipy.morpheme import Morpheme
+
+@@ -59,7 +59,7 @@
+ def make_compound_splitter(
+     nlp: Language,
+     name: str,
+-    split_mode: str = None,
++    split_mode: Optional[str] = None,
+ ):
+     return CompoundSplitter(
+         nlp.vocab,

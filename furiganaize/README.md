@@ -5,6 +5,18 @@ I thought adding furigana to Japanese text would be fairly simple.
 
 But it turns out to be not as easy as it seems. Getting from 日本 to にほん is fairly do-able but I wanted to go further...
 
+For ref., conversations with Gemini about tricky situations that I've seen online furigana tools fail at:
+
+* 上手 can be read as じょうず, うわて and かみて. This and similar issues <https://gemini.google.com/share/a695e0640856>
+* Rendaku and other issues (一階 is いっかい rather than いちかい) <https://chatgpt.com/share/69f79985-2fcc-83eb-a795-3b4eac7712d6> (in particular the "Top furigana failure cases" section).
+* [`test_furiganaize.py`](test_furiganaize.py) - test cases constructed by Claude Code.
+
+**Update:** I think Gemini got rendaku mixed up with onbin (and the form of onbin called sokuonbin, where a sokuon, a small tsu, is introduced).
+
+See also <https://gemini.google.com/share/6c578c6974b6>
+
+**Update:** I started with `fugashi` (see [`fugashi`](fugashi) subdirectory and section below), moved on to try GiNZA (see [`ginza`](ginza) subdirectory) and OpenJTalk (see [`openjtalk`](openjtalk) subdirectory). But in the end, only an LLM came close, Claude could handle my small set of example sentences that tripped up the others (see [`claude`](claude) subdirectory).
+
 Per-kanji furigana
 ------------------
 
@@ -90,7 +102,9 @@ TODO: make sure it's got cases similar to 頑張って and 一階.
 Fugashi
 -------
 
-See also [`fugashi-api-doc.md`](fugashi-api-doc.md).
+**Update:** I moved the `fugashi` related stuff into the [`fugashi`](fugashi) subdirectory here.
+
+See also [`fugashi/fugashi-api-doc.md`](fugashi/fugashi-api-doc.md).
 
 First, set up a `venv`:
 
