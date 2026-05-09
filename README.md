@@ -1226,6 +1226,26 @@ Note: to buy apps, like Kanji Exam Smart Preparation, that are only available on
 
 _Good_ games designed to actively teach you Japanese seem fairly rare. An indy game that attempts this and has had good reviews form _Game Gengo_ and others is [Wagotabi](https://www.wagotabi.com/).
 
+Scanning books
+--------------
+
+As noted elsewhere, high quality scans of manga (where you can actually read the furigana) are rarer than you'd expect and a surprising number of Japanese books (e.g. the all-furigana version of [Harry Potter](https://www.amazon.co.jp/-/en/dp/4863898606)) or learner books (e.g. [Japanese Sentence Patterns for Effective Communication](https://www.amazon.com/dp/1568364202) - no recommendation implied, it's just an example of a popular resource with no e-book version).
+
+This has given risen to high-quality book scanning services. In particular:
+
+* [BOOKSCAN](https://www.bookscan.co.jp/) - Japan only.
+* [1DollarScan](https://1dollarscan.com/) - international.
+
+1DollarScan say they're international but sign-up asks for a US address. A physical address is only relevant for their option to ship you the scan on the USB key (an option, I imagine, few people bother with these days). The address needs to be valid, I actually tried 1DollarScan's own shipping address but they rejected that, so I just looked on Google Maps and chose a random warehouse nearby.
+
+As far as I understand it, 1DollarScan is based on the same technology and/or platform as the Japanese site.
+
+You ship a book to them, they scan it, make the scan available as a download and destroy the original. They need to destroy the original to comply with copyright law - i.e. you don't end up with two copies (the original and the scan) when you only paid the publisher for one.
+
+They handle chopping the spine off the book. And you can ship them books directly from Amazon etc. to them (I've shipped books from Amazon Japan to them).
+
+Despite being called 1DollarScan, it's $1.20 per 100 pages (what they call a "set") for plain 300dpi scanning. But there are lots of extras that quickly add up, e.g. an extra $2 per set for 600dpi (which is what you need if you want readable furigana). In practice, I paid around $30 for a 240 page book (which counts as 3 sets) with express (10 business day turnaround), _high quality touch up_, 600dpi, OCRing and accepting shipment from Amazon.
+
 Subscriptions I've paid for
 ---------------------------
 
