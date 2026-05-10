@@ -1,3 +1,6 @@
+Furigana
+--------
+
 I used <https://nihongodera.com/tools/convert> to add furigana to the text and used Google Chrome _Inspect_ to copy the resulting HTML.
 
 However, the author of NihongoDera is shutting down his site.
@@ -11,6 +14,11 @@ Or:
 * <https://muriapp.com/en/furigana/>
 * <https://kanjikana.com/en/tools/furigana>
 * <https://www.jcinfo.net/en/tools/kana> (ad laden).
+
+Note: I later found that none of these are entirely satisfactory for things like 一階 (they're a bit too simple minded and produce the reading いちかい rather than いっかい). See [here](../furiganaize/README.md) for more on this topic.
+
+Text-to-speech
+--------------
 
 For text conversion try: <https://console.cloud.google.com/vertex-ai/studio/media/speech>
 
