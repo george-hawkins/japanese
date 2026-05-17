@@ -130,6 +130,8 @@ In the end, I chose _FDAT M unshuffle_ as the winning model.
 
 Scaled to 600 DPI, normalized (see section below) and converted to AVIF (see section below), the result was [`unshuffle-normalize-600dpi.avif`](images/unshuffle-normalize-600dpi.avif) (you can see it below in the _Comparison_ section).
 
+To be honest, I don't think the blurry dakuten and handakuten look clearer, but they don't look worse (which is always a risk with this kind of thing). However, I do think the strokes look better and reduction in noise around all the characters does make things look better.
+
 Comparison
 ----------
 
@@ -165,8 +167,8 @@ Notebooks
 
 You can find the two Colab notebooks, that I created, here:
 
-* [`notebooks/fbcnn_jpeg_cleanup.ipynb`](notebooks/fbcnn_jpeg_cleanup.ipynb)
-* [`notebooks/upscaling.ipynb`](notebooks/upscaling.ipynb)
+* [`notebooks/fbcnn_jpeg_cleanup.ipynb`](notebooks/fbcnn_jpeg_cleanup.ipynb) - apply the FBCNN model.
+* [`notebooks/upscaling.ipynb`](notebooks/upscaling.ipynb) - apply any of the IllustrationJaNai models.
 
 Each notebook includes an _Open in Colab_ link at the top to open your own copy in Colab.
 
@@ -185,9 +187,11 @@ Upload all the images in `page-images` to the `input` directory on _Google Drive
 
 Download the `IllustrationJaNai_V3denoise.zip` file from the _Assets_ section of the V3 IllustrationJaNai [release page](https://github.com/the-database/MangaJaNai/releases/tag/3.0.0). Extract the ZIP file and upload the `2x_IllustrationJaNai_V3denoise_FDAT_M_unshuffle_30k_fp16.safetensors` model file to the `models` directory on _Google Drive_.
 
-Open the Upscaling notebook, go to the _Runtime_ menu and select _Change runtime type_, you'll need at least an A100 GPU rather than one of the free T4 GPUs (the T4 has 15GiB VRAM, the A100 has 40GiB, the H100 has 80GiB and the G4 has 96GiB).
+Open the `upscaling.ipynb` notebook (see _Notebooks_ section above), go to the _Runtime_ menu and select _Change runtime type_, you'll need at least an A100 GPU rather than one of the free T4 GPUs (the T4 has 15GiB VRAM, the A100 has 40GiB, the H100 has 80GiB and the G4 has 96GiB).
 
-Then Run each of the cells in the Upscaling notebook (see _Notebooks_ section above) in turn and then find the results in the `output` directory on _Google Drive_.
+Find the notebook cell with the title "Select Model" and make sure only the `2x_denoise_FDAT_M_unshuffle_30k_fp16` model is uncommented (and make sure you're looking at the `denoise` model and not the `detail` model that's a few lines below).
+
+Then run each of the cells in the notebook in turn and then find the results in the `output` directory on _Google Drive_.
 
 Download the `output` image files and for each file, normalize it, downscale it and convert it to AVIF like so:
 
@@ -261,13 +265,21 @@ For full details, ask an LLM, but:
 * `heic:chroma=444` is redundant when used with `-colorspace Gray` but for a color image it would keep edges crisp (the default would smear them slightly).
 * `-quality 65` is essentially perceptually lossless (the AVIF quality scale is very different to JPEG where 65 would be very lossy).
 
+#### Converting to WEBP
+
+In the beginning there was JPEG, then came WEBP and now we have AVIF. If you prefer WEBP, the equivalent quality can be achieved with:
+
+```
+$ magick in.png -colorspace Gray -depth 8 -define webp:method=6 -define webp:near-lossless=60 -strip out.webp
+```
+
 ### IllustrationJaNai stats
 
 The following tables show the peak VRAM and time costs for the various V3 IllustrationJaNai models when upscaling my `crop.png` sample.
 
 As you can see, the VRAM and time costs are significant even for this small 800x800 pixel sample. All times are for a G4 GPU.
 
-No tiling is used so these costs will increase significantly for a full page.
+No tiling is used, so these costs will increase significantly for a full page.
 
 First the denoise models:
 
@@ -290,4 +302,4 @@ Now, the detail models:
 | 4x detail_DAT2_28k_bf16 | 19.34 GiB | 2.63s |
 | 4x detail_HAT_L_28k_bf16 | 33.56 GiB | 4.12s |
 
-Note: the same models types exist for both denoise and detail, except for HAT L, which only exists for detail.
+Note: the same model types exist for both denoise and detail, except for HAT L, which only exists for detail.
