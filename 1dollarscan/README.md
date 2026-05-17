@@ -161,7 +161,12 @@ And here's the 600 DPI normalized _FDAT M unshuffle_ AVIF result:
 Notebooks
 ---------
 
-TODO: include links to FBCNN and IllustrationJaNai notebooks here.
+You can find the two Colab notebooks, that I created, here:
+
+* [`notebooks/fbcnn_jpeg_cleanup.ipynb`](notebooks/fbcnn_jpeg_cleanup.ipynb)
+* [`notebooks/upscaling.ipynb`](notebooks/upscaling.ipynb)
+
+Each notebook includes an _Open in Colab_ link at the top to open your own copy in Colab.
 
 Summary
 -------
