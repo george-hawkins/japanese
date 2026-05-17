@@ -1246,6 +1246,8 @@ They handle chopping the spine off the book. And you can ship them books directl
 
 Despite being called 1DollarScan, it's $1.20 per 100 pages (what they call a "set") for plain 300dpi scanning. But there are lots of extras that quickly add up, e.g. an extra $2 per set for 600dpi (which is what you need if you want readable furigana). In practice, I paid around $30 for a 240 page book (which counts as 3 sets) with express (10 business day turnaround), _high quality touch up_, 600dpi, OCRing and accepting shipment from Amazon.
 
+**Update:** the results from 1DollarScan weren't quite as good as I'd hoped. You can find a write-up (including example images) [here](1dollarscan). After the 1DollarScan experience, I signed up for the Japanese BOOKSCAN service and looked at various other destructive book scanning services but didn't get the impression that any would produce a better result. There are some services that are aimed at libraries and the like, rather than retail customers, that probably produce amazing results but with the caveat that they're amazingly expensive.
+
 Subscriptions I've paid for
 ---------------------------
 

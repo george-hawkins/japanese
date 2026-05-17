@@ -145,6 +145,8 @@ And for reference, a clean pure digital 600 DPI reconstruction:
 
 ![pure digital image](images/chapter-start-triangle-downscale-600dpi.avif)
 
+In case you're wondering, there's no unicode character for a digit enclosed in a black diamond but there is for one enclosed in a circle.
+
 For details on how the pure digital version was created, see [`pure-digital`](pure-digital).
 
 Full-size page comparison
