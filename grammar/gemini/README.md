@@ -3,6 +3,20 @@ Archive Gemini chats
 
 This directory contains chats archived from Gemini.
 
+**Update:** in the end, I wasn't too impressed by the Markdown produced by this process and instead started saving the HTML:
+
+```
+$ python fetch_share.py --no-markdown --no-preprocess https://gemini.google.com/share/6298bc9aa977 -v -o noun-verbs-adjectives.html
+```
+
+And then asking the Claude Code to produce a coherent structured document from the conversation and save it as Markdown. I even got it to create a slash-command so now within Claude Code, I can do:
+
+```
+> /chat-to-md my-chat.html
+```
+
+And it produces a corresponding `my-chat.md` file.
+
 Python archiver
 ---------------
 
