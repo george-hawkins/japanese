@@ -202,6 +202,15 @@ Compared to the Upscayl results, the output images are far truer to the original
 
 Compare e.g. the strokes on Frieren's boots, the artifacts around the text and the clarity of the text and the rest of the image.
 
+Witch Hat Atelier
+-----------------
+
+I later bought [Witch Hat Atelier volume 1](https://www.kobo.com/jp/ja/ebook/KRliSoPZuT2tVCJ5a-nQ2A) on Kobo which is about 300 DPI (and fairly insignificant JPEG noise/artifacts).
+
+After comparing the various models, I decided `detail-4x-FDAT-XL` was noticeably better _in this case_. This model scaled up by 4, so I then scaled down to 50% to get about 600 DPI.
+
+Using a G4 GPU, this model took about 9s per page - which is just over 30 mins for the 210 pages of the volume. A G4 GPU is around $1.00 per hour at the time of writing.
+
 Mokuro
 ------
 
@@ -233,6 +242,24 @@ do
     echo $dest
 done
 ```
+
+### Update
+
+I later decided on `-filter Triangle -resize 50%` rather than using `-distort` and the default filter:
+
+```
+for i in *.png
+do
+    magick $i -filter Triangle -resize 50% \
+        -depth 8 -define heic:speed=2 -define heic:chroma=444 -quality 65 -strip
+        avif/${i/png}avif
+    echo $i
+done
+```
+
+Converting in and out of the `RGB` colorspace may still be worth doing it the pages are full-color but for black and white it doesn't improve things, particularly not text (which can look a little "thinned").
+
+---
 
 And I ran Mokuro on the PNGs:
 

@@ -183,6 +183,8 @@ $ ./extract-pages.sh my-scanned-book.pdf page-images
 
 In the root folder of your _Google Drive_, create a directory called `colab`. Within it create a directory called `upscaling` and within that three subdirectories called `models`, `input` and `output`.
 
+**Update:** before uploading the images to _Google Drive_, I trimmed off the dark edges (where you could see the scanner bed rather than the page) using the Python script, created with Claude, that's described in [`book/README.md`](book/README.md).
+
 Upload all the images in `page-images` to the `input` directory on _Google Drive_.
 
 Download the `IllustrationJaNai_V3denoise.zip` file from the _Assets_ section of the V3 IllustrationJaNai [release page](https://github.com/the-database/MangaJaNai/releases/tag/3.0.0). Extract the ZIP file and upload the `2x_IllustrationJaNai_V3denoise_FDAT_M_unshuffle_30k_fp16.safetensors` model file to the `models` directory on _Google Drive_.
@@ -193,14 +195,21 @@ Find the notebook cell with the title "Select Model" and make sure only the `2x_
 
 Then run each of the cells in the notebook in turn and then find the results in the `output` directory on _Google Drive_.
 
-Download the `output` image files and for each file, normalize it, downscale it and convert it to AVIF like so:
+Download the `output` image files and eyeball the resulting images to determine the black point and white point, e.g. 55 and 250. Then divide each value by 255 to get a percentage that can be used with `-level`, so for 55 and 250 that'd end up about `22%,98%`.
+
+Then for each file, normalize it, downscale it and convert it to AVIF like so:
 
 ```
-$ magick upscaled-page.png \
-    -colorspace Gray -normalize \
-    -filter Triangle -resize 50% \
-    -depth 8 -define heic:speed=2 -define heic:chroma=444 -quality 65 -strip \
-    result-page.avif
+mkdir avif
+for file in *.png
+do
+    magick $file \
+        -colorspace Gray -level 22%,98% \
+        -filter Triangle -resize 50% \
+        -depth 8 -define heic:speed=2 -define heic:chroma=444 -quality 65 -strip \
+        avif/${file/png}avif
+    echo $file
+done
 ```
 
 That's it.
@@ -248,6 +257,21 @@ $ magick in.png -colorspace Gray -normalize out.png
 ```
 
 `-normalize` is essentially a shortcut for `-contrast-stretch 2%x1%`. With `-contrast-stretch`, you can fine tune, what percentage of the darkest pixels squash to black and the same for the lightest. Using 2% for dark and 1% for light is quite aggressive, and you can see this above in the chapter number (the digit 1 enclosed in a black diamond) where the lower serifs of the digit 1 become a little darker than desirable, but on the whole I think it works well.
+
+#### Update - don't use -normalize
+
+`-normalize` has a serious issue so I moved to `-level` and fixed black and white points.
+
+Some pages have almost no characters (i.e. mostly white, almost no black). On such pages, the "darkest 2%" includes lots of mid-gray pixels — so all of those get crushed to black.
+
+So instead take an image that's a full page of text, load it into something like Gimp and determine the black point and the white point.
+
+In the scans I got, the black point was around 55 and the white point seemed to be almost spot but I chose 250 as the white point to squash things up a little. The `-level` argument works with percentage values rather than values in the range 0 to 255, so:
+
+* (55 / 255) → 22%
+* (250 / 255) → 98%
+
+So instead of `-normalize` use `-level 22%,98%` (or whatever values are suitable for your case).
 
 ### Converting to AVIF
 
