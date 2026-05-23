@@ -216,3 +216,10 @@ $ git add .
 $ git commit -a -m 'Did xyz.'
 $ git push
 ```
+
+Mokuro Reader navigation and shortcuts
+--------------------------------------
+
+Certain features, such as night mode, only seem to be available via shortcuts. These, and all the navigation shortcuts you'd expect, can be found [here](https://github.com/Gnathonic/mokuro-reader#%EF%B8%8F-keyboard-shortcuts).
+
+You can click on the upper-left page counter (displaying something like ""5,6 / 210") and jump to a particular page. _However_, there's some kind of bug that means sometimes clicking it doesn't bring up the jump-to popup - refresh the page to fix this.
