@@ -32,6 +32,17 @@ $ cd witch-hat-atelier-v1
 $ zip ../witch-hat-atelier-v1.cbz ComicInfo.xml *.avif
 ```
 
+Scanned book CBZ file
+---------------------
+
+I got a book scanned by 1DollarScan (see the [`1dollarscan` directory](../../1dollarscan)) and got Claude to create an equivalent to `comicinfo.py` for book ISBN numbers. The ISBN metadata is a bit hit-or-miss hence the need to provide some values by hand.
+
+```
+$ python3 bookinfo.py 978-4863898608 --series "ハリー・ポッター" --volume "1-1" -o harry-potter-vol-1-1/ComicInfo.xml
+$ cd harry-potter-vol-1-1
+$ zip ../harry-potter-vol-1-1.cbz ComicInfo.xml *.avif
+```
+
 macOS readers
 -------------
 
