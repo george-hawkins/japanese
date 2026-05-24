@@ -7,6 +7,8 @@ It's just a normal ZIP file of JPEGs, PNGs, WEBPs, AVIFs or whatever image forma
 
 It can contain an optional `ComicInfo.xml` with metadata.
 
+**Note:** for reading Japanese manga, if you're a Japanese learner, I recommend Mokuro (that's covered elsewhere in this repo) over plain CBZ.
+
 Metadata
 --------
 
@@ -52,7 +54,7 @@ I tried various readers for macOS:
 * [YACReader](https://www.yacreader.com/) - it seems to be the king of macOS comic book readers for the comic book hard-core, but while the mobile versions support AVIF, the desktop version still does not have native AVIF support (but does support WEBP).
 * [OpenComic](https://opencomic.app/) - supports AVIF and `ComicInfo.xml` metadata.
 
-In the end, I settled of OpenComic but primarily because I'd used AVIF and wanted `ComicInfo.xml` metadata support. I wasn't particularly impressed by it. It's an Electron app and isn't fine-tuned for macOS, e.g. the shortcut for fullscreen is F11 which is already taken by macOS (and toggles _Show Desktop_). It also seemed quite brittle, e.g. I repackaged my `.cbz` file and loading that volume broke (the fact that one of the main menus is _Debug_ which opens the Electron _Developer Tools_ suggests this may be an often needed feature).
+In the end, I settled of OpenComic but primarily because I'd used AVIF and wanted `ComicInfo.xml` metadata support. I wasn't particularly impressed by it. It's an Electron app and isn't fine-tuned for macOS, e.g. the shortcut for fullscreen is F11 which is already taken by macOS (and toggles _Show Desktop_). It also seemed quite brittle, e.g. I repackaged my `.cbz` file and loading that volume broke (the fact that one of the main menus is _Debug_ which opens the Electron _Developer Tools_ suggests this may be an often needed feature). It also ignores the `ComicInfo.xml` right-to-left tag and you have to set that manually (see _Reading manga_ setting below).
 
 Once your manga is open, click the _Page layout_ button in the toolbar and:
 

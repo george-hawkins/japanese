@@ -216,6 +216,8 @@ That's it.
 
 Note: running the _FDAT M unshuffle_ model on the small 4.53x6.89 inch 600 DPI pages of my book required just under 30GiB VRAM (and it's one of the most light-weight IllustrationJaNai _denoise_ models).
 
+For details on how to create a CBZ archive of a scanned book see [here](../digital-manga/manga).
+
 Additional notes
 ----------------
 
