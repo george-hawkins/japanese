@@ -70,3 +70,9 @@ Android readers
 On Android, I tried the _paid_ versions of [CDisplayEx](https://www.cdisplayex.com/) and [Kuro Reader](https://kurotoshiro.dev/).
 
 [Mihon](https://mihon.app/) is open source and seems to be the most popular comic book reader for Android. However, it's had various issues with Google Play around its plugins architecture and is now only available via [sideloading](https://en.wikipedia.org/wiki/Sideloading).
+
+My initial impressions are more positive for CDisplayEx. The options available while reading aren't entirely obvious but there's good documentation [here](https://www.cdisplayex.com/mobile/reader/).
+
+The only setting, I changed, was toggling on _Automatic background color_. By default if it needs to add borders (typically at the top and bottom), these are colored black. I prefer white if the pages themselves are white - _Automatic background color_ matches the border color to the color at the edges of the displayed page.
+
+To be honest tho', I can't really imagine reading manga comfortably on anything smaller than a full-size tablet.
