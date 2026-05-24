@@ -1248,6 +1248,16 @@ Despite being called 1DollarScan, it's $1.20 per 100 pages (what they call a "se
 
 **Update:** the results from 1DollarScan weren't quite as good as I'd hoped. You can find a write-up (including example images) [here](1dollarscan). After the 1DollarScan experience, I signed up for the Japanese BOOKSCAN service and looked at various other destructive book scanning services but didn't get the impression that any would produce a better result. There are some services that are aimed at libraries and the like, rather than retail customers, that probably produce amazing results but with the caveat that they're amazingly expensive.
 
+### DIY alternative
+
+After seeing the quality of the 1DollarScan service and convincing myself that there aren't any better alternatives at a reasonable price, I looked into DIY alternatives. These aren't actually that bad.
+
+The core components:
+
+* A desktop scanner with sheet feeder - the Brother ADS-4100 (this has a 60 page feeder, most cheaper ones have a 20 page or less feeder).
+* A heavy-duty paper cutter capable of removing the spine from a book - the [Vevor 400 sheet A4 guillotine](https://www.vevor.com/paper-cutter-c_10879/vevor-paper-cutter-12-a4-guillotine-paper-trimmer-400-sheet-capacity-metal-base-p_010740834037) (easy availability in Europe) or the similar [HFS guillotine](https://www.amazon.com/dp/B0C3G5YTG2/) available on Amazon. I haven't tried either, the HFS gets an OK rating on Amazon but some buyers are clearly unimpressed so it may actually be necessary to pay more for a really good guillotine. **As an alternative**, print shops will sometimes do guillotining for you.
+* [ScanTailor Advanced](https://github.com/ScanTailor-Advanced/scantailor-advanced) - open source software to handle deskewing, removing borders etc.
+
 Subscriptions I've paid for
 ---------------------------
 
