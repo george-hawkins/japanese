@@ -143,6 +143,8 @@ MangaJaNai on Colab
 
 In the end, after becoming very disappointed with the Upscayl results (see following sections), I did try the MangaJaNai models using Google Colab GPUs. See [`colab.md`](colab.md) for the details.
 
+See also the [`manga`](manga) subdirectory for notes on bundling the results of MangaJaNai upscaling into a CBZ file.
+
 Upscayl results
 ---------------
 
