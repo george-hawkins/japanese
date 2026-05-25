@@ -9,7 +9,7 @@
  *   <span class="kanjivg-animate">日</span>
  *
  * The KanjiVG SVG (with stroke numbers) appears fully drawn by default.
- * Clicking it causes it to be redrawn stroke by store.
+ * Clicking it causes it to be redrawn stroke by stroke.
  *
  * By default the KanjiVG SVGs are assumed to be in the same directory
  * as this script. Add the attribute data-base-path="..." to the script
@@ -87,14 +87,23 @@
     for (const p of paths) {
       const len = p.getTotalLength();
       const duration = Math.max(opts.minStrokeMs, opts.paceMs * Math.sqrt(len));
+      const naturalStroke = getComputedStyle(p).stroke;
       p.style.stroke = 'red';
-      const anim = p.animate(
+      const draw = p.animate(
         { strokeDashoffset: [len, 0] },
         { duration, easing: 'linear', fill: 'forwards' }
       );
-      await anim.finished;
-      try { anim.commitStyles(); } catch {}
-      anim.cancel();
+      await draw.finished;
+      try { draw.commitStyles(); } catch {}
+      draw.cancel();
+
+      const fade = p.animate(
+        { stroke: ['red', naturalStroke] },
+        { duration: 150, easing: 'ease-out', fill: 'forwards' }
+      );
+      await fade.finished;
+      try { fade.commitStyles(); } catch {}
+      fade.cancel();
       p.style.stroke = '';
     }
 
