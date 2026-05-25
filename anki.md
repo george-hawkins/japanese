@@ -10,7 +10,6 @@ TODO
 * Grep my old repos (on NAS backup) to see if I can find any notes on tips, e.g. shortcuts to use while creating cards, that I noted back when doing German cards.
 * See this [Gemini answer](https://gemini.google.com/share/a910e1797901) for its suggestions on the shortcuts etc. that I might be thinking of (note that it agrees with Jouzu Juls that capping reviews is a trap). **Maybe add a super brieft shortcuts section just below here**.
 * Watch Trenton's: <https://www.youtube.com/watch?v=_MWtbI4IwfU>
-* Work out how to use KanjiVG on cards - I presume usually HTML font selection. Or even better, the beautiful KanjiViewer that you see on rtk-search pages like [this](https://hochanh.github.io/rtk/%E5%98%B2/). It's done using the GitHub project [Draw Me A Kanji](https://github.com/mbilbille/dmak) (aka Dmak). You can see the HTML rtk-search uses for the player [here](https://github.com/hochanh/rtk-search/blob/gh-pages/_layouts/kanji.html#L22) and the associated Javascript [here](https://github.com/hochanh/rtk-search/blob/gh-pages/_layouts/default.html#L25). I suspect rtk-search isn't using the original KanjiVG bundles but one colorized with something like [KanjiColorizer](https://github.com/cayennes/kanji-colorize). **Note:** the KanjiVG site uses a [viewer from NihongoDera](https://github.com/nihongodera/kanjivganimate) that handles the coloring itself.
 
 See also the Anki section in [`grammar/README.md`](grammar/README.md).
 

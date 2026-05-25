@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Anki Card Mockup Platform</title>
+    <style>
+        /* ==========================================
+           1. ANKI DEFAULT STYLING (The "Styling" Box)
+           ========================================== */
+        .card {
+            font-family: arial;
+            font-size: 20px;
+            text-align: center;
+            color: black;
+            background-color: white;
+        }
+
+        /* Default cloze deletion styling */
+        .cloze {
+            font-weight: bold;
+            color: blue;
+        }
+
+        /* Default horizontal line divider */
+        hr#answer {
+            border: 0;
+            height: 1px;
+            background-color: #ccc;
+            margin: 20px 0;
+        }
+
+        /* ==========================================
+           2. ANKI NIGHT MODE (Dark Mode Overrides)
+           ========================================== */
+        /* Anki injects classes like 'nightMode' or 'night-mode' into the body */
+        .nightMode .card, .night-mode .card {
+            background-color: #2f2f31; /* Anki desktop default dark gray */
+            color: white;
+        }
+
+        .nightMode .cloze, .night-mode .cloze {
+            color: #729fcf; /* Default light blue cloze color */
+        }
+
+        .nightMode hr#answer, .night-mode hr#answer {
+            background-color: #555;
+        }
+
+        /* ==========================================
+           3. MOCK ENV ONLY (Safe to delete before pasting into Anki)
+           ========================================== */
+        body {
+            background-color: #f0f0f0; /* Browser background outside the card */
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            margin: 0;
+            padding: 20px;
+            box-sizing: border-box;
+        }
+
+        /* Simulates how the card stretches on screen */
+        .card-frame {
+            width: 100%;
+            max-width: 600px; 
+            min-height: 350px;
+            padding: 25px;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+            border-radius: 6px;
+            box-sizing: border-box;
+        }
+        
+        /* Quick toggle wrapper for your browser testing */
+        body.test-dark-mode { background-color: #1a1a1a; }
+    </style>
+    <style>
+    .card {
+        font-family: arial;
+        font-size: 20px;
+        line-height: 1.5;
+        text-align: center;
+        color: black;
+        background-color: white;
+    }
+    @font-face {
+        font-family: "Klee One";
+        src: url("_KleeOne-SemiBold.woff2") format("woff2");
+        font-weight: 600;
+        font-style: normal;
+        font-display: swap;
+    }
+    .jp {
+        font-size: 30px;
+        font-family: "Klee One", cursive;
+        font-weight: 600;
+    }
+    .kanji-svg {
+        /* Set the exact size you want the kanji to be */
+        width: 120px;
+        height: 120px;
+    }
+    </style>
+</head>
+
+<body class="">
+
+    <div class="card card-frame">
+        
+        <div class="front-side">
+            <div class=jp> 日本人 </div>
+        </div>
+        
+        <hr id="answer">
+
+        <div class="back-side">
+            <div><img class="kanji-svg" src="colorizer/colorized-kanji/_colorized-kanjivg-鬱.svg"></div>
+            <div class=jp> <ruby>日本人<rp>(</rp><rt>にっぽんじん</rt><rp>) </div><br>
+            Japanese
+        </div>
+
+    </div>
+
+</body>
+</html>

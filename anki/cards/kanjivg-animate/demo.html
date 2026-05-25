@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>KanjiVG animate — demo</title>
+<style>
+  body { font-family: system-ui, sans-serif; max-width: 40em; margin: 2em auto; padding: 0 1em; line-height: 1.5; }
+  .kanjivg-animate { display: inline-block; width: 6em; height: 6em; margin: 0.25em; border: 1px solid #ddd; }
+  .row { display: flex; flex-wrap: wrap; align-items: center; }
+  code { background: #f4f4f4; padding: 0.1em 0.35em; border-radius: 3px; }
+</style>
+</head>
+<body>
+<h1>KanjiVG animate</h1>
+<p>Tap or click a kanji to draw it stroke by stroke. Stroke numbers fade back in once the final stroke is done. Tap again to replay.</p>
+
+<div class="row">
+  <span class="kanjivg-animate">日</span>
+  <span class="kanjivg-animate">本</span>
+  <span class="kanjivg-animate">語</span>
+  <span class="kanjivg-animate">学</span>
+  <span class="kanjivg-animate">校</span>
+  <span class="kanjivg-animate">鬱</span>
+</div>
+
+<p>Usage: drop the script in and tag any element with <code>class="kanjivg-animate"</code> whose text content is the kanji you want to render.</p>
+
+<script src="kanjivg-animate.js" data-base-path="kanji"></script>
+</body>
+</html>
