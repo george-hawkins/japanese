@@ -7,10 +7,18 @@
     <style>
         /* ==========================================
            1. ANKI DEFAULT STYLING (The "Styling" Box)
-           ========================================== */
+           ==========================================
+           Sizing convention:
+             - px for the anchor font-size, hairlines, and borders (fixed
+               regardless of context).
+             - em for everything that should scale with the card's text:
+               child font-sizes, spacing, decorative dimensions. Change the
+               .card font-size and the whole card scales proportionally.
+        */
         .card {
             font-family: arial;
             font-size: 20px;
+            line-height: 1.5;
             text-align: center;
             color: black;
             background-color: white;
@@ -27,7 +35,7 @@
             border: 0;
             height: 1px;
             background-color: #ccc;
-            margin: 20px 0;
+            margin: 1em 0;
         }
 
         /* ==========================================
@@ -76,14 +84,10 @@
         body.test-dark-mode { background-color: #1a1a1a; }
     </style>
     <style>
-    .card {
-        font-family: arial;
-        font-size: 20px;
-        line-height: 1.5;
-        text-align: center;
-        color: black;
-        background-color: white;
-    }
+    <!--
+    In the actual template, it may be necessary to update the .card definition.
+    In particular, it may not have `line-height: 1.5;` as is used here.
+    -->
     @font-face {
         font-family: "Klee One";
         src: url("_KleeOne-SemiBold.woff2") format("woff2");
@@ -92,20 +96,20 @@
         font-display: swap;
     }
     .jp {
-        font-size: 30px;
+        font-size: 1.5em;
         font-family: "Klee One", cursive;
         font-weight: 600;
     }
-    .kanji-svg {
-        /* Set the exact size you want the kanji to be */
-        width: 120px;
-        height: 120px;
+    .kanjivg-animate {
+        display: inline-block;
+        width: 6em;
+        height: 6em;
+        margin: 0.25em;
     }
-    .kanjivg-animate { display: inline-block; width: 6em; height: 6em; margin: 0.25em; }
     .vertical-center {
-      display: flex;
-      align-items: center;
-      justify-content: center;
+        display: flex;
+        align-items: center;
+        justify-content: center;
     }
     .keyword {
         text-transform: uppercase;

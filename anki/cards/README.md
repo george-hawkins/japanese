@@ -17,6 +17,8 @@ The `rtk-mockup.html` looks like this:
 
 You need to be running `python3 -m http.server 8000` in this directory, then you can open <http://localhost:8000/rtk-mockup.html> in your browser.
 
+Then if you click on the main kanji, it'll redraw stroke by stroke.
+
 collection.media
 ----------------
 
