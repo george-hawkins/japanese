@@ -9,7 +9,13 @@ Similarly, I looked at the KanjiVG animation libraries covered below. But the Ka
 
 See [`kanjivg-animate`](kanjivg-animate) for my Claude created animation for Anki cards. It depends on you having unpacked a [KanjiVG `main` release](https://github.com/KanjiVG/kanjivg/releases) in the same directory.
 
-See [`anki-card-template.html`](anki-card-template.html) and [`rtk-mockup.html`](rtk-mockup.html) for templates/mockups of Anki cards. These depend on having created the Klee One Woff2 font as described below.
+See [`anki-card-template.html`](anki-card-template.html) and [`rtk-mockup.html`](rtk-mockup.html) for templates/mockups of Anki cards. These depend on having created the Klee One Woff2 font as described below and on the SVG files created by `kanjivg-rename.py` (see [`kanjivg-animate`](kanjivg-animate)).
+
+The `rtk-mockup.html` looks like this:
+
+<img width="512" height="609" src="rtk-mockup-screenshot.png">
+
+You need to be running `python3 -m http.server 8000` in this directory, then you can open <http://localhost:8000/rtk-mockup.html> in your browser.
 
 collection.media
 ----------------

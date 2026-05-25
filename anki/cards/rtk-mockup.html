@@ -101,26 +101,44 @@
         width: 120px;
         height: 120px;
     }
+    .kanjivg-animate { display: inline-block; width: 6em; height: 6em; margin: 0.25em; }
+    .vertical-center {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+    .keyword {
+        text-transform: uppercase;
+        font-weight: bold;
+    }
     </style>
 </head>
 
 <body class="">
 
-    <div class="card card-frame">
+    <div>
+    <div class="vertical-center card card-frame">
         
         <div class="front-side">
-            <div class=jp> 日本人 </div>
-        </div>
-        
-        <hr id="answer">
-
-        <div class="back-side">
-            <div><img class="kanji-svg" src="colorized-sample.svg"></div>
-            <div class=jp> <ruby>日本人<rp>(</rp><rt>にっぽんじん</rt><rp>) </div><br>
-            Japanese
+            <div class="keyword">elbow</div>
+            <div class="clues">(part of body)</div>
         </div>
 
     </div>
 
+    <br>
+
+    <div class="card card-frame">
+        
+        <div class="back-side">
+            <span class="kanjivg-animate">肘</span>
+            <p class="signal-primitive">チュウ</p>
+            <p class="story">The <b>elbow</b> is the <i>flesh</i> that <i>glues</i> together the upper and lower arm.<p>
+        </div>
+
+    </div>
+    </div>
+
+<script src="kanjivg-animate/kanjivg-animate.js" data-base-path="kanjivg-animate/kanjivg"></script>
 </body>
 </html>
