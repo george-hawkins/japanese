@@ -1,0 +1,66 @@
+# Anki Workflow
+
+A refresher on the muscle memory of efficient Anki use — leveraging the built-in engine for maximum throughput without turning the software into a Frankenstein's monster of brittle add-ons. SRS basics assumed.
+
+## 1. The Review Loop: Hands on Home Row
+
+The goal during reviews is to minimize the "latency to grade." You shouldn't be touching your mouse at all.
+
+**The big three:**
+
+- **Spacebar** — Universal "Show Answer" and "Grade as Good (3)." If you only remember one key, this is it.
+- **1–4** — Manual grading (Again, Hard, Good, Easy).
+- **V** — Replay audio. Essential with TTS or audio clips; saves you from waiting for auto-play or fumbling for a play button.
+
+**Correction on the fly:**
+
+- **E** — Open the Edit window for the current card. Spot a typo or logical flaw mid-review, fix it, **Ctrl+Enter** to save, back in flow.
+- **Ctrl+Z** — Undo. Saves your algorithm from your own fat fingers when you accidentally hit "Easy" on a card you actually forgot.
+
+**Card management mid-review:**
+
+- **Shift+1** — Forget Card. Resets to "New." For when you realize you learned a word completely wrong and want to start the interval from scratch.
+- **Ctrl+J** — Bury. Confusing today but don't want to delete? It comes back tomorrow when your brain's fresher.
+- **Ctrl+Alt+S** — Suspend. For leeches — words you keep missing. Pull them out of rotation so they stop draining study time.
+- **@** — Stats. Quick check of upcoming "Due" counts; helps decide whether you have bandwidth to add 20 new verbs today.
+- **Shift+V** — Record voice. Built-in audio recording. Useful for comparing your pitch accent against native audio on the card.
+
+## 2. Card Creation: The "Cloze" Supremacy
+
+For a technical user, standard Front/Back cards are often too slow to create. Lean on Cloze Deletions.
+
+- **Ctrl+Shift+C** — Wraps selected text in a cloze deletion `{{c1::text}}`.
+- **Ctrl+Shift+Alt+C** — Cloze with the *same* index as the last one. Hide three parts of a snippet but reveal them together on a single card.
+- **Sticky Fields** — Pin icon next to a field in the Add window keeps content for the next card. Perfect when adding 10 cards in a row that share a "Source" or "Tag."
+- **Ctrl+Enter** — Add the card and clear the fields. Combined with **Esc** to close, you should never touch the Add/Close buttons.
+- **Ctrl+Shift+N** — Change Note Type. Toggle between Basic, Cloze, or a custom Japanese note type without leaving the Add window.
+- **Ctrl+S** — Toggle bold. Essential for highlighting the specific grammar point or vocabulary word inside a Japanese example sentence.
+
+**Japanese-specific:** If you use a Japanese support add-on, typing in the Expression field and hitting **Tab** will often auto-fill the Reading field with bracketed furigana.
+
+## 3. The Browser: Data Science Lite
+
+The Browser is where you do "deck maintenance." The search bar beats manual scrolling.
+
+**Filter logic:**
+
+- `is:due` — Cards waiting today.
+- `is:new` — Cards you haven't seen yet.
+- `added:1` — Cards added in the last 24 hours.
+- `prop:ivl>=30` — Cards with an interval of 30 days or more (the mature stuff).
+- `-` (minus) — Negation. `-is:suspended` shows everything not tucked away.
+
+**Bulk actions:**
+
+- **Ctrl+Shift+D** — Change deck for selected cards.
+- **Ctrl+Shift+A** — Add/remove tags on selection.
+- **F3** — Find and replace across multiple cards. Useful for fixing a recurring typo or kanji reading.
+
+## 4. The Minimalist's Config
+
+Two native tweaks worth knowing; otherwise leave things alone.
+
+- **V3 Scheduler (AKA FSRS)** — Make sure you're on it (Preferences → Review). Handles timezones and sub-deck limits much more intelligently than the legacy version.
+- **Deck Options** — Don't mess with "Ease Factor" unless you have a PhD in spaced repetition. Just set "New cards/day" and "Maximum reviews/day" at levels that don't cause burnout.
+
+**Pro tip:** Set "Maximum Reviews" to 9999. Capping reviews is a trap — it doesn't make the work go away, it just hides the fire while the building burns. Either do the reviews or suspend the cards.

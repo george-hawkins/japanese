@@ -6,13 +6,16 @@ Anki setup for Japanese learning
 TODO
 ----
 
-* See this [Gemini answer](https://gemini.google.com/share/a910e1797901) for its suggestions on the shortcuts etc. that I might be thinking of (note that it agrees with Jouzu Juls that capping reviews is a trap). **Maybe add a super brieft shortcuts section just below here**.
-
 See also the Anki section in [`grammar/README.md`](grammar/README.md).
 
 See also my [`markdown-to-anki` repo](https://github.com/george-hawkins/markdown-to-anki).
 
 See also the [`anki`](anki) subdirectory.
+
+Shortcuts and more
+------------------
+
+For a good overview of Anki shortcuts to make like easier, see the Gemini generated [`anki-workflow.md`](anki-workflow.md).
 
 Trenton
 -------
