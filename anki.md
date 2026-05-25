@@ -15,6 +15,8 @@ See also the Anki section in [`grammar/README.md`](grammar/README.md).
 
 See also my [`markdown-to-anki` repo](https://github.com/george-hawkins/markdown-to-anki).
 
+See also the [`anki`](anki) subdirectory.
+
 Font setup
 ----------
 
