@@ -1,7 +1,7 @@
 KanjiVG animate
 ===============
 
-The JavaScript here was created using Claude.
+The JavaScript here was created using Claude. To see it in action, see this [demo](https://george-hawkins.github.io/japanese/kanjivg-animate/demo.html).
 
 To use, download the latest [KanjiVG `main` release](https://github.com/KanjiVG/kanjivg/releases), unpack it here and covert it into a form that's nicer for use with Anki:
 
