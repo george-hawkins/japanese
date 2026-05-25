@@ -16,8 +16,13 @@
  * tag to point to the SVGs if they're elsewhere.
  *
  * Other optional attributes that can be used with the script tag:
- * - data-pace-ms        ms per sqrt(path-unit), larger = slower (default 60)
- * - data-min-stroke-ms  floor per stroke for tiny strokes       (default 240)
+ * - data-pace-ms          ms per sqrt(path-unit), larger = slower (default 60)
+ * - data-min-stroke-ms    floor per stroke for tiny strokes (default 240)
+ * - data-filename-format  'char' (食.svg) or 'hex' (098df.svg) (default 'char')
+ * - data-filename-prefix  prepended to the filename, '' for none (default '_kanjivg-')
+ *
+ * Filename is built as `<basePath>/<prefix><stem>.svg`, where <stem> is either
+ * the kanji itself or its zero-padded hex codepoint.
  */
 (() => {
   const SCRIPT = document.currentScript;
@@ -25,6 +30,8 @@
 
   const DEFAULTS = {
     basePath: '',
+    filenameFormat: 'char',
+    filenamePrefix: '_kanjivg-',
     paceMs: 60,
     minStrokeMs: 240,
   };
@@ -32,8 +39,10 @@
   function fromScriptAttrs() {
     if (!SCRIPT) return {};
     const out = {};
-    const { basePath, paceMs, minStrokeMs } = SCRIPT.dataset;
+    const { basePath, filenameFormat, filenamePrefix, paceMs, minStrokeMs } = SCRIPT.dataset;
     if (basePath !== undefined) out.basePath = basePath;
+    if (filenameFormat !== undefined) out.filenameFormat = filenameFormat;
+    if (filenamePrefix !== undefined) out.filenamePrefix = filenamePrefix;
     if (paceMs !== undefined) out.paceMs = +paceMs;
     if (minStrokeMs !== undefined) out.minStrokeMs = +minStrokeMs;
     return out;
@@ -55,12 +64,15 @@
     styleInjected = true;
   }
 
-  async function fetchSvg(basePath, char) {
-    const cp = char.codePointAt(0).toString(16).padStart(5, '0');
-    const url = basePath ? `${basePath.replace(/\/$/, '')}/${cp}.svg` : `${cp}.svg`;
+  async function fetchSvg(opts, char) {
+    const stem = opts.filenameFormat === 'hex'
+      ? char.codePointAt(0).toString(16).padStart(5, '0')
+      : char;
+    const filename = `${opts.filenamePrefix}${stem}.svg`;
+    const url = opts.basePath ? `${opts.basePath.replace(/\/$/, '')}/${filename}` : filename;
     if (!svgCache.has(url)) {
       svgCache.set(url, fetch(url).then(r => {
-        if (!r.ok) throw new Error(`KanjiVG ${cp} (${char}) → HTTP ${r.status}`);
+        if (!r.ok) throw new Error(`KanjiVG ${char} (${url}) → HTTP ${r.status}`);
         return r.text();
       }));
     }
@@ -115,7 +127,7 @@
     if (!char) return;
     let svg;
     try {
-      svg = parseSvg(await fetchSvg(opts.basePath, char));
+      svg = parseSvg(await fetchSvg(opts, char));
     } catch (e) {
       console.error(e);
       return;
