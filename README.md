@@ -113,6 +113,8 @@ The only obvious difference after doing this is that the Japanese variant of 直
 Anki
 ----
 
+**Update:** most of this is now in a more concrete form in [`anki.md`](anki.md).
+
 How to use Anki and how to best set it up:
 
 * ["You Should Be Using Anki"](https://www.youtube.com/watch?v=_MWtbI4IwfU) by _Trenton_ - a nice intro to using and setting up Anki for Japanese where he doesn't go mad on add-ons. He covers vocab vs sentence decks (he's not particularly anti vocab cards).

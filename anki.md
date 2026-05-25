@@ -6,16 +6,65 @@ Anki setup for Japanese learning
 TODO
 ----
 
-* Complete the last of the Jouzu Juls videos from [6:12 point](https://www.youtube.com/watch?v=DcY2Svs3h8M&t=372s) - this is NOT a rehash, it's actually valuable stuff he doesn't repeat in later videos.
-* Grep my old repos (on NAS backup) to see if I can find any notes on tips, e.g. shortcuts to use while creating cards, that I noted back when doing German cards.
 * See this [Gemini answer](https://gemini.google.com/share/a910e1797901) for its suggestions on the shortcuts etc. that I might be thinking of (note that it agrees with Jouzu Juls that capping reviews is a trap). **Maybe add a super brieft shortcuts section just below here**.
-* Watch Trenton's: <https://www.youtube.com/watch?v=_MWtbI4IwfU>
 
 See also the Anki section in [`grammar/README.md`](grammar/README.md).
 
 See also my [`markdown-to-anki` repo](https://github.com/george-hawkins/markdown-to-anki).
 
 See also the [`anki`](anki) subdirectory.
+
+Trenton
+-------
+
+Much of the material below is from Jouzu Juls's various Anki videos. I also watched Trenton's [You Should Be Using Anki](https://www.youtube.com/watch?v=_MWtbI4IwfU). Most of it repeats Jouzu Juls's advice. Two things he mentions are FSRS (see below) and the Anki deck [Kaishi 1.5K deck](https://github.com/donkuri/Kaishi) (which I'd come across before).
+
+Usage advise
+------------
+
+Much of what's below is from about the 6m 10s onward mark in Jouzu Juls's ["secret to learning Japanese 10x faster"](https://www.youtube.com/watch?v=DcY2Svs3h8M).
+
+### Settings
+
+In the main window, click the cog icon to the right of your deck and:
+
+* In _Daily Limits_, change _Maximum reviews/day_ to 9999.
+* In the same section adjust down _New cards/day_ if you feel 20 is too much.
+
+Note: Trenton suggests 10 new words a day for beginners. If you're aiming to learn all the RTK Kanji though, that's probably too low. Remember that some Anki card types generate two cards, so ten words might result in twenty cards - take this into account when setting the value.
+
+If you've taken a break from Anki, you should set the _New cards/day_ to 0 until you're caught up.
+
+### Again and Good
+
+In the same video he argues you should only use _Again_ and _Good_ and completely ignore _Hard_ and _Easy_ (Trenton repeats this).
+
+If forgetting a card was just a temporary brain fart or you made some very minor mistake, don't press _Again_, **instead press `-`, this will bury the card for today but ask you again tomorrow.
+
+### Shortcuts
+
+* `E` - edit the current card to correct it.
+* `cmd-Z` - undo your last response.
+* `shift-8` - star a card, particularly ones you suspect are leeches, if you keep having problems and you see the star, something probably needs to be done.
+* `Y` - to manually sync (important see _Syncing_ section below).
+
+### Vocab vs sentence cards
+
+Trenton notes that sentence cards provide context and all that good stuff but he still does vocab cards, e.g. Saturn --> 土星, as they're cheap to create (versus trying to find a good n+1 sentence for your word) and often good enough for e.g. simple nouns with no ambiguity (think apple --> りんご).
+
+Vocab cards can become more valuable if/once you go monolingual, i.e. mapping to a Japanese definition will be far better than a poor match in English.
+
+### FSRS
+
+Anki considers the default algorithm to be legacy. However, the new FSRS one isn't enabled by default as it requires all clients to also support it. The desktop and iOS versions have longs supported it and AnkiDroid added support in late February 2024 (in release 2.17).
+
+I've turned on FSRS (you just have to enable it in the desktop version - it's then picked up by the clients from metadata in the decks).
+
+There's a bewildering array of options if you toggle on FSRS. The only one I changed was setting _Desired retention_ to 85% rather than 90% (at Trenton's suggestion).
+
+### Syncing
+
+FSRS doesn't like it if you don't keep everything in sync - AnkiDroid syncs every 10 minutes automatically (if you've got automatic syncing enabled, which I do). But desktop Anki only syncs on start and exit or you manually sync.
 
 Font setup
 ----------
@@ -32,6 +81,8 @@ Jouzu Juls - 6 essential add-ons
 Most of the add-ons covered below come from the YouTube video [6 Essential Anki Addons for Learning Japanese in 2024](https://www.youtube.com/watch?v=ahGkFX4JPc8) by Jouzu Juls. He's done a number of Anki add-on videos and this is the most recent one (as of May 10th, 2026).
 
 In practice, I don't think any of these add-ons (except for the first one which adds furigana abilities) are _essential_. In fact, I only installed the Japanese Support add-on and the Anki-Connect one.
+
+The add-on that I would consider installing but didn't is the **heatmap add-on** that seems to pop up in many people's Anki videos (including Trenton's).
 
 ### 1. Japanese Support add-on
 
