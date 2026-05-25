@@ -1,0 +1,12 @@
+body {
+  font-family: "Klee One", "Meiryo", "Yu Gothic", "Hiragino Kaku Gothic Pro", "MS PGothic", sans-serif;
+  font-size: 36px;
+  line-height: 2;
+}
+#toggle-furigana {
+  display: block;
+  margin: 0.5em 0;
+  padding: 0.2em 0.7em;
+  font-size: 0.5em;
+  cursor: pointer;
+}

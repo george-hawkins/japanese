@@ -33,3 +33,12 @@ Note: according to Gemini, Aoede is the current flagship voice and Achird is the
 Gemini says that when using the API, Aoede has ID `ja-JP-Chirp3-HD-D` and Achird has ID `ja-JP-Chirp3-HD-B`.
 
 According to Gemini and ChatGPT, Microsoft Azure Neural HD should also be very good.
+
+Toggling furigana
+-----------------
+
+Also included here is [`tale-with-js.html`](tale-with-js.html) along with a `.js` and `.css` file.
+
+If you open this in a browser, you can toggle the furigana on and off in the story at the click of a button.
+
+The page also uses the [Klee One](https://fonts.google.com/specimen/Klee+One) font. It's the nearest thing to a [textbook-style font](../kyoukasho-fonts.md) that's freely available.
