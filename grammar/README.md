@@ -10,24 +10,30 @@ Tofugu:
 Tools:
 
 * Use <https://tableconvert.com/html-to-markdown> to convert Gemini tables to Markdown (ChatGPT has a direct copy-table-to-markdown button).
-* To add furigana use [Get Furigana](https://furigana.netlify.app/) (see [`tale-with-all-hiragana/README.md`](tale-with-all-hiragana/README.md) for more details and other similar sites).
+* To add furigana see [`tale-with-all-hiragana/README.md`](../tale-with-all-hiragana/README.md).
 
 TODO:
 
 * Add more of the all kana stories to `tale-with-all-hiragana` subdirectory.
 * Find lists of most common katakana loanwords.
 * Get good at reading both the kana stories and the loanwords out loud.
-* Clause Connectors cheat sheet (けど etc.) - <https://chatgpt.com/c/68cae15a-3c64-832a-b4f1-9d51ae2d4c85>
+
+Clause connectors
+-----------------
+
+See [`clause-connectors.md`](gemini/clause-connectors.md) for an "JLPT N5 clause connectors cheat sheet" that covers the confusing array of words like けど and ので that can be used to link one clause to another.
 
 Adjectives
 ----------
 
-See this [Gemini chat](https://gemini.google.com/share/79faf1c8b32b) for an explanation of why, rather than grouping い and な adjectives, it's more natural to group:
+See [`noun-verbs-adjectives.md`](gemini/noun-verbs-adjectives-claude.md) for an explanation of why, rather than grouping い and な adjectives, it's more natural to group:
 
 * Nouns and na adjectives.
 * Verbs and i adjectives.
 
 Includes a "learner's cheat sheet" to lock in the basic ideas and a guide to laying out Anki cards for adjectives such that you keep the two groups distinct in your head.
+
+More on adjectives down below.
 
 More Anki
 ---------

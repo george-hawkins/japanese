@@ -1,7 +1,7 @@
 Anki setup for Japanese learning
 ================================
 
-**TLDR;** there are lots of videos about setting up Anki for Japanese learners and I thought this was going to be more involved as it is. For a beginner, I don't think anything more is needed than installing the _Japanese Support_ add-on and ensuring you're seeing Japanese versions of all characters rather than Chinese ones (where the two differ).
+**TLDR;** there are lots of videos about setting up Anki for Japanese learners and I thought this was going to be more involved than it is. For a beginner, I don't think anything more is needed than installing the _Japanese Support_ add-on and ensuring you're seeing Japanese versions of all characters rather than Chinese ones (where the two differ).
 
 TODO
 ----
@@ -20,7 +20,7 @@ For a good overview of Anki shortcuts to make like easier, see the Gemini genera
 Trenton
 -------
 
-Much of the material below is from Jouzu Juls's various Anki videos. I also watched Trenton's [You Should Be Using Anki](https://www.youtube.com/watch?v=_MWtbI4IwfU). Most of it repeats Jouzu Juls's advice. Two things he mentions are FSRS (see below) and the Anki deck [Kaishi 1.5K deck](https://github.com/donkuri/Kaishi) (which I'd come across before).
+Much of the material below is from Jouzu Juls's various Anki videos. I also watched Trenton's [You Should Be Using Anki](https://www.youtube.com/watch?v=_MWtbI4IwfU). Most of it echoes Jouzu Juls's advice. Two things he mentions are FSRS (see below) and the Anki deck [Kaishi 1.5K deck](https://github.com/donkuri/Kaishi) (which I'd come across before).
 
 Usage advise
 ------------
