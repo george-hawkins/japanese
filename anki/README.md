@@ -8,6 +8,8 @@ TODO
 
 See also my [`markdown-to-anki` repo](https://github.com/george-hawkins/markdown-to-anki).
 
+See also [`rtk-cards.md`](rtk-cards.md).
+
 See also the [`cards`](cards) subdirectory.
 
 Shortcuts and more
