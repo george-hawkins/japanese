@@ -6,17 +6,21 @@ Notes on starting to learn Japanese
 Current plan
 ------------
 
+There's more on every point below somewhere in this repo. This is just a brief summary.
+
 **1.** Learn hiragana and katakana using resources below.
 
 Using the _JapanesePod101_ lesson series (see below) and the Hiragana and Katakana Pro apps for drilling. And the self-study workbook [Learning Japanese Hiragana and Katakana](https://www.amazon.com/dp/4805312270) and the [Genkouyoushi notebook](https://www.amazon.com/dp/B08D4RPJBN) for writing practice.
 
 **2.** Learn all kanji using RTK and Skritter (and possibly using WaniKani later to learn readings) - see [`skritter.md`](skritter.md) for relevant Skritter decks. Read the Kanshudo guide to reading kanji.
 
-**3.** Complete Genki 1 using the self-study material from _ToKini Andy_ (kickstart with this [video](https://www.youtube.com/watch?v=S55aWpRaV44), [playlist](https://www.youtube.com/playlist?list=PLA_RcUI8km1NMhiEebcbqdlcHv_2ngbO2) and [site](https://www.tokiniandy.com/)), along with the Tango N5 book (_ToKini Andy_ suggests more actively learning this vocabulary than the chapter-by-chapter vocabulary introduced by Genki) and possibly using the Bunpro grammar webapp.
+**3.** Learn the Kaishi 1.5K deck and start working through Comprehensible Japanese at the same time.
 
-**4.** Get to a point where I can use Satori Reader.
+**4.** Complete Genki 1 using the self-study material from _ToKini Andy_ (kickstart with this [video](https://www.youtube.com/watch?v=S55aWpRaV44), [playlist](https://www.youtube.com/playlist?list=PLA_RcUI8km1NMhiEebcbqdlcHv_2ngbO2) and [site](https://www.tokiniandy.com/)), along with the Tango N5 book (_ToKini Andy_ suggests more actively learning this vocabulary than the chapter-by-chapter vocabulary introduced by Genki) and possibly using the Bunpro grammar webapp.
 
-Will set up Anki as described by _Jouzu Juls_ and _Trenton_.
+**5.** Get to a point where I can use Satori Reader.
+
+Will set up Anki as covered in [`anki`](anki).
 
 Tofugu
 ------
@@ -528,6 +532,8 @@ Kanji
 _Matt vs Japan_ makes a very convincing case for [Remembering the Kanji 1](https://uhpress.hawaii.edu/title/remembering-the-kanji-1-a-complete-course-on-how-not-to-forget-the-meaning-and-writing-of-japanese-characters/) by James W. Heisig [here](https://www.youtube.com/watch?v=TgRte6oSoF8) (though note that in video description section he says "I COMPLETELY DISAGREE WITH THIS VIDEO NOW" but the unfortunate consensus is that this coincides with Matt's attempt to monetize things with his own content and the content of this 2018 video is more valuable than his later monetization efforts).
 
 Anyway, Remembering the Kanji (often referred to on forums as just RTK) looks like a great start to me.
+
+**Update:** see also DanWasHere's [I Learned 2,000+ Japanese Kanji in 90 Days - Here’s How I Did It](https://www.youtube.com/watch?v=R0hcl0F1aBA) for another great take on RTK (Matt's video is still the winner in terms of a convincing argument for RTK but this is also a very nice take with more on the sheer effort involved but that it's worth it).
 
 See _ToKini Andy_'s [JLPT N5 and Kanken Level 10 kanji playlist](https://www.youtube.com/playlist?list=PLA_RcUI8km1ME3ewzc4pcJ-cA-cw0-nKa) for a nice series introducing kanji, how to learn them and then covering the 118 kanji of JLPT N5 and Kanken 10. He covers why you should not do the classic approach of learning individual kanji with all its readings (all without any context). Jump to the 14m 24s to see how he suggests learning the readings and suggests writing each kanji _every_ time it shows up in review, i.e. write one or more kanji per card reviewed, as he's convinced this helps memorization. He also mentions RTK and WaniKani. There's a Anki deck to go with the series (mentioned at the end of the video) available to Patreon members.
 
