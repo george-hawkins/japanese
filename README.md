@@ -113,7 +113,7 @@ The only obvious difference after doing this is that the Japanese variant of 直
 Anki
 ----
 
-**Update:** most of this is now in a more concrete form in [`anki.md`](anki.md).
+**Update:** most of this is now in a more concrete form in [`anki`](anki).
 
 How to use Anki and how to best set it up:
 
