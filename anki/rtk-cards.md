@@ -5,6 +5,11 @@ See [`minimalist-rtk-cards.md`](minimalist-rtk-cards.md) For Gemini's take on pr
 
 This is exactly what Heisig says in the retrospective he includes at the start of chapter 11 (I do think it would have been helpful if he'd made all these points earlier - but I guess the idea, is you should have learned enough at this stage that you can really appreciate the points while it's also not to late to correct if you've been doing things badly).
 
+Keyword vs primitives
+---------------------
+
+Not immediately specific to card creation, but it can be confusing why e.g. 圭 means "squared jewel" as a kanji but "ivy" as a primitive. For an explanation of why some kanji have a keyword that's quite different to their meaning as a primitive in other kanji, see this [note](keyword-primitive.md).
+
 Kanji Koohii phono-semantic readings
 ------------------------------------
 
@@ -40,17 +45,19 @@ Many of Heisig's RTK primitives have no Unicode representation which makes them 
 
 When asked, Gemini just repeatedly hallucinated solutions around how to deal with this. In the end, the only concrete thing it came up was pointing the GitHub repo [cyphar/heisig-rtk-index](https://github.com/cyphar/heisig-rtk-index) where SVGs are provided for all the primitives. Go to the releases section and download the `.zip` file, it includes the SVGs and `INDEX_VOL1.csv` which is laid out like this:
 
-|Heisig No.|Unicode|SVG                                                             |Keyword       |Mnemonic |Strokes|Primative|
+|Heisig No.|Unicode|SVG                                                             |Keyword       |Mnemonic |Strokes|Primitive|
 |----------|-------|----------------------------------------------------------------|--------------|---------|-------|---------|
-|   75     | 乙    |                                                                | fish guts    |         | 1     |         |
-| 75.2     |       |<img class="rtk-primitive" src="mRtK6-0075.2-hook-bottom.svg"/> | hook (bottom)|         | 1     | y       |
-| 75.1     | ⺃    |<img class="rtk-primitive" src="mRtK6-0075.1-hook-right.svg"/>  | hook (right) |         | 1     | y       |
-|   76     | 乱    |                                                                | riot         |         | 7     |         |
-|   77     | 直    |                                                                | straightaway |         | 8     |         |
-|P-010     |       |<img class="rtk-primitive" src="mRtK6-P-010-tool.svg"/>         | tool         |         | 3     | y       |
-|   78     | 具    |                                                                | tool         |         | 8     |         |
-|   79     | 真    |                                                                | true         |         | 10    |         |
+|   75     | 乙    |                                                                   | fish guts    |         | 1     |         |
+| 75.2     |       | `<img class="rtk-primitive" src="mRtK6-0075.2-hook-bottom.svg"/>` | hook (bottom)|         | 1     | y       |
+| 75.1     | ⺃    | `<img class="rtk-primitive" src="mRtK6-0075.1-hook-right.svg"/>`  | hook (right) |         | 1     | y       |
+|   76     | 乱    |                                                                   | riot         |         | 7     |         |
+|   77     | 直    |                                                                   | straightaway |         | 8     |         |
+|P-010     |       | `<img class="rtk-primitive" src="mRtK6-P-010-tool.svg"/>`         | tool         |         | 3     | y       |
+|   78     | 具    |                                                                   | tool         |         | 8     |         |
+|   79     | 真    |                                                                   | true         |         | 10    |         |
 
 I.e. it has the 2000+ kanji with the primitives interleaved in the same order as you come across them in the book. Many of the primitives do have Unicode representations, e.g. see ⺃ above, but others, e.g. `tool` and `hook (bottom)` do not.
 
 Note: some primitives aren't kanji in their own right and get their own "box" in RTK (but no Heisig no.), e.g. the 10th such primitive is the tool primitive (which is then followed by a kanji with the keyword tool) and appears above as `P-010`. Kanji, that are also later used as primitives, are introduce as kanji and then their primitive forms are introduced in the same "box", e.g. `75`, `75.1` and `75.2` above.
+
+Ignore the `INDEX_MINMAL.csv` file that comes with `INDEX_VOL1.csv` unless you're interested in the Refold alternative subset of the RTK kanji.
