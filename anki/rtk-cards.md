@@ -54,23 +54,3 @@ When asked, Gemini just repeatedly hallucinated solutions around how to deal wit
 I.e. it has the 2000+ kanji with the primitives interleaved in the same order as you come across them in the book. Many of the primitives do have Unicode representations, e.g. see ⺃ above, but others, e.g. `tool` and `hook (bottom)` do not.
 
 Note: some primitives aren't kanji in their own right and get their own "box" in RTK (but no Heisig no.), e.g. the 10th such primitive is the tool primitive (which is then followed by a kanji with the keyword tool) and appears above as `P-010`. Kanji, that are also later used as primitives, are introduce as kanji and then their primitive forms are introduced in the same "box", e.g. `75`, `75.1` and `75.2` above.
-
-### Controlling the release of cards and drilling
-
-If you import an existing deck into Anki, it'll automatically release cards from the deck at a defined rate per day for you to learn.
-
-This [Gemini chat](https://gemini.google.com/app/55d755c72f3a16de) discusses turning off this feature and instead managine the release of cards yourself each day.
-
-This chat also covers whether you should be drilling new cards initially within Anki (i.e. going thru a phase where you go over cards for the first time, essentially hitting _Again_ for most of them until they get into your head for the first time).
-
-### More on Kanji readings and what to incorporate on cards
-
-This [Gemini chat](https://gemini.google.com/app/0c7b5008cf5e88b3) covers learning vocabulary in context, how much to focus on readings (a little but not too much).
-
-It suggests using the [Japanese Support Anki add-on](https://ankiweb.net/shared/info/3918629684) to:
-
-* Paste the Kanji into a field.
-* Press a shortcut.
-* It automatically generates the 日[に]本[ほん]語[ご] format for you.
-
-The Japanese Support Anki add-on is actually developed in the Ankitects space on GitHub, i.e. the same space as Anki itself, and the code can be found [here](https://github.com/ankitects/anki-addons/tree/main/code/japanese).

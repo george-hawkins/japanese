@@ -19,6 +19,10 @@ You need to be running `python3 -m http.server 8000` in this directory, then you
 
 Then if you click on the main kanji, it'll redraw stroke by stroke.
 
+Note: the bit in brackets below the keyword is for clues. Here it's completely unnecessary, but for some keywords including one or two clues so as not to confuse it with a similar keyword can be useful. See [here](clues.md) for what makes for a valid clue and what does not. 
+
+**TLDR;** a valid clue clarifies the *meaning or context of the English keyword*. An invalid clue *leaks information about the structure or components of the Japanese kanji*.
+
 collection.media
 ----------------
 

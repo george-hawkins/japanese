@@ -3,19 +3,47 @@ Anki setup for Japanese learning
 
 **TLDR;** there are lots of videos about setting up Anki for Japanese learners and I thought this was going to be more involved than it is. For a beginner, I don't think anything more is needed than installing the _Japanese Support_ add-on and ensuring you're seeing Japanese versions of all characters rather than Chinese ones (where the two differ).
 
-TODO
-----
+See also
+---------
 
-See also my [`markdown-to-anki` repo](https://github.com/george-hawkins/markdown-to-anki).
+For creating cards outside Anki using `vim` and Markdown, see my [`markdown-to-anki` repo](https://github.com/george-hawkins/markdown-to-anki).
 
-See also [`rtk-cards.md`](rtk-cards.md).
+For more on creating cards with a nice kyoukasho-tai font, kanji-stroke colorization and animation, see the [`cards`](cards) subdirectory.
 
-See also the [`cards`](cards) subdirectory.
+For creating minimalist RTK specific cards, see [`rtk-cards.md`](rtk-cards.md).
 
 Shortcuts and more
 ------------------
 
 For a good overview of Anki shortcuts to make like easier, see the Gemini generated [`anki-workflow.md`](anki-workflow.md).
+
+Controlling the release of cards
+--------------------------------
+
+When I import an existing deck from someone else, I'd like to explicitly control the release of new cards, e.g. decide today to release 10 cards but tomorrow, if I do nothing, then no additional cards should be released.
+
+This brief [page](controlled-release.md) describes doing this either by:
+
+* Setting _New cards/day_ to 0 and using _Custom Study_ to explicitly release new cards.
+* Suspending everything in the deck and then using unsuspend to release cards.
+
+Drilling
+--------
+
+Anki doesn't have an obvious drilling workflow, i.e. a phase where you go over new cards repeatedly just to get them into your brain first time. This [page](drill.md) discusses how you can drill in Anki but also asks if Anki is really the right place for this. Perhaps simply the act of writing the basics out on a piece of paper, then scanning that repeatedly, would get things into your head as first pass before working with the corresponding cards in Anki.
+
+Vocabulary in context
+---------------------
+
+I'm convinced it only makes sense to learn vocabulary in context. This [page](context.md) tries to justify this approach and also goes into how much effort you should put into thinking about the readings involved in new vocabulary (are they on-yomi or kun-yomi reading, is the word jujujikun) - the answer is "a bit but not _too_ much".
+
+### Irregular kanji readings
+
+| Term | How Kanji Are Used | Example |
+|---|---|---|
+| 熟字訓 (Jukujikun) | Chosen for meaning as a collective unit; individual sounds are ignored. | 煙草 (Read as tabako / Meaning: "smoke grass") |
+| 当て字 (Ateji) | Chosen purely for sound; individual meanings are ignored. | 寿司 (Read as su-shi / Meaning: "longevity" + "administer") |
+| 義訓 (Gikun) | Creative or non-standard readings applied for stylistic effect, heavily used in manga and lyric writing. | Writing 地球 (Earth) but forcing the reader to pronounce it as āsu (the English word "Earth"). |
 
 Trenton
 -------
