@@ -97,6 +97,8 @@ There's a bewildering array of options if you toggle on FSRS. The only one I cha
 
 FSRS doesn't like it if you don't keep everything in sync - AnkiDroid syncs every 10 minutes automatically (if you've got automatic syncing enabled, which I do). But desktop Anki only syncs on start and exit or you manually sync.
 
+See my [`syncwatcher`](https://github.com/george-hawkins/syncwatcher) repo (created with Claude Code) to automatically sync desktop Anki.
+
 Font setup
 ----------
 
