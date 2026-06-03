@@ -16,7 +16,7 @@ Using the _JapanesePod101_ lesson series (see below) and the Hiragana and Kataka
 
 **3.** Learn the Kaishi 1.5K deck and start working through Comprehensible Japanese at the same time.
 
-**4.** Complete Genki 1 using the self-study material from _ToKini Andy_ (kickstart with this [video](https://www.youtube.com/watch?v=S55aWpRaV44), [playlist](https://www.youtube.com/playlist?list=PLA_RcUI8km1NMhiEebcbqdlcHv_2ngbO2) and [site](https://www.tokiniandy.com/)), along with the Tango N5 book (_ToKini Andy_ suggests more actively learning this vocabulary than the chapter-by-chapter vocabulary introduced by Genki) and possibly using the Bunpro grammar webapp.
+**4.** Complete Genki 1 using the self-study material from _ToKini Andy_ (kickstart with this [video](https://www.youtube.com/watch?v=S55aWpRaV44), [playlist](https://www.youtube.com/playlist?list=PLA_RcUI8km1NMhiEebcbqdlcHv_2ngbO2) and [site](https://www.tokiniandy.com/)), along with the Tango N5 book (_ToKini Andy_ suggests more actively learning this vocabulary than the chapter-by-chapter vocabulary introduced by Genki) and possibly using the Bunpro grammar webapp. Dogen's [Lofi Japanese course](https://www.lofijapanese.com/) might be an interesting - he claims it covers 80% of JLPT 5 grammar.
 
 **5.** Get to a point where I can use Satori Reader.
 
