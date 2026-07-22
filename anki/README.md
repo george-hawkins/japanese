@@ -6,6 +6,8 @@ Anki setup for Japanese learning
 See also
 ---------
 
+For a speedrun of the content below with the aim of working through RTK 1, see [`tldr.md`](tldr.md).
+
 For creating cards outside Anki using `vim` and Markdown, see my [`markdown-to-anki` repo](https://github.com/george-hawkins/markdown-to-anki).
 
 For more on creating cards with a nice kyoukasho-tai font, kanji-stroke colorization and animation, see the [`cards`](cards) subdirectory.
@@ -70,7 +72,7 @@ If you've taken a break from Anki, you should set the _New cards/day_ to 0 until
 
 In the same video he argues you should only use _Again_ and _Good_ and completely ignore _Hard_ and _Easy_ (Trenton repeats this).
 
-If forgetting a card was just a temporary brain fart or you made some very minor mistake, don't press _Again_, **instead press `-`, this will bury the card for today but ask you again tomorrow.
+If forgetting a card was just a temporary brain fart or you made some very minor mistake, don't press _Again_, instead press `-`, this will bury the card for today but ask you again tomorrow.
 
 ### Shortcuts
 
@@ -102,7 +104,7 @@ See my [`syncwatcher`](https://github.com/george-hawkins/syncwatcher) repo (crea
 Font setup
 ----------
 
-Make sure that Anki is correctly setup for displaying the Japanese form of all kanji and not the Chinese form (in those occassional cases where the two differ).
+Make sure that Anki is correctly setup for displaying the Japanese form of all kanji and not the Chinese form (in those occasional cases where the two differ).
 
 See Jouzu Juls [How to Fix the Japanese Font Issue on Anki/Chrome](https://www.youtube.com/watch?v=wlmfncz-Wxg).
 
@@ -125,13 +127,13 @@ Install it using code `3918629684`.
 
 In Jouzu Juls's "6 Essential Anki Addons" video he introduces the Japanese Support add-on first but immediately bounces you to this [section](https://www.youtube.com/watch?v=gTX3v6zHiIA&t=20s) of his earlier video "5 Life Changing Anki Addons for Learning Japanese in 2022".
 
-This add-on adds three new card types ("Japanese (recognition)" and [two more](https://ankiweb.net/shared/info/3918629684).
+This add-on adds three new card types ("Japanese (recognition)" and [two more](https://ankiweb.net/shared/info/3918629684)).
 
-With these types, if you type e.g. `日本語` into the _Reading_ field and tab out, it will automatically fill the _Reading_ field with `日本語[にほんご]` which will be displayed as <ruby>日本語<rp>(</rp><rt>にほんご</rt><rp>)</rp></ruby> when reviewing the card.
+With these types, if you type e.g. `日本語` into the _Expression_ field and tab out, it will automatically fill the _Reading_ field with `日本語[にほんご]` which will be displayed as <ruby>日本語<rp>(</rp><rt>にほんご</rt><rp>)</rp></ruby> when reviewing the card.
 
-Note: the add-on uses MeCab, so won't do great on things like 一階 so double check the furigana it generates are really what you want.
+Note: the add-on uses MeCab, so won't do great on things like 一階 so double-check the furigana it generates are really what you want.
 
-You don't have to use these card types but if you want the automatica filling in of one of your card type's fields with `日本語[にほんご]` then it'll only work if:
+You don't have to use these card types but if you want the automatic filling in of one of your card type's fields with `日本語[にほんご]` then it'll only work if:
 
 * The note type includes the word "Japanese" somewhere in its name, e.g. "My Textbook Japanese".
 * You have a source field called "Expression" and a destination field called "Reading".
@@ -160,7 +162,7 @@ Again, I'm leaving this for now.
 
 ### 4. Anki-Connect and Yomitan
 
-Along similar lines, is integrating Yomitan. This doesn't involve a Yomitan specific add-on, it just uses Anki-Connect (which I covered in my [`markdown-to-anki` repo `README`](https://github.com/george-hawkins/markdown-to-anki).
+Along similar lines, is integrating Yomitan. This doesn't involve a Yomitan specific add-on, it just uses Anki-Connect (which I covered in my [`markdown-to-anki` repo `README`](https://github.com/george-hawkins/markdown-to-anki)).
 
 Once, you've got Anki-Connect installed, you need to go to Yomitan's settings in your browser and there, there's an Anki section where you can enable Anki integration (the notice for macOS users applies to ancient versions of macOS and _shouldn't_ be an issue for more recent versions).
 
