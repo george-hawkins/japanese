@@ -92,7 +92,10 @@ And the _Back Template_ to:
 <span class="kanjivg-animate">{{Kanji}}</span>
 <div class="keyword">{{Keyword}}</div>
 {{#Reading}}
-<div class="signal-primitive jp">{{Reading}}</div>
+<div class="signal-primitive jp">{{Reading}}{{tts ja_JP voices=Apple_Kyoko_(Enhanced):Reading}}</div>
+{{/Reading}}
+{{^Reading}}
+<div class="no-signal-primitive">[no reading]</div>
 {{/Reading}}
 <div class="story">{{Story}}<div>
 {{#Note}}
@@ -102,6 +105,21 @@ And the _Back Template_ to:
 ```
 
 That's it.
+
+TTS voices
+----------
+
+By default, Anki uses a robotic voice for the `tts` that would have sounded bad even in the 1990s. So, above, I've specified the macOS voice `Apple_Kyoko_(Enhanced)` for the reading. To see what languages your system supports, temporarily add this to the bottom of the front or back template:
+
+```
+{{tts-voices:Reading}}
+```
+
+If you then preview the template, it'll show you a list of known voices (or on AnkiDroid, it'll show a link that opens a dialog allowing you to select a voice).
+
+On macOS, you need to go to settings and actively install the enhanced voices like "Kyoko (Enhanced)". Google for something like "macOS manage voices" as how this is done changes by macOS version.
+
+The default voice used by AnkiDroid is fine, but if needed, you can specify a list of voices (separated by `,` with no space) so e.g. if `Apple_Kyoko_(Enhanced)` isn't available as you're currently using a Windows system then it'll fall back to the next item in the list.
 
 First card
 ----------
@@ -169,6 +187,8 @@ In the main Anki window, click the gear icon to the right of your new deck, sele
 **FSRS**: scroll down to the FSRS section and toggle it on (it's the new SRS algorithm and the only reason it's not on by default is that some older clients didn't support it - all iOS and AnkiDroid releases since February 2024 support it). Trenton suggests [here](https://youtu.be/_MWtbI4IwfU) that you reduce the desired retention to 85%.
 
 **Note:** 20 new cards per day should be good for RTK but Trenton recommends 10 cards a day for vocab decks (like Kaishi 1.5K).
+
+**Update:** I later changed this to 99 as I found if I started a few hours earlier one day than the previous then it wouldn't show me all the new cards I created in the course of the current day (at least that's my theory for why this happened). For this deck, it could be any high value as I was creating the cards, so this defined/limited how many new cards there were per day.
 
 ## Notes
 
