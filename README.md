@@ -721,6 +721,20 @@ There's also lots of web pages out there (also with lots of stale information). 
 
 _Jouzu Juls_ has a nice [How to Type Japanese on Windows](https://www.youtube.com/watch?v=g3xmRCrbLVU) video.
 
+### Handwriting keyboard
+
+The macOS and iOS handwriting keyboards are great when you want to draw a character.
+
+When using your laptop, some sites, like Jisho, support drawing characters but I found it, and similar setups on other sites, to be surprisingly terrible.
+
+A better alternative, is the macOS handwriting keyboard. Unfortunately, there isn't one for Japanese but the one for simplified Chinese works fine (except for the few odd cases where Japanese and Chinese use completely different simplified forms).
+
+Using the keyboard is very non-intuitive at first. The trick is to ignore the screen, look at the trackpad, treat it as a sheet of paper and draw on it with your finger.
+
+The best video guide, that I found, is [How To Hand-Write Chinese on Mac using Trackpad](https://www.youtube.com/watch?v=PM6iEphLQRo). He's clearly installed _all_ Chinese keyboards - you do _not_ want to do this, just select the _handwriting keyboard_ for _simplified_ Chinese. He always selects characters by starting at the top-left of the trackpad, but you can start anywhere along the top.
+
+For more details from Apple, see their [documentation](https://support.apple.com/guide/chinese-input-method/use-trackpad-handwriting-scim27935/mac) that covers things like the special uses for the escape, delete, space and return keys.
+
 Comprehensible input
 --------------------
 

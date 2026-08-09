@@ -92,7 +92,7 @@ And the _Back Template_ to:
 <span class="kanjivg-animate">{{Kanji}}</span>
 <div class="keyword">{{Keyword}}</div>
 {{#Reading}}
-<div class="signal-primitive jp">{{Reading}}{{tts ja_JP voices=Apple_Kyoko_(Enhanced):Reading}}</div>
+<div class="signal-primitive jp">{{Reading}}{{tts ja_JP speed=0.7 voices=Apple_Kyoko_(Enhanced):Reading}}</div>
 {{/Reading}}
 {{^Reading}}
 <div class="no-signal-primitive">[no reading]</div>
