@@ -106,6 +106,14 @@ And the _Back Template_ to:
 
 That's it.
 
+**Update:** I eventually gave up on the the `{{tts ...}}` bit. It doesn't know how to pronounce on-yomi written as katakana correctly, e.g. ビョウ is pronounced as ビョ followed by ウ rather than as ビョー. You can do tricks like entering `ビョウ[ビョー]` and using the `kanji` and `kana` qualifiers to select the non-bracketed or bracketed bit, so you'd do:
+
+```
+{{kanji:Reading}}[anki:tts lang=ja_JP speed=0.7 voices=Apple_Kyoko_(Enhanced)]{{kana:Reading}}[/anki:tts]
+```
+
+Note: the `kanji` and `kana` qualifiers and the special square-bracket `[anki:tts ...]` form that allows you to surround a piece of text (the kana reading here).
+
 TTS voices
 ----------
 
