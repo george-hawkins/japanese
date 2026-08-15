@@ -91,12 +91,6 @@ And the _Back Template_ to:
 ```
 <span class="kanjivg-animate">{{Kanji}}</span>
 <div class="keyword">{{Keyword}}</div>
-{{#Reading}}
-<div class="signal-primitive jp">{{Reading}}{{tts ja_JP speed=0.7 voices=Apple_Kyoko_(Enhanced):Reading}}</div>
-{{/Reading}}
-{{^Reading}}
-<div class="no-signal-primitive">[no reading]</div>
-{{/Reading}}
 <div class="story">{{Story}}<div>
 {{#Note}}
 <div class="note">Note: {{Note}}<div>
@@ -106,6 +100,40 @@ And the _Back Template_ to:
 
 That's it.
 
+Readings
+--------
+
+This is supposed to be a TLDR; document, but I'm going to go on a short diversion to cover kanji readings.
+
+RTK 1 does not cover readings at all, and the general consensus seems to be that doing so isn't very helpful.
+
+However, Kanji Koohii includes a single on-yomi reading for every kanji that has at least one on-yomi reading (some kanji have only kun-yomi readings).
+
+Initially, I assumed this reading was the _signal primitive_ reading from RTK 2 as it's clear it's not always chosen on the basis of highest usage.
+
+However, on looking at the [code for Kanji Koohii](https://github.com/fabd/kanji-koohii), it turns out there's _no_ cleverness to how the reading is chosen. It uses the data from the [KANJIDIC Project](https://www.edrdg.org/wiki/KANJIDIC_Project.html) and, for any given kanji, takes the KANJIDIC list of on-yomi readings for that kanji and choses the first of those.
+
+I've looked and KANJIDIC makes _no_ ordering guarantees (other than that ordinary readings come first, followed by other classes of readings). It happens that _most_ of the time, the reading with the highest usage frequency comes first but this certainly isn't always the case (KANJIDIC was compiled from various different sources, and it seems each applied its own rules).
+
+So, while I intially included a `Reading` field in my the RTK 1 Anki cards, I dropped it once this became clear.
+
+In the meantime, though, using Claude, I created my own table of readings for RTK 1 that you can find [here](https://github.com/george-hawkins/rtk-readings). It is _not_ based on usage frequency, instead it's based on something similar to the _signal primitives_ of RTK 2 or [The Kanji Code](https://thekanjicode.com/). You'll find a ["why" section](https://github.com/george-hawkins/rtk-readings#why) with my list, that justifies the choice for use with RTK 1.
+
+### Readings with audio
+
+If you add in readings, then you could add the following to the _Back Template_:
+
+```
+{{#Reading}}
+<div class="signal-primitive jp">{{Reading}}{{tts ja_JP speed=0.7 voices=Apple_Kyoko_(Enhanced):Reading}}</div>
+{{/Reading}}
+{{^Reading}}
+<div class="no-signal-primitive">[no reading]</div>
+{{/Reading}}
+```
+
+The `{{tts ...}}` bit will automatically read aloud the value of the `Reading` field when the back of the card is shown.
+
 **Update:** I eventually gave up on the the `{{tts ...}}` bit. It doesn't know how to pronounce on-yomi written as katakana correctly, e.g. ビョウ is pronounced as ビョ followed by ウ rather than as ビョー. You can do tricks like entering `ビョウ[ビョー]` and using the `kanji` and `kana` qualifiers to select the non-bracketed or bracketed bit, so you'd do:
 
 ```
@@ -114,8 +142,7 @@ That's it.
 
 Note: the `kanji` and `kana` qualifiers and the special square-bracket `[anki:tts ...]` form that allows you to surround a piece of text (the kana reading here).
 
-TTS voices
-----------
+### TTS voices
 
 By default, Anki uses a robotic voice for the `tts` that would have sounded bad even in the 1990s. So, above, I've specified the macOS voice `Apple_Kyoko_(Enhanced)` for the reading. To see what languages your system supports, temporarily add this to the bottom of the front or back template:
 

@@ -17,9 +17,11 @@ On [Kanji Koohii](https://kanji.koohii.com/), many RTK card comes with a single 
 
 I asked Gemini about these. It _seems_ they correspond to the _on-yomi_ reading that are assigned to each character in RTK 2.
 
-Basically, this is about phono-semantic readings, or what RTK 2 calls "kanji chains".
+**Update:** it turns out this isn't true, see the [`tldr.md` readings section](tldr.md#readings).
 
-So one characters determines one of the on-yomi readings of the characters it appears in.
+Basically, the RTK 2 is about phono-semantic readings, or what RTK 2 calls "kanji chains".
+
+A "base" character determines one of the on-yomi readings of the characters it appears in.
 
 E.g. 青 (blue) is a "signal primitive" with the reading _sei_ and the characters in its kanji chain are:
 
