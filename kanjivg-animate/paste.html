@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>KanjiVG animate — paste</title>
+<style>
+  body { font-family: system-ui, sans-serif; max-width: 40em; margin: 2em auto; padding: 0 1em; line-height: 1.5; }
+  .stage, .controls, .status { text-align: center; }
+  .kanjivg-animate { display: inline-block; width: min(20em, 100%); aspect-ratio: 1; margin: 0.25em; border: 1px solid #ddd; }
+  .kanjivg-animate.blank { color: #ddd; }
+  .kanjivg-animate.blank svg { cursor: default; }
+  kbd { font: inherit; background: #f4f4f4; border: 1px solid #ccc; border-bottom-width: 2px; border-radius: 4px; padding: 0 0.35em; }
+  kbd + kbd { margin-left: 0.2em; }
+  button { font: inherit; padding: 0.4em 1.5em; }
+  .status { min-height: 1.5em; color: #666; }
+</style>
+</head>
+<body>
+<h1>KanjiVG animate - paste</h1>
+<p class="hint">Copy a single kanji from anywhere and paste it here to see it animated in the correct stroke order.</p>
+
+<div class="stage">
+  <span class="kanjivg-animate">語</span>
+</div>
+
+<p class="controls"></p>
+<p class="status" aria-live="polite"></p>
+
+<script src="kanjivg-animate.js" data-base-path="kanjivg"></script>
+<script src="paste.js"></script>
+</body>
+</html>
