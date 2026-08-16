@@ -23,6 +23,10 @@
  *
  * Filename is built as `<basePath>/<prefix><stem>.svg`, where <stem> is either
  * the kanji itself or its zero-padded hex codepoint.
+ *
+ * kanjivgAnimate(opts) returns a promise resolving to one handle per matched
+ * element - `{ el, svg, play }`, or null if that element had no SVG to show.
+ * Call `play()` to draw the strokes without waiting for a click.
  */
 (() => {
   const SCRIPT = document.currentScript;
@@ -124,34 +128,37 @@
 
   async function mount(el, opts) {
     const char = el.textContent.trim();
-    if (!char) return;
+    if (!char) return null;
     let svg;
     try {
       svg = parseSvg(await fetchSvg(opts, char));
     } catch (e) {
       console.error(e);
-      return;
+      return null;
     }
     el.replaceChildren(svg);
 
     const paths = [...svg.querySelectorAll('[id^="kvg:StrokePaths"] path')];
     const numbers = svg.querySelector('[id^="kvg:StrokeNumbers"]');
-    if (!paths.length) return;
+    if (!paths.length) return null;
 
     let playing = false;
-    svg.addEventListener('click', async () => {
+    const play = async () => {
       if (playing) return;
       playing = true;
       try { await animate(paths, numbers, opts); }
       finally { playing = false; }
-    });
+    };
+    svg.addEventListener('click', play);
+
+    return { el, svg, play };
   }
 
   function kanjivgAnimate(userOpts = {}) {
     const opts = { ...DEFAULTS, ...fromScriptAttrs(), ...userOpts };
     injectStyle();
     const root = opts.root || document;
-    root.querySelectorAll(SELECTOR).forEach(el => mount(el, opts));
+    return Promise.all([...root.querySelectorAll(SELECTOR)].map(el => mount(el, opts)));
   }
 
   window.kanjivgAnimate = kanjivgAnimate;

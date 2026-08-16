@@ -20,7 +20,11 @@ Then run a webserver that can serve `demo.html`:
 $ python3 -m http.server 8000
 ```
 
-And open the URL <http://localhost:8000/kanjivg-animate/demo.html> in your browser.
+And open the URL <http://localhost:8000/demo.html> in your browser.
+
+Even more useful is `paste.html`: <http://localhost:8000/paste.html>
+
+It lets you paste in any character and see it immediately animated.
 
 If you want to use the KanjiVG files directly, without the need to run `kanjivg-rename.py`, just replace the `script` tag in `demo.html` with:
 
