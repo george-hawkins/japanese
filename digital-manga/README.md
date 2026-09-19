@@ -20,6 +20,8 @@ TLDR;
 
 Upscaling only gets you so far and a great solution that involves OCR manga text is [Mokuro](https://github.com/kha-white/mokuro) combined with [Mokuro Reader](https://github.com/Gnathonic/mokuro-reader), see [`mokuro/README.md`](mokuro/README.md) for more.
 
+**Update:** I eventually did settle on an upscaling approach, you can find the details in [`modal`](modal).
+
 Finding high-resolution manga
 -----------------------------
 

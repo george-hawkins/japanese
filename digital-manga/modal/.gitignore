@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+input/
+output*/
+diffs*/
+vendor/
+*.safetensors
+crops*/
+scratch/
+input-*/
+.mcp.json
+*.cbz
