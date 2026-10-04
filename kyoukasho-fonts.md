@@ -15,6 +15,8 @@ The serif fonts, with their うろこ (the small triangular or hook-like project
 
 Aside: for more on うろこ and other features of fonts, see this [page](https://321web.link/fonts-type/) on 321web.
 
+**Update:** the government has a definitive set of "Guidelines Concerning the Typeface Forms and Glyph Shapes of the Jōyō Kanji List" that you can find [here](https://www.bunka.go.jp/seisaku/bunkashingikai/kokugo/hokoku/pdf/jitai_jikei_shishin.pdf). I've found one example where the recommended handwritten form there doesn't seem to line up with the KanjiVG version. In the guidelines they use the ⺤ form of 爪 for 淫 rather than the pre-Jōyō form 爫 used by KanjiVG.
+
 Kyoukasho-tai
 -------------
 
