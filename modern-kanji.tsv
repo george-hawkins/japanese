@@ -1,0 +1,3535 @@
+kanji	codepoint	category	jis_level	freq_rank	meaning
+一	U+4E00	joyo	1	2	one; one radical (no.1)
+丁	U+4E01	joyo	1	1312	street; ward; town; counter for guns, tools, leaves or cakes
+七	U+4E03	joyo	1	115	seven
+万	U+4E07	joyo	1	375	ten thousand; 10,000
+丈	U+4E08	joyo	1	1375	length; ten shaku; measure; Mr.; Ms.; height; stature; all (
+三	U+4E09	joyo	1	14	three
+上	U+4E0A	joyo	1	35	above; up
+下	U+4E0B	joyo	1	97	below; down; descend; give; low; inferior
+不	U+4E0D	joyo	1	101	negative; non-; bad; ugly; clumsy
+与	U+4E0E	joyo	1	308	bestow; participate in; give; award; impart; provide; cause;
+且	U+4E14	joyo	1		moreover; also; furthermore
+世	U+4E16	joyo	1	135	generation; world; society; public
+丘	U+4E18	joyo	1	1405	hill; knoll
+丙	U+4E19	joyo	1		third class; 3rd; 3rd calendar sign
+両	U+4E21	joyo	1	247	both; old Japanese coin; counter for carriages (e.g., in a t
+並	U+4E26	joyo	1	599	row; and; besides; as well as; line up; rank with; rival; eq
+中	U+4E2D	joyo	1	11	in; inside; middle; mean; center
+串	U+4E32	joyo	1	2139	spit; skewer
+丸	U+4E38	joyo	1	542	round; full (month); perfection; -ship; pills; make round; r
+丹	U+4E39	joyo	1	1402	rust-colored; red; red lead; pills; sincerity
+主	U+4E3B	joyo	1	95	lord; chief; master; main thing; principal
+丼	U+4E3C	joyo	1	2088	bowl; bowl of food
+久	U+4E45	joyo	1	688	long time; old story
+乏	U+4E4F	joyo	1	1646	destitution; scarce; limited
+乗	U+4E57	joyo	1	377	ride; power; multiplication; record; counter for vehicles; b
+乙	U+4E59	joyo	1	1841	the latter; duplicate; strange; witty; fishhook radical (no.
+九	U+4E5D	joyo	1	55	nine
+乞	U+4E5E	joyo	1	2478	beg; invite; ask
+乱	U+4E71	joyo	1	755	riot; war; disorder; disturb
+乳	U+4E73	joyo	1	1289	milk; breasts
+乾	U+4E7E	joyo	1	1453	drought; dry; desiccate; drink up; heaven; emperor
+亀	U+4E80	joyo	1	1353	tortoise; turtle
+了	U+4E86	joyo	1	792	complete; finish
+予	U+4E88	joyo	1	180	beforehand; previous; myself; I
+争	U+4E89	joyo	1	271	contend; dispute; argue
+事	U+4E8B	joyo	1	18	matter; thing; fact; business; reason; possibly
+二	U+4E8C	joyo	1	9	two; two radical (no. 7)
+互	U+4E92	joyo	1	914	mutually; reciprocally; together
+五	U+4E94	joyo	1	31	five
+井	U+4E95	joyo	1	339	well; well crib; town; community
+亜	U+4E9C	joyo	1	1509	Asia; rank next; come after; -ous
+亡	U+4EA1	joyo	1	661	deceased; the late; dying; perish
+交	U+4EA4	joyo	1	178	mingle; mixing; association; coming & going
+享	U+4EAB	joyo	1	1893	enjoy; receive; undergo; answer (phone); take; get; catch
+京	U+4EAC	joyo	1	74	capital; 10**16
+亭	U+4EAD	joyo	1	1627	pavilion; restaurant; mansion; arbor; cottage; vaudeville; m
+人	U+4EBA	joyo	1	5	person
+仁	U+4EC1	joyo	1	1332	humanity; virtue; benevolence; charity; man; kernel
+今	U+4ECA	joyo	1	49	now
+介	U+4ECB	joyo	1	617	jammed in; shellfish; mediate; concern oneself with
+仏	U+4ECF	joyo	1	819	Buddha; the dead; France
+仕	U+4ED5	joyo	1	439	attend; doing; official; serve
+他	U+4ED6	joyo	1	543	other; another; the others
+付	U+4ED8	joyo	1	322	adhere; attach; refer to; append
+仙	U+4ED9	joyo	1	1157	hermit; wizard; cent
+代	U+4EE3	joyo	1	66	substitute; change; convert; replace; period; age; counter f
+令	U+4EE4	joyo	1	804	orders; laws; command; decree; good
+以	U+4EE5	joyo	1	126	by means of; because; in view of; compared with
+仮	U+4EEE	joyo	1	1039	sham; temporary; interim; assumed (name); informal
+仰	U+4EF0	joyo	1	1573	face-up; look up; depend; seek; respect; revere; drink; take
+仲	U+4EF2	joyo	1	919	go-between; relationship
+件	U+4EF6	joyo	1	212	affair; case; matter; item
+任	U+4EFB	joyo	1	217	responsibility; duty; term; entrust to; appoint
+企	U+4F01	joyo	1	278	undertake; scheme; design; attempt; plan
+伎	U+4F0E	joyo	1		deed; skill
+伏	U+4F0F	joyo	1	1604	prostrated; bend down; bow; cover; lay (pipes)
+伐	U+4F10	joyo	1	1816	fell; strike; attack; punish
+休	U+4F11	joyo	1	642	rest; day off; retire; sleep
+会	U+4F1A	joyo	1	4	meeting; meet; party; association; interview; join
+伝	U+4F1D	joyo	1	416	transmit; go along; walk along; follow; report; communicate;
+伯	U+4F2F	joyo	1	1741	chief; count; earl; uncle; Brazil
+伴	U+4F34	joyo	1	886	consort; accompany; bring with; companion
+伸	U+4F38	joyo	1	730	expand; stretch; extend; lengthen; increase
+伺	U+4F3A	joyo	1	2209	pay respects; visit; ask; inquire; question; implore
+似	U+4F3C	joyo	1	923	becoming; resemble; counterfeit; imitate; suitable
+但	U+4F46	joyo	1	2404	however; but
+位	U+4F4D	joyo	1	276	rank; grade; throne; crown; about; some
+低	U+4F4E	joyo	1	435	lower; short; humble
+住	U+4F4F	joyo	1	270	dwell; reside; live; inhabit
+佐	U+4F50	joyo	1	474	assistant; help
+体	U+4F53	joyo	1	88	body; substance; object; reality; counter for images
+何	U+4F55	joyo	1	340	what
+余	U+4F59	joyo	1	680	too much; myself; surplus; other; remainder
+作	U+4F5C	joyo	1	103	make; production; prepare; build
+佳	U+4F73	joyo	1	1643	excellent; beautiful; good; pleasing; skilled
+併	U+4F75	joyo	1	966	join; get together; unite; collective
+使	U+4F7F	joyo	1	219	use; send on a mission; order; messenger; envoy; ambassador;
+例	U+4F8B	joyo	1	399	example; custom; usage; precedent
+侍	U+4F8D	joyo	1	1939	waiter; samurai; wait upon; serve
+供	U+4F9B	joyo	1	313	submit; offer; present; serve (meal); accompany
+依	U+4F9D	joyo	1	906	reliant; depend on; consequently; therefore; due to
+価	U+4FA1	joyo	1	250	value; price
+侮	U+4FAE	joyo	1	2004	scorn; despise; make light of; contempt
+侯	U+4FAF	joyo	1	2363	marquis; lord; daimyo
+侵	U+4FB5	joyo	1	1025	encroach; invade; raid; trespass; violate
+侶	U+4FB6	joyo	1		companion; follower
+便	U+4FBF	joyo	1	729	convenience; facility; excrement; feces; letter; chance
+係	U+4FC2	joyo	1	232	person in charge; connection; duty; concern oneself
+促	U+4FC3	joyo	1	998	stimulate; urge; press; demand; incite
+俊	U+4FCA	joyo	1	1007	sagacious; genius; excellence
+俗	U+4FD7	joyo	1	1610	vulgar; customs; manners; worldliness; mundane things
+保	U+4FDD	joyo	1	146	protect; guarantee; keep; preserve; sustain; support
+信	U+4FE1	joyo	1	208	faith; truth; fidelity; trust
+修	U+4FEE	joyo	1	603	discipline; conduct oneself well; study; master
+俳	U+4FF3	joyo	1	1137	haiku; actor
+俵	U+4FF5	joyo	1	1481	bag; bale; sack; counter for bags
+俸	U+4FF8	joyo	1	1834	stipend; salary
+俺	U+4FFA	joyo	1	1946	I; myself
+倉	U+5009	joyo	1	1114	godown; warehouse; storehouse; cellar; treasury
+個	U+500B	joyo	1	451	individual; counter for articles
+倍	U+500D	joyo	1	714	double; twice; times; fold
+倒	U+5012	joyo	1	791	overthrow; fall; collapse; drop; break down
+候	U+5019	joyo	1	510	climate; season; weather; wait for; expect
+借	U+501F	joyo	1	932	borrow; rent
+倣	U+5023	joyo	1	2454	emulate; imitate
+値	U+5024	joyo	1	518	price; cost; value
+倫	U+502B	joyo	1	1322	ethics; companion
+倹	U+5039	joyo	1	2479	frugal; economy; thrifty
+偉	U+5049	joyo	1	1639	admirable; greatness; remarkable; conceited; famous; excelle
+偏	U+504F	joyo	1	1340	partial; side; left-side radical; inclining; biased
+停	U+505C	joyo	1	733	halt; stopping
+健	U+5065	joyo	1	572	healthy; health; strength; persistence
+側	U+5074	joyo	1	216	side; lean; oppose; regret
+偵	U+5075	joyo	1	1857	spy
+偶	U+5076	joyo	1	1602	accidentally; even number; couple; man & wife; same kind
+偽	U+507D	joyo	1	1171	falsehood; lie; deceive; pretend; counterfeit; forgery
+傍	U+508D	joyo	1	1660	bystander; side; besides; while; nearby; third person
+傑	U+5091	joyo	1	1926	greatness; excellence
+傘	U+5098	joyo	1	1694	umbrella
+備	U+5099	joyo	1	356	equip; provision; preparation
+催	U+50AC	joyo	1	536	sponsor; hold (a meeting); give (a dinner)
+傲	U+50B2	joyo	1		be proud
+債	U+50B5	joyo	1	728	bond; loan; debt
+傷	U+50B7	joyo	1	845	wound; hurt; injure; impair; pain; injury; cut; gash; scar; 
+傾	U+50BE	joyo	1	938	lean; incline; tilt; trend; wane; sink; ruin; bias
+僅	U+50C5	joyo	1		a wee bit
+働	U+50CD	joyo	1	417	work; (kokuji)
+像	U+50CF	joyo	1	856	statue; picture; image; figure; portrait
+僕	U+50D5	joyo	1	1236	me; I (male); servant; manservant
+僚	U+50DA	joyo	1	709	colleague; official; companion
+僧	U+50E7	joyo	1	1724	Buddhist priest; monk
+儀	U+5100	joyo	1	739	ceremony; rule; affair; case; a matter
+億	U+5104	joyo	1	716	hundred million; 10**8
+儒	U+5112	joyo	1	2162	Confucian
+償	U+511F	joyo	1	854	reparation; make up for; recompense; redeem
+優	U+512A	joyo	1	334	tenderness; excel; surpass; actor; superiority; gentleness
+元	U+5143	joyo	1	192	beginning; former time; origin
+兄	U+5144	joyo	1	1219	elder brother; big brother
+充	U+5145	joyo	1	949	allot; fill
+兆	U+5146	joyo	1	1174	portent; 10**12; trillion; sign; omen; symptoms
+先	U+5148	joyo	1	173	before; ahead; previous; future; precedence
+光	U+5149	joyo	1	527	ray; light
+克	U+514B	joyo	1	1333	overcome; kindly; skillfully
+免	U+514D	joyo	1	1080	excuse; dismissal
+児	U+5150	joyo	1	679	newborn babe; child; young of animals
+党	U+515A	joyo	1	39	party; faction; clique
+入	U+5165	joyo	1	56	enter; insert
+全	U+5168	joyo	1	75	whole; entire; all; complete; fulfill
+八	U+516B	joyo	1	92	eight; eight radical (no. 12)
+公	U+516C	joyo	1	118	public; prince; official; governmental
+六	U+516D	joyo	1	93	six
+共	U+5171	joyo	1	174	together; both; neither; all; and; alike; with
+兵	U+5175	joyo	1	522	soldier; private; troops; army; warfare; strategy; tactics
+具	U+5177	joyo	1	629	tool; utensil; means; possess; ingredients; counter for armo
+典	U+5178	joyo	1	1055	code; ceremony; law; rule
+兼	U+517C	joyo	1	1164	concurrently; and; beforehand; in advance
+内	U+5185	joyo	1	44	inside; within; between; among; house; home
+円	U+5186	joyo	1	69	circle; yen; round
+冊	U+518A	joyo	1	1313	tome; counter for books; volume
+再	U+518D	joyo	1	275	again; twice; second time
+冒	U+5192	joyo	1	1317	risk; face; defy; dare; damage; assume (a name)
+冗	U+5197	joyo	1	1782	superfluous; uselessness
+写	U+5199	joyo	1	453	copy; be photographed; describe
+冠	U+51A0	joyo	1	1503	crown; best; peerless
+冥	U+51A5	joyo	1	2349	dark
+冬	U+51AC	joyo	1	1090	winter
+冶	U+51B6	joyo	1		melting; smelting
+冷	U+51B7	joyo	1	667	cool; cold (beer, person); chill
+凄	U+51C4	joyo	1	2313	uncanny; weird; threatening; horrible
+准	U+51C6	joyo	1	1441	quasi-; semi-; associate
+凍	U+51CD	joyo	1	1284	frozen; congeal; refrigerate
+凝	U+51DD	joyo	1	1712	congeal; freeze; stiff; be absorbed in
+凡	U+51E1	joyo	1	1730	commonplace; ordinary; mediocre
+処	U+51E6	joyo	1	547	dispose; manage; deal with; sentence; condemn; act; behave; 
+凶	U+51F6	joyo	1	1673	villain; evil; bad luck; disaster
+凸	U+51F8	joyo	1	2143	convex; beetle brow; uneven
+凹	U+51F9	joyo	1	2206	concave; hollow; sunken
+出	U+51FA	joyo	1	13	exit; leave; go out; come out; put out; protrude
+刀	U+5200	joyo	1	1794	sword; saber; knife
+刃	U+5203	joyo	1	1763	blade; sword; edge
+分	U+5206	joyo	1	24	part; minute of time; segment; share; degree; one's lot; dut
+切	U+5207	joyo	1	324	cut; cutoff; be sharp
+刈	U+5208	joyo	1	1738	reap; cut; clip; trim; prune
+刊	U+520A	joyo	1	855	publish; carve; engrave
+刑	U+5211	joyo	1	864	punish; penalty; sentence; punishment
+列	U+5217	joyo	1	927	file; row; rank; tier; column
+初	U+521D	joyo	1	152	first time; beginning
+判	U+5224	joyo	1	197	judgement; judgment; signature; stamp; seal
+別	U+5225	joyo	1	214	separate; branch off; diverge; fork; another; extra; special
+利	U+5229	joyo	1	203	profit; advantage; benefit
+到	U+5230	joyo	1	1032	arrival; proceed; reach; attain; result in
+制	U+5236	joyo	1	108	system; law; rule
+刷	U+5237	joyo	1	1352	printing; print; brush
+券	U+5238	joyo	1	583	ticket
+刹	U+5239	joyo	1		temple
+刺	U+523A	joyo	1	1031	thorn; pierce; stab; prick; sting; calling card
+刻	U+523B	joyo	1	866	engrave; cut fine; chop; hash; mince; time; carving
+則	U+5247	joyo	1	753	rule; law; follow; based on; model after
+削	U+524A	joyo	1	814	plane; sharpen; whittle; pare; shave
+前	U+524D	joyo	1	27	in front; before
+剖	U+5256	joyo	1	1918	divide
+剛	U+525B	joyo	1	1576	sturdy; strength
+剝	U+525D	joyo	0213		come off; peel; fade; discolor
+剣	U+5263	joyo	1	1305	sabre; sword; blade; clock hand
+剤	U+5264	joyo	1	1151	dose; medicine; drug
+副	U+526F	joyo	1	360	vice-; assistant; aide; duplicate; copy
+剰	U+5270	joyo	1	1448	surplus; besides
+割	U+5272	joyo	1	318	proportion; comparatively; divide; cut; separate; split
+創	U+5275	joyo	1	741	genesis; wound; injury; hurt; start; originate
+劇	U+5287	joyo	1	662	drama; play
+力	U+529B	joyo	1	62	power; strength; strong; strain; bear up; exert
+功	U+529F	joyo	1	857	achievement; merits; success; honor; credit
+加	U+52A0	joyo	1	130	add; addition; increase; join; include; Canada
+劣	U+52A3	joyo	1	1620	inferiority; be inferior to; be worse
+助	U+52A9	joyo	1	397	help; rescue; assist
+努	U+52AA	joyo	1	749	toil; diligent; as much as possible
+励	U+52B1	joyo	1	1254	encourage; be diligent; inspire
+労	U+52B4	joyo	1	398	labor; thank for; reward for; toil; trouble
+効	U+52B9	joyo	1	538	merit; efficacy; efficiency; benefit
+劾	U+52BE	joyo	1	2085	censure; criminal investigation
+勃	U+52C3	joyo	1		suddenness; rise
+勅	U+52C5	joyo	1	2157	imperial order
+勇	U+52C7	joyo	1	1319	courage; cheer up; be in high spirits; bravery; heroism
+勉	U+52C9	joyo	1	1066	exertion; endeavour; encourage; strive; make effort; diligen
+動	U+52D5	joyo	1	73	move; motion; change; confusion; shift; shake
+勘	U+52D8	joyo	1	1494	intuition; perception; check; compare; sixth sense
+務	U+52D9	joyo	1	111	task; duties
+勝	U+52DD	joyo	1	185	victory; win; prevail; excel
+募	U+52DF	joyo	1	809	recruit; campaign; gather (contributions); enlist; grow viol
+勢	U+52E2	joyo	1	260	forces; energy; military strength
+勤	U+52E4	joyo	1	830	diligence; become employed; serve
+勧	U+52E7	joyo	1	1068	persuade; recommend; advise; encourage; offer
+勲	U+52F2	joyo	1	1513	meritorious deed; merit
+勾	U+52FE	joyo	1		be bent; slope; capture
+匂	U+5302	joyo	1	2213	fragrant; stink; glow; insinuate; (kokuji)
+包	U+5305	joyo	1	954	wrap; pack up; cover; conceal
+化	U+5316	joyo	1	89	change; take the form of; influence; enchant; delude; -izati
+北	U+5317	joyo	1	153	north
+匠	U+5320	joyo	1	1718	artisan; workman; carpenter
+匹	U+5339	joyo	1	1384	equal; head; counter for small animals; roll of cloth
+区	U+533A	joyo	1	137	ward; district
+医	U+533B	joyo	1	437	doctor; medicine
+匿	U+533F	joyo	1	2024	hide; shelter; shield
+十	U+5341	joyo	1	8	ten
+千	U+5343	joyo	1	195	thousand
+升	U+5347	joyo	1	2077	measuring box; 1.8 liter
+午	U+5348	joyo	1	154	noon; sign of the horse; 11AM-1PM; seventh sign of Chinese z
+半	U+534A	joyo	1	224	half; middle; odd number; semi-; part-
+卑	U+5351	joyo	1	2003	lowly; base; vile; vulgar; despise
+卒	U+5352	joyo	1	772	graduate; soldier; private; die
+卓	U+5353	joyo	1	1348	eminent; table; desk; high
+協	U+5354	joyo	1	121	co-; cooperation
+南	U+5357	joyo	1	341	south
+単	U+5358	joyo	1	586	simple; one; single; merely
+博	U+535A	joyo	1	794	Dr.; command; esteem; win acclaim; Ph.D.; exposition; fair
+占	U+5360	joyo	1	694	fortune-telling; divining; forecasting; occupy; hold; have; 
+印	U+5370	joyo	1	682	stamp; seal; mark; imprint; symbol; emblem; trademark; evide
+危	U+5371	joyo	1	606	dangerous; fear; uneasy
+即	U+5373	joyo	1	1167	instant; namely; as is; conform; agree; adapt
+却	U+5374	joyo	1	959	instead; on the contrary; rather; step back; withdraw; retre
+卵	U+5375	joyo	1	1342	egg; ovum; spawn; roe
+卸	U+5378	joyo	1	1520	wholesale
+厄	U+5384	joyo	1	2123	unlucky; misfortune; bad luck; disaster
+厘	U+5398	joyo	1	1835	rin; 1/10 sen; 1/10 bu
+厚	U+539A	joyo	1	768	thick; heavy; rich; kind; cordial; brazen; shameless
+原	U+539F	joyo	1	172	meadow; original; primitive; field; plain; prairie; tundra; 
+厳	U+53B3	joyo	1	638	stern; strictness; severity; rigidity
+去	U+53BB	joyo	1	440	gone; past; quit; leave; elapse; eliminate; divorce
+参	U+53C2	joyo	1	201	nonplussed; three (in documents); going; coming; visiting; v
+又	U+53C8	joyo	1	1874	or again; furthermore; on the other hand
+及	U+53CA	joyo	1	544	reach out; exert; exercise; cause
+友	U+53CB	joyo	1	622	friend
+双	U+53CC	joyo	1	1029	pair; set; comparison; counter for pairs
+反	U+53CD	joyo	1	191	anti-
+収	U+53CE	joyo	1	337	income; obtain; reap; pay; supply; store
+叔	U+53D4	joyo	1	1950	uncle; youth
+取	U+53D6	joyo	1	122	take; fetch; take up
+受	U+53D7	joyo	1	136	accept; undergo; answer (phone); take; get; catch; receive
+叙	U+53D9	joyo	1	1954	confer; relate; narrate; describe
+口	U+53E3	joyo	1	284	mouth
+古	U+53E4	joyo	1	509	old
+句	U+53E5	joyo	1	1244	phrase; clause; sentence; passage; paragraph; counter for ha
+叫	U+53EB	joyo	1	1426	shout; exclaim; yell
+召	U+53EC	joyo	1	1540	seduce; call; send for; wear; put on; ride in; buy; eat; dri
+可	U+53EF	joyo	1	314	can; passable; approval
+台	U+53F0	joyo	1	262	pedestal; a stand; counter for machines and vehicles
+史	U+53F2	joyo	1	511	history; chronicle
+右	U+53F3	joyo	1	602	right
+号	U+53F7	joyo	1	585	nickname; number; item; title; pseudonym; name; call
+司	U+53F8	joyo	1	759	director; official; govt office; rule; administer
+各	U+5404	joyo	1	243	each; every; either
+合	U+5408	joyo	1	41	fit; suit; join; 0.1
+吉	U+5409	joyo	1	711	good luck; joy; congratulations
+同	U+540C	joyo	1	15	same; agree; equal
+名	U+540D	joyo	1	177	name; noted; distinguished; reputation
+后	U+540E	joyo	1	1583	empress; queen; after; behind; back; later
+吏	U+540F	joyo	1		officer; an official
+吐	U+5410	joyo	1	1674	spit; vomit; belch; confess; tell (lies)
+向	U+5411	joyo	1	182	yonder; facing; beyond; confront; defy; tend toward; approac
+君	U+541B	joyo	1	947	mister; you; ruler; male name suffix
+吟	U+541F	joyo	1	1956	versify; singing; recital
+否	U+5426	joyo	1	561	negate; no; noes; refuse; decline; deny
+含	U+542B	joyo	1	466	contain; include; hold in the mouth; bear in mind; understan
+吸	U+5438	joyo	1	1054	suck; imbibe; inhale; sip
+吹	U+5439	joyo	1	1133	blow; breathe; puff; emit; smoke
+呂	U+5442	joyo	1	2055	spine; backbone
+呈	U+5448	joyo	1	1571	display; offer; present; send; exhibit
+呉	U+5449	joyo	1	1729	give; do something for; kingdom of Wu
+告	U+544A	joyo	1	188	revelation; tell; inform; announce
+周	U+5468	joyo	1	562	circumference; circuit; lap
+呪	U+546A	joyo	1	2131	spell; curse; charm; malediction
+味	U+5473	joyo	1	442	flavor; taste
+呼	U+547C	joyo	1	498	call; call out to; invite
+命	U+547D	joyo	1	465	fate; command; decree; destiny; life; appoint
+和	U+548C	joyo	1	124	harmony; Japanese style; peace; soften; Japan
+咲	U+54B2	joyo	1	1534	blossom; bloom
+咽	U+54BD	joyo	1		throat; choked; smothered; stuffy
+哀	U+54C0	joyo	1	1715	pathetic; grief; sorrow; pathos; pity; sympathize
+品	U+54C1	joyo	1	225	goods; refinement; dignity; article; counter for meal course
+員	U+54E1	joyo	1	54	employee; member; number; the one in charge
+哲	U+54F2	joyo	1	1093	philosophy; clear
+哺	U+54FA	joyo	1	2461	nurse; suckle
+唄	U+5504	joyo	1	2051	song; ballad
+唆	U+5506	joyo	1	1278	tempt; seduce; instigate; promote
+唇	U+5507	joyo	1	1992	lips
+唐	U+5510	joyo	1	1727	T'ang; China; foreign
+唯	U+552F	joyo	1	1292	solely; only; merely; simply
+唱	U+5531	joyo	1	1123	chant; recite; call upon; yell
+唾	U+553E	joyo	1		saliva; sputum
+商	U+5546	joyo	1	413	make a deal; selling; dealing in; merchant
+問	U+554F	joyo	1	64	question; ask; problem
+啓	U+5553	joyo	1	1403	disclose; open; say
+善	U+5584	joyo	1	765	virtuous; good; goodness
+喉	U+5589	joyo	1	2390	throat; voice
+喚	U+559A	joyo	1	1120	yell; cry; call; scream; summon
+喜	U+559C	joyo	1	769	rejoice; take pleasure in
+喝	U+559D	joyo	1	1858	hoarse; scold
+喩	U+55A9	joyo	1		metaphor; compare
+喪	U+55AA	joyo	1	885	miss; mourning
+喫	U+55AB	joyo	1	1347	consume; eat; drink; smoke; receive (a blow)
+営	U+55B6	joyo	1	303	camp; perform; build; conduct (business)
+嗅	U+55C5	joyo	1	2480	smell; sniff; scent
+嗣	U+55E3	joyo	1	2310	heir; succeed
+嘆	U+5606	joyo	1	1584	sigh; lament; moan; grieve; sigh of admiration
+嘱	U+5631	joyo	1	1903	entrust; request; send a message
+嘲	U+5632	joyo	1		ridicule; insult
+器	U+5668	joyo	1	525	utensil; vessel; receptacle; implement; instrument; ability;
+噴	U+5674	joyo	1	1270	erupt; spout; emit; flush out
+嚇	U+5687	joyo	1	2141	menacing; dignity; majesty; threaten
+囚	U+56DA	joyo	1	2107	captured; criminal; arrest; catch
+四	U+56DB	joyo	1	47	four
+回	U+56DE	joyo	1	50	-times; round; game; revolve; counter for occurrences
+因	U+56E0	joyo	1	636	cause; factor; be associated with; depend on; be limited to
+団	U+56E3	joyo	1	213	group; association
+困	U+56F0	joyo	1	843	quandary; become distressed; annoyed
+囲	U+56F2	joyo	1	771	surround; besiege; store; paling; enclosure; encircle; prese
+図	U+56F3	joyo	1	539	map; drawing; plan; extraordinary; audacious
+固	U+56FA	joyo	1	750	harden; set; clot; curdle
+国	U+56FD	joyo	1	3	country
+圏	U+570F	joyo	1	1216	sphere; circle; radius; range
+園	U+5712	joyo	1	628	park; garden; yard; farm
+土	U+571F	joyo	1	307	soil; earth; ground; Turkey
+圧	U+5727	joyo	1	718	pressure; push; overwhelm; oppress; dominate
+在	U+5728	joyo	1	211	exist; outskirts; suburbs; located in
+地	U+5730	joyo	1	40	ground; earth
+坂	U+5742	joyo	1	865	slope; incline; hill
+均	U+5747	joyo	1	715	level; average
+坊	U+574A	joyo	1	1832	boy; priest's residence; priest
+坑	U+5751	joyo	1	2040	pit; hole
+坪	U+576A	joyo	1	1823	two-mat area; approx. thirty-six sq ft
+垂	U+5782	joyo	1	1720	droop; suspend; hang; slouch
+型	U+578B	joyo	1	482	mould; type; model
+垣	U+57A3	joyo	1	1539	hedge; fence; wall
+埋	U+57CB	joyo	1	1110	bury; be filled up; embedded
+城	U+57CE	joyo	1	795	castle
+域	U+57DF	joyo	1	396	range; region; limits; stage; level
+執	U+57F7	joyo	1	800	tenacious; take hold; grasp; take to heart
+培	U+57F9	joyo	1	1431	cultivate; foster
+基	U+57FA	joyo	1	241	fundamentals; radical (chem); counter for machines; foundati
+埼	U+57FC	joyo	1	971	cape; spit; promontory
+堀	U+5800	joyo	1	1285	ditch; moat; canal
+堂	U+5802	joyo	1	1010	public chamber; hall
+堅	U+5805	joyo	1	1049	strict; hard; solid; tough; tight; reliable
+堆	U+5806	joyo	1	2184	piled high
+堕	U+5815	joyo	1	2087	degenerate; descend to; lapse into
+堤	U+5824	joyo	1	1658	dike; bank; embankment
+堪	U+582A	joyo	1	1953	withstand; endure; support; resist
+報	U+5831	joyo	1	167	report; news; reward; retribution
+場	U+5834	joyo	1	52	location; place
+塀	U+5840	joyo	1	1991	fence; wall; (kokuji)
+塁	U+5841	joyo	1	651	bases; fort; rampart; walls; base(ball)
+塊	U+584A	joyo	1	1800	clod; lump; chunk; clot; mass
+塑	U+5851	joyo	1		model; molding
+塔	U+5854	joyo	1	1708	pagoda; tower; steeple
+塗	U+5857	joyo	1	1414	paint; plaster; daub; smear; coating
+塚	U+585A	joyo	1	869	hillock; mound
+塞	U+585E	joyo	1		close; shut; cover; block; obstruct
+塡	U+5861	joyo	0213		fill in; fill up; make good
+塩	U+5869	joyo	1	1148	salt
+塾	U+587E	joyo	1	1297	cram school; private school
+境	U+5883	joyo	1	346	boundary; border; region
+墓	U+5893	joyo	1	1337	grave; tomb
+増	U+5897	joyo	1	231	increase; add; augment; gain; promote
+墜	U+589C	joyo	1	1466	crash; fall (down)
+墨	U+58A8	joyo	1	1616	black ink; India ink; ink stick; Mexico
+墳	U+58B3	joyo	1	1822	tomb; mound
+墾	U+58BE	joyo	1		ground-breaking; open up farmland
+壁	U+58C1	joyo	1	1037	wall; lining (stomach); fence
+壇	U+58C7	joyo	1	1512	podium; stage; rostrum; terrace
+壊	U+58CA	joyo	1	727	demolition; break; destroy
+壌	U+58CC	joyo	1	1407	lot; earth; soil
+士	U+58EB	joyo	1	526	gentleman; scholar; samurai; samurai radical (no. 33)
+壮	U+58EE	joyo	1	1657	robust; manhood; prosperity
+声	U+58F0	joyo	1	388	voice
+壱	U+58F1	joyo	1	2351	one (in documents)
+売	U+58F2	joyo	1	202	sell
+変	U+5909	joyo	1	238	unusual; change; strange
+夏	U+590F	joyo	1	659	summer
+夕	U+5915	joyo	1	924	evening
+外	U+5916	joyo	1	81	outside
+多	U+591A	joyo	1	139	many; frequent; much
+夜	U+591C	joyo	1	487	night; evening
+夢	U+5922	joyo	1	943	dream; vision; illusion
+大	U+5927	joyo	1	7	large; big
+天	U+5929	joyo	1	512	heavens; sky; imperial
+太	U+592A	joyo	1	552	plump; thick; big around
+夫	U+592B	joyo	1	335	husband; man
+央	U+592E	joyo	1	582	center; middle
+失	U+5931	joyo	1	447	lose; error; fault; disadvantage; loss
+奇	U+5947	joyo	1	1367	strange; strangeness; curiosity
+奈	U+5948	joyo	1	841	Nara; what?
+奉	U+5949	joyo	1	1624	observance; offer; present; dedicate
+奏	U+594F	joyo	1	1067	play music; speak to a ruler; complete
+契	U+5951	joyo	1	898	pledge; promise; vow
+奔	U+5954	joyo	1	1884	run; bustle
+奥	U+5965	joyo	1	1018	heart; interior
+奨	U+5968	joyo	1	1445	exhort; urge; encourage
+奪	U+596A	joyo	1	974	rob; take by force; snatch away; dispossess; plunder; usurp
+奮	U+596E	joyo	1	1521	stirred up; be invigorated; flourish
+女	U+5973	joyo	1	151	woman; female
+奴	U+5974	joyo	1	1932	guy; slave; manservant; fellow
+好	U+597D	joyo	1	423	fond; pleasing; like something
+如	U+5982	joyo	1	1704	likeness; like; such as; as if; better; best; equal
+妃	U+5983	joyo	1	1752	queen; princess
+妄	U+5984	joyo	1	2264	delusion; unnecessarily; without authority; reckless
+妊	U+598A	joyo	1	1413	pregnancy
+妖	U+5996	joyo	1	1964	attractive; bewitching; calamity
+妙	U+5999	joyo	1	1122	exquisite; strange; queer; mystery; miracle; excellent; deli
+妥	U+59A5	joyo	1	1102	gentle; peace; satisfactory; appropriate
+妨	U+59A8	joyo	1	1482	disturb; prevent; hamper; obstruct
+妬	U+59AC	joyo	1		jealous; envy
+妹	U+59B9	joyo	1	1446	younger sister
+妻	U+59BB	joyo	1	691	wife; spouse
+姉	U+59C9	joyo	1	1473	elder sister
+始	U+59CB	joyo	1	244	commence; begin
+姓	U+59D3	joyo	1	1628	surname
+委	U+59D4	joyo	1	187	committee; entrust to; leave to; devote; discard
+姫	U+59EB	joyo	1	1566	princess
+姻	U+59FB	joyo	1	1985	matrimony; marry
+姿	U+59FF	joyo	1	441	figure; form; shape
+威	U+5A01	joyo	1	1103	intimidate; dignity; majesty; menace; threaten
+娘	U+5A18	joyo	1	1145	daughter; girl
+娠	U+5A20	joyo	1	1623	with child; pregnancy
+娯	U+5A2F	joyo	1	1827	recreation; pleasure
+婆	U+5A46	joyo	1	2435	old woman; grandma; wet nurse
+婚	U+5A5A	joyo	1	767	marriage
+婦	U+5A66	joyo	1	671	lady; woman; wife; bride
+婿	U+5A7F	joyo	1	2099	bridegroom; son-in-law
+媒	U+5A92	joyo	1	1900	mediator; go-between
+媛	U+5A9B	joyo	1	1735	beautiful woman; princess
+嫁	U+5AC1	joyo	1	1581	marry into; bride
+嫉	U+5AC9	joyo	1	2317	jealous; envy
+嫌	U+5ACC	joyo	1	1207	dislike; detest; hate
+嫡	U+5AE1	joyo	1	2130	legitimate wife; direct descent (non-bastard)
+嬢	U+5B22	joyo	1	2059	lass; girl; Miss; daughter
+子	U+5B50	joyo	1	72	child; sign of the rat; 11PM-1AM; first sign of Chinese zodi
+孔	U+5B54	joyo	1	2052	cavity; hole; slit; very; great; exceedingly
+字	U+5B57	joyo	1	485	character; letter; word; section of village
+存	U+5B58	joyo	1	577	exist; suppose; be aware of; believe; feel
+孝	U+5B5D	joyo	1	1030	filial piety; child's respect
+季	U+5B63	joyo	1	842	seasons
+孤	U+5B64	joyo	1	1239	orphan; alone
+学	U+5B66	joyo	1	63	study; learning; science
+孫	U+5B6B	joyo	1	1388	grandchild; descendants
+宅	U+5B85	joyo	1	357	home; house; residence; our house; my husband
+宇	U+5B87	joyo	1	883	eaves; roof; house; heaven
+守	U+5B88	joyo	1	457	guard; protect; defend; obey
+安	U+5B89	joyo	1	144	relax; cheap; low; quiet; rested; contented; peaceful
+完	U+5B8C	joyo	1	595	perfect; completion; end
+宗	U+5B97	joyo	1	997	religion; sect; denomination; main point; origin; essence
+官	U+5B98	joyo	1	230	bureaucrat; the government; organ
+宙	U+5B99	joyo	1	1005	mid-air; air; space; sky; memorization; interval of time
+定	U+5B9A	joyo	1	48	determine; fix; establish; decide
+宛	U+5B9B	joyo	1		address; just like; fortunately
+宜	U+5B9C	joyo	1	1766	best regards; good
+宝	U+5B9D	joyo	1	1139	treasure; wealth; valuables
+実	U+5B9F	joyo	1	68	reality; truth; seed; fruit; nut
+客	U+5BA2	joyo	1	557	guest; visitor; customer; client
+宣	U+5BA3	joyo	1	695	proclaim; say; announce
+室	U+5BA4	joyo	1	550	room; apartment; chamber; greenhouse; cellar
+宮	U+5BAE	joyo	1	367	Shinto shrine; constellations; palace; princess
+宰	U+5BB0	joyo	1	1597	superintend; manager; rule
+害	U+5BB3	joyo	1	358	harm; injury
+宴	U+5BB4	joyo	1	1675	banquet; feast; party
+宵	U+5BB5	joyo	1	2262	wee hours; evening; early night
+家	U+5BB6	joyo	1	133	house; home; family; professional; expert; performer
+容	U+5BB9	joyo	1	264	contain; form; looks
+宿	U+5BBF	joyo	1	701	inn; lodging; relay station; dwell; lodge; be pregnant; home
+寂	U+5BC2	joyo	1	1599	loneliness; quietly; mellow; mature; death of a priest
+寄	U+5BC4	joyo	1	673	draw near; stop in; bring near; gather; collect; send; forwa
+密	U+5BC6	joyo	1	815	secrecy; density (pop); minuteness; carefulness
+富	U+5BCC	joyo	1	644	wealth; enrich; abundant
+寒	U+5BD2	joyo	1	1456	cold
+寛	U+5BDB	joyo	1	1377	tolerant; leniency; generosity; relax; feel at home; be at e
+寝	U+5BDD	joyo	1	1034	lie down; sleep; rest; bed; remain unsold
+察	U+5BDF	joyo	1	477	guess; presume; surmise; judge; understand
+寡	U+5BE1	joyo	1	2035	widow; minority; few
+寧	U+5BE7	joyo	1	1697	rather; preferably; peaceful; quiet; tranquility
+審	U+5BE9	joyo	1	412	hearing; judge; trial
+寮	U+5BEE	joyo	1	1705	dormitory; hostel; villa; tea pavillion
+寸	U+5BF8	joyo	1	1669	measurement; tenth of a shaku; a little; small
+寺	U+5BFA	joyo	1	879	Buddhist temple
+対	U+5BFE	joyo	1	34	vis-a-vis; opposite; even; equal; versus; anti-; compare
+寿	U+5BFF	joyo	1	1245	longevity; congratulations; one's natural life
+封	U+5C01	joyo	1	1143	seal; closing
+専	U+5C02	joyo	1	506	specialty; exclusive; mainly; solely
+射	U+5C04	joyo	1	937	shoot; shine into; onto; archery
+将	U+5C06	joyo	1	634	leader; commander; general; admiral; or; and again; soon; fr
+尉	U+5C09	joyo	1	2007	military officer; jailer; old man; rank
+尊	U+5C0A	joyo	1	1181	revered; valuable; precious; noble; exalted
+尋	U+5C0B	joyo	1	1398	inquire; fathom; look for
+導	U+5C0E	joyo	1	354	guidance; leading; conduct; usher
+小	U+5C0F	joyo	1	114	little; small
+少	U+5C11	joyo	1	287	few; little
+尚	U+5C1A	joyo	1	1531	esteem; furthermore; still; yet
+就	U+5C31	joyo	1	624	concerning; settle; take position; depart; study; per
+尺	U+5C3A	joyo	1	1940	shaku; Japanese foot; measure; scale; rule
+尻	U+5C3B	joyo	1	1692	buttocks; hips; butt; rear
+尼	U+5C3C	joyo	1	1844	nun
+尽	U+5C3D	joyo	1	1234	exhaust; use up; run out of; deplete; befriend; serve
+尾	U+5C3E	joyo	1	875	tail; end; counter for fish; lower slope of mountain
+尿	U+5C3F	joyo	1	1672	urine
+局	U+5C40	joyo	1	286	bureau; board; office; affair; conclusion; court lady; lady-
+居	U+5C45	joyo	1	836	reside; to be; exist; live with
+屈	U+5C48	joyo	1	1434	yield; bend; flinch; submit
+届	U+5C4A	joyo	1	939	deliver; reach; arrive; report; notify; forward
+屋	U+5C4B	joyo	1	616	roof; house; shop; dealer; seller
+展	U+5C55	joyo	1	352	unfold; expand
+属	U+5C5E	joyo	1	912	belong; genus; subordinate official; affiliated
+層	U+5C64	joyo	1	801	stratum; social class; layer; story; floor
+履	U+5C65	joyo	1	1619	perform; complete; footgear; shoes; boots; put on (the feet)
+屯	U+5C6F	joyo	1	1980	barracks; police station; camp; ton
+山	U+5C71	joyo	1	131	mountain
+岐	U+5C90	joyo	1	1428	branch off; fork in road; scene; arena; theater
+岡	U+5CA1	joyo	1	463	mount; hill; knoll
+岩	U+5CA9	joyo	1	787	boulder; rock; cliff
+岬	U+5CAC	joyo	1	1972	headland; cape; spit; promontory
+岳	U+5CB3	joyo	1	1334	point; peak; mountain
+岸	U+5CB8	joyo	1	556	beach
+峠	U+5CE0	joyo	1	1941	mountain peak; mountain pass; climax; crest; (kokuji)
+峡	U+5CE1	joyo	1	1833	gorge; ravine
+峰	U+5CF0	joyo	1	1836	summit; peak
+島	U+5CF6	joyo	1	245	island
+崇	U+5D07	joyo	1	1970	adore; respect; revere; worship
+崎	U+5D0E	joyo	1	533	promontory; cape; spit
+崖	U+5D16	joyo	1		cliff; bluff; precipice
+崩	U+5D29	joyo	1	778	crumble; die; demolish; level
+嵐	U+5D50	joyo	1	1910	storm; tempest
+川	U+5DDD	joyo	1	181	stream; river; river or three-stroke river radical (no. 47)
+州	U+5DDE	joyo	1	386	state; province
+巡	U+5DE1	joyo	1	1262	patrol; go around; circumference
+巣	U+5DE3	joyo	1	1588	nest; rookery; hive; cobweb; den
+工	U+5DE5	joyo	1	299	craft; construction; katakana e radical (no. 48)
+左	U+5DE6	joyo	1	630	left
+巧	U+5DE7	joyo	1	1537	adroit; skilled; ingenuity
+巨	U+5DE8	joyo	1	892	gigantic; big; large; great
+差	U+5DEE	joyo	1	449	distinction; difference; variation; discrepancy; margin; bal
+己	U+5DF1	joyo	1	1098	self
+巻	U+5DFB	joyo	1	944	scroll; volume; book; part; roll up; wind up; tie; coil; cou
+巾	U+5DFE	joyo	1		towel; hanging scroll; width; cloth radical (no. 50)
+市	U+5E02	joyo	1	42	market; city; town
+布	U+5E03	joyo	1	877	linen; cloth; spread; distribute
+帆	U+5E06	joyo	1	1923	sail
+希	U+5E0C	joyo	1	896	hope; beg; request; pray; beseech; Greece; dilute (acid); ra
+帝	U+5E1D	joyo	1	1276	sovereign; the emperor; god; creator
+帥	U+5E25	joyo	1	2016	commander; leading troops; governor
+師	U+5E2B	joyo	1	563	expert; teacher; master; model; exemplar; army (incl. counte
+席	U+5E2D	joyo	1	370	seat; mat; occasion; place
+帯	U+5E2F	joyo	1	746	sash; belt; obi; zone; region
+帰	U+5E30	joyo	1	504	homecoming; arrive at; lead to; result in
+帳	U+5E33	joyo	1	1459	notebook; account book; album; curtain; veil; net; tent
+常	U+5E38	joyo	1	293	usual; ordinary; normal; common; regular; continually; alway
+帽	U+5E3D	joyo	1	1742	cap; headgear
+幅	U+5E45	joyo	1	641	hanging scroll; width
+幕	U+5E55	joyo	1	835	curtain; bunting; act of play
+幣	U+5E63	joyo	1	1803	cash; bad habit; humble prefix; gift; Shinto offerings of cl
+干	U+5E72	joyo	1	1349	dry; parch; ebb; recede; interfere; intercede
+平	U+5E73	joyo	1	128	even; flat; peace
+年	U+5E74	joyo	1	6	year; counter for years
+幸	U+5E78	joyo	1	786	happiness; blessing; fortune
+幹	U+5E79	joyo	1	364	tree trunk; main part; talent; capability
+幻	U+5E7B	joyo	1	1564	phantasm; vision; dream; illusion; apparition
+幼	U+5E7C	joyo	1	1227	infancy; childhood
+幽	U+5E7D	joyo	1	1996	seclude; confine to a room; deep; profound; secluded; faint;
+幾	U+5E7E	joyo	1	1725	how many; how much; how far; how long; some; several
+庁	U+5E81	joyo	1	793	government office
+広	U+5E83	joyo	1	263	wide; broad; spacious
+床	U+5E8A	joyo	1	1175	bed; counter for beds; floor; padding; tatami
+序	U+5E8F	joyo	1	1160	preface; beginning; order; precedence; occasion; chance; inc
+底	U+5E95	joyo	1	867	bottom; sole; depth; bottom price; base; kind; sort
+店	U+5E97	joyo	1	378	store; shop
+府	U+5E9C	joyo	1	170	borough; urban prefecture; govt office; representative body;
+度	U+5EA6	joyo	1	110	degrees; occurrence; time; counter for occurrences; consider
+座	U+5EA7	joyo	1	588	squat; seat; cushion; gathering; sit
+庫	U+5EAB	joyo	1	852	warehouse; storehouse
+庭	U+5EAD	joyo	1	816	courtyard; garden; yard
+庶	U+5EB6	joyo	1	1558	commoner; all; bastard
+康	U+5EB7	joyo	1	760	ease; peace
+庸	U+5EB8	joyo	1	2038	commonplace; ordinary; employment
+廃	U+5EC3	joyo	1	698	abolish; obsolete; cessation; discarding; abandon
+廉	U+5EC9	joyo	1	2066	bargain; reason; charge; suspicion; point; account; purity; 
+廊	U+5ECA	joyo	1	1598	corridor; hall; tower
+延	U+5EF6	joyo	1	747	prolong; stretching
+廷	U+5EF7	joyo	1	1439	courts; imperial court; government office
+建	U+5EFA	joyo	1	300	build
+弁	U+5F01	joyo	1	619	valve; petal; braid; speech; dialect; discrimination; dispos
+弄	U+5F04	joyo	1		play with; tamper; trifle with
+弊	U+5F0A	joyo	1	1750	abuse; evil; vice; breakage
+式	U+5F0F	joyo	1	251	style; ceremony; rite; function; method; system; form; expre
+弐	U+5F10	joyo	1		II; two; second
+弓	U+5F13	joyo	1	1802	bow; bow (archery, violin)
+弔	U+5F14	joyo	1	1840	condolences; mourning; funeral
+引	U+5F15	joyo	1	218	pull; tug; jerk; admit; install; quote; refer to
+弟	U+5F1F	joyo	1	1161	younger brother; faithful service to elders
+弥	U+5F25	joyo	1	1687	all the more; increasingly
+弦	U+5F26	joyo	1	1773	bowstring; chord; hypotenuse
+弧	U+5F27	joyo	1	2371	arc; arch; bow
+弱	U+5F31	joyo	1	958	weak; frail
+張	U+5F35	joyo	1	403	counter for bows & stringed instruments; stretch; spread; pu
+強	U+5F37	joyo	1	112	strong
+弾	U+5F3E	joyo	1	853	bullet; twang; flip; snap
+当	U+5F53	joyo	1	91	hit; right; appropriate; himself
+彙	U+5F59	joyo	1		same kind; collect; classify; category; hedgehog
+形	U+5F62	joyo	1	418	shape; form; style
+彩	U+5F69	joyo	1	1251	coloring; paint; makeup
+彫	U+5F6B	joyo	1	1533	carve; engrave; chisel
+彰	U+5F70	joyo	1	1310	patent; clear
+影	U+5F71	joyo	1	464	shadow; silhouette; phantom
+役	U+5F79	joyo	1	315	duty; war; campaign; drafted labor; office; service; role
+彼	U+5F7C	joyo	1	648	he; that; the
+往	U+5F80	joyo	1	1421	journey; travel; chase away; let go; going; before; formerly
+征	U+5F81	joyo	1	1578	subjugate; attack the rebellious; collect taxes
+径	U+5F84	joyo	1	1435	diameter; path; method
+待	U+5F85	joyo	1	391	wait; depend on
+律	U+5F8B	joyo	1	992	rhythm; law; regulation; gauge; control
+後	U+5F8C	joyo	1	26	behind; back; later
+徐	U+5F90	joyo	1	1470	gradually; slowly; deliberately; gently
+徒	U+5F92	joyo	1	817	on foot; junior; emptiness; vanity; futility; uselessness; e
+従	U+5F93	joyo	1	601	accompany; obey; submit to; comply; follow; secondary; incid
+得	U+5F97	joyo	1	175	gain; get; find; earn; acquire; can; may; able to; profit; a
+御	U+5FA1	joyo	1	1087	honorable; manipulate; govern
+復	U+5FA9	joyo	1	438	restore; return to; revert; resume
+循	U+5FAA	joyo	1	1699	sequential; follow
+微	U+5FAE	joyo	1	1108	delicate; minuteness; insignificance
+徳	U+5FB3	joyo	1	1091	benevolence; virtue; goodness; commanding respect
+徴	U+5FB4	joyo	1	850	indications; sign; omen; symptom; collect; seek; refer to; q
+徹	U+5FB9	joyo	1	968	penetrate; clear; pierce; strike home; sit up (all night)
+心	U+5FC3	joyo	1	157	heart; mind; spirit; heart radical (no. 61)
+必	U+5FC5	joyo	1	265	invariably; certain; inevitable
+忌	U+5FCC	joyo	1	1882	mourning; abhor; detestable; death anniversary
+忍	U+5FCD	joyo	1	1700	endure; bear; put up with; conceal; secrete; spy; sneak
+志	U+5FD7	joyo	1	823	intention; plan; resolve; aspire; motive; hopes; shilling
+忘	U+5FD8	joyo	1	1129	forget
+忙	U+5FD9	joyo	1	1475	busy; occupied; restless
+応	U+5FDC	joyo	1	266	apply; answer; yes; OK; reply; accept
+忠	U+5FE0	joyo	1	1113	loyalty; fidelity; faithfulness
+快	U+5FEB	joyo	1	1074	cheerful; pleasant; agreeable; comfortable
+念	U+5FF5	joyo	1	390	wish; sense; idea; thought; feeling; desire; attention
+怒	U+6012	joyo	1	1221	angry; be offended
+怖	U+6016	joyo	1	1325	dreadful; be frightened; fearful
+思	U+601D	joyo	1	132	think
+怠	U+6020	joyo	1	1703	neglect; laziness
+急	U+6025	joyo	1	309	hurry; emergency; sudden; steep
+性	U+6027	joyo	1	104	sex; gender; nature
+怨	U+6028	joyo	1	2137	grudge; show resentment; be jealous
+怪	U+602A	joyo	1	1634	suspicious; mystery; apparition
+恋	U+604B	joyo	1	1296	romance; in love; yearn for; miss; darling
+恐	U+6050	joyo	1	878	fear; dread; awe
+恒	U+6052	joyo	1	1314	constancy; always
+恣	U+6063	joyo	1	2325	selfish; arbitrary
+恥	U+6065	joyo	1	1575	shame; dishonor
+恨	U+6068	joyo	1	1877	regret; bear a grudge; resentment; malice; hatred
+恩	U+6069	joyo	1	1418	grace; kindness; goodness; favor; mercy; blessing; benefit
+恭	U+606D	joyo	1	1737	respect; reverent
+息	U+606F	joyo	1	882	breath; respiration; son; interest (on money); rest; coming 
+恵	U+6075	joyo	1	925	favor; blessing; grace; kindness
+悔	U+6094	joyo	1	1460	repent; regret
+悟	U+609F	joyo	1	1411	enlightenment; perceive; discern; realize; understand
+悠	U+60A0	joyo	1	1921	permanence; distant; long time; leisure
+患	U+60A3	joyo	1	796	afflicted; disease; suffer from; be ill
+悦	U+60A6	joyo	1	1762	ecstasy; joy; rapture
+悩	U+60A9	joyo	1	1084	trouble; worry; in pain; distress; illness
+悪	U+60AA	joyo	1	530	bad; vice; rascal; false; evil; wrong
+悲	U+60B2	joyo	1	1014	grieve; sad; deplore; regret
+悼	U+60BC	joyo	1	1645	lament; grieve over
+情	U+60C5	joyo	1	235	feelings; emotion; passion; sympathy; circumstances; facts
+惑	U+60D1	joyo	1	777	beguile; delusion; perplexity
+惜	U+60DC	joyo	1	1641	pity; be sparing of; frugal; stingy; regret
+惧	U+60E7	joyo	1	2097	fear; be afraid of; dread
+惨	U+60E8	joyo	1	1463	wretched; disaster; cruelty; harsh
+惰	U+60F0	joyo	1	2336	lazy; laziness
+想	U+60F3	joyo	1	381	idea; thought; conception; think
+愁	U+6101	joyo	1	2171	distress; grieve; lament; be anxious
+愉	U+6109	joyo	1	1974	pleasure; happy; rejoice
+意	U+610F	joyo	1	99	idea; mind; heart; taste; thought; desire; care; liking
+愚	U+611A	joyo	1	1551	foolish; folly; absurdity; stupid
+愛	U+611B	joyo	1	640	love; affection; favourite
+感	U+611F	joyo	1	233	emotion; feeling; sensation
+慄	U+6144	joyo	1		fear
+慈	U+6148	joyo	1	1811	mercy
+態	U+614B	joyo	1	353	attitude; condition; figure; appearance; voice (of verbs)
+慌	U+614C	joyo	1	1826	disconcerted; be confused; lose one's head
+慎	U+614E	joyo	1	999	humility; be careful; discreet; prudent
+慕	U+6155	joyo	1	2100	pining; yearn for; love dearly; adore
+慢	U+6162	joyo	1	1368	ridicule; laziness
+慣	U+6163	joyo	1	1177	accustomed; get used to; become experienced
+慨	U+6168	joyo	1	1875	rue; be sad; sigh; lament
+慮	U+616E	joyo	1	916	prudence; thought; concern; consider; deliberate; fear
+慰	U+6170	joyo	1	1158	consolation; amusement; seduce; cheer; make sport of; comfor
+慶	U+6176	joyo	1	1300	jubilation; congratulate; rejoice; be happy
+憂	U+6182	joyo	1	1625	melancholy; grieve; lament; be anxious; sad; unhappy
+憎	U+618E	joyo	1	1808	hate; detest
+憤	U+61A4	joyo	1	1863	aroused; resent; be indignant; anger
+憧	U+61A7	joyo	1	2259	yearn after; long for; aspire to; admire; adore
+憩	U+61A9	joyo	1	1731	recess; rest; relax; repose
+憬	U+61AC	joyo	1		yearn for; aspire to; admire
+憲	U+61B2	joyo	1	551	constitution; law
+憶	U+61B6	joyo	1	1324	recollection; think; remember
+憾	U+61BE	joyo	1	1682	remorse; regret; be sorry
+懇	U+61C7	joyo	1	1135	sociable; kind; courteous; hospitable; cordial
+懐	U+61D0	joyo	1	1493	feelings; heart; yearn; miss someone; become attached to; bo
+懲	U+61F2	joyo	1	1303	penal; chastise; punish; discipline
+懸	U+61F8	joyo	1	889	state of suspension; hang; depend; consult; distant; far apa
+成	U+6210	joyo	1	116	turn into; become; get; grow; elapse; reach
+我	U+6211	joyo	1	829	ego; I; selfish; our; oneself
+戒	U+6212	joyo	1	1062	commandment
+戚	U+621A	joyo	1		grieve; relatives
+戦	U+6226	joyo	1	78	war; battle; match
+戯	U+622F	joyo	1	1880	frolic; play; sport
+戴	U+6234	joyo	1	2332	be crowned with; live under (a ruler); receive
+戸	U+6238	joyo	1	575	door; counter for houses; door radical (no. 63)
+戻	U+623B	joyo	1	890	re-; return; revert; resume; restore; go backwards
+房	U+623F	joyo	1	808	tassel; tuft; fringe; bunch; lock (hair); segment (orange); 
+所	U+6240	joyo	1	221	place; extent
+扇	U+6247	joyo	1	1805	fan; folding fan
+扉	U+6249	joyo	1	1866	front door; title page; front page
+手	U+624B	joyo	1	60	hand
+才	U+624D	joyo	1	1497	genius; years old; cubic shaku
+打	U+6253	joyo	1	239	strike; hit; knock; pound; dozen
+払	U+6255	joyo	1	813	pay; clear out; prune; banish; dispose of
+扱	U+6271	joyo	1	1057	handle; entertain; thresh; strip
+扶	U+6276	joyo	1	1879	aid; help; assist
+批	U+6279	joyo	1	568	criticism; strike
+承	U+627F	joyo	1	775	acquiesce; hear; listen to; be informed; receive
+技	U+6280	joyo	1	434	skill; art; craft; ability; feat; performance; vocation; art
+抄	U+6284	joyo	1	2328	extract; selection; summary; copy; spread thin
+把	U+628A	joyo	1	1569	grasp; faggot; bunch; counter for bundles
+抑	U+6291	joyo	1	834	repress; well; now; in the first place; push; shove; press; 
+投	U+6295	joyo	1	236	throw; discard; abandon; launch into; join; invest in; hurl;
+抗	U+6297	joyo	1	666	confront; resist; defy; oppose
+折	U+6298	joyo	1	962	fold; break; fracture; bend; yield; submit
+抜	U+629C	joyo	1	726	slip out; extract; pull out; pilfer; quote; remove; omit
+択	U+629E	joyo	1	847	choose; select; elect; prefer
+披	U+62AB	joyo	1	1438	expose; open
+抱	U+62B1	joyo	1	871	embrace; hug; hold in arms
+抵	U+62B5	joyo	1	1182	resist; reach; touch
+抹	U+62B9	joyo	1	2006	rub; paint; erase
+押	U+62BC	joyo	1	789	push; stop; check; subdue; attach; seize; weight; shove; pre
+抽	U+62BD	joyo	1	1437	pluck; pull; extract; excel
+担	U+62C5	joyo	1	422	shouldering; carry; raise; bear
+拉	U+62C9	joyo	1		Latin; kidnap; crush
+拍	U+62CD	joyo	1	1373	clap; beat (music)
+拐	U+62D0	joyo	1	1498	kidnap; falsify
+拒	U+62D2	joyo	1	863	repel; refuse; reject; decline
+拓	U+62D3	joyo	1	1526	clear (the land); open; break up (land)
+拘	U+62D8	joyo	1	1336	arrest; seize; concerned; adhere to; despite
+拙	U+62D9	joyo	1	1938	bungling; clumsy; unskillful
+招	U+62DB	joyo	1	840	beckon; invite; summon; engage
+拝	U+62DD	joyo	1	1443	worship; adore; pray to
+拠	U+62E0	joyo	1	858	foothold; based on; follow; therefore
+拡	U+62E1	joyo	1	611	broaden; extend; expand; enlarge
+括	U+62EC	joyo	1	1026	fasten; tie up; arrest; constrict
+拭	U+62ED	joyo	1	2421	wipe; mop; swab
+拳	U+62F3	joyo	1	1935	fist
+拶	U+62F6	joyo	1		be imminent; draw close
+拷	U+62F7	joyo	1	2057	torture; beat
+拾	U+62FE	joyo	1	1479	pick up; gather; find; go on foot; ten
+持	U+6301	joyo	1	119	hold; have
+指	U+6307	joyo	1	155	finger; point to; indicate; put into; play (chess); measure 
+挑	U+6311	joyo	1	989	challenge; contend for; make love to
+挙	U+6319	joyo	1	257	raise; plan; project; behavior; actions
+挟	U+631F	joyo	1	1870	pinch; between
+挨	U+6328	joyo	1	2258	approach; draw near; push open
+挫	U+632B	joyo	1	1869	crush; break; sprain; discourage
+振	U+632F	joyo	1	614	shake; wave; wag; swing
+挿	U+633F	joyo	1	1908	insert; put in; graft; wear (sword)
+捉	U+6349	joyo	1	1976	catch; capture
+捕	U+6355	joyo	1	604	catch; capture
+捗	U+6357	joyo	1		make progress
+捜	U+635C	joyo	1	592	search; look for; locate
+捨	U+6368	joyo	1	1266	discard; throw away; abandon; resign; reject; sacrifice
+据	U+636E	joyo	1	1468	set; lay a foundation; install; equip; squat down; sit down
+捻	U+637B	joyo	1		twirl; twist; play with
+掃	U+6383	joyo	1	1255	sweep; brush
+授	U+6388	joyo	1	535	impart; instruct; grant; confer
+掌	U+638C	joyo	1	1757	palm of hand; rule; administer; conduct
+排	U+6392	joyo	1	1047	repudiate; exclude; expel; reject; line up; arrange
+掘	U+6398	joyo	1	1257	dig; delve; excavate
+掛	U+639B	joyo	1	1027	hang; suspend; depend; arrive at; tax; pour
+採	U+63A1	joyo	1	607	pick; take; fetch; take up
+探	U+63A2	joyo	1	930	grope; search; look for
+接	U+63A5	joyo	1	523	touch; contact; adjoin; piece together
+控	U+63A7	joyo	1	1000	withdraw; draw in; hold back; refrain from; be moderate
+推	U+63A8	joyo	1	507	conjecture; infer; guess; suppose; support; push (for)
+措	U+63AA	joyo	1	818	set aside; give up; suspend; discontinue; lay aside; except
+掲	U+63B2	joyo	1	899	put up (a notice); put up; hoist; display; hang out; publish
+描	U+63CF	joyo	1	876	sketch; compose; write; draw; paint
+提	U+63D0	joyo	1	254	propose; take along; carry in hand
+揚	U+63DA	joyo	1	1316	raise; elevate; hoist; praise; extol; fry in deep fat
+換	U+63DB	joyo	1	687	interchange; period; change; convert; replace; renew
+握	U+63E1	joyo	1	1003	grip; hold; mould sushi; bribe
+揮	U+63EE	joyo	1	946	brandish; wave; wag; swing; shake
+援	U+63F4	joyo	1	312	abet; help; save
+揺	U+63FA	joyo	1	1079	swing; shake; sway; rock; tremble; vibrate
+損	U+640D	joyo	1	807	damage; loss; disadvantage; hurt; injure
+搬	U+642C	joyo	1	1664	conveyor; carry; transport
+搭	U+642D	joyo	1	1472	board; load (a vehicle); ride
+携	U+643A	joyo	1	1017	portable; carry (in hand); armed with; bring along
+搾	U+643E	joyo	1	2046	squeeze
+摂	U+6442	joyo	1	1779	vicarious; surrogate; act in addition to; take in; absorb
+摘	U+6458	joyo	1	564	pinch; pick; pluck; trim; clip; summarize
+摩	U+6469	joyo	1	1252	chafe; rub; polish; grind; scrape
+摯	U+646F	joyo	1	2170	gift; seriousness
+撃	U+6483	joyo	1	473	beat; attack; defeat; conquer
+撤	U+64A4	joyo	1	811	remove; withdraw; disarm; dismantle; reject; exclude
+撮	U+64AE	joyo	1	1023	snapshot; take pictures
+撲	U+64B2	joyo	1	1283	slap; strike; hit; beat; tell; speak
+擁	U+64C1	joyo	1	1213	hug; embrace; possess; protect; lead
+操	U+64CD	joyo	1	1016	maneuver; manipulate; operate; steer; chastity; virginity; f
+擦	U+64E6	joyo	1	1485	grate; rub; scratch; scrape; chafe; scour
+擬	U+64EC	joyo	1	1990	mimic; aim (a gun) at; nominate; imitate
+支	U+652F	joyo	1	159	branch; support; sustain; branch radical (no. 65)
+改	U+6539	joyo	1	147	reformation; change; modify; mend; renew; examine; inspect; 
+攻	U+653B	joyo	1	532	aggression; attack; criticize; polish
+放	U+653E	joyo	1	288	set free; release; fire; shoot; emit; banish; liberate
+政	U+653F	joyo	1	17	politics; government
+故	U+6545	joyo	1	612	happenstance; especially; intentionally; reason; cause; circ
+敏	U+654F	joyo	1	1042	cleverness; agile; alert
+救	U+6551	joyo	1	799	salvation; save; help; rescue; reclaim
+敗	U+6557	joyo	1	516	failure; defeat; reversal
+教	U+6559	joyo	1	166	teach; faith; doctrine
+敢	U+6562	joyo	1	1859	daring; brave; bold; sad; tragic; pitiful
+散	U+6563	joyo	1	758	scatter; disperse; spend; squander
+敬	U+656C	joyo	1	1078	awe; respect; honor; revere
+数	U+6570	joyo	1	148	number; strength; fate; law; figures
+整	U+6574	joyo	1	478	organize; arranging; tune; tone; meter; key (music)
+敵	U+6575	joyo	1	1205	enemy; foe; opponent
+敷	U+6577	joyo	1	1212	spread; pave; sit; promulgate
+文	U+6587	joyo	1	190	sentence; literature; style; art; decoration; figures; plan;
+斉	U+6589	joyo	1	1209	adjusted; alike; equal; similar variety of
+斎	U+658E	joyo	1	1155	purification; Buddhist food; room; worship; avoid; alike
+斑	U+6591	joyo	1	2165	spot; blemish; speck; patches
+斗	U+6597	joyo	1	1885	Big Dipper; ten sho (vol); sake dipper; dots and cross radic
+料	U+6599	joyo	1	295	fee; materials
+斜	U+659C	joyo	1	1504	diagonal; slanting; oblique
+斤	U+65A4	joyo	1		axe; 1.32 lb; catty; counter for loaves of bread; axe radica
+斥	U+65A5	joyo	1	2231	reject; retreat; recede; withdraw; repel; repulse
+斬	U+65AC	joyo	1	2132	beheading; kill; murder
+断	U+65AD	joyo	1	338	severance; decline; refuse; apologize; warn; dismiss; prohib
+新	U+65B0	joyo	1	51	new
+方	U+65B9	joyo	1	46	direction; person; alternative
+施	U+65BD	joyo	1	323	give; bestow; perform; alms
+旅	U+65C5	joyo	1	783	trip; travel
+旋	U+65CB	joyo	1	1801	rotation; go around
+族	U+65CF	joyo	1	393	tribe; family
+旗	U+65D7	joyo	1	1190	flag; banner; standard
+既	U+65E2	joyo	1	1081	previously; already; long ago
+日	U+65E5	joyo	1	1	day; sun; Japan; counter for days
+旦	U+65E6	joyo	1		daybreak; dawn; morning
+旧	U+65E7	joyo	1	549	old times; old things; old friend; former; ex-
+旨	U+65E8	joyo	1	1166	delicious; relish; show a liking for; purport; will; clever;
+早	U+65E9	joyo	1	402	early; fast
+旬	U+65EC	joyo	1	1162	decameron; ten-day period; season (for specific products)
+旺	U+65FA	joyo	1	2342	flourishing; successful; beautiful; vigorous
+昆	U+6606	joyo	1	1688	descendants; elder brother; insect
+昇	U+6607	joyo	1	826	rise up
+明	U+660E	joyo	1	67	bright; light
+易	U+6613	joyo	1	571	easy; ready to; simple; fortune-telling; divination
+昔	U+6614	joyo	1	1197	once upon a time; antiquity; old times
+星	U+661F	joyo	1	844	star; spot; dot; mark
+映	U+6620	joyo	1	404	reflect; reflection; projection
+春	U+6625	joyo	1	579	springtime; spring (season)
+昧	U+6627	joyo	1		dark; foolish
+昨	U+6628	joyo	1	226	yesterday; previous
+昭	U+662D	joyo	1	697	shining; bright
+是	U+662F	joyo	1	1045	just so; this; right; justice
+昼	U+663C	joyo	1	1115	daytime; noon
+時	U+6642	joyo	1	16	time; hour
+晩	U+6669	joyo	1	1424	nightfall; night
+普	U+666E	joyo	1	757	universal; wide(ly); generally; Prussia
+景	U+666F	joyo	1	419	scenery; view
+晴	U+6674	joyo	1	1022	clear up
+晶	U+6676	joyo	1	1613	sparkle; clear; crystal
+暁	U+6681	joyo	1	1924	daybreak; dawn; in the event
+暇	U+6687	joyo	1	1386	spare time; rest; leisure; time; leave of absence
+暑	U+6691	joyo	1	1442	sultry; hot; summer heat
+暖	U+6696	joyo	1	1371	warmth
+暗	U+6697	joyo	1	1040	darkness; disappear; shade; informal; grow dark; be blinded
+暦	U+66A6	joyo	1	1765	calendar; almanac
+暫	U+66AB	joyo	1	1112	temporarily; a while; moment; long time
+暮	U+66AE	joyo	1	978	evening; twilight; season's end; livelihood; make a living; 
+暴	U+66B4	joyo	1	692	outburst; rave; fret; force; violence; cruelty; outrage
+曇	U+66C7	joyo	1	1899	cloudy weather; cloud up
+曖	U+66D6	joyo	1		dark; not clear
+曜	U+66DC	joyo	1	940	weekday
+曲	U+66F2	joyo	1	810	bend; music; melody; composition; pleasure; injustice; fault
+更	U+66F4	joyo	1	861	grow late; night watch; sit up late; of course; renew; renov
+書	U+66F8	joyo	1	169	write
+曹	U+66F9	joyo	1	1998	office; official; comrade; fellow
+曽	U+66FD	joyo	1	1320	formerly; once; before; ever; never; ex-
+替	U+66FF	joyo	1	979	exchange; spare; substitute; per-
+最	U+6700	joyo	1	82	utmost; most; extreme
+月	U+6708	joyo	1	23	month; moon
+有	U+6709	joyo	1	282	possess; have; exist; happen; occur; approx
+服	U+670D	joyo	1	873	clothing; admit; obey; discharge
+朕	U+6715	joyo	1		majestic plural; imperial we
+朗	U+6717	joyo	1	1374	melodious; clear; bright; serene; cheerful
+望	U+671B	joyo	1	470	ambition; full moon; hope; desire; aspire to; expect
+朝	U+671D	joyo	1	248	morning; dynasty; regime; epoch; period; (North) Korea
+期	U+671F	joyo	1	117	period; time; date; term
+木	U+6728	joyo	1	317	tree; wood
+未	U+672A	joyo	1	650	un-; not yet; hitherto; still; even now; sign of the ram; 1-
+末	U+672B	joyo	1	456	end; close; tip; powder; posterity
+本	U+672C	joyo	1	10	book; present; main; origin; true; real; counter for long cy
+札	U+672D	joyo	1	921	tag; paper money; counter for bonds; placard; bid
+朱	U+6731	joyo	1	1788	vermilion; cinnabar; scarlet; red; bloody
+朴	U+6734	joyo	1	1626	crude; simple; plain; docile
+机	U+673A	joyo	1	1671	desk; table
+朽	U+673D	joyo	1	1891	decay; rot; remain in seclusion
+杉	U+6749	joyo	1	1095	cedar; cryptomeria
+材	U+6750	joyo	1	565	lumber; log; timber; wood; materials; ingredients; talent
+村	U+6751	joyo	1	253	village; town
+束	U+675F	joyo	1	918	bundle; sheaf; ream; tie in bundles; govern; manage; control
+条	U+6761	joyo	1	363	article; clause; counter for articles, clauses, paragraphs, 
+来	U+6765	joyo	1	102	come; due; next; cause; become
+杯	U+676F	joyo	1	1235	counter for cupfuls; wine glass; glass; toast
+東	U+6771	joyo	1	37	east
+松	U+677E	joyo	1	471	pine tree
+板	U+677F	joyo	1	926	plank; board; plate; stage
+析	U+6790	joyo	1	980	chop; divide; tear; analyze
+枕	U+6795	joyo	1	2084	pillow
+林	U+6797	joyo	1	656	grove; forest
+枚	U+679A	joyo	1	911	sheet of...; counter for flat thin objects or sheets
+果	U+679C	joyo	1	258	fruit; reward; carry out; achieve; complete; end; finish; su
+枝	U+679D	joyo	1	1401	bough; branch; twig; limb; counter for branches
+枠	U+67A0	joyo	1	922	frame; framework; spindle; spool; bounding-box; (kokuji)
+枢	U+67A2	joyo	1	1791	hinge; pivot; door; center of things
+枯	U+67AF	joyo	1	1749	wither; die; dry up; be seasoned
+架	U+67B6	joyo	1	1555	erect; frame; mount; support; shelf; construct
+柄	U+67C4	joyo	1	1140	design; pattern; build; nature; character; handle; crank; gr
+某	U+67D0	joyo	1	2106	so-and-so; one; a certain; that person
+染	U+67D3	joyo	1	837	dye; color; paint; stain; print
+柔	U+67D4	joyo	1	1187	tender; weakness; gentleness; softness
+柱	U+67F1	joyo	1	1119	pillar; post; cylinder; support
+柳	U+67F3	joyo	1	1169	willow
+柵	U+67F5	joyo	1		stockade; fence; weir; entwine around
+査	U+67FB	joyo	1	184	investigate
+柿	U+67FF	joyo	1	1745	persimmon
+栃	U+6803	joyo	1	1427	horse chestnut; (kokuji)
+栄	U+6804	joyo	1	920	flourish; prosperity; honor; glory; splendor
+栓	U+6813	joyo	1	2199	plug; bolt; cork; bung; stopper
+校	U+6821	joyo	1	294	exam; school; printing; proof; correction
+株	U+682A	joyo	1	432	stocks; stump; shares; stock; counter for small plants
+核	U+6838	joyo	1	475	nucleus; core; kernel
+根	U+6839	joyo	1	620	root; radical; head (pimple)
+格	U+683C	joyo	1	281	status; rank; capacity; character; case (law, grammar)
+栽	U+683D	joyo	1	1496	plantation; planting
+桁	U+6841	joyo	1		beam; girder; spar; unit or column (accounting)
+桃	U+6843	joyo	1	1784	peach
+案	U+6848	joyo	1	206	plan; suggestion; draft; ponder; fear; proposition; idea; ex
+桑	U+6851	joyo	1	1650	mulberry
+桜	U+685C	joyo	1	1237	cherry
+桟	U+685F	joyo	1	2093	scaffold; cleat; frame; jetty; bolt (door)
+梅	U+6885	joyo	1	1232	plum
+梗	U+6897	joyo	1		for the most part; close up; flower stem
+梨	U+68A8	joyo	1	1331	pear tree
+械	U+68B0	joyo	1	1321	contraption; fetter; machine; instrument
+棄	U+68C4	joyo	1	901	abandon; throw away; discard; resign; reject; sacrifice
+棋	U+68CB	joyo	1	1311	chess piece; Japanese chess; shogi
+棒	U+68D2	joyo	1	1455	rod; stick; cane; pole; club; line
+棚	U+68DA	joyo	1	1594	shelf; ledge; rack; mount; mantle; trellis
+棟	U+68DF	joyo	1	1406	ridgepole; ridge
+森	U+68EE	joyo	1	609	forest; woods
+棺	U+68FA	joyo	1	2161	coffin; casket
+椅	U+6905	joyo	1	2245	chair
+植	U+690D	joyo	1	699	plant
+椎	U+690E	joyo	1	1911	chinquapin; mallet; spine
+検	U+691C	joyo	1	290	examination; investigate
+業	U+696D	joyo	1	43	business; vocation; arts; performance
+極	U+6975	joyo	1	460	extreme; pole; extremely; very; highly; most; end; settlemen
+楷	U+6977	joyo	1		square character style; correctness
+楼	U+697C	joyo	1	2173	watchtower; lookout; high building
+楽	U+697D	joyo	1	373	music; comfort; ease
+概	U+6982	joyo	1	1335	outline; condition; approximation; generally
+構	U+69CB	joyo	1	316	posture; stance; appearance; build; set up
+様	U+69D8	joyo	1	493	Esq.; way; manner; situation; polite suffix
+槽	U+69FD	joyo	1	1809	vat; tub; tank
+標	U+6A19	joyo	1	686	signpost; seal; mark; stamp; imprint; symbol; emblem; tradem
+模	U+6A21	joyo	1	668	imitation; copy; mock
+権	U+6A29	joyo	1	156	authority; power; rights
+横	U+6A2A	joyo	1	480	sideways; side; horizontal; width; woof; unreasonable; perve
+樹	U+6A39	joyo	1	988	timber; trees; wood; establish; set up
+橋	U+6A4B	joyo	1	553	bridge
+機	U+6A5F	joyo	1	127	loom; mechanism; machine; airplane; opportunity; potency; ef
+欄	U+6B04	joyo	1	1523	column; handrail; blank; space
+欠	U+6B20	joyo	1	860	lack; gap; fail; yawning radical (no. 76)
+次	U+6B21	joyo	1	222	next; order; sequence
+欧	U+6B27	joyo	1	421	Europe
+欲	U+6B32	joyo	1	902	longing; covetousness; greed; passion; desire; craving
+欺	U+6B3A	joyo	1	1541	deceit; cheat; delude
+款	U+6B3E	joyo	1	1854	goodwill; article; section; friendship; collusion
+歌	U+6B4C	joyo	1	519	song; sing
+歓	U+6B53	joyo	1	1065	delight; joy
+止	U+6B62	joyo	1	310	stop; halt
+正	U+6B63	joyo	1	143	correct; justice; righteous; 10**40
+武	U+6B66	joyo	1	387	warrior; military; chivalry; arms
+歩	U+6B69	joyo	1	554	walk; counter for steps
+歯	U+6B6F	joyo	1	1106	tooth; cog
+歳	U+6B73	joyo	1	269	year-end; age; occasion; opportunity
+歴	U+6B74	joyo	1	632	curriculum; continuation; passage of time
+死	U+6B7B	joyo	1	229	death; die
+殉	U+6B89	joyo	1	2080	martyrdom; follow by resigning
+殊	U+6B8A	joyo	1	1361	particularly; especially; exceptionally
+残	U+6B8B	joyo	1	380	remainder; leftover; balance
+殖	U+6B96	joyo	1	1362	augment; increase; multiply; raise
+殴	U+6BB4	joyo	1	1622	assault; hit; beat; thrash
+段	U+6BB5	joyo	1	479	grade; steps; stairs
+殺	U+6BBA	joyo	1	581	kill; murder; butcher; slice off; split; diminish; reduce; s
+殻	U+6BBB	joyo	1	1892	husk; nut shell
+殿	U+6BBF	joyo	1	1199	Mr.; hall; mansion; palace; temple; lord
+毀	U+6BC0	joyo	1		break; destroy; censure; be chipped; be scratched; be broken
+母	U+6BCD	joyo	1	570	mother
+毎	U+6BCE	joyo	1	436	every
+毒	U+6BD2	joyo	1	1419	poison; virus; venom; germ; harm; injury; spite
+比	U+6BD4	joyo	1	329	compare; race; ratio; Philippines
+毛	U+6BDB	joyo	1	1179	fur; hair; feather; down
+氏	U+6C0F	joyo	1	84	family name; surname; clan
+民	U+6C11	joyo	1	28	people; nation; subjects
+気	U+6C17	joyo	1	113	spirit; mind; air; atmosphere; mood
+水	U+6C34	joyo	1	223	water
+氷	U+6C37	joyo	1	1450	icicle; ice; hail; freeze; congeal
+永	U+6C38	joyo	1	846	eternity; long; lengthy
+氾	U+6C3E	joyo	1		spread out; wide
+汁	U+6C41	joyo	1	1843	soup; juice; broth; sap; gravy; pus
+求	U+6C42	joyo	1	220	request; want; wish for; require; demand
+汎	U+6C4E	joyo	1	2014	pan-
+汗	U+6C57	joyo	1	1502	sweat; perspire
+汚	U+6C5A	joyo	1	908	dirty; pollute; disgrace; rape; defile
+江	U+6C5F	joyo	1	704	creek; inlet; bay
+池	U+6C60	joyo	1	827	pond; cistern; pool; reservoir
+汰	U+6C70	joyo	1		washing; sieving; filtering; weeding out; luxury
+決	U+6C7A	joyo	1	71	decide; fix; agree upon; appoint
+汽	U+6C7D	joyo	1	2020	vapor; steam
+沃	U+6C83	joyo	1		fertility
+沈	U+6C88	joyo	1	1271	sink; be submerged; subside; be depressed; aloes
+沖	U+6C96	joyo	1	929	open sea; offing; rise high into sky
+沙	U+6C99	joyo	1	1897	sand
+没	U+6CA1	joyo	1	1385	drown; sink; hide; fall into; disappear; die
+沢	U+6CA2	joyo	1	296	swamp; marsh; brilliance; grace
+河	U+6CB3	joyo	1	663	river
+沸	U+6CB8	joyo	1	1709	seethe; boil; ferment; uproar; breed
+油	U+6CB9	joyo	1	690	oil; fat
+治	U+6CBB	joyo	1	109	reign; be at peace; calm down; subdue; quell; govt; cure; he
+沼	U+6CBC	joyo	1	1467	marsh; lake; bog; swamp; pond
+沿	U+6CBF	joyo	1	1121	run alongside; follow along; run along; lie along
+況	U+6CC1	joyo	1	490	condition; situation
+泉	U+6CC9	joyo	1	1086	spring; fountain
+泊	U+6CCA	joyo	1	1233	overnight stay; put up at; ride at anchor
+泌	U+6CCC	joyo	1	2112	ooze; flow; soak in; penetrate; secrete
+法	U+6CD5	joyo	1	100	method; law; rule; principle; model; system
+泡	U+6CE1	joyo	1	1872	bubbles; foam; suds; froth
+波	U+6CE2	joyo	1	740	waves; billows; Poland
+泣	U+6CE3	joyo	1	1380	cry; weep; moan
+泥	U+6CE5	joyo	1	1589	mud; mire; adhere to; be attached to
+注	U+6CE8	joyo	1	497	pour; irrigate; shed (tears); flow into; concentrate on; not
+泰	U+6CF0	joyo	1	1281	peaceful; calm; peace; easy; Thailand; extreme; excessive; g
+泳	U+6CF3	joyo	1	1223	swim
+洋	U+6D0B	joyo	1	763	ocean; sea; foreign; Western style
+洗	U+6D17	joyo	1	1168	wash; inquire into; probe
+洞	U+6D1E	joyo	1	1618	den; cave; excavation
+津	U+6D25	joyo	1	1036	haven; port; harbor; ferry
+洪	U+6D2A	joyo	1	1778	deluge; flood; vast
+活	U+6D3B	joyo	1	171	lively; resuscitation; being helped; living
+派	U+6D3E	joyo	1	164	faction; group; party; clique; sect; school
+流	U+6D41	joyo	1	280	current; a sink; flow; forfeit
+浄	U+6D44	joyo	1	1383	clean; purify; cleanse; exorcise; Manchu Dynasty
+浅	U+6D45	joyo	1	1253	shallow; superficial; frivolous; wretched; shameful
+浜	U+6D5C	joyo	1	645	seacoast; beach; seashore
+浦	U+6D66	joyo	1	977	bay; creek; inlet; gulf; beach; seacoast
+浪	U+6D6A	joyo	1	1508	wandering; waves; billows; reckless; unrestrained
+浮	U+6D6E	joyo	1	776	floating; float; rise to surface
+浴	U+6D74	joyo	1	1136	bathe; be favored with; bask in
+海	U+6D77	joyo	1	200	sea; ocean
+浸	U+6D78	joyo	1	1447	immersed; soak; dip; steep; moisten; wet; dunk
+消	U+6D88	joyo	1	345	extinguish; blow out; turn off; neutralize; cancel
+涙	U+6D99	joyo	1	1381	tears; sympathy
+涯	U+6DAF	joyo	1	1525	horizon; shore; limit; bound
+液	U+6DB2	joyo	1	1210	fluid; liquid; juice; sap; secretion
+涼	U+6DBC	joyo	1	1783	refreshing; nice and cool
+淑	U+6DD1	joyo	1	1922	graceful; gentle; pure
+淡	U+6DE1	joyo	1	1436	thin; faint; pale; fleeting
+淫	U+6DEB	joyo	1		lewdness; licentiousness
+深	U+6DF1	joyo	1	484	deep; heighten; intensify; strengthen
+混	U+6DF7	joyo	1	824	mix; blend; confuse
+添	U+6DFB	joyo	1	1501	annexed; accompany; marry; suit; meet; satisfy; attach; appe
+清	U+6E05	joyo	1	705	pure; purify; cleanse; exorcise; Manchu dynasty
+渇	U+6E07	joyo	1	1944	thirst; dry up; parch
+済	U+6E08	joyo	1	168	settle (debt, etc.); relieve (burden); finish; come to an en
+渉	U+6E09	joyo	1	499	ford; go cross; transit; ferry; import; involve
+渋	U+6E0B	joyo	1	1011	astringent; hesitate; reluctant; have diarrhea
+渓	U+6E13	joyo	1	2063	mountain stream; valley
+減	U+6E1B	joyo	1	261	dwindle; decrease; reduce; decline; curtail; get hungry
+渡	U+6E21	joyo	1	446	transit; ford; ferry; cross; import; deliver; diameter; migr
+渦	U+6E26	joyo	1	1789	whirlpool; eddy; vortex
+温	U+6E29	joyo	1	838	warm
+測	U+6E2C	joyo	1	761	fathom; plan; scheme; measure
+港	U+6E2F	joyo	1	495	harbor
+湖	U+6E56	joyo	1	1344	lake
+湧	U+6E67	joyo	1	2070	boil; ferment; seethe; uproar; breed
+湯	U+6E6F	joyo	1	1356	hot water; bath; hot spring
+湾	U+6E7E	joyo	1	545	gulf; bay; inlet
+湿	U+6E7F	joyo	1	1517	damp; wet; moist
+満	U+6E80	joyo	1	515	full; fullness; enough; satisfy
+源	U+6E90	joyo	1	738	source; origin
+準	U+6E96	joyo	1	425	semi-; correspond to; proportionate to; conform; imitate
+溝	U+6E9D	joyo	1	1736	gutter; ditch; sewer; drain; 10**32
+溶	U+6EB6	joyo	1	1364	melt; dissolve; thaw
+溺	U+6EBA	joyo	1		drown; indulge
+滅	U+6EC5	joyo	1	1222	destroy; ruin; overthrow; perish
+滋	U+6ECB	joyo	1	1563	nourishing; more & more; be luxuriant; planting; turbidity
+滑	U+6ED1	joyo	1	1238	slippery; slide; slip; fail exam
+滝	U+6EDD	joyo	1	1478	waterfall; rapids; cascade
+滞	U+6EDE	joyo	1	1107	stagnate; be delayed; overdue; arrears
+滴	U+6EF4	joyo	1	2019	drip; drop
+漁	U+6F01	joyo	1	1094	fishing; fishery
+漂	U+6F02	joyo	1	1492	drift; float (on liquid)
+漆	U+6F06	joyo	1	1971	lacquer; varnish; seven
+漏	U+6F0F	joyo	1	1298	leak; escape; time
+演	U+6F14	joyo	1	267	performance; act; play; render; stage
+漠	U+6F20	joyo	1	1611	vague; obscure; desert; wide
+漢	U+6F22	joyo	1	1487	Sino-; China
+漫	U+6F2B	joyo	1	1408	cartoon; involuntarily; unrestrained; in spite of oneself; c
+漬	U+6F2C	joyo	1	1818	pickling; soak; moisten; steep
+漸	U+6F38	joyo	1	2115	steadily; gradually advancing; finally; barely
+潔	U+6F54	joyo	1	1595	undefiled; pure; clean; righteous; gallant
+潜	U+6F5C	joyo	1	1329	submerge; conceal; hide; lower (voice); hush
+潟	U+6F5F	joyo	1	1204	lagoon
+潤	U+6F64	joyo	1	1644	wet; be watered; profit by; receive benefits; favor; charm; 
+潮	U+6F6E	joyo	1	1231	tide; salt water; opportunity
+潰	U+6F70	joyo	1		crush; smash; break; dissipate
+澄	U+6F84	joyo	1	1722	lucidity; be clear; clear; clarify; settle; strain; look gra
+激	U+6FC0	joyo	1	560	violent; get excited; enraged; chafe; incite
+濁	U+6FC1	joyo	1	1883	voiced; uncleanness; wrong; nigori; impurity
+濃	U+6FC3	joyo	1	1200	concentrated; thick; dark; undiluted
+濫	U+6FEB	joyo	1		excessive; overflow; spread out
+濯	U+6FEF	joyo	1	1698	laundry; wash; pour on; rinse
+瀬	U+702C	joyo	1	1152	rapids; current; torrent; shallows; shoal
+火	U+706B	joyo	1	574	fire
+灯	U+706F	joyo	1	1605	lamp; a light; light; counter for lights
+灰	U+7070	joyo	1	1717	ashes; puckery juice; cremate
+災	U+707D	joyo	1	976	disaster; calamity; woe; curse; evil
+炉	U+7089	joyo	1	1359	hearth; furnace; kiln; reactor
+炊	U+708A	joyo	1	1777	cook; boil
+炎	U+708E	joyo	1	1242	inflammation; flame; blaze
+炭	U+70AD	joyo	1	1307	charcoal; coal
+点	U+70B9	joyo	1	165	spot; point; mark; speck; decimal point
+為	U+70BA	joyo	1	831	do; change; make; benefit; welfare; be of use; reach to; try
+烈	U+70C8	joyo	1	1397	ardent; violent; vehement; furious; severe; extreme
+無	U+7121	joyo	1	274	nothingness; none; ain't; nothing; nil; not
+焦	U+7126	joyo	1	973	char; hurry; impatient; irritate; burn; scorch; singe
+然	U+7136	joyo	1	401	sort of thing; so; if so; in that case; well
+焼	U+713C	joyo	1	982	bake; burning
+煎	U+714E	joyo	1	2458	broil; parch; roast; boil
+煙	U+7159	joyo	1	1290	smoke
+照	U+7167	joyo	1	1004	illuminate; shine; compare; bashful
+煩	U+7169	joyo	1	2081	anxiety; trouble; worry; pain; ill; annoy; nuisance; irksome
+煮	U+716E	joyo	1	1565	boil; cook
+熊	U+718A	joyo	1	1105	bear
+熟	U+719F	joyo	1	1415	mellow; ripen; mature; acquire skill
+熱	U+71B1	joyo	1	700	heat; temperature; fever; mania; passion
+燃	U+71C3	joyo	1	948	burn; blaze; glow
+燥	U+71E5	joyo	1	1819	parch; dry up
+爆	U+7206	joyo	1	735	bomb; burst open; pop; split
+爪	U+722A	joyo	1	2025	claw; nail; talon
+爵	U+7235	joyo	1		baron; peerage; court rank
+父	U+7236	joyo	1	646	father
+爽	U+723D	joyo	1	2333	refreshing; bracing; resonant; sweet; clear
+片	U+7247	joyo	1	1076	one-sided; leaf; sheet; right-side kata radical (no. 91)
+版	U+7248	joyo	1	802	printing block; printing plate; edition; impression; label
+牙	U+7259	joyo	1	2067	tusk; fang; tusk radical (no. 92)
+牛	U+725B	joyo	1	1202	cow
+牧	U+7267	joyo	1	1360	breed; care for; shepherd; feed; pasture
+物	U+7269	joyo	1	215	thing; object; matter
+牲	U+7272	joyo	1	1274	animal sacrifice; offering
+特	U+7279	joyo	1	234	special
+犠	U+72A0	joyo	1	1189	sacrifice
+犬	U+72AC	joyo	1	1326	dog
+犯	U+72AF	joyo	1	874	crime; sin; offense
+状	U+72B6	joyo	1	298	status quo; conditions; circumstances; form; appearance
+狂	U+72C2	joyo	1	1425	lunatic; insane; crazy; confuse
+狙	U+72D9	joyo	1	745	aim at; sight; shadow; stalk
+狩	U+72E9	joyo	1	1785	hunt; raid; gather
+独	U+72EC	joyo	1	365	single; alone; spontaneously; Germany
+狭	U+72ED	joyo	1	1346	cramped; narrow; contract; tight
+猛	U+731B	joyo	1	1301	fierce; rave; rush; become furious; wildness; strength
+猟	U+731F	joyo	1	1851	game-hunting; shooting; game; bag
+猫	U+732B	joyo	1	1702	cat
+献	U+732E	joyo	1	637	offering; counter for drinks; present; offer
+猶	U+7336	joyo	1	1799	furthermore; still; yet
+猿	U+733F	joyo	1	1772	monkey
+獄	U+7344	joyo	1	1529	prison; jail
+獣	U+7363	joyo	1	1714	animal; beast
+獲	U+7372	joyo	1	964	seize; get; find; earn; acquire; can; may; able to
+玄	U+7384	joyo	1	1409	mysterious; occultness; black; deep; profound
+率	U+7387	joyo	1	383	ratio; rate; proportion; %; factor; lead; spearhead; command
+玉	U+7389	joyo	1	737	jewel; ball
+王	U+738B	joyo	1	684	king; rule; magnate
+玩	U+73A9	joyo	1	2216	play; take pleasure in; trifle with; make sport of
+珍	U+73CD	joyo	1	1330	rare; curious; strange
+珠	U+73E0	joyo	1	1711	pearl; gem; jewel
+班	U+73ED	joyo	1	1592	squad; corps; unit; group
+現	U+73FE	joyo	1	85	present; existing; actual
+球	U+7403	joyo	1	302	ball; sphere
+理	U+7406	joyo	1	86	logic; arrangement; reason; justice; truth
+琴	U+7434	joyo	1	1591	harp; koto
+瑠	U+7460	joyo	1	2352	lapis lazuli
+璃	U+7483	joyo	1		glassy; lapis lazuli
+璧	U+74A7	joyo	1		sphere; ball
+環	U+74B0	joyo	1	409	ring; circle; loop
+璽	U+74BD	joyo	1		emperor's seal
+瓦	U+74E6	joyo	1	1850	tile; gram
+瓶	U+74F6	joyo	1	1528	bottle; vial; jar; jug; vat; urn
+甘	U+7518	joyo	1	1248	sweet; coax; pamper; be content; sugary
+甚	U+751A	joyo	1	1961	tremendously; very; great; exceedingly
+生	U+751F	joyo	1	29	life; genuine; birth
+産	U+7523	joyo	1	161	products; bear; give birth; yield; childbirth; native; prope
+用	U+7528	joyo	1	107	utilize; business; service; use; employ
+田	U+7530	joyo	1	90	rice field; rice paddy
+由	U+7531	joyo	1	325	wherefore; a reason
+甲	U+7532	joyo	1	1073	armor; high (voice); A grade; first class; former; instep; c
+申	U+7533	joyo	1	492	have the honor to; sign of the monkey; 3-5PM; ninth sign of 
+男	U+7537	joyo	1	240	male
+町	U+753A	joyo	1	292	town; village; block; street
+画	U+753B	joyo	1	199	brush-stroke; picture
+界	U+754C	joyo	1	158	world; boundary
+畏	U+754F	joyo	1	2389	fear; majestic; graciously; be apprehensive
+畑	U+7551	joyo	1	1176	farm; field; garden; one's specialty; (kokuji)
+畔	U+7554	joyo	1	2049	paddy ridge; levee
+留	U+7559	joyo	1	731	detain; fasten; halt; stop
+畜	U+755C	joyo	1	1824	livestock; domestic fowl and animals
+畝	U+755D	joyo	1	2327	furrow; thirty tsubo; ridge; rib
+略	U+7565	joyo	1	774	abbreviation; omission; outline; shorten; capture; plunder
+番	U+756A	joyo	1	348	turn; number in a series
+異	U+7570	joyo	1	631	uncommon; different; queerness; strangeness; wonderful; curi
+畳	U+7573	joyo	1	1665	tatami mat; counter for tatami mats; fold; shut up; do away 
+畿	U+757F	joyo	1	1683	capital; suburbs of capital
+疎	U+758E	joyo	1	1572	alienate; rough; neglect; shun; sparse; penetrate
+疑	U+7591	joyo	1	283	doubt; distrust; be suspicious; question
+疫	U+75AB	joyo	1	1661	epidemic
+疲	U+75B2	joyo	1	1263	exhausted; tire; weary
+疾	U+75BE	joyo	1	1577	rapidly
+病	U+75C5	joyo	1	384	ill; sick
+症	U+75C7	joyo	1	1111	symptoms; illness
+痕	U+75D5	joyo	1	1958	mark; foot print
+痘	U+75D8	joyo	1		pox; smallpox
+痛	U+75DB	joyo	1	903	pain; hurt; damage; bruise
+痢	U+75E2	joyo	1	2037	diarrhea
+痩	U+75E9	joyo	1		get thin
+痴	U+75F4	joyo	1	1663	stupid; foolish
+瘍	U+760D	joyo	1		swelling; boil; tumor
+療	U+7642	joyo	1	600	heal; cure
+癒	U+7652	joyo	1	1667	healing; cure; quench (thirst); wreak
+癖	U+7656	joyo	1	1973	mannerism; habit; vice; trait; fault; kink
+発	U+767A	joyo	1	32	departure; discharge; publish; emit; start from; disclose; c
+登	U+767B	joyo	1	566	ascend; climb up
+白	U+767D	joyo	1	483	white
+百	U+767E	joyo	1	163	hundred
+的	U+7684	joyo	1	105	bull's eye; mark; target; object; adjective ending
+皆	U+7686	joyo	1	1267	all; everything
+皇	U+7687	joyo	1	721	emperor
+皮	U+76AE	joyo	1	1092	pelt; skin; hide; leather; skin radical (no. 107)
+皿	U+76BF	joyo	1	1812	dish; a helping; plate
+盆	U+76C6	joyo	1	1654	basin; lantern festival; tray
+益	U+76CA	joyo	1	674	benefit; gain; profit; advantage
+盗	U+76D7	joyo	1	1051	steal; rob; pilfer
+盛	U+76DB	joyo	1	712	boom; prosper; copulate
+盟	U+76DF	joyo	1	587	alliance; oath
+監	U+76E3	joyo	1	408	oversee; official; govt office; rule; administer
+盤	U+76E4	joyo	1	881	tray; shallow bowl; platter; tub; board; phonograph record
+目	U+76EE	joyo	1	76	eye; class; look; insight; experience; care; favor
+盲	U+76F2	joyo	1	1767	blind; blind man; ignoramus
+直	U+76F4	joyo	1	246	straightaway; honesty; frankness; fix; repair
+相	U+76F8	joyo	1	45	inter-; mutual; together; each other; minister of state; cou
+盾	U+76FE	joyo	1	1476	shield; escutcheon; pretext
+省	U+7701	joyo	1	548	government ministry; conserve; omit
+眉	U+7709	joyo	1	2177	eyebrow
+看	U+770B	joyo	1	1060	watch over; see
+県	U+770C	joyo	1	140	prefecture
+真	U+771F	joyo	1	279	true; reality; Buddhist sect
+眠	U+7720	joyo	1	1315	sleep; die; sleepy
+眺	U+773A	joyo	1	1726	stare; watch; look at; see; scrutinize
+眼	U+773C	joyo	1	1527	eyeball
+着	U+7740	joyo	1	376	don; arrive; wear; counter for suits of clothing
+睡	U+7761	joyo	1	1739	drowsy; sleep; die
+督	U+7763	joyo	1	534	coach; command; urge; lead; supervise
+睦	U+7766	joyo	1	1993	intimate; friendly; harmonious
+瞬	U+77AC	joyo	1	1265	wink; blink; twinkle
+瞭	U+77AD	joyo	1		clear
+瞳	U+77B3	joyo	1	2069	pupil (of eye)
+矛	U+77DB	joyo	1	1538	halberd; arms; festival float
+矢	U+77E2	joyo	1	1294	dart; arrow
+知	U+77E5	joyo	1	205	know; wisdom
+短	U+77ED	joyo	1	689	short; brevity; fault; defect; weak point
+矯	U+77EF	joyo	1	2105	rectify; straighten; correct; reform; cure; control; pretend
+石	U+77F3	joyo	1	342	stone
+砂	U+7802	joyo	1	1146	sand
+研	U+7814	joyo	1	336	polish; study of; sharpen
+砕	U+7815	joyo	1	1579	smash; break; crush; familiar; popular
+砲	U+7832	joyo	1	1268	cannon; gun
+破	U+7834	joyo	1	590	rend; rip; tear; break; destroy; defeat; frustrate
+硝	U+785D	joyo	1	2154	nitrate; saltpeter
+硫	U+786B	joyo	1	1867	sulphur
+硬	U+786C	joyo	1	1101	stiff; hard
+碁	U+7881	joyo	1	1609	Go
+碑	U+7891	joyo	1	1792	tombstone; monument
+確	U+78BA	joyo	1	252	assurance; firm; tight; hard; solid; confirm; clear; evident
+磁	U+78C1	joyo	1	1686	magnet; porcelain
+磨	U+78E8	joyo	1	1608	grind; polish; scour; improve; brush (teeth)
+礁	U+7901	joyo	1	1977	reef; sunken rock
+礎	U+790E	joyo	1	1224	cornerstone; foundation stone
+示	U+793A	joyo	1	237	show; indicate; point out; express; display
+礼	U+793C	joyo	1	1185	salute; bow; ceremony; thanks; remuneration
+社	U+793E	joyo	1	21	company; firm; office; association; shrine
+祈	U+7948	joyo	1	1462	pray; wish
+祉	U+7949	joyo	1	1063	welfare; happiness
+祖	U+7956	joyo	1	1226	ancestor; pioneer; founder
+祝	U+795D	joyo	1	1184	celebrate; congratulate
+神	U+795E	joyo	1	347	gods; mind; soul
+祥	U+7965	joyo	1	1273	auspicious; happiness; blessedness; good omen; good fortune
+票	U+7968	joyo	1	489	ballot; label; ticket; sign
+祭	U+796D	joyo	1	1124	ritual; offer prayers; celebrate; deify; enshrine; worship
+禁	U+7981	joyo	1	681	prohibition; ban; forbid
+禅	U+7985	joyo	1	1902	Zen; silent meditation
+禍	U+798D	joyo	1	2010	calamity; misfortune; evil; curse
+福	U+798F	joyo	1	467	blessing; fortune; luck; wealth
+秀	U+79C0	joyo	1	848	excel; excellence; beauty; surpass
+私	U+79C1	joyo	1	242	private; I; me
+秋	U+79CB	joyo	1	635	autumn
+科	U+79D1	joyo	1	531	department; course; section
+秒	U+79D2	joyo	1	1015	second (1/60 minute)
+秘	U+79D8	joyo	1	862	secret; conceal
+租	U+79DF	joyo	1	2089	tariff; crop tax; borrowing
+秩	U+79E9	joyo	1	1275	regularity; salary; order
+称	U+79F0	joyo	1	985	appellation; praise; admire; name; title; fame
+移	U+79FB	joyo	1	448	shift; move; change; drift; catch (cold, fire); pass into
+程	U+7A0B	joyo	1	514	extent; degree; law; formula; distance; limits; amount
+税	U+7A0E	joyo	1	289	tax; duty
+稚	U+7A1A	joyo	1	1560	immature; young
+種	U+7A2E	joyo	1	461	species; kind; class; variety; seed
+稲	U+7A32	joyo	1	1038	rice plant
+稼	U+7A3C	joyo	1	1264	earnings; work; earn money
+稽	U+7A3D	joyo	1	2372	think; consider
+稿	U+7A3F	joyo	1	1400	draft; copy; manuscript; straw
+穀	U+7A40	joyo	1	1744	cereals; grain
+穂	U+7A42	joyo	1	1656	ear; ear (grain); head; crest (wave)
+積	U+7A4D	joyo	1	541	volume; product (x*y); acreage; contents; pile up; stack; lo
+穏	U+7A4F	joyo	1	1535	calm; quiet; moderation
+穫	U+7A6B	joyo	1	1642	harvest; reap
+穴	U+7A74	joyo	1	1366	hole; aperture; slit; cave; den
+究	U+7A76	joyo	1	368	research; study
+空	U+7A7A	joyo	1	304	empty; sky; void; vacant; vacuum
+突	U+7A81	joyo	1	521	stab; protruding; thrust; pierce; prick; collision; sudden
+窃	U+7A83	joyo	1	1871	stealth; steal; secret; private; hushed
+窒	U+7A92	joyo	1	1776	plug up; obstruct
+窓	U+7A93	joyo	1	1186	window; pane
+窟	U+7A9F	joyo	1		cavern
+窮	U+7AAE	joyo	1	1756	hard up; destitute; suffer; perplexed; cornered
+窯	U+7AAF	joyo	1	2072	kiln; oven; furnace
+立	U+7ACB	joyo	1	58	stand up; rise; set up; erect
+竜	U+7ADC	joyo	1	1195	dragon; imperial
+章	U+7AE0	joyo	1	990	badge; chapter; composition; poem; design
+童	U+7AE5	joyo	1	1138	juvenile; child
+端	U+7AEF	joyo	1	960	edge; origin; end; point; border; verge; cape
+競	U+7AF6	joyo	1	610	emulate; compete with; bid; sell at auction; bout; contest; 
+竹	U+7AF9	joyo	1	593	bamboo
+笑	U+7B11	joyo	1	913	laugh
+笛	U+7B1B	joyo	1	1928	flute; clarinet; pipe; whistle; bagpipe; piccolo
+符	U+7B26	joyo	1	1798	token; sign; mark; tally; charm
+第	U+7B2C	joyo	1	160	No.; residence
+筆	U+7B46	joyo	1	1132	writing brush; writing; painting brush; handwriting
+等	U+7B49	joyo	1	798	etc.; and so forth; class (first); quality; equal; similar
+筋	U+7B4B	joyo	1	744	muscle; sinew; tendon; fiber; plot; plan; descent
+筒	U+7B52	joyo	1	1631	cylinder; pipe; tube; gun barrel; sleeve
+答	U+7B54	joyo	1	486	solution; answer
+策	U+7B56	joyo	1	209	scheme; plan; policy; step; means
+箇	U+7B87	joyo	1		counter for articles
+箋	U+7B8B	joyo	1		paper; label; letter; composition
+算	U+7B97	joyo	1	361	calculate; divining; number; abacus; probability
+管	U+7BA1	joyo	1	517	pipe; tube; wind instrument; drunken talk; control; jurisdic
+箱	U+7BB1	joyo	1	1357	box; chest; case; bin; railway car
+箸	U+7BB8	joyo	1	2156	chopsticks
+節	U+7BC0	joyo	1	934	node; season; period; occasion; verse; clause; stanza; honor
+範	U+7BC4	joyo	1	1088	pattern; example; model
+築	U+7BC9	joyo	1	821	fabricate; build; construct
+篤	U+7BE4	joyo	1	1942	fervent; kind; cordial; serious; deliberate
+簡	U+7C21	joyo	1	983	simplicity; brevity
+簿	U+7C3F	joyo	1	1358	register; record book
+籍	U+7C4D	joyo	1	907	enroll; domiciliary register; membership
+籠	U+7C60	joyo	1		basket; devote oneself; seclude oneself; cage; coop; implied
+米	U+7C73	joyo	1	61	rice; USA; metre
+粉	U+7C89	joyo	1	1484	flour; powder; dust
+粋	U+7C8B	joyo	1	1768	chic; style; purity; essence; pith; cream; elite; choice
+粒	U+7C92	joyo	1	1635	grains; drop; counter for tiny particles
+粗	U+7C97	joyo	1	1689	coarse; rough; rugged
+粘	U+7C98	joyo	1	1410	sticky; glutinous; greasy; persevere
+粛	U+7C9B	joyo	1	1549	solemn; quietly; softly
+粧	U+7CA7	joyo	1	1545	cosmetics; adorn (one's person)
+精	U+7CBE	joyo	1	752	refined; ghost; fairy; energy; vitality; semen; excellence; 
+糖	U+7CD6	joyo	1	1471	sugar
+糧	U+7CE7	joyo	1	1354	provisions; food; bread
+糸	U+7CF8	joyo	1	1488	thread
+系	U+7CFB	joyo	1	567	lineage; system
+糾	U+7CFE	joyo	1	1820	twist; ask; investigate; verify
+紀	U+7D00	joyo	1	780	chronicle; account; narrative; history; annals; geologic per
+約	U+7D04	joyo	1	94	promise; approximately; shrink
+紅	U+7D05	joyo	1	1299	crimson; deep red
+紋	U+7D0B	joyo	1	1519	family crest; figures
+納	U+7D0D	joyo	1	987	settlement; obtain; reap; pay; supply; store
+純	U+7D14	joyo	1	1044	genuine; purity; innocence; net (profit)
+紙	U+7D19	joyo	1	559	paper
+級	U+7D1A	joyo	1	785	class; rank; grade
+紛	U+7D1B	joyo	1	994	distract; be mistaken for; go astray; divert
+素	U+7D20	joyo	1	660	elementary; principle; naked; uncovered
+紡	U+7D21	joyo	1	1876	spinning
+索	U+7D22	joyo	1	1127	cord; rope; searching; inquiring
+紫	U+7D2B	joyo	1	1516	purple; violet
+累	U+7D2F	joyo	1	1662	accumulate; involvement; trouble; tie up; continually
+細	U+7D30	joyo	1	537	dainty; get thin; taper; slender; narrow; detailed; precise
+紳	U+7D33	joyo	1	1790	sire; good belt; gentleman
+紹	U+7D39	joyo	1	963	introduce; inherit; help
+紺	U+7D3A	joyo	1	1825	dark blue; navy
+終	U+7D42	joyo	1	256	end; finish
+組	U+7D44	joyo	1	204	association; braid; plait; construct; assemble; unite; coope
+経	U+7D4C	joyo	1	79	sutra; longitude; pass thru; expire; warp
+結	U+7D50	joyo	1	162	tie; bind; contract; join; organize; do up hair; fasten
+絞	U+7D5E	joyo	1	1288	strangle; constrict; wring
+絡	U+7D61	joyo	1	806	entwine; coil around; get caught in
+給	U+7D66	joyo	1	615	salary; wage; gift; allow; grant; bestow on
+統	U+7D71	joyo	1	125	overall; relationship; ruling; governing
+絵	U+7D75	joyo	1	895	picture; drawing; painting; sketch
+絶	U+7D76	joyo	1	784	discontinue; sever; cut off; abstain; interrupt; suppress; b
+絹	U+7D79	joyo	1	1916	silk
+継	U+7D99	joyo	1	743	inherit; succeed; continue; patch; graft (tree)
+続	U+7D9A	joyo	1	141	continue; series; sequel
+維	U+7DAD	joyo	1	643	fiber; tie; rope
+綱	U+7DB1	joyo	1	1053	hawser; class (genus); rope; cord; cable
+網	U+7DB2	joyo	1	1194	netting; network
+綻	U+7DBB	joyo	1		be rent; ripped; unravel; run; begin to open; smile
+綿	U+7DBF	joyo	1	1495	cotton
+緊	U+7DCA	joyo	1	677	tense; solid; hard; reliable; tight
+総	U+7DCF	joyo	1	129	general; whole; all; full; total
+緑	U+7DD1	joyo	1	1180	green
+緒	U+7DD2	joyo	1	952	thong; beginning; inception; end; cord; strap; mental or emo
+線	U+7DDA	joyo	1	382	line; track
+締	U+7DE0	joyo	1	797	tighten; tie; shut; lock; fasten
+編	U+7DE8	joyo	1	591	compilation; knit; plait; braid; twist; editing; completed p
+緩	U+7DE9	joyo	1	933	slacken; loosen; relax; lessen; be moderate; ease
+緯	U+7DEF	joyo	1	1430	horizontal; woof; left & right; (parallels of) latitude; pre
+練	U+7DF4	joyo	1	788	practice; gloss; train; drill; polish; refine
+緻	U+7DFB	joyo	1	2460	fine (i.e. not coarse)
+縁	U+7E01	joyo	1	1291	affinity; relation; connection; edge; border; verge; brink
+縄	U+7E04	joyo	1	1075	straw rope; cord
+縛	U+7E1B	joyo	1	1764	truss; arrest; bind; tie; restrain
+縦	U+7E26	joyo	1	1258	vertical; length; height; self-indulgent; wayward
+縫	U+7E2B	joyo	1	1723	sew; stitch; embroider
+縮	U+7E2E	joyo	1	909	shrink; contract; shrivel; wrinkle; reduce
+績	U+7E3E	joyo	1	820	exploits; achievements; unreeling cocoons
+繁	U+7E41	joyo	1	1198	luxuriant; thick; overgrown; frequency; complexity; trouble
+繊	U+7E4A	joyo	1	1451	slender; fine; thin kimono
+織	U+7E54	joyo	1	608	weave; fabric
+繕	U+7E55	joyo	1	2195	darning; repair; mend; trim; tidy up; adjust
+繭	U+7E6D	joyo	1	2495	cocoon
+繰	U+7E70	joyo	1	872	winding; reel; spin; turn (pages); look up; refer to
+缶	U+7F36	joyo	1	1543	tin can; container; jar radical (no. 121)
+罪	U+7F6A	joyo	1	732	guilt; sin; crime; fault; blame; offense
+置	U+7F6E	joyo	1	277	placement; put; set; deposit; leave behind; keep; employ; pa
+罰	U+7F70	joyo	1	1220	penalty; punishment
+署	U+7F72	joyo	1	725	signature; govt office; police station
+罵	U+7F75	joyo	1	2467	abuse; insult
+罷	U+7F77	joyo	1	2104	quit; stop; leave; withdraw; go
+羅	U+7F85	joyo	1	1831	gauze; thin silk; Rome; arrange; spread out
+羊	U+7F8A	joyo	1	1852	sheep
+美	U+7F8E	joyo	1	462	beauty; beautiful
+羞	U+7F9E	joyo	1		feel ashamed
+群	U+7FA4	joyo	1	1012	flock; group; crowd; herd; swarm; cluster
+羨	U+7FA8	joyo	1		envious; be jealous; covet
+義	U+7FA9	joyo	1	415	righteousness; justice; morality; honor; loyalty; meaning
+羽	U+7FBD	joyo	1	748	feathers; counter for birds, rabbits
+翁	U+7FC1	joyo	1	2064	venerable old man
+翌	U+7FCC	joyo	1	1070	the following; next
+習	U+7FD2	joyo	1	706	learn
+翻	U+7FFB	joyo	1	1465	flip; turn over; wave; flutter; change (mind)
+翼	U+7FFC	joyo	1	1201	wing; plane; flank
+老	U+8001	joyo	1	803	old man; old age; grow old
+考	U+8003	joyo	1	196	consider; think over
+者	U+8005	joyo	1	38	someone; person
+耐	U+8010	joyo	1	1295	-proof; enduring
+耕	U+8015	joyo	1	1568	till; plow; cultivate
+耗	U+8017	joyo	1		decrease
+耳	U+8033	joyo	1	1328	ear
+聖	U+8056	joyo	1	1165	holy; saint; sage; master; priest
+聞	U+805E	joyo	1	319	hear; ask; listen
+聴	U+8074	joyo	1	781	listen; headstrong; naughty; careful inquiry
+職	U+8077	joyo	1	305	post; employment; work
+肉	U+8089	joyo	1	986	meat
+肌	U+808C	joyo	1	1559	texture; skin; body; grain
+肖	U+8096	joyo	1	1889	resemblance
+肘	U+8098	joyo	1		elbow; arm
+肝	U+809D	joyo	1	1118	liver; pluck; nerve; chutzpah
+股	U+80A1	joyo	1	2212	thigh; crotch
+肢	U+80A2	joyo	1	2289	limb; arms & legs
+肥	U+80A5	joyo	1	1469	fertilizer; get fat; fertile; manure; pamper
+肩	U+80A9	joyo	1	1215	shoulder
+肪	U+80AA	joyo	1	1878	obese; fat
+肯	U+80AF	joyo	1	1813	agreement; consent; comply with
+育	U+80B2	joyo	1	369	bring up; grow up; raise; rear
+肺	U+80BA	joyo	1	1387	lungs
+胃	U+80C3	joyo	1	1647	stomach; paunch; crop; craw
+胆	U+80C6	joyo	1	1449	gall bladder; courage; pluck; nerve
+背	U+80CC	joyo	1	696	stature; height; back; behind; disobey; defy; go back on; re
+胎	U+80CE	joyo	1	1861	womb; uterus
+胞	U+80DE	joyo	1	1379	placenta; sac; sheath
+胴	U+80F4	joyo	1	1904	trunk; torso; hull (ship); hub of wheel
+胸	U+80F8	joyo	1	1144	bosom; breast; chest; heart; feelings
+能	U+80FD	joyo	1	273	ability; talent; skill; capacity
+脂	U+8102	joyo	1	1548	fat; grease; tallow; lard; rosin; gum; tar
+脅	U+8105	joyo	1	1183	threaten; coerce
+脇	U+8107	joyo	1	1806	armpit; the other way; another place; flank; supporting role
+脈	U+8108	joyo	1	1477	vein; pulse; hope
+脊	U+810A	joyo	1	2299	stature; height; spine
+脚	U+811A	joyo	1	1228	skids; leg; undercarriage; lower part; base
+脱	U+8131	joyo	1	782	undress; removing; escape from; get rid of; be left out; tak
+脳	U+8133	joyo	1	459	brain; memory
+腎	U+814E	joyo	1	1755	kidney
+腐	U+8150	joyo	1	1225	rot; decay; sour
+腕	U+8155	joyo	1	1163	arm; ability; talent
+腫	U+816B	joyo	1	2145	tumor; swelling
+腰	U+8170	joyo	1	1306	loins; hips; waist; low wainscoting
+腸	U+8178	joyo	1	1807	intestines; guts; bowels; viscera
+腹	U+8179	joyo	1	1286	abdomen; belly; stomach
+腺	U+817A	joyo	1		gland; (kokuji)
+膚	U+819A	joyo	1	1679	skin; body; grain; texture; disposition
+膜	U+819C	joyo	1	1804	membrane
+膝	U+819D	joyo	1	2320	knee; lap
+膨	U+81A8	joyo	1	1293	swell; get fat; thick
+膳	U+81B3	joyo	1	2120	small low table; tray
+臆	U+81C6	joyo	1		timidity; heart; mind; fear; cowardly
+臓	U+81D3	joyo	1	991	entrails; viscera; bowels
+臣	U+81E3	joyo	1	1249	retainer; subject
+臨	U+81E8	joyo	1	722	look to; face; meet; confront; attend; call on
+自	U+81EA	joyo	1	19	oneself
+臭	U+81ED	joyo	1	1760	stinking; ill-smelling; suspicious looking; odor; savor; fra
+至	U+81F3	joyo	1	996	climax; arrive; proceed; reach; attain; result in
+致	U+81F4	joyo	1	870	doth; do; send; forward; cause; exert; incur; engage
+臼	U+81FC	joyo	1	2048	mortar
+興	U+8208	joyo	1	734	entertain; revive; retrieve; interest; pleasure
+舌	U+820C	joyo	1	1830	tongue; reed; clapper
+舎	U+820E	joyo	1	1170	cottage; inn; hut; house; mansion
+舗	U+8217	joyo	1	1412	shop; store; pave
+舞	U+821E	joyo	1	655	dance; flit; circle; wheel
+舟	U+821F	joyo	1	1786	boat; ship
+航	U+822A	joyo	1	665	navigate; sail; cruise; fly
+般	U+822C	joyo	1	649	carrier; carry; all; general; sort; kind
+舶	U+8236	joyo	1	1753	liner; ship
+舷	U+8237	joyo	1		gunwale
+船	U+8239	joyo	1	713	ship; boat
+艇	U+8247	joyo	1	1433	rowboat; small boat
+艦	U+8266	joyo	1	1363	warship
+良	U+826F	joyo	1	501	good; pleasing; skilled
+色	U+8272	joyo	1	621	color
+艶	U+8276	joyo	1	2207	glossy; luster; glaze; polish; charm; colorful; captivating
+芋	U+828B	joyo	1	2418	taro; yam; tuber
+芝	U+829D	joyo	1	1052	turf; lawn
+芯	U+82AF	joyo	1	2202	wick
+花	U+82B1	joyo	1	578	flower
+芳	U+82B3	joyo	1	1302	perfume; balmy; favorable; fragrant
+芸	U+82B8	joyo	1	719	technique; art; craft; performance; acting; trick; stunt
+芽	U+82BD	joyo	1	1691	bud; sprout; spear; germ
+苗	U+82D7	joyo	1	1713	seedling; sapling; shoot
+苛	U+82DB	joyo	1		torment; scold; chastise
+若	U+82E5	joyo	1	458	young; if; perhaps; possibly; low number; immature
+苦	U+82E6	joyo	1	623	suffering; trial; worry; hardship; feel bitter; scowl
+英	U+82F1	joyo	1	430	England; English; hero; outstanding; calyx
+茂	U+8302	joyo	1	1188	overgrown; grow thick; be luxuriant
+茎	U+830E	joyo	1	2013	stalk; stem
+茨	U+8328	joyo	1	1203	briar; thorn
+茶	U+8336	joyo	1	1116	tea
+草	U+8349	joyo	1	967	grass; weeds; herbs; pasture; write; draft
+荒	U+8352	joyo	1	1099	laid waste; rough; rude; wild
+荘	U+8358	joyo	1	1489	villa; inn; cottage; feudal manor; solemn; dignified
+荷	U+8377	joyo	1	1230	baggage; shoulder-pole load; bear (a burden); shoulder (a gu
+菊	U+83CA	joyo	1	1287	chrysanthemum
+菌	U+83CC	joyo	1	1586	germ; fungus; bacteria
+菓	U+83D3	joyo	1	1719	candy; cakes; fruit
+菜	U+83DC	joyo	1	1327	vegetable; side dish; greens
+華	U+83EF	joyo	1	1085	splendor; flower; petal; shine; luster; ostentatious; showy;
+萎	U+840E	joyo	1		wither; droop; lame
+落	U+843D	joyo	1	420	fall; drop; come down; village; hamlet
+葉	U+8449	joyo	1	414	leaf; plane; lobe; needle; blade; spear; counter for flat th
+著	U+8457	joyo	1	849	renowned; publish; write; remarkable; phenomenal; put on; do
+葛	U+845B	joyo	1	1547	arrowroot; kudzu
+葬	U+846C	joyo	1	754	interment; bury; shelve
+蒸	U+84B8	joyo	1	1552	steam; heat; sultry; foment; get musty
+蓄	U+84C4	joyo	1	1260	amass; raise; hoard; store
+蓋	U+84CB	joyo	1	2388	cover; lid; flap
+蔑	U+8511	joyo	1	2483	ignore; despise; neglect; ridicule
+蔵	U+8535	joyo	1	468	storehouse; hide; own; have; possess
+蔽	U+853D	joyo	1		cover; shade; mantle; capsize; be ruined
+薄	U+8584	joyo	1	1009	dilute; thin; weak (tea); pampas grass
+薦	U+85A6	joyo	1	1082	recommend; mat; advise; encourage; offer
+薪	U+85AA	joyo	1	2182	fuel; firewood; kindling
+薫	U+85AB	joyo	1	1849	send forth fragrance; fragrant; be scented; smoke (tobacco)
+薬	U+85AC	joyo	1	702	medicine; chemical; enamel; gunpowder; benefit
+藍	U+85CD	joyo	1	2043	indigo
+藤	U+85E4	joyo	1	291	wisteria
+藩	U+85E9	joyo	1	1896	clan; enclosure
+藻	U+85FB	joyo	1	2124	seaweed; duckweed
+虎	U+864E	joyo	1	1653	tiger; drunkard
+虐	U+8650	joyo	1	1464	tyrannize; oppress
+虚	U+865A	joyo	1	1454	void; emptiness; unpreparedness; crack; fissure; untruth
+虜	U+865C	joyo	1	1678	captive; barbarian; low epithet for the enemy
+虞	U+865E	joyo	1		fear; uneasiness; anxiety; concern; expectation; considerati
+虫	U+866B	joyo	1	1351	insect; bug; temper
+虹	U+8679	joyo	1	2110	rainbow
+蚊	U+868A	joyo	1	2121	mosquito
+蚕	U+8695	joyo	1	2272	silkworm
+蛇	U+86C7	joyo	1	1721	snake; serpent; hard drinker
+蛍	U+86CD	joyo	1	2031	lightning-bug; firefly
+蛮	U+86EE	joyo	1	2339	barbarian
+蜂	U+8702	joyo	1	2223	bee; wasp; hornet
+蜜	U+871C	joyo	1	2203	honey; nectar; molasses
+融	U+878D	joyo	1	481	dissolve; melt
+血	U+8840	joyo	1	832	blood
+衆	U+8846	joyo	1	450	masses; great numbers; multitude; populace
+行	U+884C	joyo	1	20	going; journey; carry out; conduct; act; line; row; bank
+術	U+8853	joyo	1	350	art; technique; skill; means; trick; resources; magic
+街	U+8857	joyo	1	891	boulevard; street; town
+衛	U+885B	joyo	1	400	defense; protection
+衝	U+885D	joyo	1	972	collide; brunt; highway; opposition (astronomy); thrust; pie
+衡	U+8861	joyo	1	1847	equilibrium; measuring rod; scale
+衣	U+8863	joyo	1	1214	garment; clothes; dressing
+表	U+8868	joyo	1	77	surface; table; chart; diagram
+衰	U+8870	joyo	1	1432	decline; wane; weaken
+衷	U+8877	joyo	1	2229	inmost; heart; mind; inside
+袋	U+888B	joyo	1	1125	sack; bag; pouch
+袖	U+8896	joyo	1	1960	sleeve; wing (building); extension; give cold shoulder
+被	U+88AB	joyo	1	431	incur; cover; veil; brood over; shelter; wear; put on; be ex
+裁	U+88C1	joyo	1	297	tailor; judge; decision; cut out (pattern)
+裂	U+88C2	joyo	1	1041	split; rend; tear
+装	U+88C5	joyo	1	657	attire; dress; pretend; disguise; profess
+裏	U+88CF	joyo	1	812	back; amidst; in; reverse; inside; palm; sole; rear; lining;
+裕	U+88D5	joyo	1	1048	abundant; rich; fertile
+補	U+88DC	joyo	1	332	supplement; supply; make good; offset; compensate; assistant
+裸	U+88F8	joyo	1	1796	naked; nude; uncovered; partially clothed
+製	U+88FD	joyo	1	488	made in...; manufacture
+裾	U+88FE	joyo	1	2334	cuff; hem; foot of mountain
+複	U+8907	joyo	1	915	duplicate; double; compound; multiple
+褐	U+8910	joyo	1	2186	brown; woollen kimono
+褒	U+8912	joyo	1	2073	praise; extol
+襟	U+895F	joyo	1	2030	collar; neck; lapel; one's inner feelings
+襲	U+8972	joyo	1	1130	attack; advance on; succeed to; pile; heap
+西	U+897F	joyo	1	259	west; Spain
+要	U+8981	joyo	1	106	need; main point; essence; pivot; key to
+覆	U+8986	joyo	1	1378	capsize; cover; shade; mantle; be ruined
+覇	U+8987	joyo	1	1173	hegemony; supremacy; leadership; champion
+見	U+898B	joyo	1	22	see; hopes; chances; idea; opinion; look at; visible
+規	U+898F	joyo	1	349	standard; measure
+視	U+8996	joyo	1	362	inspection; regard as; see; look at
+覚	U+899A	joyo	1	710	memorize; learn; remember; awake; sober up
+覧	U+89A7	joyo	1	1510	perusal; see
+親	U+89AA	joyo	1	406	parent; intimacy; relative; familiarity; dealer (cards)
+観	U+89B3	joyo	1	476	outlook; look; appearance; condition; view
+角	U+89D2	joyo	1	805	angle; corner; square; horn; antlers
+解	U+89E3	joyo	1	176	unravel; notes; key; explanation; understanding; untie; undo
+触	U+89E6	joyo	1	904	contact; touch; feel; hit; proclaim; announce; conflict
+言	U+8A00	joyo	1	83	say; word
+訂	U+8A02	joyo	1	1690	revise; correct; decide
+訃	U+8A03	joyo	1	2379	obituary
+計	U+8A08	joyo	1	228	plot; plan; scheme; measure
+討	U+8A0E	joyo	1	528	chastise; attack; defeat; destroy; conquer
+訓	U+8A13	joyo	1	1134	instruction; Japanese character reading; explanation; read
+託	U+8A17	joyo	1	1021	consign; requesting; entrusting with; pretend; hint
+記	U+8A18	joyo	1	149	scribe; account; narrative
+訟	U+8A1F	joyo	1	1061	sue; accuse
+訪	U+8A2A	joyo	1	372	call on; visit; look up; offer sympathy
+設	U+8A2D	joyo	1	145	establishment; provision; prepare
+許	U+8A31	joyo	1	720	permit; approve
+訳	U+8A33	joyo	1	1050	translate; reason; circumstance; case
+訴	U+8A34	joyo	1	427	accusation; sue; complain of pain; appeal to
+診	U+8A3A	joyo	1	1019	checkup; seeing; diagnose; examine
+証	U+8A3C	joyo	1	306	evidence; proof; certificate
+詐	U+8A50	joyo	1	1511	lie; falsehood; deceive; pretend
+詔	U+8A54	joyo	1	2239	imperial edict
+評	U+8A55	joyo	1	454	evaluate; criticism; comment
+詞	U+8A5E	joyo	1	1636	part of speech; words; poetry
+詠	U+8A60	joyo	1	2000	recitation; poem; song; composing
+詣	U+8A63	joyo	1		visit a temple; arrive; attain
+試	U+8A66	joyo	1	392	test; try; attempt; experiment; ordeal
+詩	U+8A69	joyo	1	1196	poem; poetry
+詮	U+8A6E	joyo	1		discussion; methods called for; selection; result
+詰	U+8A70	joyo	1	1020	packed; close; pressed; reprove; rebuke; blame
+話	U+8A71	joyo	1	134	tale; talk
+該	U+8A72	joyo	1	1648	above-stated; the said; that specific
+詳	U+8A73	joyo	1	1178	detailed; full; minute; accurate; well-informed
+誇	U+8A87	joyo	1	1272	boast; be proud; pride; triumphantly
+誉	U+8A89	joyo	1	1064	reputation; praise; honor; glory
+誌	U+8A8C	joyo	1	851	document; records
+認	U+8A8D	joyo	1	198	acknowledge; witness; discern; recognize; appreciate; believ
+誓	U+8A93	joyo	1	1567	vow; swear; pledge
+誕	U+8A95	joyo	1	1024	nativity; be born; declension; lie; be arbitrary
+誘	U+8A98	joyo	1	993	entice; lead; tempt; invite; ask; call for; seduce; allure
+語	U+8A9E	joyo	1	301	word; speech; language
+誠	U+8AA0	joyo	1	1128	sincerity; admonish; warn; prohibit; truth; fidelity
+誤	U+8AA4	joyo	1	1150	mistake; err; do wrong; mislead
+説	U+8AAC	joyo	1	326	opinion; theory; explanation; rumor
+読	U+8AAD	joyo	1	618	read
+誰	U+8AB0	joyo	1	1933	who; someone; somebody
+課	U+8AB2	joyo	1	455	chapter; lesson; section; department; division; counter for 
+調	U+8ABF	joyo	1	87	tune; tone; meter; key (music); writing style; prepare; exor
+談	U+8AC7	joyo	1	272	discuss; talk
+請	U+8ACB	joyo	1	524	solicit; invite; ask
+論	U+8AD6	joyo	1	227	argument; discourse
+諦	U+8AE6	joyo	1	2457	truth; clarity; abandon; give up
+諧	U+8AE7	joyo	1		harmony
+諭	U+8AED	joyo	1	1461	rebuke; admonish; charge; warn; persuade
+諮	U+8AEE	joyo	1	1345	consult with
+諸	U+8AF8	joyo	1	658	various; many; several; together
+諾	U+8AFE	joyo	1	1490	consent; assent; agreement
+謀	U+8B00	joyo	1	1370	conspire; cheat; impose on; plan; devise; scheme; have in mi
+謁	U+8B01	joyo	1		audience; audience (with king)
+謄	U+8B04	joyo	1	2295	mimeograph; copy
+謎	U+8B0E	joyo	1	2021	riddle; puzzle; enigma; hint; tip
+謙	U+8B19	joyo	1	1582	self-effacing; humble oneself; condescend; be modest
+講	U+8B1B	joyo	1	653	lecture; club; association
+謝	U+8B1D	joyo	1	1028	apologize; thank; refuse
+謡	U+8B21	joyo	1	1580	song; sing; ballad; noh chanting
+謹	U+8B39	joyo	1	2068	discreet; reverently; humbly
+識	U+8B58	joyo	1	496	discriminating; know; write
+譜	U+8B5C	joyo	1	1919	musical score; music; note; staff; table; genealogy
+警	U+8B66	joyo	1	366	admonish; commandment
+議	U+8B70	joyo	1	25	deliberation; consultation; debate; consideration
+譲	U+8B72	joyo	1	984	defer; turnover; transfer; convey
+護	U+8B77	joyo	1	351	safeguard; protect
+谷	U+8C37	joyo	1	508	valley
+豆	U+8C46	joyo	1	1422	beans; pea; midget
+豊	U+8C4A	joyo	1	762	bountiful; excellent; rich
+豚	U+8C5A	joyo	1	1864	pork; pig
+象	U+8C61	joyo	1	394	elephant; pattern after; imitate; image; shape; sign (of the
+豪	U+8C6A	joyo	1	1104	overpowering; great; powerful; excelling; Australia
+貌	U+8C8C	joyo	1		form; appearance; countenance
+貝	U+8C9D	joyo	1	1787	shellfish
+貞	U+8C9E	joyo	1	1389	upright; chastity; constancy; righteousness
+負	U+8CA0	joyo	1	443	defeat; negative; -; minus; bear; owe; assume a responsibili
+財	U+8CA1	joyo	1	494	property; money; wealth; assets
+貢	U+8CA2	joyo	1	956	tribute; support; finance
+貧	U+8CA7	joyo	1	1211	poverty; poor
+貨	U+8CA8	joyo	1	822	freight; goods; property
+販	U+8CA9	joyo	1	627	marketing; sell; trade
+貪	U+8CAA	joyo	1		covet; indulge in
+貫	U+8CAB	joyo	1	1156	pierce; 8 1/3lbs; penetrate; brace
+責	U+8CAC	joyo	1	598	blame; condemn; censure
+貯	U+8CAF	joyo	1	1100	savings; store; lay in; keep; wear mustache
+貴	U+8CB4	joyo	1	970	precious; value; prize; esteem; honor
+買	U+8CB7	joyo	1	520	buy
+貸	U+8CB8	joyo	1	995	lend
+費	U+8CBB	joyo	1	321	expense; cost; spend; consume; waste
+貼	U+8CBC	joyo	1	2444	stick; paste; apply
+貿	U+8CBF	joyo	1	652	trade; exchange
+賀	U+8CC0	joyo	1	1056	congratulations; joy
+賂	U+8CC2	joyo	1		bribe
+賃	U+8CC3	joyo	1	961	fare; fee; hire; rent; wages; charge
+賄	U+8CC4	joyo	1	1282	bribe; board; supply; finance
+資	U+8CC7	joyo	1	179	assets; resources; capital; funds; data; be conducive to; co
+賊	U+8CCA	joyo	1	2045	burglar; rebel; traitor; robber
+賓	U+8CD3	joyo	1	1677	V.I.P.; guest
+賛	U+8CDB	joyo	1	868	approve; praise; title or inscription on picture; assist; ag
+賜	U+8CDC	joyo	1	2190	grant; gift; boon; results
+賞	U+8CDE	joyo	1	426	prize; reward; praise
+賠	U+8CE0	joyo	1	1243	compensation; indemnify
+賢	U+8CE2	joyo	1	1159	intelligent; wise; wisdom; cleverness
+賦	U+8CE6	joyo	1		levy; ode; prose; poem; tribute; installment
+質	U+8CEA	joyo	1	389	substance; quality; matter; temperament
+賭	U+8CED	joyo	1	1989	gamble; wager; bet
+購	U+8CFC	joyo	1	945	subscription; buy
+贈	U+8D08	joyo	1	1001	presents; send; give to; award to; confer on; presenting som
+赤	U+8D64	joyo	1	584	red
+赦	U+8D66	joyo	1	1868	pardon; forgiveness
+走	U+8D70	joyo	1	626	run
+赴	U+8D74	joyo	1	1649	proceed; get; become; tend
+起	U+8D77	joyo	1	374	rouse; wake up; get up
+超	U+8D85	joyo	1	597	transcend; super-; ultra-
+越	U+8D8A	joyo	1	897	surpass; cross over; move to; exceed; Vietnam
+趣	U+8DA3	joyo	1	1153	purport; gist; elegance; interest; proceed to; tend; become
+足	U+8DB3	joyo	1	343	leg; foot; be sufficient; counter for pairs of footwear
+距	U+8DDD	joyo	1	1191	long-distance; spur; fetlock
+跡	U+8DE1	joyo	1	953	tracks; mark; print; impression
+路	U+8DEF	joyo	1	529	path; route; road; distance
+跳	U+8DF3	joyo	1	1716	hop; leap up; spring; jerk; prance; buck; splash; sputter; s
+践	U+8DF5	joyo	1	1570	tread; step on; trample; practice; carry through
+踊	U+8E0A	joyo	1	1308	jump; dance; leap; skip
+踏	U+8E0F	joyo	1	723	step; trample; carry through; appraise; evade payment
+踪	U+8E2A	joyo	1		remains; clue; footprint
+蹴	U+8E74	joyo	1	2377	kick
+躍	U+8E8D	joyo	1	900	leap; dance; skip
+身	U+8EAB	joyo	1	320	somebody; person; one's station in life
+車	U+8ECA	joyo	1	333	car
+軌	U+8ECC	joyo	1	1480	rut; wheel; track; model; way of doing
+軍	U+8ECD	joyo	1	189	army; force; troops; war; battle
+軒	U+8ED2	joyo	1	1416	flats; counter for houses; eaves
+軟	U+8EDF	joyo	1	1269	soft
+転	U+8EE2	joyo	1	327	revolve; turn around; change
+軸	U+8EF8	joyo	1	1261	axis; pivot; stem; stalk; counter for book scrolls
+軽	U+8EFD	joyo	1	790	lightly; trifling; unimportant
+較	U+8F03	joyo	1	1172	contrast; compare
+載	U+8F09	joyo	1	825	ride; board; get on; place; spread; 10**44; record; publish
+輝	U+8F1D	joyo	1	1259	radiance; shine; sparkle; gleam; twinkle
+輩	U+8F29	joyo	1	1365	comrade; fellow; people; companions
+輪	U+8F2A	joyo	1	693	wheel; ring; circle; link; loop; counter for wheels and flow
+輸	U+8F38	joyo	1	371	transport; send; be inferior
+轄	U+8F44	joyo	1	1771	control; wedge
+辛	U+8F9B	joyo	1	1607	spicy; bitter; hot; acrid
+辞	U+8F9E	joyo	1	633	resign; word; term; expression
+辣	U+8FA3	joyo	1		pungent; spicy; harsh; cruel; severe
+辱	U+8FB1	joyo	1	1769	embarrass; humiliate; shame
+農	U+8FB2	joyo	1	385	agriculture; farmers
+辺	U+8FBA	joyo	1	428	environs; boundary; border; vicinity
+込	U+8FBC	joyo	1	675	crowded; mixture; in bulk; included; (kokuji)
+迅	U+8FC5	joyo	1	1888	swift; fast
+迎	U+8FCE	joyo	1	625	welcome; meet; greet
+近	U+8FD1	joyo	1	194	near; early; akin; tantamount
+返	U+8FD4	joyo	1	685	return; answer; fade; repay
+迫	U+8FEB	joyo	1	773	urge; force; imminent; spur on
+迭	U+8FED	joyo	1	1907	transfer; alternation
+述	U+8FF0	joyo	1	379	mention; state; speak; relate
+迷	U+8FF7	joyo	1	942	astray; be perplexed; in doubt; lost; err; illusion
+追	U+8FFD	joyo	1	411	chase; drive away; follow; pursue; meanwhile
+退	U+9000	joyo	1	424	retreat; withdraw; retire; resign; repel; expel; reject
+送	U+9001	joyo	1	311	escort; send
+逃	U+9003	joyo	1	931	escape; flee; shirk; evade; set free
+逆	U+9006	joyo	1	683	inverted; reverse; opposite; wicked
+透	U+900F	joyo	1	1035	transparent; permeate; filter; penetrate
+逐	U+9010	joyo	1	2230	pursue; drive away; chase; accomplish; attain; commit
+逓	U+9013	joyo	1	1957	relay; in turn; sending
+途	U+9014	joyo	1	717	route; way; road
+通	U+901A	joyo	1	80	traffic; pass through; avenue; commute; counter for letters,
+逝	U+901D	joyo	1	2018	departed; die
+速	U+901F	joyo	1	576	quick; fast
+造	U+9020	joyo	1	429	create; make; structure; physique
+連	U+9023	joyo	1	30	take along; lead; join; connect; party; gang; clique
+逮	U+902E	joyo	1	766	apprehend; chase
+週	U+9031	joyo	1	540	week
+進	U+9032	joyo	1	142	advance; proceed; progress; promote
+逸	U+9038	joyo	1	1524	deviate; idleness; leisure; miss the mark; evade; elude; par
+遂	U+9042	joyo	1	1423	consummate; accomplish; attain; commit (suicide)
+遅	U+9045	joyo	1	833	slow; late; back; later
+遇	U+9047	joyo	1	1343	meet; encounter; interview; treat; entertain; receive; deal 
+遊	U+904A	joyo	1	941	play
+運	U+904B	joyo	1	255	carry; luck; destiny; fate; lot; transport; progress; advanc
+遍	U+904D	joyo	1	1845	everywhere; times; widely; generally
+過	U+904E	joyo	1	285	overdo; exceed; go beyond; error
+道	U+9053	joyo	1	207	road-way; street; district; journey; course; moral; teaching
+達	U+9054	joyo	1	500	accomplished; reach; arrive; attain
+違	U+9055	joyo	1	344	difference; differ
+遜	U+905C	joyo	1		humble; modest
+遠	U+9060	joyo	1	887	distant; far
+遡	U+9061	joyo	1		go upstream; retrace the past
+遣	U+9063	joyo	1	664	dispatch; despatch; send; give; donate; do; undertake
+適	U+9069	joyo	1	670	suitable; occasional; rare; qualified; capable
+遭	U+906D	joyo	1	1554	encounter; meet; party; association; interview; join
+遮	U+906E	joyo	1	1865	intercept; interrupt; obstruct
+遵	U+9075	joyo	1		abide by; follow; obey; learn
+遷	U+9077	joyo	1	1937	transition; move; change
+選	U+9078	joyo	1	57	elect; select; choose; prefer
+遺	U+907A	joyo	1	647	bequeath; leave behind; reserve
+避	U+907F	joyo	1	756	evade; avoid; avert; ward off; shirk; shun
+還	U+9084	joyo	1	910	send back; return
+那	U+90A3	joyo	1	1621	what?
+邦	U+90A6	joyo	1	654	home country; country; Japan
+邪	U+90AA	joyo	1	1612	wicked; injustice; wrong
+邸	U+90B8	joyo	1	905	residence; mansion
+郊	U+90CA	joyo	1	1304	outskirts; suburbs; rural area
+郎	U+90CE	joyo	1	569	son; counter for sons
+郡	U+90E1	joyo	1	965	county; district
+部	U+90E8	joyo	1	36	section; bureau; dept; class; copy; part; portion; counter f
+郭	U+90ED	joyo	1	1670	enclosure; quarters; fortification; red-light district
+郵	U+90F5	joyo	1	917	mail; stagecoach stop
+郷	U+90F7	joyo	1	1077	home town; village; native place; district
+都	U+90FD	joyo	1	123	metropolis; capital; all; everything
+酌	U+914C	joyo	1	2271	bar-tending; serving sake; the host; draw (water); ladle; sc
+配	U+914D	joyo	1	359	distribute; spouse; exile; rationing
+酎	U+914E	joyo	1		sake
+酒	U+9152	joyo	1	1006	sake; alcohol
+酔	U+9154	joyo	1	1640	drunk; feel sick; poisoned; elated; spellbound
+酢	U+9162	joyo	1	1955	vinegar; sour; acid; tart
+酪	U+916A	joyo	1	2012	dairy products; whey; broth; fruit juice
+酬	U+916C	joyo	1	1515	repay; reward; retribution
+酵	U+9175	joyo	1	1862	fermentation
+酷	U+9177	joyo	1	1596	cruel; severe; atrocious; unjust
+酸	U+9178	joyo	1	1218	acid; bitterness; sour; tart
+醒	U+9192	joyo	1		awake; be disillusioned; sober up
+醜	U+919C	joyo	1	2074	ugly; unclean; shame; bad looking
+醸	U+91B8	joyo	1	1838	brew; cause
+采	U+91C7	joyo	1		dice; form; appearance; take; gather; coloring
+釈	U+91C8	joyo	1	1097	explanation
+里	U+91CC	joyo	1	1096	ri; village; parent's home; league
+重	U+91CD	joyo	1	193	heavy; important; esteem; respect; heap up; pile up; nest of
+野	U+91CE	joyo	1	120	plains; field; rustic; civilian life
+量	U+91CF	joyo	1	469	quantity; measure; weight; amount; consider; estimate; surmi
+金	U+91D1	joyo	1	53	gold
+釜	U+91DC	joyo	1	1761	kettle; cauldron; iron pot
+針	U+91DD	joyo	1	505	needle; pin; staple; stinger
+釣	U+91E3	joyo	1	1542	angling; fish; catch; allure; ensnare
+鈍	U+920D	joyo	1	1574	dull; slow; foolish; blunt
+鈴	U+9234	joyo	1	880	small bell; buzzer
+鉄	U+9244	joyo	1	672	iron
+鉛	U+925B	joyo	1	1710	lead
+鉢	U+9262	joyo	1	1890	bowl; rice tub; pot; crown
+鉱	U+9271	joyo	1	1376	mineral; ore
+銀	U+9280	joyo	1	395	silver
+銃	U+9283	joyo	1	1013	gun; arms
+銅	U+9285	joyo	1	1505	copper
+銘	U+9298	joyo	1	1394	inscription; signature (of artisan)
+銭	U+92AD	joyo	1	1008	coin; .01 yen; money
+鋭	U+92ED	joyo	1	1395	pointed; sharpness; edge; weapon; sharp; violent
+鋳	U+92F3	joyo	1	2005	casting; mint
+鋼	U+92FC	joyo	1	1246	steel
+錠	U+9320	joyo	1	1934	lock; fetters; shackles
+錦	U+9326	joyo	1	1440	brocade; fine dress; honors
+錬	U+932C	joyo	1	2221	tempering; refine; drill; train; polish
+錮	U+932E	joyo	1		confinement; to tie
+錯	U+932F	joyo	1	1740	confused; mix; be in disorder
+録	U+9332	joyo	1	546	record
+鍋	U+934B	joyo	1	1810	pot; pan; kettle
+鍛	U+935B	joyo	1	1793	forge; discipline; train
+鍵	U+9375	joyo	1	2029	key
+鎌	U+938C	joyo	1	1587	sickle; scythe; trick
+鎖	U+9396	joyo	1	1250	chain; irons; connection
+鎮	U+93AE	joyo	1	1617	tranquilize; ancient peace-preservation centers
+鏡	U+93E1	joyo	1	1506	mirror; speculum; barrel-head; round rice-cake offering
+鐘	U+9418	joyo	1	1681	bell; gong; chimes
+鑑	U+9451	joyo	1	1391	specimen; take warning from; learn from
+長	U+9577	joyo	1	12	long; leader; superior; senior
+門	U+9580	joyo	1	452	gate; counter for cannons
+閉	U+9589	joyo	1	951	closed; shut
+開	U+958B	joyo	1	59	open; unfold; unseal
+閑	U+9591	joyo	1	1994	leisure
+間	U+9593	joyo	1	33	interval; space
+関	U+95A2	joyo	1	70	connection; barrier; gateway; involve; concerning
+閣	U+95A3	joyo	1	444	tower; tall building; palace
+閥	U+95A5	joyo	1	1072	clique; lineage; pedigree; faction; clan
+閲	U+95B2	joyo	1	1855	review; inspection; revision
+闇	U+95C7	joyo	1	1969	get dark; gloom; disorder
+闘	U+95D8	joyo	1	751	fight; war
+阜	U+961C	joyo	1	1532	hill; mound; left village radical (no. 170)
+阪	U+962A	joyo	1	503	heights; slope
+防	U+9632	joyo	1	331	ward off; defend; protect; resist
+阻	U+963B	joyo	1	1280	thwart; separate from; prevent; obstruct; deter; impede
+附	U+9644	joyo	1	2396	affixed; attach; refer to; append
+降	U+964D	joyo	1	596	descend; precipitate; fall; surrender
+限	U+9650	joyo	1	405	limit; restrict; to best of ability
+陛	U+965B	joyo	1	1429	highness; steps (of throne)
+院	U+9662	joyo	1	150	Inst.; institution; temple; mansion; school
+陣	U+9663	joyo	1	828	camp; battle array; ranks; position; sudden; brief time
+除	U+9664	joyo	1	594	exclude; division (x/3); remove; abolish; cancel; except
+陥	U+9665	joyo	1	1154	collapse; fall into; cave in; fall (castle); slide into
+陪	U+966A	joyo	1	1917	obeisance; follow; accompany; attend on
+陰	U+9670	joyo	1	1393	shade; yin; negative; sex organs; secret; shadow
+陳	U+9673	joyo	1	1323	exhibit; state; relate; explain
+陵	U+9675	joyo	1	1746	mausoleum; imperial tomb; mound; hill
+陶	U+9676	joyo	1	1680	pottery; porcelain
+陸	U+9678	joyo	1	736	land; six
+険	U+967A	joyo	1	707	precipitous; inaccessible place; impregnable position; steep
+陽	U+967D	joyo	1	1071	sunshine; yang principle; positive; male; heaven; daytime
+隅	U+9685	joyo	1	1601	corner; nook
+隆	U+9686	joyo	1	1109	hump; high; noble; prosperity
+隊	U+968A	joyo	1	605	regiment; party; company; squad
+階	U+968E	joyo	1	513	storey; stair; counter for storeys of a building
+随	U+968F	joyo	1	1396	follow; though; notwithstanding; while; during; both; all; o
+隔	U+9694	joyo	1	1382	isolate; alternate; distance; separate; gulf
+隙	U+9699	joyo	1		crevice; fissure; discord; opportunity; leisure
+際	U+969B	joyo	1	183	occasion; side; edge; verge; dangerous; adventurous; indecen
+障	U+969C	joyo	1	742	hinder; hurt; harm
+隠	U+96A0	joyo	1	1089	conceal; hide; cover
+隣	U+96A3	joyo	1	1083	neighboring
+隷	U+96B7	joyo	1	2009	slave; servant; prisoner; criminal; follower
+隻	U+96BB	joyo	1	1546	vessels; counter for ships; fish; birds; arrows; one of a pa
+雄	U+96C4	joyo	1	669	masculine; male; hero; leader; superiority; excellence
+雅	U+96C5	joyo	1	1192	gracious; elegant; graceful; refined
+集	U+96C6	joyo	1	210	gather; meet; congregate; swarm; flock
+雇	U+96C7	joyo	1	975	employ; hire
+雌	U+96CC	joyo	1	1951	feminine; female
+雑	U+96D1	joyo	1	839	miscellaneous
+離	U+96E2	joyo	1	555	detach; separation; disjoin; digress
+難	U+96E3	joyo	1	330	difficult; impossible; trouble; accident; defect
+雨	U+96E8	joyo	1	950	rain
+雪	U+96EA	joyo	1	1131	snow
+雰	U+96F0	joyo	1	1341	atmosphere; fog
+雲	U+96F2	joyo	1	1256	cloud
+零	U+96F6	joyo	1	1217	zero; spill; overflow; nothing; cipher
+雷	U+96F7	joyo	1	1491	thunder; lightning bolt
+電	U+96FB	joyo	1	268	electricity
+需	U+9700	joyo	1	935	demand; request; need
+震	U+9707	joyo	1	893	quake; shake; tremble; quiver; shiver
+霊	U+970A	joyo	1	1458	spirits; soul
+霜	U+971C	joyo	1	2151	frost
+霧	U+9727	joyo	1	1747	fog; mist
+露	U+9732	joyo	1	928	dew; tears; expose; Russia
+青	U+9752	joyo	1	589	blue; green
+静	U+9759	joyo	1	764	quiet
+非	U+975E	joyo	1	472	un-; mistake; negative; injustice; non-
+面	U+9762	joyo	1	186	mask; face; features; surface
+革	U+9769	joyo	1	249	leather; skin; reform; become serious
+靴	U+9774	joyo	1	1561	shoes
+韓	U+97D3	joyo	1	445	Korea
+音	U+97F3	joyo	1	491	sound; noise
+韻	U+97FB	joyo	1	2148	rhyme; elegance; tone
+響	U+97FF	joyo	1	502	echo; sound; resound; ring; vibrate
+頂	U+9802	joyo	1	1350	place on the head; receive; top of head; top; summit; peak
+頃	U+9803	joyo	1	2015	time; about; toward
+項	U+9805	joyo	1	884	paragraph; nape of neck; clause; item; term (expression)
+順	U+9806	joyo	1	779	obey; order; turn; right; docility; occasion
+須	U+9808	joyo	1	1339	ought; by all means; necessarily
+預	U+9810	joyo	1	981	deposit; custody; leave with; entrust to
+頑	U+9811	joyo	1	1247	stubborn; foolish; firmly
+頒	U+9812	joyo	1	2287	distribute; disseminate; partition; understand
+頓	U+9813	joyo	1		suddenly; immediately; in a hurry; arrange; stay in place; b
+領	U+9818	joyo	1	138	jurisdiction; dominion; territory; fief; reign
+頭	U+982D	joyo	1	433	head; counter for large animals
+頰	U+9830	joyo	0213		cheeks; jaw
+頻	U+983B	joyo	1	1590	repeatedly; recur
+頼	U+983C	joyo	1	708	trust; request
+題	U+984C	joyo	1	96	topic; subject
+額	U+984D	joyo	1	407	forehead; tablet; plaque; framed picture; sum; amount; volum
+顎	U+984E	joyo	1		jaw; chin; gill
+顔	U+9854	joyo	1	676	face; expression
+顕	U+9855	joyo	1	1536	appear; existing
+願	U+9858	joyo	1	894	petition; request; vow; wish; hope
+類	U+985E	joyo	1	678	sort; kind; variety; class; genus
+顧	U+9867	joyo	1	1058	look back; review; examine oneself; turn around
+風	U+98A8	joyo	1	558	wind; air; style; manner
+飛	U+98DB	joyo	1	580	fly; skip (pages); scatter
+食	U+98DF	joyo	1	328	eat; food
+飢	U+98E2	joyo	1	1659	hungry; starve
+飯	U+98EF	joyo	1	1046	meal; boiled rice
+飲	U+98F2	joyo	1	969	drink; smoke; take
+飼	U+98FC	joyo	1	1392	domesticate; raise; keep; feed
+飽	U+98FD	joyo	1	1780	sated; tired of; bored; satiate
+飾	U+98FE	joyo	1	1193	decorate; ornament; adorn; embellish
+餅	U+9905	joyo	1	2152	mochi rice cake
+養	U+990A	joyo	1	888	foster; bring up; rear; develop; nurture
+餌	U+990C	joyo	1	2277	food; bait; prey; tempting profit
+餓	U+9913	joyo	1	1754	starve; hungry; thirst
+館	U+9928	joyo	1	613	building; mansion; large building; palace
+首	U+9996	joyo	1	98	neck; counter for songs and poems
+香	U+9999	joyo	1	859	incense; smell; perfume
+馬	U+99AC	joyo	1	639	horse
+駄	U+99C4	joyo	1	1500	burdensome; pack horse; horse load; send by horse; trivial; 
+駅	U+99C5	joyo	1	724	station
+駆	U+99C6	joyo	1	1033	drive; run; gallop; advance; inspire; impel
+駐	U+99D0	joyo	1	955	stop-over; reside in; resident
+駒	U+99D2	joyo	1	1452	pony; horse; colt
+騎	U+9A0E	joyo	1	1696	equestrian; riding on horses; counter for equestrians
+騒	U+9A12	joyo	1	1069	boisterous; make noise; clamor; disturb; excite
+験	U+9A13	joyo	1	410	verification; effect; testing
+騰	U+9A30	joyo	1	1420	leaping up; jumping up; rising; advancing; going
+驚	U+9A5A	joyo	1	1141	wonder; be surprised; frightened; amazed
+骨	U+9AA8	joyo	1	936	skeleton; bone; remains; frame
+骸	U+9AB8	joyo	1		bone; body; corpse
+髄	U+9AC4	joyo	1	1652	marrow; pith; essence
+高	U+9AD8	joyo	1	65	tall; high; expensive
+髪	U+9AEA	joyo	1	1474	hair of the head
+鬱	U+9B31	joyo	1		gloom; depression; melancholy; luxuriant
+鬼	U+9B3C	joyo	1	1557	ghost; devil
+魂	U+9B42	joyo	1	1748	soul; spirit
+魅	U+9B45	joyo	1	1206	fascination; charm; bewitch
+魔	U+9B54	joyo	1	1514	witch; demon; evil spirit
+魚	U+9B5A	joyo	1	1208	fish
+鮮	U+9BAE	joyo	1	355	fresh; vivid; clear; brilliant; Korea
+鯨	U+9BE8	joyo	1	1486	whale
+鳥	U+9CE5	joyo	1	1043	bird; chicken
+鳴	U+9CF4	joyo	1	1279	chirp; cry; bark; sound; ring; echo; honk
+鶏	U+9D8F	joyo	1	1901	chicken
+鶴	U+9DB4	joyo	1	1369	crane; stork
+鹿	U+9E7F	joyo	1	957	deer
+麓	U+9E93	joyo	1	2366	foot of a mountain
+麗	U+9E97	joyo	1	1758	lovely; beautiful; graceful; resplendent
+麦	U+9EA6	joyo	1	1615	barley; wheat
+麺	U+9EBA	joyo	1	2331	noodles; wheat flour
+麻	U+9EBB	joyo	1	1142	hemp; flax; numb
+黄	U+9EC4	joyo	1	1240	yellow
+黒	U+9ED2	joyo	1	573	black
+黙	U+9ED9	joyo	1	1338	silence; become silent; stop speaking; leave as is
+鼓	U+9F13	joyo	1	1795	drum; beat; rouse; muster
+鼻	U+9F3B	joyo	1	1632	nose; snout
+齢	U+9F62	joyo	1	770	age
+𠮟	U+20B9F	joyo	0213		scold; reprove
+剥	U+5265	joyo-alt	1	2383	come off; peel; fade; discolor
+叱	U+53F1	joyo-alt	1	2255	scold; reprove
+填	U+586B	joyo-alt	1		fill in
+頬	U+982C	joyo-alt	1	2424	cheeks; jaw
+丑	U+4E11	jinmeiyo	1	2305	sign of the ox or cow; 1-3AM; second sign of Chinese zodiac
+丞	U+4E1E	jinmeiyo	1		help
+乃	U+4E43	jinmeiyo	1	1978	from; possessive particle; whereupon; accordingly
+之	U+4E4B	jinmeiyo	1	1318	of; this
+乎	U+4E4E	jinmeiyo	1		question mark; ?
+也	U+4E5F	jinmeiyo	1	1404	to be (classical)
+云	U+4E91	jinmeiyo	1		say
+亘	U+4E98	jinmeiyo	1	1728	span; range; extend over
+亙	U+4E99	jinmeiyo	1		range; reach; extend; cover
+些	U+4E9B	jinmeiyo	1		a little bit; sometimes
+亥	U+4EA5	jinmeiyo	1		sign of the hog; 9-11PM; twelfth sign of the Chinese zodiac
+亦	U+4EA6	jinmeiyo	1		also; again
+亨	U+4EA8	jinmeiyo	1	1952	pass through; go smoothly
+亮	U+4EAE	jinmeiyo	1	1821	clear; help
+仔	U+4ED4	jinmeiyo	1		offspring (animal); detailed; fine
+伊	U+4F0A	jinmeiyo	1	703	Italy; that one
+伍	U+4F0D	jinmeiyo	1	1881	five; five-man squad; file; line
+伶	U+4F36	jinmeiyo	1		actor
+伽	U+4F3D	jinmeiyo	1	2323	nursing; attending; entertainer
+佃	U+4F43	jinmeiyo	1	2193	cultivated rice field
+佑	U+4F51	jinmeiyo	1	2250	help; assist
+侃	U+4F83	jinmeiyo	1		strong; just; righteous; peace-loving
+侑	U+4F91	jinmeiyo	1		urge to eat
+俄	U+4FC4	jinmeiyo	1		sudden; abrupt; improvised
+俐	U+4FD0	jinmeiyo	1		clever
+俠	U+4FE0	jinmeiyo	0213		chivalrous person; chivalry; knight-errant; tomboy
+俣	U+4FE3	jinmeiyo	1	1585	crotch; thigh; groin; fork; junction; (kokuji)
+俱	U+4FF1	jinmeiyo	0213		all; together; accompany
+倖	U+5016	jinmeiyo	1		happiness; luck
+倦	U+5026	jinmeiyo	1		lose interest in; tire of
+倭	U+502D	jinmeiyo	1	2098	Yamato; ancient Japan
+偲	U+5072	jinmeiyo	1	2350	recollect; remember
+傭	U+50AD	jinmeiyo	1		employ; hire
+儲	U+5132	jinmeiyo	1	2442	be profitable; yield profit
+允	U+5141	jinmeiyo	1	2358	license; sincerity; permit
+兎	U+514E	jinmeiyo	1		rabbit; hare
+兜	U+515C	jinmeiyo	1	2034	helmet; head piece
+其	U+5176	jinmeiyo	1	1930	that
+冴	U+51B4	jinmeiyo	1	2341	be clear; serene; cold; skilful
+凌	U+51CC	jinmeiyo	1	2423	endure; keep (rain)out; stave off; tide over; defy; slight; 
+凛	U+51DB	jinmeiyo	1		cold; strict; severe
+凜	U+51DC	jinmeiyo	1		cold; strict; severe
+凧	U+51E7	jinmeiyo	1	2117	kite; (kokuji)
+凪	U+51EA	jinmeiyo	1		lull; calm; (kokuji)
+凰	U+51F0	jinmeiyo	1		female phoenix bird
+凱	U+51F1	jinmeiyo	1	2293	victory song
+函	U+51FD	jinmeiyo	1	1781	box (archaic)
+劉	U+5289	jinmeiyo	1	1947	weapon of war; logging axe; kill en masse; peeling (paint of
+劫	U+52AB	jinmeiyo	1		threat; long ages
+勁	U+52C1	jinmeiyo	1		strong
+勺	U+52FA	jinmeiyo	1		ladle; one tenth of a go; dip
+勿	U+52FF	jinmeiyo	1		not; must not; do not; be not
+匁	U+5301	jinmeiyo	1		monme; 3.75 grams; (kokuji)
+匡	U+5321	jinmeiyo	1	2176	correct; save; assist
+卜	U+535C	jinmeiyo	1		divining; fortune-telling; divination or katakana to radical
+卯	U+536F	jinmeiyo	1	2400	sign of the hare or rabbit; fourth sign of Chinese zodiac; 5
+卿	U+537F	jinmeiyo	1	2138	you; lord; secretary; state minister
+厨	U+53A8	jinmeiyo	1	2425	kitchen
+厩	U+53A9	jinmeiyo	1		barn; stable
+叉	U+53C9	jinmeiyo	1		fork in road; crotch
+叡	U+53E1	jinmeiyo	1		intelligence; imperial
+叢	U+53E2	jinmeiyo	1	2436	plexus; clump of bushes; thicket
+只	U+53EA	jinmeiyo	1	2288	only; free; in addition
+叶	U+53F6	jinmeiyo	1	2312	grant; answer
+吞	U+541E	jinmeiyo	0213		swallow; absorb; annex; engulf
+吻	U+543B	jinmeiyo	1		proboscis
+吾	U+543E	jinmeiyo	1	1828	I; my; our; one's own
+哉	U+54C9	jinmeiyo	1		how; what; alas; question mark; exclamation mark
+哨	U+54E8	jinmeiyo	1	1999	scout; sentinel
+哩	U+54E9	jinmeiyo	1		mile
+啄	U+5544	jinmeiyo	1	2463	peck; pick up
+喋	U+558B	jinmeiyo	1	2403	talk; chat; chatter
+喧	U+55A7	jinmeiyo	1	2249	noisy; boisterous
+喬	U+55AC	jinmeiyo	1	1962	high; boasting
+喰	U+55B0	jinmeiyo	1		eat; drink; receive (a blow); (kokuji)
+嘉	U+5609	jinmeiyo	1	1553	applaud; praise; esteem; happy; auspicious
+嘗	U+5617	jinmeiyo	1		once; before; formerly; ever; never; ex-; lick; lap up; burn
+嘩	U+5629	jinmeiyo	1		noisy
+噂	U+5642	jinmeiyo	1	2298	rumor; gossip; hearsay
+噌	U+564C	jinmeiyo	1		boisterous
+圃	U+5703	jinmeiyo	1		garden; field
+圭	U+572D	jinmeiyo	1	1837	square jewel; corner; angle; edge
+坐	U+5750	jinmeiyo	1	2337	sit
+坦	U+5766	jinmeiyo	1		level; wide
+埴	U+57F4	jinmeiyo	1	2150	clay
+堯	U+582F	jinmeiyo	1		high; far
+堰	U+5830	jinmeiyo	1	1913	dam; prevent; stop up
+堵	U+5835	jinmeiyo	1		fence; railing; enclosure
+堺	U+583A	jinmeiyo	1	1846	world
+塙	U+5859	jinmeiyo	1	2340	projecting tableland or mountain
+壕	U+58D5	jinmeiyo	1	2273	trench; dugout; air raid shelter
+壬	U+58EC	jinmeiyo	1	2499	9th calendar sign
+夷	U+5937	jinmeiyo	1	2324	barbarian; savage; Ainu
+奄	U+5944	jinmeiyo	1	2047	cover; suffocate; obstruct
+奎	U+594E	jinmeiyo	1		star; god of literature
+套	U+5957	jinmeiyo	1		accumulate; big and long; hackneyed
+姥	U+59E5	jinmeiyo	1		old woman
+姪	U+59EA	jinmeiyo	1		niece
+娃	U+5A03	jinmeiyo	1		beautiful
+娩	U+5A29	jinmeiyo	1		bear (children)
+嬉	U+5B09	jinmeiyo	1	2274	glad; pleased; rejoice
+孜	U+5B5C	jinmeiyo	1	1457	industriousness
+孟	U+5B5F	jinmeiyo	1	2127	chief; beginning
+宋	U+5B8B	jinmeiyo	1	2058	dwell; Sung dynasty
+宏	U+5B8F	jinmeiyo	1	1277	wide; large
+宕	U+5B95	jinmeiyo	1	2248	cave
+宥	U+5BA5	jinmeiyo	1		soothe; calm; pacify
+寅	U+5BC5	jinmeiyo	1	1975	sign of the tiger; 3-5AM; third sign of Chinese zodiac
+寓	U+5BD3	jinmeiyo	1	2330	temporary abode; imply; suggest
+寵	U+5BF5	jinmeiyo	1		affection; love; patronage
+尖	U+5C16	jinmeiyo	1	2133	be pointed; sharp; taper; displeased; angry; edgy
+尤	U+5C24	jinmeiyo	1		reasonable; just; natural; superb; outstanding; plausible
+尭	U+5C2D	jinmeiyo	1	2136	high; far
+屑	U+5C51	jinmeiyo	1		rubbish; junk; trash; waste; scraps
+峨	U+5CE8	jinmeiyo	1	2234	high mountain
+峻	U+5CFB	jinmeiyo	1	1997	high; steep
+崚	U+5D1A	jinmeiyo	1		mountains towering in a row
+嵩	U+5D69	jinmeiyo	1		be aggravated; grow worse; grow bulky; swell
+嵯	U+5D6F	jinmeiyo	1	2191	steep; craggy; rugged
+嶺	U+5DBA	jinmeiyo	1	1959	peak; summit
+巌	U+5DCC	jinmeiyo	1	1986	rock; crag; boulder
+巖	U+5DD6	jinmeiyo	1		rock; crag; boulder
+巫	U+5DEB	jinmeiyo	1		sorcerer; medium; shrine maiden
+已	U+5DF2	jinmeiyo	1	2140	stop; halt; previously; already; long ago
+巳	U+5DF3	jinmeiyo	1	2142	sign of the snake or serpent; 9-11AM; sixth sign of Chinese 
+巴	U+5DF4	jinmeiyo	1	2082	comma-design
+巷	U+5DF7	jinmeiyo	1	2415	fork in road; scene; arena; theater
+巽	U+5DFD	jinmeiyo	1	2061	southeast
+帖	U+5E16	jinmeiyo	1	2208	quire (of paper); bundle of seaweed; counter for screens; no
+幌	U+5E4C	jinmeiyo	1	1309	canopy; awning; hood; curtain
+幡	U+5E61	jinmeiyo	1	1948	flag
+庄	U+5E84	jinmeiyo	1	1693	level; in the country; manor; village; hamlet
+庇	U+5E87	jinmeiyo	1		protect; shield; defend; eaves; canopy; penthouse; visor
+庚	U+5E9A	jinmeiyo	1		7th; 7th calendar sign
+庵	U+5EB5	jinmeiyo	1	2119	hermitage; retreat
+廟	U+5EDF	jinmeiyo	1	2101	mausoleum; shrine; palace
+廻	U+5EFB	jinmeiyo	1		round; game; revolve; go around; circumference
+廿	U+5EFF	jinmeiyo	1		twenty
+弘	U+5F18	jinmeiyo	1	1059	vast; broad; wide
+弛	U+5F1B	jinmeiyo	1	2497	slacken; relax
+彗	U+5F57	jinmeiyo	1	2294	comet; broom
+彦	U+5F66	jinmeiyo	1	1117	lad; boy; fine young man
+彪	U+5F6A	jinmeiyo	1	2397	spotted; mottled; patterned; small tiger
+彬	U+5F6C	jinmeiyo	1	2174	refined; gentle
+徠	U+5FA0	jinmeiyo	1		induce; encourage to come
+徽	U+5FBD	jinmeiyo	1		good; beautiful; badge
+忽	U+5FFD	jinmeiyo	1		in a moment; instantly; all of a sudden; neglect; disregard
+怜	U+601C	jinmeiyo	1	2450	wise
+恕	U+6055	jinmeiyo	1		excuse; tolerate; forgive
+恢	U+6062	jinmeiyo	1		wide; large; enlarge
+恰	U+6070	jinmeiyo	1		just as; as though; fortunately
+悉	U+6089	jinmeiyo	1		all; entirely; altogether; completely; use up; run out of; e
+悌	U+608C	jinmeiyo	1	2474	serving our elders
+惇	U+60C7	jinmeiyo	1	2265	sincere; kind; considerate
+惚	U+60DA	jinmeiyo	1	2486	fall in love with; admire; grow senile
+惟	U+60DF	jinmeiyo	1	2246	consider; reflect; think
+惣	U+60E3	jinmeiyo	1	2211	all
+惹	U+60F9	jinmeiyo	1		attract; captivate
+惺	U+60FA	jinmeiyo	1		realize
+慧	U+6167	jinmeiyo	1	2168	wise
+憐	U+6190	jinmeiyo	1		pity; have mercy; sympathise; compassion
+戊	U+620A	jinmeiyo	1		5th calendar sign
+或	U+6216	jinmeiyo	1	2378	some; one; or; possibly; a certain
+戟	U+621F	jinmeiyo	1		halbert; arms
+托	U+6258	jinmeiyo	1		requesting; entrusting with; pretend; hint
+按	U+6309	jinmeiyo	1		hold; consider; investigate
+挺	U+633A	jinmeiyo	1	2189	bravely volunteer; counter for guns, inksticks, palanquins, 
+挽	U+633D	jinmeiyo	1		saw; turn (lathe); grind
+捧	U+6367	jinmeiyo	1	2286	lift up; give; offer; consecrate; sacrifice; dedicate
+捲	U+6372	jinmeiyo	1		roll; wind; coil; turn pages; roll up sleeves; strip off; be
+捷	U+6377	jinmeiyo	1		victory; fast
+捺	U+637A	jinmeiyo	1		press; print; affix a seal; stamp
+掠	U+63A0	jinmeiyo	1		pillage; rob; graze; skim; sweep over; cheat; hint
+掬	U+63AC	jinmeiyo	1		scoop up water with the hand
+揃	U+63C3	jinmeiyo	1	2412	be complete; uniform; all present
+摑	U+6451	jinmeiyo	0213		box one's ears; slap
+摺	U+647A	jinmeiyo	1		rub; fold; print (on cloth)
+撒	U+6492	jinmeiyo	1		scatter; sprinkle; give them the slip
+撞	U+649E	jinmeiyo	1		thrust; pierce; stab; prick
+撫	U+64AB	jinmeiyo	1	2402	stroke; pat; smooth down
+播	U+64AD	jinmeiyo	1	2204	plant; sow
+撰	U+64B0	jinmeiyo	1		composing; editing; compiling; selecting
+擢	U+64E2	jinmeiyo	1		excel in; surpass; pull out; select
+敦	U+6566	jinmeiyo	1	1695	industry; kindliness
+斐	U+6590	jinmeiyo	1	2103	beautiful; patterned
+斡	U+65A1	jinmeiyo	1		go around; rule; administer
+斧	U+65A7	jinmeiyo	1		ax; hatchet
+斯	U+65AF	jinmeiyo	1		this; thus; such; verbal pause
+於	U+65BC	jinmeiyo	1	2113	at; in; on; as for
+旭	U+65ED	jinmeiyo	1	1417	rising sun; morning sun
+昂	U+6602	jinmeiyo	1		rise
+昊	U+660A	jinmeiyo	1		sky; big
+昌	U+660C	jinmeiyo	1	1372	prosperous; bright; clear
+昏	U+660F	jinmeiyo	1		dark; evening; dusk
+昴	U+6634	jinmeiyo	1		the Pleiades
+晃	U+6643	jinmeiyo	1	1666	clear
+晄	U+6644	jinmeiyo	1		clear
+晋	U+664B	jinmeiyo	1	1655	advance
+晏	U+664F	jinmeiyo	1		late; quiet; sets (sun)
+晒	U+6652	jinmeiyo	1		bleach; refine; expose; air
+晟	U+665F	jinmeiyo	1		clear
+晦	U+6666	jinmeiyo	1		dark; disappear
+晨	U+6668	jinmeiyo	1		morning; early
+智	U+667A	jinmeiyo	1	1002	wisdom; intellect; reason
+暉	U+6689	jinmeiyo	1	2285	shine; light
+暢	U+66A2	jinmeiyo	1	2144	stretch
+曙	U+66D9	jinmeiyo	1	1518	dawn; daybreak
+曝	U+66DD	jinmeiyo	1		bleach; refine; expose; air
+曳	U+66F3	jinmeiyo	1		pull; tug; jerk; admit; install; quote; refer to
+朋	U+670B	jinmeiyo	1	2039	companion; friend
+朔	U+6714	jinmeiyo	1	2318	conjunction (astronomy); first day of month; north
+李	U+674E	jinmeiyo	1	1147	plum
+杏	U+674F	jinmeiyo	1	2159	apricot
+杖	U+6756	jinmeiyo	1	2387	staff; cane
+杜	U+675C	jinmeiyo	1	2062	woods; grove
+杭	U+676D	jinmeiyo	1	2329	stake; post; picket
+杵	U+6775	jinmeiyo	1	2355	wooden pestle
+杷	U+6777	jinmeiyo	1		kind of rake; loquat
+枇	U+6787	jinmeiyo	1		loquat; spoon
+柊	U+67CA	jinmeiyo	1		holly
+柏	U+67CF	jinmeiyo	1	1606	oak; cypress
+柑	U+67D1	jinmeiyo	1		citrus; orange
+柘	U+67D8	jinmeiyo	1		wild mulberry
+柚	U+67DA	jinmeiyo	1	2489	citron
+柴	U+67F4	jinmeiyo	1	1638	brush; firewood
+柾	U+67FE	jinmeiyo	1		straight grain; spindle tree; (kokuji)
+栖	U+6816	jinmeiyo	1		nest; rookery; hive; cobweb; den
+栗	U+6817	jinmeiyo	1	1550	chestnut
+栞	U+681E	jinmeiyo	1		bookmark; guidebook
+桂	U+6842	jinmeiyo	1	1651	Japanese Judas-tree; cinnamon tree
+桐	U+6850	jinmeiyo	1	1668	paulownia
+桔	U+6854	jinmeiyo	1		used in plant names
+桧	U+6867	jinmeiyo	1	2056	Japanese cypress
+桶	U+6876	jinmeiyo	1	2210	tub; bucket
+梁	U+6881	jinmeiyo	1	2017	weir; fish trap; beam; girder
+梓	U+6893	jinmeiyo	1	2301	catalpa tree; woodblock printing
+梛	U+689B	jinmeiyo	1		type of tall evergreen tree
+梢	U+68A2	jinmeiyo	1		treetops; twig
+梧	U+68A7	jinmeiyo	1		Chinese parasol tree; phoenix tree
+梯	U+68AF	jinmeiyo	1	2218	ladder; stairs; insatiable drinking
+梶	U+68B6	jinmeiyo	1	1355	sculling oar
+棲	U+68F2	jinmeiyo	1		live; dwell
+椀	U+6900	jinmeiyo	1		wooden or lacquered bowl
+椋	U+690B	jinmeiyo	1		type of deciduous tree; grey starling
+椛	U+691B	jinmeiyo	1		autumn foliage; birch; maple; (kokuji)
+椰	U+6930	jinmeiyo	1		coconut tree
+椿	U+693F	jinmeiyo	1	1829	camellia
+楊	U+694A	jinmeiyo	1	1815	willow
+楓	U+6953	jinmeiyo	1		maple
+楕	U+6955	jinmeiyo	1	2476	ellipse
+楚	U+695A	jinmeiyo	1		whip; cane
+楠	U+6960	jinmeiyo	1	1927	camphor tree
+楢	U+6962	jinmeiyo	1	2032	oak
+楯	U+696F	jinmeiyo	1		shield; buckler; pretext
+榊	U+698A	jinmeiyo	1	2094	sacred Shinto tree; (kokuji)
+榎	U+698E	jinmeiyo	1	1945	lotus tree; nettle tree; hackberry
+榛	U+699B	jinmeiyo	1	2205	hazelnut; filbert
+槇	U+69C7	jinmeiyo	1		twig; Chinese black pine
+槌	U+69CC	jinmeiyo	1	2462	hammer; mallet
+槍	U+69CD	jinmeiyo	1	2261	spear; lance; javelin
+槙	U+69D9	jinmeiyo	1	1983	twig; ornamental evergreen
+槻	U+69FB	jinmeiyo	1	2008	Zelkova tree
+樋	U+6A0B	jinmeiyo	1	1814	water pipe; gutter; downspout; conduit
+樟	U+6A1F	jinmeiyo	1	2252	camphor
+樫	U+6A2B	jinmeiyo	1	2297	evergreen oak; (kokuji)
+樺	U+6A3A	jinmeiyo	1	1982	birch; dark red
+樽	U+6A3D	jinmeiyo	1	1981	barrel; cask; keg
+橘	U+6A58	jinmeiyo	1	2053	mandarin orange
+橙	U+6A59	jinmeiyo	1		bitter orange
+檀	U+6A80	jinmeiyo	1	2291	cedar; sandalwood; spindle tree
+檎	U+6A8E	jinmeiyo	1		apple
+檜	U+6A9C	jinmeiyo	1	2090	Japanese cypress
+櫂	U+6AC2	jinmeiyo	1		oar; scull; paddle
+櫓	U+6AD3	jinmeiyo	1		oar; tower
+櫛	U+6ADB	jinmeiyo	1	2256	comb
+欣	U+6B23	jinmeiyo	1	2071	take pleasure in; rejoice
+欽	U+6B3D	jinmeiyo	1	2181	respect; revere; long for
+歎	U+6B4E	jinmeiyo	1		grief; lamentation
+此	U+6B64	jinmeiyo	1	2078	this; current; next; coming; last; past
+殆	U+6B86	jinmeiyo	1		almost; quite; really
+毅	U+6BC5	jinmeiyo	1	1770	strong
+毘	U+6BD8	jinmeiyo	1		help; assist
+毬	U+6BEC	jinmeiyo	1	2431	burr; ball
+汀	U+6C40	jinmeiyo	1		water's edge; shore; bank
+汐	U+6C50	jinmeiyo	1	2314	eventide; tide; salt water; opportunity
+汝	U+6C5D	jinmeiyo	1		you; thou
+汲	U+6C72	jinmeiyo	1		draw (water); ladle; scoop; pump
+沌	U+6C8C	jinmeiyo	1		primeval chaos
+沓	U+6C93	jinmeiyo	1		shoes; boots
+沫	U+6CAB	jinmeiyo	1		splash; suds
+洛	U+6D1B	jinmeiyo	1	2302	Kyoto; the capital
+洲	U+6D32	jinmeiyo	1	1979	continent; sandbar; island; country
+洵	U+6D35	jinmeiyo	1		alike; truth
+洸	U+6D38	jinmeiyo	1	2430	sparkling water
+浩	U+6D69	jinmeiyo	1	1149	wide expanse; abundance; vigorous
+浬	U+6D6C	jinmeiyo	1		knot; nautical mile
+淀	U+6DC0	jinmeiyo	1	1987	pool; eddy
+淋	U+6DCB	jinmeiyo	1		lonely; deserted
+淳	U+6DF3	jinmeiyo	1	1629	pure
+淵	U+6DF5	jinmeiyo	1	1593	abyss; edge; deep pool; the depths
+渚	U+6E1A	jinmeiyo	1	2226	strand; beach; shore
+渥	U+6E25	jinmeiyo	1	2257	kindness; moisten
+渾	U+6E3E	jinmeiyo	1		all; turbidity
+湊	U+6E4A	jinmeiyo	1	2222	port; harbor
+湘	U+6E58	jinmeiyo	1	1909	name of Chinese river; the Sagami river
+湛	U+6E5B	jinmeiyo	1	2183	fill; wear (a smile); clear; pure; dense; deep
+溜	U+6E9C	jinmeiyo	1	2451	collect; gather; be in arrears
+溢	U+6EA2	jinmeiyo	1	2405	overflow; inundate; spill
+滉	U+6EC9	jinmeiyo	1		deep and broad (water)
+漕	U+6F15	jinmeiyo	1	2354	rowing; scull; paddle
+漣	U+6F23	jinmeiyo	1		ripples
+漱	U+6F31	jinmeiyo	1	2054	gargle; rinse mouth
+澪	U+6FAA	jinmeiyo	1		water route; shipping channel
+濡	U+6FE1	jinmeiyo	1	2260	get wet; damp; make love
+瀕	U+7015	jinmeiyo	1	2367	shore; brink; verge
+灘	U+7058	jinmeiyo	1	1912	open sea
+灸	U+7078	jinmeiyo	1		moxa cautery; chastisement
+灼	U+707C	jinmeiyo	1		miraculous
+烏	U+70CF	jinmeiyo	1	2042	crow; raven
+焚	U+711A	jinmeiyo	1		burn; kindle; build a fire; boil; cook
+焰	U+7130	jinmeiyo	0213		flame; blaze; glowing; blazing
+煉	U+7149	jinmeiyo	1		refine metals; kneading over fire
+煌	U+714C	jinmeiyo	1		glitter; gleam; twinkle
+煤	U+7164	jinmeiyo	1		soot; smoke dried
+熙	U+7199	jinmeiyo	1		bright; sunny; prosperous; merry
+燎	U+71CE	jinmeiyo	1		burn; bonfire
+燕	U+71D5	jinmeiyo	1	2147	swallow (bird)
+燦	U+71E6	jinmeiyo	1		brilliant
+燭	U+71ED	jinmeiyo	1		light; candlepower
+燿	U+71FF	jinmeiyo	1		shine
+爾	U+723E	jinmeiyo	1		you; thou; second person
+牒	U+7252	jinmeiyo	1		label; genealogy; circular
+牟	U+725F	jinmeiyo	1	2092	pupil (eye); moo (cow sound)
+牡	U+7261	jinmeiyo	1	2155	male
+牽	U+727D	jinmeiyo	1		pull; tug; drag; lead by hand
+犀	U+7280	jinmeiyo	1	2426	rhinoceros
+狼	U+72FC	jinmeiyo	1	2129	wolf
+猪	U+732A	jinmeiyo	1	1684	boar
+獅	U+7345	jinmeiyo	1	1914	lion
+玖	U+7396	jinmeiyo	1		beautiful black jewel; nine
+玲	U+73B2	jinmeiyo	1	1931	sound of jewels
+珀	U+73C0	jinmeiyo	1		amber
+珂	U+73C2	jinmeiyo	1	2227	jewel
+珈	U+73C8	jinmeiyo	1		ornamental hairpin
+珊	U+73CA	jinmeiyo	1		coral; centimeter
+琉	U+7409	jinmeiyo	1	2036	precious stone; gem; lapis lazuli
+琢	U+7422	jinmeiyo	1	2022	polish
+琥	U+7425	jinmeiyo	1		jewelled utensil
+琳	U+7433	jinmeiyo	1		jewel; tinkling of jewelry
+琵	U+7435	jinmeiyo	1	1965	glissando on strings; lute
+琶	U+7436	jinmeiyo	1	1966	lute
+瑚	U+745A	jinmeiyo	1		ancestral offering receptacle; coral
+瑛	U+745B	jinmeiyo	1	2393	sparkle of jewelry; crystal
+瑞	U+745E	jinmeiyo	1	1873	congratulations
+瑳	U+7473	jinmeiyo	1		polish; brilliant white luster of a gem; artful smile
+瑶	U+7476	jinmeiyo	1		beautiful as a jewel
+瓜	U+74DC	jinmeiyo	1	2459	melon
+瓢	U+74E2	jinmeiyo	1		gourd
+甥	U+7525	jinmeiyo	1		nephew
+甫	U+752B	jinmeiyo	1	2270	for the first time; not until
+畠	U+7560	jinmeiyo	1	1860	field; farm; garden; (kokuji)
+畢	U+7562	jinmeiyo	1		the end; finish
+疋	U+758B	jinmeiyo	1		head; counter for animals
+疏	U+758F	jinmeiyo	1		pass through; note; commentary; estrangement; sparseness; ne
+皐	U+7690	jinmeiyo	1	2240	swamp; shore; fifth month
+皓	U+7693	jinmeiyo	1	2428	white; clear
+眸	U+7738	jinmeiyo	1		pupil of the eye
+瞥	U+77A5	jinmeiyo	1		glance at
+矩	U+77E9	jinmeiyo	1	2380	ruler; carpenter's square
+砥	U+7825	jinmeiyo	1		whetstone; grindstone
+砦	U+7826	jinmeiyo	1	2304	fort; stronghold; entrenchments
+砧	U+7827	jinmeiyo	1		fulling block
+硯	U+786F	jinmeiyo	1	2500	inkstone
+碓	U+7893	jinmeiyo	1	2364	pestle
+碗	U+7897	jinmeiyo	1		porcelain bowl; tea cup
+碧	U+78A7	jinmeiyo	1	2455	blue; green
+碩	U+78A9	jinmeiyo	1		large; great; eminent
+磐	U+78D0	jinmeiyo	1	1701	rock; crag; cliff; wall (in a mine)
+磯	U+78EF	jinmeiyo	1	1444	seashore; beach
+祁	U+7941	jinmeiyo	1		intense; large
+祇	U+7947	jinmeiyo	1	2169	national or local god; peaceful; great
+祐	U+7950	jinmeiyo	1	1706	help
+祢	U+7962	jinmeiyo	1		ancestral shrine
+祷	U+7977	jinmeiyo	1		pray
+祿	U+797F	jinmeiyo	1		fief; allowance; pension; grant; happiness
+禄	U+7984	jinmeiyo	1	2126	fief; allowance; pension; grant; happiness
+禎	U+798E	jinmeiyo	1	2083	happiness; blessed; good fortune; auspicious
+禰	U+79B0	jinmeiyo	1		ancestral shrine
+禱	U+79B1	jinmeiyo	0213		pray; entreat; beg; plead; prayer
+禽	U+79BD	jinmeiyo	1		bird; captive; capture
+禾	U+79BE	jinmeiyo	1		two-branch tree radical (no. 115)
+秤	U+79E4	jinmeiyo	1		balances; scales; steelyard
+秦	U+79E6	jinmeiyo	1	1894	Qin dynasty; name given to naturalized foreigners
+稀	U+7A00	jinmeiyo	1	2232	rare; phenomenal; dilute (acid)
+稔	U+7A14	jinmeiyo	1	1775	harvest; ripen
+稜	U+7A1C	jinmeiyo	1	2091	angle; edge; corner; power; majesty
+稟	U+7A1F	jinmeiyo	1		salary in rice
+穣	U+7A63	jinmeiyo	1	2464	good crops; prosperity; 10**28
+穰	U+7A70	jinmeiyo	1		abundance
+穹	U+7A79	jinmeiyo	1		sky
+穿	U+7A7F	jinmeiyo	1		put on (to the feet); dig; pierce; drill
+窄	U+7A84	jinmeiyo	1		narrow; fold; furl; shrug; pucker; shut; close
+窪	U+7AAA	jinmeiyo	1	1853	depression; cave in; sink; become hollow
+窺	U+7ABA	jinmeiyo	1		lie in wait; spy on; reconnoiter
+竣	U+7AE3	jinmeiyo	1		end; finish
+竪	U+7AEA	jinmeiyo	1	2370	length; height; warp
+竺	U+7AFA	jinmeiyo	1		bamboo
+竿	U+7AFF	jinmeiyo	1	2416	pole; rod; scale beam; violin neck
+笈	U+7B08	jinmeiyo	1		backpack bookcase
+笙	U+7B19	jinmeiyo	1		a reed instrument
+笠	U+7B20	jinmeiyo	1	1499	bamboo hat; one's influence
+笹	U+7B39	jinmeiyo	1	1743	bamboo grass; (kokuji)
+筈	U+7B48	jinmeiyo	1		notch of an arrow; ought; must; should be; expected
+筑	U+7B51	jinmeiyo	1	1530	an ancient musical instrument
+箔	U+7B94	jinmeiyo	1		foil; gilt
+箕	U+7B95	jinmeiyo	1	2023	winnowing
+篇	U+7BC7	jinmeiyo	1	2076	volume; chapter; book; editing; compilation
+篠	U+7BE0	jinmeiyo	1	1556	bamboo grass
+簞	U+7C1E	jinmeiyo	0213		small bamboo basket for holding
+簾	U+7C3E	jinmeiyo	1		bamboo screen; rattan blind
+籾	U+7C7E	jinmeiyo	1		unhulled rice; (kokuji)
+粟	U+7C9F	jinmeiyo	1	2146	millet
+粥	U+7CA5	jinmeiyo	1	2280	rice gruel
+糊	U+7CCA	jinmeiyo	1		paste; glue; sizing
+紐	U+7D10	jinmeiyo	1		string; cord; braid; lace; tape; strap; ribbon
+紗	U+7D17	jinmeiyo	1		gauze; gossamer
+紘	U+7D18	jinmeiyo	1	1685	large
+紬	U+7D2C	jinmeiyo	1		pongee (a knotted silk cloth)
+絃	U+7D43	jinmeiyo	1		string; cord; samisen music
+絆	U+7D46	jinmeiyo	1	2220	bonds; fetters
+絢	U+7D62	jinmeiyo	1	2315	brilliant fabric design
+綜	U+7D9C	jinmeiyo	1	2194	rule; synthesize
+綴	U+7DB4	jinmeiyo	1	2149	compose; spell; write; bind (books)
+綸	U+7DB8	jinmeiyo	1		thread; silk cloth
+綺	U+7DBA	jinmeiyo	1	2413	figured cloth; beautiful
+綾	U+7DBE	jinmeiyo	1	1759	design; figured cloth; twill
+緋	U+7DCB	jinmeiyo	1	2443	scarlet; cardinal
+縞	U+7E1E	jinmeiyo	1	2491	stripe
+繡	U+7E61	jinmeiyo	0213		embroider; embroidery; ornament
+繫	U+7E6B	jinmeiyo	0213		attach; connect; unite; fasten
+纂	U+7E82	jinmeiyo	1		editing; compiling
+纏	U+7E8F	jinmeiyo	1		wear; wrap; tie; follow around; collect
+羚	U+7F9A	jinmeiyo	1		antelope
+翔	U+7FD4	jinmeiyo	1	1936	soar; fly
+翠	U+7FE0	jinmeiyo	1	2200	green; kingfisher
+耀	U+8000	jinmeiyo	1	2253	shine; sparkle; gleam; twinkle
+而	U+800C	jinmeiyo	1		and yet; and then; but; however; nevertheless
+耶	U+8036	jinmeiyo	1		question mark
+耽	U+803D	jinmeiyo	1		addicted; absorbed in
+聡	U+8061	jinmeiyo	1	1507	wise; fast learner
+肇	U+8087	jinmeiyo	1	1943	beginning
+肋	U+808B	jinmeiyo	1		rib
+肴	U+80B4	jinmeiyo	1		accompaniment for drinks
+胡	U+80E1	jinmeiyo	1	1995	barbarian; foreign
+胤	U+80E4	jinmeiyo	1		descendent; issue; offspring
+脩	U+8129	jinmeiyo	1	2267	dried meat
+脹	U+8139	jinmeiyo	1		dilate; distend; bulge; fill out; swell
+腔	U+8154	jinmeiyo	1		body cavity
+膏	U+818F	jinmeiyo	1		fat; grease; lard; paste; ointment; plaster
+臥	U+81E5	jinmeiyo	1		bend down; bow; lie prostrate
+舜	U+821C	jinmeiyo	1	2384	type of morning glory; rose of Sharon; althea
+舵	U+8235	jinmeiyo	1	2225	rudder; helm; wheel
+芙	U+8299	jinmeiyo	1	2238	lotus; Mt Fuji
+芥	U+82A5	jinmeiyo	1	1929	mustard; rape; dust; trash; rubbish
+芦	U+82A6	jinmeiyo	1	1733	reed; bullrush
+芭	U+82AD	jinmeiyo	1	2026	banana
+芹	U+82B9	jinmeiyo	1	2158	parsley
+苑	U+82D1	jinmeiyo	1	2060	garden; farm; park
+苔	U+82D4	jinmeiyo	1		moss; lichen
+苺	U+82FA	jinmeiyo	1		strawberry
+茄	U+8304	jinmeiyo	1		eggplant
+茅	U+8305	jinmeiyo	1	1895	miscanthus reed
+茉	U+8309	jinmeiyo	1		jasmine
+茜	U+831C	jinmeiyo	1	2422	madder; red dye; Turkey red
+茸	U+8338	jinmeiyo	1		mushroom
+荻	U+837B	jinmeiyo	1	1630	reed; rush
+莉	U+8389	jinmeiyo	1		jasmine
+莞	U+839E	jinmeiyo	1		smiling; reed used to cover tatami
+莫	U+83AB	jinmeiyo	1		must not; do not; be not
+菅	U+83C5	jinmeiyo	1	1562	sedge
+菖	U+83D6	jinmeiyo	1		iris
+菩	U+83E9	jinmeiyo	1	2086	kind of grass; sacred tree
+菫	U+83EB	jinmeiyo	1		the violet
+菱	U+83F1	jinmeiyo	1	1229	diamond (shape); water chestnut; rhombus
+萄	U+8404	jinmeiyo	1		grape vine; wild grape
+萊	U+840A	jinmeiyo	0213		goosefoot; weed; fallow field
+萌	U+840C	jinmeiyo	1	2346	show symptoms of; sprout; bud; malt
+萠	U+8420	jinmeiyo	1		show symptoms of; sprout; bud; malt
+萩	U+8429	jinmeiyo	1	1544	bush clover
+萱	U+8431	jinmeiyo	1	2217	miscanthus reed
+葡	U+8461	jinmeiyo	1		wild grape; Portugal
+董	U+8463	jinmeiyo	1		correct
+葦	U+8466	jinmeiyo	1	2343	reed; bullrush
+葵	U+8475	jinmeiyo	1	2122	hollyhock
+葺	U+847A	jinmeiyo	1		thatch; cover; shingle; tile
+蒐	U+8490	jinmeiyo	1		gather
+蒔	U+8494	jinmeiyo	1	2368	sow (seeds)
+蒙	U+8499	jinmeiyo	1	2360	ignorance; darkness; get; receive; be subjected to; sustain;
+蒲	U+84B2	jinmeiyo	1	1887	bullrush; flag; cattail
+蒼	U+84BC	jinmeiyo	1	2276	blue; pale
+蓉	U+84C9	jinmeiyo	1		lotus
+蓑	U+84D1	jinmeiyo	1		straw raincoat
+蓬	U+84EC	jinmeiyo	1		sagebrush; wormwood; mugwort
+蓮	U+84EE	jinmeiyo	1	1839	lotus
+蔓	U+8513	jinmeiyo	1		vine; tendril; influence; connections; good offices; spread;
+蔣	U+8523	jinmeiyo	0213		surname; hydropyrum latifalium
+蔦	U+8526	jinmeiyo	1	2215	vine; ivy
+蔭	U+852D	jinmeiyo	1	2166	shade; shadow; backing assistance
+蕃	U+8543	jinmeiyo	1	2361	grow luxuriously
+蕉	U+8549	jinmeiyo	1	2033	banana; plantain
+蕎	U+854E	jinmeiyo	1		buckwheat
+蕗	U+8557	jinmeiyo	1		butterbur; bog rhubarb
+蕨	U+8568	jinmeiyo	1	2307	bracken; fernbrake
+蕪	U+856A	jinmeiyo	1		turnip
+蕾	U+857E	jinmeiyo	1		bud (plants, mushrooms not yet opened)
+薙	U+8599	jinmeiyo	1		mow down (the enemy)
+薩	U+85A9	jinmeiyo	1	1984	salvation; Buddha
+藁	U+85C1	jinmeiyo	1	2488	straw
+蘇	U+8607	jinmeiyo	1	1968	be resuscitated; revived; perilla; shiso
+蘭	U+862D	jinmeiyo	1	1886	orchid; Holland
+蝦	U+8766	jinmeiyo	1	2501	shrimp; prawn; lobster
+蝶	U+8776	jinmeiyo	1	2011	butterfly
+螺	U+87BA	jinmeiyo	1		small, edible, helical fresh-water mollusk
+蟬	U+87EC	jinmeiyo	0213		cicada; continuous
+蟹	U+87F9	jinmeiyo	1	2417	crab
+蠟	U+881F	jinmeiyo	0213		wax; candle; waxy; glazed
+衿	U+887F	jinmeiyo	1		neck; collar; lapel
+袈	U+8888	jinmeiyo	1		a coarse camlet
+袴	U+88B4	jinmeiyo	1	2175	men's formal divided skirt
+裟	U+88DF	jinmeiyo	1		Buddhist surplice
+裡	U+88E1	jinmeiyo	1		reverse; inside; palm; sole; rear; lining; wrong side
+裳	U+88F3	jinmeiyo	1		skirt
+襖	U+8956	jinmeiyo	1		opaque sliding door
+訊	U+8A0A	jinmeiyo	1		request; question; investigate
+訣	U+8A23	jinmeiyo	1		separation; part; secret
+註	U+8A3B	jinmeiyo	1		notes; comment; annotate
+詢	U+8A62	jinmeiyo	1		consult with
+詫	U+8A6B	jinmeiyo	1	2481	apologize
+誼	U+8ABC	jinmeiyo	1		friendship; intimacy
+諄	U+8AC4	jinmeiyo	1		tedious
+諏	U+8ACF	jinmeiyo	1	1949	consult
+諒	U+8AD2	jinmeiyo	1		fact; reality; understand; appreciate
+諺	U+8AFA	jinmeiyo	1		proverb
+謂	U+8B02	jinmeiyo	1		reason; origin; history; oral tradition
+讃	U+8B83	jinmeiyo	1	2179	praise; title on a picture
+豹	U+8C79	jinmeiyo	1		leopard; panther
+貰	U+8CB0	jinmeiyo	1	2441	get; have; obtain
+賑	U+8CD1	jinmeiyo	1		flourish; be bustling; prosperity
+赳	U+8D73	jinmeiyo	1	2114	strong and brave
+跨	U+8DE8	jinmeiyo	1		be; sit or stand astride; extend over; straddle
+蹄	U+8E44	jinmeiyo	1	2469	hoof
+蹟	U+8E5F	jinmeiyo	1		remains; traces; footprint
+輔	U+8F14	jinmeiyo	1	1898	help
+輯	U+8F2F	jinmeiyo	1		gather; collect; compile
+輿	U+8F3F	jinmeiyo	1		palanquin; bier; public opinion; the earth
+轟	U+8F5F	jinmeiyo	1	2438	roar; thunder; boom resound
+辰	U+8FB0	jinmeiyo	1	1600	sign of the dragon; 7-9AM; fifth sign of Chinese zodiac; shi
+辻	U+8FBB	jinmeiyo	1	1614	crossing; crossroad; street corners; (kokuji)
+辿	U+8FBF	jinmeiyo	1		follow (road); pursue
+迂	U+8FC2	jinmeiyo	1		roundabout way
+迄	U+8FC4	jinmeiyo	1		until; up to; as far as; to the extent
+迦	U+8FE6	jinmeiyo	1	2160	(used phonetically)
+迪	U+8FEA	jinmeiyo	1		edify; way; path
+逗	U+9017	jinmeiyo	1	2027	stop
+這	U+9019	jinmeiyo	1		crawl; creep; grovel; trail (vines)
+逞	U+901E	jinmeiyo	1		sturdy; brawny; bold
+逢	U+9022	jinmeiyo	1	2116	meeting; tryst; date; rendezvous
+遁	U+9041	jinmeiyo	1		flee; escape; shirk; evade; set free
+遙	U+9059	jinmeiyo	1		far off; distant; long ago
+遥	U+9065	jinmeiyo	1	2376	far off; distant; long ago
+遼	U+907C	jinmeiyo	1	2050	distant
+邑	U+9091	jinmeiyo	1	2452	village; rural community; right village radical (no. 163)
+郁	U+90C1	jinmeiyo	1	1920	cultural progress; perfume
+鄭	U+912D	jinmeiyo	1	1732	an ancient Chinese province
+酉	U+9149	jinmeiyo	1	2468	west; bird; sign of the bird; 5-7PM; tenth sign of Chinese z
+醇	U+9187	jinmeiyo	1		pure sake; purity; affection
+醍	U+918D	jinmeiyo	1	2303	whey; good Buddhist teaching
+醐	U+9190	jinmeiyo	1		boiled butter
+醬	U+91AC	jinmeiyo	0213		any jam-like or paste-like food
+釉	U+91C9	jinmeiyo	1		glaze; enamel
+釘	U+91D8	jinmeiyo	1	2496	nail; tack; peg
+釧	U+91E7	jinmeiyo	1	1751	bracelet
+銑	U+9291	jinmeiyo	1		pig iron
+鋒	U+92D2	jinmeiyo	1		dagger; sword's point; festival car; float
+鋸	U+92F8	jinmeiyo	1		saw (cuts wood)
+錆	U+9306	jinmeiyo	1		rust; tarnish
+錐	U+9310	jinmeiyo	1		auger; drill; awl; pyramid; cone
+錘	U+9318	jinmeiyo	1		weight; plumb bob; sinker; spindle
+錫	U+932B	jinmeiyo	1	2095	copper; tin
+鍬	U+936C	jinmeiyo	1		hoe with long blade at acute angle
+鎧	U+93A7	jinmeiyo	1		put on armor; arm oneself
+閃	U+9583	jinmeiyo	1		flash; brandish
+閏	U+958F	jinmeiyo	1		intercalation; illegitimate throne
+閤	U+95A4	jinmeiyo	1		small side gate
+阿	U+963F	jinmeiyo	1	1126	Africa; flatter; fawn upon; corner; nook; recess
+陀	U+9640	jinmeiyo	1		steep
+隈	U+9688	jinmeiyo	1	2311	corner; nook; recess
+隼	U+96BC	jinmeiyo	1	2224	falcon
+雀	U+96C0	jinmeiyo	1	1856	sparrow
+雁	U+96C1	jinmeiyo	1	2192	wild goose
+雛	U+96DB	jinmeiyo	1	2241	chick; squab; duckling; doll
+雫	U+96EB	jinmeiyo	1	2219	drop; trickle; dripping; (kokuji)
+霞	U+971E	jinmeiyo	1	1603	be hazy; grow dim; blurred
+靖	U+9756	jinmeiyo	1	1390	peaceful
+鞄	U+9784	jinmeiyo	1		suitcase; bag; briefcase
+鞍	U+978D	jinmeiyo	1	2214	saddle
+鞘	U+9798	jinmeiyo	1		sheath; case; margin; difference; shells (of beans)
+鞠	U+97A0	jinmeiyo	1		ball
+鞭	U+97AD	jinmeiyo	1		whip; rod; counter for whippings
+頁	U+9801	jinmeiyo	1		page; leaf
+頌	U+980C	jinmeiyo	1		eulogy
+頗	U+9817	jinmeiyo	1		prejudiced; exceedingly
+顚	U+985A	jinmeiyo	0213		top; peak; summit; upset
+颯	U+98AF	jinmeiyo	1		sudden; quick; sound of the wind
+饗	U+9957	jinmeiyo	1	2347	banquet
+馨	U+99A8	jinmeiyo	1	2164	fragrant; balmy; favourable
+馳	U+99B3	jinmeiyo	1		run; gallop; sail; drive (a wagon); win (fame); despatch
+馴	U+99B4	jinmeiyo	1		get used to; experienced; tamed
+駕	U+99D5	jinmeiyo	1		vehicle; palanquin; litter; hitch up an animal
+駿	U+99FF	jinmeiyo	1	1817	a good horse; speed; a fast person
+驍	U+9A4D	jinmeiyo	1		strong; good horse; gallant; brave; ferocious
+魁	U+9B41	jinmeiyo	1	2108	charging ahead of others
+魯	U+9B6F	jinmeiyo	1	2153	foolish; Russia
+鮎	U+9B8E	jinmeiyo	1	2201	freshwater trout; smelt
+鯉	U+9BC9	jinmeiyo	1	2369	carp
+鯛	U+9BDB	jinmeiyo	1	2446	sea bream; red snapper
+鰯	U+9C2F	jinmeiyo	1		sardine; (kokuji)
+鱒	U+9C52	jinmeiyo	1	2482	salmon trout
+鱗	U+9C57	jinmeiyo	1	2494	scales (fish)
+鳩	U+9CE9	jinmeiyo	1	1637	pigeon; dove
+鳳	U+9CF3	jinmeiyo	1	2163	male mythical bird
+鳶	U+9CF6	jinmeiyo	1		black kite; fireman; hook
+鴨	U+9D28	jinmeiyo	1	1797	wild duck; easy mark
+鴻	U+9D3B	jinmeiyo	1	2111	large bird; wild goose; large; great; powerful; prosperous
+鵜	U+9D5C	jinmeiyo	1	2118	cormorant
+鵬	U+9D6C	jinmeiyo	1	1707	phoenix
+鷗	U+9DD7	jinmeiyo	0213		seagull; tern
+鷲	U+9DF2	jinmeiyo	1	1925	eagle
+鷹	U+9DF9	jinmeiyo	1	1676	hawk
+鷺	U+9DFA	jinmeiyo	1	2172	heron
+麒	U+9E92	jinmeiyo	1		Chinese unicorn; genius; giraffe; bright; shining
+麟	U+9E9F	jinmeiyo	1		Chinese unicorn; genius; giraffe; bright; shining
+麿	U+9EBF	jinmeiyo	1		I; you; (kokuji)
+黎	U+9ECE	jinmeiyo	1	2335	dark; black; many
+黛	U+9EDB	jinmeiyo	1	2254	blackened eyebrows
+鼎	U+9F0E	jinmeiyo	1		three legged kettle
+猪	U+FA16	jinmeiyo	0213		pig
+渚	U+FA46	jinmeiyo	0213		
+琢	U+FA4A	jinmeiyo	0213		polish
+祐	U+FA4F	jinmeiyo	0213		help
+禎	U+FA53	jinmeiyo	0213		
+乘	U+4E58	jinmeiyo-variant	1		power; multiplication; record; counter for vehicles
+亞	U+4E9E	jinmeiyo-variant	1		rank; follow
+佛	U+4F5B	jinmeiyo-variant	1		France
+來	U+4F86	jinmeiyo-variant	1		come; due; next; cause; become
+傳	U+50B3	jinmeiyo-variant	1		summon; propagate; transmit
+僞	U+50DE	jinmeiyo-variant	1		lie; falsehood; deceive; pretend
+價	U+50F9	jinmeiyo-variant	1		price; value
+儉	U+5109	jinmeiyo-variant	1		economy; thrifty
+兒	U+5152	jinmeiyo-variant	1		child; young of animals
+冨	U+51A8	jinmeiyo-variant	1	1906	enrich; wealthy; abundant
+凉	U+51C9	jinmeiyo-variant	1		nice and cool
+剩	U+5269	jinmeiyo-variant	1		leftovers; residue; remains
+劍	U+528D	jinmeiyo-variant	1		sword
+勳	U+52F3	jinmeiyo-variant	1		meritorious deed; merits; rank
+卷	U+5377	jinmeiyo-variant	1		volume; book; part
+卽	U+537D	jinmeiyo-variant	0213		promptly; namely
+單	U+55AE	jinmeiyo-variant	1		one; single; simple
+嚴	U+56B4	jinmeiyo-variant	1		strictness; severity; rigidity
+圈	U+5708	jinmeiyo-variant	1		sphere; circle; radius; range
+國	U+570B	jinmeiyo-variant	1		country
+圓	U+5713	jinmeiyo-variant	1		yen; circle; round
+團	U+5718	jinmeiyo-variant	1		association
+埜	U+57DC	jinmeiyo-variant	1		open country; field; wilderness
+增	U+589E	jinmeiyo-variant	0213		increase; add to; augment
+壘	U+58D8	jinmeiyo-variant	1		fort; rampart; walls; base(ball)
+壞	U+58DE	jinmeiyo-variant	1		demolition; break; destroy
+壯	U+58EF	jinmeiyo-variant	1		big; large; robust; name of tribe
+壽	U+58FD	jinmeiyo-variant	1		longevity; congratulations
+奧	U+5967	jinmeiyo-variant	1		heart; interior
+奬	U+596C	jinmeiyo-variant	1		prize; reward; give award to
+孃	U+5B43	jinmeiyo-variant	1		girl; Miss; daughter
+寢	U+5BE2	jinmeiyo-variant	1		sleep; rest; bed chamber
+實	U+5BE6	jinmeiyo-variant	1		truth; reality
+寬	U+5BEC	jinmeiyo-variant	0213		broad; wide; spacious; vast
+將	U+5C07	jinmeiyo-variant	1		commander; general; admiral
+專	U+5C08	jinmeiyo-variant	1		specialty; exclusive; mainly; solely
+峯	U+5CEF	jinmeiyo-variant	1	2079	peak; summit
+峽	U+5CFD	jinmeiyo-variant	1		gorge; strait; ravine; isthmus
+嶋	U+5D8B	jinmeiyo-variant	1	1633	island
+巢	U+5DE2	jinmeiyo-variant	0213		nest; living quarter in tree
+帶	U+5E36	jinmeiyo-variant	1		belt; girdle; band; strap; zone
+廣	U+5EE3	jinmeiyo-variant	1	2487	broad; wide; spacious
+廳	U+5EF3	jinmeiyo-variant	1		hall; central room
+彈	U+5F48	jinmeiyo-variant	1		bullet; twang; flip; snap
+彌	U+5F4C	jinmeiyo-variant	1		extensive; full; fill; complete
+從	U+5F9E	jinmeiyo-variant	1		from; by; since; whence; through
+徵	U+5FB5	jinmeiyo-variant	0213		summon; recruit; musical note
+德	U+5FB7	jinmeiyo-variant	0213		ethics; morality; virtue
+恆	U+6046	jinmeiyo-variant	1		constant; regular; persistent
+惠	U+60E0	jinmeiyo-variant	1		blessing; grace; favor; kindness
+惡	U+60E1	jinmeiyo-variant	1		bad; evil
+愼	U+613C	jinmeiyo-variant	1		care; chastity
+應	U+61C9	jinmeiyo-variant	1		answer; yes; OK; reply; accept
+懷	U+61F7	jinmeiyo-variant	1		pocket; feelings; heart; yearn; miss someone; become attache
+戰	U+6230	jinmeiyo-variant	1		war; fighting; battle
+戲	U+6232	jinmeiyo-variant	1		play; frolic; sport
+拂	U+62C2	jinmeiyo-variant	1		clear out; sweep away
+拔	U+62D4	jinmeiyo-variant	1		extract; pull out; pilfer; quote; remove; omit
+拜	U+62DC	jinmeiyo-variant	1		worship; adore; pray to
+揭	U+63ED	jinmeiyo-variant	0213		raise; lift up; surname
+搖	U+6416	jinmeiyo-variant	1		wag; swing; wave; shake; scull
+搜	U+641C	jinmeiyo-variant	1	2394	search; seek; investigate
+擊	U+64CA	jinmeiyo-variant	0213		strike; hit; beat; attack; fight
+攝	U+651D	jinmeiyo-variant	1		surrogate; act in addition to
+收	U+6536	jinmeiyo-variant	1		income
+敍	U+654D	jinmeiyo-variant	1		express; state; relate; narrate
+晚	U+665A	jinmeiyo-variant	0213		night; evening; late
+晝	U+665D	jinmeiyo-variant	1		daytime; daylight
+曆	U+66C6	jinmeiyo-variant	0213		calendar; era
+曉	U+66C9	jinmeiyo-variant	1		dawn; daybreak; clear; explicit
+曾	U+66FE	jinmeiyo-variant	1		once; before; formerly; ever; never; ex-
+條	U+689D	jinmeiyo-variant	1		article; counter for articles, clauses, paragraphs, etc.; tw
+榮	U+69AE	jinmeiyo-variant	1		flourish; prosperity; honour; glory; splendour
+樂	U+6A02	jinmeiyo-variant	1		music; comfort
+樣	U+6A23	jinmeiyo-variant	1		Esq.; way; manner; situation; polite suffix
+橫	U+6A6B	jinmeiyo-variant	0213		across; horizontal; lateral
+檢	U+6AA2	jinmeiyo-variant	1		check; examine
+櫻	U+6AFB	jinmeiyo-variant	1		cherry
+步	U+6B65	jinmeiyo-variant	0213		step; pace; walk; stroll
+歷	U+6B77	jinmeiyo-variant	0213		take place; past; history
+每	U+6BCF	jinmeiyo-variant	0213		every; each
+氣	U+6C23	jinmeiyo-variant	1		spirit; mind; air; atmosphere; mood
+涉	U+6D89	jinmeiyo-variant	0213		ford stream; wade across
+淚	U+6DDA	jinmeiyo-variant	0213		tears; weep; cry
+淨	U+6DE8	jinmeiyo-variant	1		pure; clean; unspoiled
+渴	U+6E34	jinmeiyo-variant	0213		thirsty; parched; yearn; pine
+溫	U+6EAB	jinmeiyo-variant	0213		lukewarm; warm; tepid; mild
+滯	U+6EEF	jinmeiyo-variant	1		block up; obstruct; stagnant
+澁	U+6F81	jinmeiyo-variant	1		astringent; harsh; uneven; rough
+濕	U+6FD5	jinmeiyo-variant	1		wet; moist; humid; damp; an illness
+瀧	U+7027	jinmeiyo-variant	1		waterfall; rapids; cascade
+瀨	U+7028	jinmeiyo-variant	0213		swift current; rapids
+燈	U+71C8	jinmeiyo-variant	1	2456	lamp; light; counter for lights
+燒	U+71D2	jinmeiyo-variant	1		burn; bake; heat; roast
+爭	U+722D	jinmeiyo-variant	1		to dispute; fight; contend; strive
+爲	U+7232	jinmeiyo-variant	1		change; be of use; reach to; do; try; practice; cost; serve 
+狀	U+72C0	jinmeiyo-variant	0213		form; appearance; shape; official
+狹	U+72F9	jinmeiyo-variant	1		narrow; contract; reduce; tight; limited
+獸	U+7378	jinmeiyo-variant	1		beast; animal; bestial
+疊	U+758A	jinmeiyo-variant	1		tatami; counter for tatami mats; fold; shut up; do away with
+瘦	U+7626	jinmeiyo-variant	0213		thin; emaciated; lean; meager
+盃	U+76C3	jinmeiyo-variant	1		glass; cup
+盜	U+76DC	jinmeiyo-variant	1		thief; to steal
+盡	U+76E1	jinmeiyo-variant	1		exhaust; use up; run out of; deplete; befriend; serve
+眞	U+771E	jinmeiyo-variant	1	2359	truth; reality; Buddhist sect
+碎	U+788E	jinmeiyo-variant	1		break; smash; broken; busted
+祕	U+7955	jinmeiyo-variant	1		mysterious; secret; abstruse
+禪	U+79AA	jinmeiyo-variant	1		Zen Buddhism; silent meditation
+禮	U+79AE	jinmeiyo-variant	1		social custom; manners; courtesy; rites
+稻	U+7A3B	jinmeiyo-variant	1		rice plant
+穗	U+7A57	jinmeiyo-variant	1		ear (of grain); head; crest (of wave)
+粹	U+7CB9	jinmeiyo-variant	1		pure; unadulterated; select
+綠	U+7DA0	jinmeiyo-variant	0213		green; chlorine
+緖	U+7DD6	jinmeiyo-variant	0213		end of thread; thread; clue
+緣	U+7DE3	jinmeiyo-variant	0213		hem; margin; reason; cause; karma; fate
+縣	U+7E23	jinmeiyo-variant	1		county; district; subdivision
+縱	U+7E31	jinmeiyo-variant	1		indulge in; give free reign to
+纖	U+7E96	jinmeiyo-variant	1		fine; slender; thin kimono
+聽	U+807D	jinmeiyo-variant	1		careful enquiry; headstrong
+臟	U+81DF	jinmeiyo-variant	1		viscera; bowels
+與	U+8207	jinmeiyo-variant	1		participate in; give; award; impart; provide; cause
+莊	U+838A	jinmeiyo-variant	1		broom
+萬	U+842C	jinmeiyo-variant	1	2125	ten thousand; 10,000
+薗	U+8597	jinmeiyo-variant	1		garden; yard; farm
+薰	U+85B0	jinmeiyo-variant	0213		a medicinal herb; to cauterize
+藏	U+85CF	jinmeiyo-variant	1	2407	hide; own; have; possess
+藝	U+85DD	jinmeiyo-variant	1	2065	art; craft; performance; acting; trick; stunt
+藥	U+85E5	jinmeiyo-variant	1		medicine; chemical; enamel; gunpowder; benefit
+虛	U+865B	jinmeiyo-variant	0213		false; worthless; empty; hollow
+衞	U+885E	jinmeiyo-variant	1		defense
+裝	U+88DD	jinmeiyo-variant	1		dress; pretend; disguise; profess
+覽	U+89BD	jinmeiyo-variant	1		look at; inspect; perceive
+謠	U+8B20	jinmeiyo-variant	1		chant (esp. Noh); folksong; ballad
+讓	U+8B93	jinmeiyo-variant	1		allow; permit; yield; concede
+賣	U+8CE3	jinmeiyo-variant	1		sell; betray; show off
+賴	U+8CF4	jinmeiyo-variant	0213		rely; depend on; accuse falsely
+轉	U+8F49	jinmeiyo-variant	1		shift; move; turn
+郞	U+90DE	jinmeiyo-variant	0213		gentleman
+醉	U+9189	jinmeiyo-variant	1		get drunk; feel sick; poisoned; elated; spellbound
+釀	U+91C0	jinmeiyo-variant	1		brew; cause
+錄	U+9304	jinmeiyo-variant	0213		copy; write down; record
+鍊	U+934A	jinmeiyo-variant	0213		smelt metals; forge; refine
+鎭	U+93AD	jinmeiyo-variant	1		ancient peace-preservation centers
+鑄	U+9444	jinmeiyo-variant	1		cast; mint
+陷	U+9677	jinmeiyo-variant	1		fall into; cave in; fall (castle); slide into
+險	U+96AA	jinmeiyo-variant	1		inaccessible place; impregnable position; steep place; sharp
+雜	U+96DC	jinmeiyo-variant	1		mixed; blended; mix; mingle
+靜	U+975C	jinmeiyo-variant	1		quiet
+顯	U+986F	jinmeiyo-variant	1		manifest; display; evident; clear
+飜	U+98DC	jinmeiyo-variant	1		flip over; upset; capsize
+駈	U+99C8	jinmeiyo-variant	1		run; gallop; advance
+騷	U+9A37	jinmeiyo-variant	1		harass; bother; annoy; disturb; agitate; sad; grieved
+驗	U+9A57	jinmeiyo-variant	1		verification; effect; testing
+髮	U+9AEE	jinmeiyo-variant	1		hair
+鷄	U+9DC4	jinmeiyo-variant	1		chicken
+黃	U+9EC3	jinmeiyo-variant	0213		yellow; surname
+黑	U+9ED1	jinmeiyo-variant	0213		black; dark; evil; sinister
+默	U+9ED8	jinmeiyo-variant	1		silent; quiet; still; dark
+齊	U+9F4A	jinmeiyo-variant	1		alike; equal; similar; Saito
+龍	U+9F8D	jinmeiyo-variant	1	1734	dragon; imperial
+欄	U+F91D	jinmeiyo-variant	0213		railing; balustrade; animal pan
+廊	U+F928	jinmeiyo-variant	0213		corridor; porch; veranda
+朗	U+F929	jinmeiyo-variant	0213		clear; bright; distinct
+虜	U+F936	jinmeiyo-variant	0213		capture; imprison; seize; prison
+類	U+F9D0	jinmeiyo-variant	0213		class; group; kind; category
+神	U+FA19	jinmeiyo-variant	0213		spirit
+祥	U+FA1A	jinmeiyo-variant	0213		good luck
+福	U+FA1B	jinmeiyo-variant	0213		happiness
+諸	U+FA22	jinmeiyo-variant	0213		several; many; various
+都	U+FA26	jinmeiyo-variant	0213		capital; metropolis
+侮	U+FA30	jinmeiyo-variant	0213		despise; contempt
+僧	U+FA31	jinmeiyo-variant	0213		
+勉	U+FA33	jinmeiyo-variant	0213		
+勤	U+FA34	jinmeiyo-variant	0213		work; serve
+卑	U+FA35	jinmeiyo-variant	0213		despise; lowly; base; vulgar
+嘆	U+FA37	jinmeiyo-variant	0213		
+器	U+FA38	jinmeiyo-variant	0213		
+墨	U+FA3A	jinmeiyo-variant	0213		India ink; ink stick; Mexico
+層	U+FA3B	jinmeiyo-variant	0213		stratum; social class; layer
+悔	U+FA3D	jinmeiyo-variant	0213		regret; vexing
+憎	U+FA3F	jinmeiyo-variant	0213		
+懲	U+FA40	jinmeiyo-variant	0213		
+敏	U+FA41	jinmeiyo-variant	0213		
+暑	U+FA43	jinmeiyo-variant	0213		
+梅	U+FA44	jinmeiyo-variant	0213		plum
+海	U+FA45	jinmeiyo-variant	0213		
+漢	U+FA47	jinmeiyo-variant	0213		
+煮	U+FA48	jinmeiyo-variant	0213		boil; cook
+碑	U+FA4B	jinmeiyo-variant	0213		tombstone; monument
+社	U+FA4C	jinmeiyo-variant	0213		
+祉	U+FA4D	jinmeiyo-variant	0213		
+祈	U+FA4E	jinmeiyo-variant	0213		
+祖	U+FA50	jinmeiyo-variant	0213		ancestor
+祝	U+FA51	jinmeiyo-variant	0213		
+禍	U+FA52	jinmeiyo-variant	0213		calamity misfortune
+穀	U+FA54	jinmeiyo-variant	0213		cereals; grain
+突	U+FA55	jinmeiyo-variant	0213		
+節	U+FA56	jinmeiyo-variant	0213		
+練	U+FA57	jinmeiyo-variant	0213		knead; train; polish
+繁	U+FA59	jinmeiyo-variant	0213		
+署	U+FA5A	jinmeiyo-variant	0213		signature; govt office; police station
+者	U+FA5B	jinmeiyo-variant	0213		person
+臭	U+FA5C	jinmeiyo-variant	0213		odor; ill-smelling
+著	U+FA5F	jinmeiyo-variant	0213		
+視	U+FA61	jinmeiyo-variant	0213		
+謁	U+FA62	jinmeiyo-variant	0213		
+謹	U+FA63	jinmeiyo-variant	0213		
+賓	U+FA64	jinmeiyo-variant	0213		guest
+贈	U+FA65	jinmeiyo-variant	0213		presents; give to
+逸	U+FA67	jinmeiyo-variant	0213		
+難	U+FA68	jinmeiyo-variant	0213		
+響	U+FA69	jinmeiyo-variant	0213		echo; sound; resound
+乖	U+4E56	hyogai	1		oppose; disobey
+于	U+4E8E	hyogai	1		going; from
+亢	U+4EA2	hyogai	1		high spirits
+仄	U+4EC4	hyogai	1		be seen dimly; suggest; intimate; faint; stupid; hint
+仇	U+4EC7	hyogai	1	2322	foe; enemy; revenge; grudge; feud
+佇	U+4F47	hyogai	1		stop; linger; appearance; figure; bearing
+侘	U+4F98	hyogai	1		proud; lonely
+俤	U+4FE4	hyogai	1		visage; face; trace; shadow; memory; (kokuji)
+俯	U+4FEF	hyogai	1		bend down; lie prostrate
+偈	U+5048	hyogai	1		verse in praise of Buddha; fast; healthy; rest
+僑	U+50D1	hyogai	1	2044	expatriate; person living abroad; temporary home
+僻	U+50FB	hyogai	1		prejudice; bias; rural area
+儘	U+5118	hyogai	1		as it is; because
+冑	U+5191	hyogai	1		helmet
+冤	U+51A4	hyogai	1	2382	false charge; hatred
+几	U+51E0	hyogai	1		table; table enclosure; table or windy radical (no. 16)
+剃	U+5243	hyogai	1	2411	shave
+剋	U+524B	hyogai	1		victory
+勒	U+52D2	hyogai	1		halter and bit
+匈	U+5308	hyogai	1		turmoil; Hungary
+卉	U+5349	hyogai	1		grass
+厭	U+53AD	hyogai	1		get tired of; satiate; bore; dislike; disagreeable; unwelcom
+叛	U+53DB	hyogai	1		disobey; defy; go back on; rebel; rebellion
+叟	U+53DF	hyogai	1		old person
+叩	U+53E9	hyogai	1	2316	strike; beat; kow tow; hit; thrash; criticize
+吃	U+5403	hyogai	1		stammer
+吊	U+540A	hyogai	1	2475	suspend; hang; wear (sword)
+吠	U+5420	hyogai	1		bark; howl; cry
+吼	U+543C	hyogai	1		bark; bay; howl; bellow; roar; cry
+呆	U+5446	hyogai	1	1848	be amazed; disgusted; shocked
+呟	U+545F	hyogai	1		mutter; grumble; murmur
+呵	U+5475	hyogai	1		scold; blow on; reprove
+呻	U+547B	hyogai	1		moan; groan
+咄	U+5484	hyogai	1		exclamation of surprise; cry out (in anger); scold; talk; ch
+咎	U+548E	hyogai	1		blame; censure; reprimand
+咤	U+54A4	hyogai	1		clicking (with tongue); upbraid; pity; belch
+咬	U+54AC	hyogai	1		bite; gnaw; chew; gear with; dash against
+咳	U+54B3	hyogai	1		cough; clear throat
+咸	U+54B8	hyogai	1	2345	all; same
+哭	U+54ED	hyogai	1		weep; moan; wail
+唸	U+5538	hyogai	1		groan; roar
+啖	U+5556	hyogai	1		eat
+啜	U+555C	hyogai	1		suck; sip
+啞	U+555E	hyogai	0213		dumb; mute; become hoarse
+啼	U+557C	hyogai	1		bark; chirp; cry
+喀	U+5580	hyogai	1		vomit
+喘	U+5598	hyogai	1	2449	pant; gasp; breathe hard
+嗚	U+55DA	hyogai	1		weep; ah; alas
+嗜	U+55DC	hyogai	1	2465	like; taste; modest
+嗟	U+55DF	hyogai	1		lament; grieve; sigh; alas; ah
+嘔	U+5614	hyogai	1		vomit; nauseated
+嘴	U+5634	hyogai	1		beak; bill
+噓	U+5653	hyogai	0213		exhale; blow out; deep sigh; hiss; praise; flatter; lie
+噺	U+567A	hyogai	1	2308	talk; (kokuji)
+嚙	U+5699	hyogai	0213		bite; gnaw
+嚥	U+56A5	hyogai	1		swallow
+囀	U+56C0	hyogai	1		sing; chirp; warble; chatter
+囁	U+56C1	hyogai	1		whisper; murmur
+囃	U+56C3	hyogai	1	2275	play (music); accompany; beat time; banter; jeer; applaud
+囊	U+56CA	hyogai	0213		bag; purse; sack; put in bag
+址	U+5740	hyogai	1		ruins
+垢	U+57A2	hyogai	1		dirt; grime; earwax
+埃	U+57C3	hyogai	1		dust
+埒	U+57D2	hyogai	1		picket; limits; be settled
+塵	U+5875	hyogai	1		dust; trash; garbage
+墟	U+589F	hyogai	1		ruins
+壙	U+58D9	hyogai	1		hole
+壺	U+58FA	hyogai	1		jar; pot
+奢	U+5962	hyogai	1		extravagance; luxury
+奸	U+5978	hyogai	1		wickedness; mischief; rudeness
+妓	U+5993	hyogai	1		stretch; singing girl; geisha; prostitute
+妾	U+59BE	hyogai	1		concubine
+姑	U+59D1	hyogai	1	2041	mother-in-law
+姦	U+59E6	hyogai	1		wicked; mischief; seduce; rape; noisy
+姸	U+59F8	hyogai	0213		beautiful
+娑	U+5A11	hyogai	1		old woman
+娶	U+5A36	hyogai	1		marry; arrange a marriage
+娼	U+5A3C	hyogai	1	2242	prostitute
+婉	U+5A49	hyogai	1		graceful
+媚	U+5A9A	hyogai	1		flatter; humor; flirt
+嬌	U+5B0C	hyogai	1		attractive
+嬰	U+5B30	hyogai	1		sharp (music); baby
+孕	U+5B55	hyogai	1		become pregnant
+孵	U+5B75	hyogai	1		hatch; incubate
+宦	U+5BA6	hyogai	1		official
+宸	U+5BB8	hyogai	1		eaves; palace; imperial courtesy
+寥	U+5BE5	hyogai	1		lonely
+尹	U+5C39	hyogai	1	2180	an official rank
+屁	U+5C41	hyogai	1		fart; passing gas
+屍	U+5C4D	hyogai	1		corpse
+屎	U+5C4E	hyogai	1		shit; excrement
+屛	U+5C5B	hyogai	0213		
+屠	U+5C60	hyogai	1		slaughter; butcher; slay
+屢	U+5C62	hyogai	0213		frequently; often; again & again
+屹	U+5C79	hyogai	1		towering mountains
+峙	U+5CD9	hyogai	1	2279	tower; soar
+崗	U+5D17	hyogai	1		hill
+嵌	U+5D4C	hyogai	1		go into; plunge; inlay
+帚	U+5E1A	hyogai	1		broom
+帛	U+5E1B	hyogai	1		cloth
+帷	U+5E37	hyogai	1		curtain; screen
+幟	U+5E5F	hyogai	1		flag; banner; streamer
+幷	U+5E77	hyogai	0213		combine
+庖	U+5E96	hyogai	1		kitchen
+廂	U+5EC2	hyogai	1		eaves; canopy; vizor; hallways
+廓	U+5ED3	hyogai	1		enclosure; quarter; red-light district
+廬	U+5EEC	hyogai	1		hermitage
+彎	U+5F4E	hyogai	1		curve; stretching a bow
+彷	U+5F77	hyogai	1		stray; wander; loiter
+徊	U+5F8A	hyogai	1		wandering
+徘	U+5F98	hyogai	1	2414	wander
+怯	U+602F	hyogai	1		cowardice; wince; flinch; hesitate; waver
+恍	U+604D	hyogai	1		unclear; senile; stupid; joke
+悍	U+608D	hyogai	1		rough; clumsy; violent
+悶	U+60B6	hyogai	1		be in agony; worry
+悸	U+60B8	hyogai	1		pulsate; shudder
+愈	U+6108	hyogai	1		be superior; heal; more and more; increasingly; finally; bey
+愕	U+6115	hyogai	1		surprised; frightened
+憑	U+6191	hyogai	1		depend; rely; evidence; proof; according to; possess; haunt
+憚	U+619A	hyogai	1		hesitate; shrink; awe
+憫	U+61AB	hyogai	1		anxiety; mercy
+懺	U+61FA	hyogai	1		regret; repent; confess sins
+懼	U+61FC	hyogai	1		fear; overawed
+戌	U+620C	hyogai	1		sign of the dog; 7-9PM; eleventh sign of Chinese zodiac
+截	U+622A	hyogai	1		cut off; sever
+戮	U+622E	hyogai	1		kill
+扁	U+6241	hyogai	1		level; small
+扮	U+626E	hyogai	1		impersonate; dress up; disguise; thin shingles
+抉	U+6289	hyogai	1		gouge; hollow out; bore; pry
+抒	U+6292	hyogai	1	2309	tell; 10**24
+拗	U+62D7	hyogai	1		crooked; twisted; distorted; perverted; cross
+拮	U+62EE	hyogai	1		be imminent
+拿	U+62FF	hyogai	1		catch; arrest
+捌	U+634C	hyogai	1		handle; deal with; dispose of; sell; be in demand; be worldl
+捏	U+634F	hyogai	1		knead; mix
+掟	U+639F	hyogai	1		law; commandments; regulations
+揄	U+63C4	hyogai	1		pull; tease; play with
+揆	U+63C6	hyogai	1		category; plan; drumstick
+揉	U+63C9	hyogai	1		rub; massage; shampoo; debate vigorously; train; coach; worr
+揶	U+63F6	hyogai	1		tease; play with
+搔	U+6414	hyogai	0213		to scratch
+撚	U+649A	hyogai	1	2398	twist; twine; kinky
+撥	U+64A5	hyogai	1		brush up; reject; exclude; eliminate; bone plectrum
+擾	U+64FE	hyogai	1		disturb; throw into confusion
+攀	U+6500	hyogai	1		climb; scale
+攘	U+6518	hyogai	1		chase away; steal
+攢	U+6522	hyogai	0213		save; hoard
+攣	U+6523	hyogai	1		crooked; bent
+攪	U+652A	hyogai	1		disturb; throw into confusion
+敲	U+6572	hyogai	1		strike; beat; hit
+斃	U+6583	hyogai	1		kill; die violent death
+旱	U+65F1	hyogai	1		drought; dry weather
+晰	U+6670	hyogai	1		clear
+暈	U+6688	hyogai	1		halo; corona; fade
+曠	U+66E0	hyogai	1		wide; worthless
+曰	U+66F0	hyogai	1		say; reason; pretext; history; past; flat sun radical (no. 7
+曼	U+66FC	hyogai	1	2395	wide; beautiful
+朦	U+6726	hyogai	1		dim; obscure
+朧	U+6727	hyogai	1		haziness; dreaminess; gloom
+杓	U+6753	hyogai	1		ladle; scoop
+杣	U+6763	hyogai	1		timber; lumber; woodcutter; (kokuji)
+枡	U+67A1	hyogai	1		measuring box; (kokuji)
+柩	U+67E9	hyogai	1		bier; coffin
+桓	U+6853	hyogai	1		marking post
+梵	U+68B5	hyogai	1		Sanskrit; purity; Buddhist
+棘	U+68D8	hyogai	1		thorn; splinter; spine; biting words; briers
+棹	U+68F9	hyogai	1		pole a boat
+椒	U+6912	hyogai	1		Japanese pepper tree
+楔	U+6954	hyogai	1		wedge; arrowhead
+楡	U+6961	hyogai	1		elm
+楮	U+696E	hyogai	1		paper mulberry
+榔	U+6994	hyogai	1		betel palm tree
+榜	U+699C	hyogai	1		rudder; oar; name plate
+榴	U+69B4	hyogai	1		pomegranate
+槃	U+69C3	hyogai	1		tub
+橿	U+6A7F	hyogai	1	2198	oak
+檮	U+6AAE	hyogai	1		stump; foolish; ignorant
+檻	U+6ABB	hyogai	1		pen; corral; cell; jail
+櫃	U+6AC3	hyogai	1		chest; coffer; tub
+櫟	U+6ADF	hyogai	1		oak for charcoal
+欅	U+6B05	hyogai	1		keyaki; zelkova tree
+歪	U+6B6A	hyogai	1	2348	warp; bend; strained; distort
+殷	U+6BB7	hyogai	1		flourishing
+毫	U+6BEB	hyogai	1		fine hair; brush; not at all
+毯	U+6BEF	hyogai	1		wool rug
+沁	U+6C81	hyogai	1		penetrate; soak in
+泄	U+6CC4	hyogai	1		leak
+洒	U+6D12	hyogai	1	2440	wash; sprinkle
+洩	U+6D29	hyogai	1		leak; escape
+浙	U+6D59	hyogai	1	2408	name of a Chinese river
+涅	U+6D85	hyogai	1		black soil
+涌	U+6D8C	hyogai	1		boil; ferment; seethe; uproar; breed
+涵	U+6DB5	hyogai	1		immerse
+涸	U+6DB8	hyogai	1		dry up; mature
+淘	U+6DD8	hyogai	1	2410	select
+渠	U+6E20	hyogai	1		ditch; canal; lock
+滓	U+6ED3	hyogai	1		dregs; grounds
+滲	U+6EF2	hyogai	1		imbued with
+漉	U+6F09	hyogai	1		manufacture paper; spread out thin; strain; percolate
+漑	U+6F11	hyogai	1		pour
+漿	U+6F3F	hyogai	1		a drink
+潑	U+6F51	hyogai	0213		pour; splash; water; sprinkle; violent; malignant
+澗	U+6F97	hyogai	1		valley river; 10**36
+澱	U+6FB1	hyogai	1		sediment; grounds; dregs; stagnant
+濠	U+6FE0	hyogai	1		moat; ditch; canal; Australia
+濤	U+6FE4	hyogai	1		waves; billows
+濾	U+6FFE	hyogai	1		filter
+瀆	U+7006	hyogai	0213		ditch; sluice; gutter; drain; blaspheme; pollute
+瀑	U+7011	hyogai	1		waterfall
+瀞	U+701E	hyogai	1		pure water; clear water; pool in a river
+瀦	U+7026	hyogai	1		pool; puddle
+瀾	U+703E	hyogai	1		large waves
+灌	U+704C	hyogai	1		pour
+炒	U+7092	hyogai	1	2001	broil; parch; roast; fry
+炬	U+70AC	hyogai	1		torch; signal fire
+炸	U+70B8	hyogai	1		frying; explosion
+焉	U+7109	hyogai	1	2167	how; why; then
+煽	U+717D	hyogai	1		fan; flap; instigate; agitate; bolster up; gulp down
+熔	U+7194	hyogai	1		fuse; melt
+熾	U+71BE	hyogai	1		kindling fire
+燐	U+71D0	hyogai	1		phosphorus
+燵	U+71F5	hyogai	1		foot warmer; (kokuji)
+爛	U+721B	hyogai	1		be sore; inflamed; bleary; fester
+爬	U+722C	hyogai	1		scratch; crawl
+爺	U+723A	hyogai	1		old man; grampa
+牌	U+724C	hyogai	1	2247	label; signboard; medal; mahjong tiles
+牝	U+725D	hyogai	1	2300	female
+牢	U+7262	hyogai	1	2472	prison; jail; hardness
+狐	U+72D0	hyogai	1	2185	fox
+狗	U+72D7	hyogai	1		puppy; dog
+狡	U+72E1	hyogai	1		cunning; sly; crafty; miserly; mean; stingy
+狸	U+72F8	hyogai	1	2498	tanuki; raccoon
+狽	U+72FD	hyogai	1		wolf; be flurried
+猥	U+7325	hyogai	1		obscene
+猷	U+7337	hyogai	1	2392	plan; scheme; plot; way
+珪	U+73EA	hyogai	1		jade scepter or tablet (authority symbol)
+瑕	U+7455	hyogai	1		flaw; blemish
+甑	U+7511	hyogai	1		rice-steaming pot
+甕	U+7515	hyogai	1	2448	jar; jug; vat
+甦	U+7526	hyogai	1	2429	be resuscitated; revived
+畦	U+7566	hyogai	1		rice paddy ridge; furrow; rib
+疆	U+7586	hyogai	1		boundary
+疇	U+7587	hyogai	1		before; companion; same kind
+疱	U+75B1	hyogai	1		smallpox; blister
+疵	U+75B5	hyogai	1		crack; flaw; scratch; speck
+疸	U+75B8	hyogai	1		jaundice
+疹	U+75B9	hyogai	1		measles; sickness
+疼	U+75BC	hyogai	1		ache; pain; tingle; fester
+疽	U+75BD	hyogai	1		carbuncle
+痒	U+75D2	hyogai	1		itchy
+痔	U+75D4	hyogai	1		piles; hemorrhoids
+痙	U+75D9	hyogai	1		have a cramp
+痰	U+75F0	hyogai	1		sputum; phlegm
+痺	U+75FA	hyogai	1		palsy; become numb; paralysed
+瘡	U+7621	hyogai	1		wound; boil; syphilis
+瘤	U+7624	hyogai	1	2373	lump; swelling
+瘻	U+763B	hyogai	1		fistula
+癌	U+764C	hyogai	1	2233	cancer; cancerous evil
+癬	U+766C	hyogai	1		ringworm
+皺	U+76BA	hyogai	1		wrinkles; creases; folds
+盂	U+76C2	hyogai	1		bowl
+眩	U+7729	hyogai	1		faint; dizzy
+睨	U+7768	hyogai	1		glaring at; authority; power; scowl at
+睫	U+776B	hyogai	1		eyelashes
+睾	U+777E	hyogai	1		testicles
+瞑	U+7791	hyogai	1	2326	sleep; dark; close eyes
+瞞	U+779E	hyogai	1		deception
+瞰	U+77B0	hyogai	1		look; see
+瞼	U+77BC	hyogai	1		eyelids
+砒	U+7812	hyogai	1		arsenic
+碇	U+7887	hyogai	1		anchor; grapnel
+磋	U+78CB	hyogai	1		polish
+礫	U+792B	hyogai	1		small stones
+祀	U+7940	hyogai	1		enshrine; worship
+祓	U+7953	hyogai	1		exorcise
+祟	U+795F	hyogai	1		curse; haunt
+祠	U+7960	hyogai	1		small shrine
+禊	U+798A	hyogai	1		Shinto purification ceremony
+禿	U+79BF	hyogai	1		become bald; bare; wear out; waste away; little girl employe
+稗	U+7A17	hyogai	1		humble; deccan grass
+穎	U+7A4E	hyogai	1		heads of grain; cleverness
+穢	U+7A62	hyogai	1		dirty
+窩	U+7AA9	hyogai	1		cave; pouch
+竈	U+7AC8	hyogai	1		hearth; kitchen stove
+竟	U+7ADF	hyogai	1		end; finally
+竦	U+7AE6	hyogai	1		crouch; cower
+笥	U+7B25	hyogai	1		lunch box; clothes chest
+筏	U+7B4F	hyogai	1		raft
+筵	U+7B75	hyogai	1		straw mat
+箏	U+7B8F	hyogai	1	2290	a koto
+箒	U+7B92	hyogai	1		broom
+箭	U+7BAD	hyogai	1		arrow
+篆	U+7BC6	hyogai	1	2243	seal-style characters
+篝	U+7BDD	hyogai	1		campfire; fishing fire; beacon basket
+簀	U+7C00	hyogai	1		rough mat (reeds)
+籬	U+7C6C	hyogai	1		rough-woven fence; bamboo hedge
+粂	U+7C82	hyogai	1		used in proper names; (kokuji)
+粕	U+7C95	hyogai	1	1905	scrap; waste
+糞	U+7CDE	hyogai	1	2473	shit; feces; excrement
+糠	U+7CE0	hyogai	1		rice bran
+紮	U+7D2E	hyogai	1		tie up
+絣	U+7D63	hyogai	1		splashed pattern (on cloth)
+絨	U+7D68	hyogai	1		wool cloth
+綬	U+7DAC	hyogai	1		ribbon
+綽	U+7DBD	hyogai	1		loose; lenient
+罠	U+7F60	hyogai	1		trap; snare
+罹	U+7F79	hyogai	1		catch; get
+翅	U+7FC5	hyogai	1		(insect) wings; fly; merely
+翫	U+7FEB	hyogai	1	2134	take pleasure in; play instrument
+翰	U+7FF0	hyogai	1		letter; writing brush
+翳	U+7FF3	hyogai	1		hold aloft
+耆	U+8006	hyogai	1		senility
+聊	U+804A	hyogai	1		slightly
+聘	U+8058	hyogai	1		invite
+聚	U+805A	hyogai	1		assemble
+聳	U+8073	hyogai	1		rise; tower
+聾	U+807E	hyogai	1		deafness; deaf person; deafen
+肛	U+809B	hyogai	1		anus
+胚	U+80DA	hyogai	1	2471	embryo
+胱	U+80F1	hyogai	1		bladder
+脆	U+8106	hyogai	1		brittle; fragile; easy to beat; sentimental; susceptible
+脛	U+811B	hyogai	1		leg; shin
+脾	U+813E	hyogai	1		spleen
+腋	U+814B	hyogai	1		armpit; side
+腑	U+8151	hyogai	1		viscera; bowels
+腱	U+8171	hyogai	1		tendon
+腿	U+817F	hyogai	1		thigh; femur
+膀	U+8180	hyogai	1		bladder
+膠	U+81A0	hyogai	1	2357	glue; isinglass
+膣	U+81A3	hyogai	1		vagina
+膵	U+81B5	hyogai	1		pancreas; (kokuji)
+膿	U+81BF	hyogai	1		pus; fester; discharge
+臀	U+81C0	hyogai	1		buttocks; hips; butt; rear
+臂	U+81C2	hyogai	1		elbow
+臍	U+81CD	hyogai	1		navel
+臘	U+81D8	hyogai	1		12th lunar month
+舅	U+8205	hyogai	1		father-in-law
+舐	U+8210	hyogai	1		lick; lap up; burn up; taste; undergo; underrate; despise
+艘	U+8258	hyogai	1		counter for small boats
+芒	U+8292	hyogai	1		pampas grass; beard (grain)
+芻	U+82BB	hyogai	1		grass cutting; hay
+苞	U+82DE	hyogai	1		husk; bract; straw wrapper; souvenir gift; bribe
+苫	U+82EB	hyogai	1	2028	rush matting
+茫	U+832B	hyogai	1		wide; extensive
+荊	U+834A	hyogai	1		thorn; brier; whip
+荼	U+837C	hyogai	1		a weed
+莢	U+83A2	hyogai	1		pod; hull; husk; shell; case
+菰	U+83F0	hyogai	1		reed used for matting
+萼	U+843C	hyogai	1		calyx; cup
+葱	U+8471	hyogai	1		stone leek; Welsh onion
+蓼	U+84FC	hyogai	1	2447	luxurious grass; a smartweed
+蕩	U+8569	hyogai	1		melt; be charmed; captivated
+蕭	U+856D	hyogai	1		a weed; mugwort; lonely; silent; calm
+薇	U+8587	hyogai	1		an edible fern
+薔	U+8594	hyogai	1	2356	water pepper
+薨	U+85A8	hyogai	1		die
+薯	U+85AF	hyogai	1		potato
+藪	U+85EA	hyogai	1		thicket; bush; underbrush; grove
+藷	U+85F7	hyogai	1		potato
+蘆	U+8606	hyogai	1		reed; rush
+虔	U+8654	hyogai	1		respect
+虻	U+867B	hyogai	1		gadfly; horsefly
+蚤	U+86A4	hyogai	1		flea
+蛉	U+86C9	hyogai	1		dragonfly; moon moth
+蛋	U+86CB	hyogai	1	2266	barbarian; egg
+蛙	U+86D9	hyogai	1		frog
+蛛	U+86DB	hyogai	1		spider
+蛤	U+86E4	hyogai	1		clam
+蛭	U+86ED	hyogai	1	2434	leech
+蛸	U+86F8	hyogai	1		octopus
+蛾	U+86FE	hyogai	1		moth
+蜀	U+8700	hyogai	1		green caterpillar; Szechwan
+蜃	U+8703	hyogai	1		clam
+蜘	U+8718	hyogai	1		spider
+蜻	U+873B	hyogai	1		dragonfly
+蝕	U+8755	hyogai	1		eclipse; occultation; be defective
+蝸	U+8778	hyogai	1		snail
+蟇	U+87C7	hyogai	1		toad
+蟻	U+87FB	hyogai	1		ant
+蠅	U+8805	hyogai	1		fly
+蠣	U+8823	hyogai	1		oyster
+衙	U+8859	hyogai	1		government office
+袁	U+8881	hyogai	1	2419	long kimono
+袂	U+8882	hyogai	1		sleeve; foot (of hill); edge
+袢	U+88A2	hyogai	1		summer kimono; short clothing
+裔	U+88D4	hyogai	1		descendant; border
+褌	U+890C	hyogai	1		loincloth
+褥	U+8925	hyogai	1		cushion; mattress; bedding
+襞	U+895E	hyogai	1		pleat; fold; tuck; crease
+襦	U+8966	hyogai	1		underwear
+襷	U+8977	hyogai	1		cord to hold up sleeves; (kokuji)
+覗	U+8997	hyogai	1		peep; peek; come in sight
+訛	U+8A1B	hyogai	1		accent; dialect
+訝	U+8A1D	hyogai	1		doubt
+訶	U+8A36	hyogai	1		scold
+誅	U+8A85	hyogai	1		death penalty
+誦	U+8AA6	hyogai	1		recite; chant
+誹	U+8AB9	hyogai	1		ridicule; slander
+諜	U+8ADC	hyogai	1	2445	spy out; reconnoiter
+諤	U+8AE4	hyogai	1		speaking the truth
+諫	U+8AEB	hyogai	1		admonish; dissuade
+諱	U+8AF1	hyogai	1		posthumous (real) name
+諷	U+8AF7	hyogai	1		hint; satirize
+謔	U+8B14	hyogai	1		sport with
+謗	U+8B17	hyogai	1		slander; disparage; censure; criticize
+謬	U+8B2C	hyogai	1		mistake
+謳	U+8B33	hyogai	1	2492	extol; declare; express
+譚	U+8B5A	hyogai	1		talk
+讐	U+8B90	hyogai	1		enemy; revenge
+賤	U+8CE4	hyogai	1		despise; low-life; poverty
+賽	U+8CFD	hyogai	1		dice; temple visit
+贄	U+8D04	hyogai	1		offering; sacrifice
+贅	U+8D05	hyogai	1	2386	luxury
+贋	U+8D0B	hyogai	1	2439	counterfeit; forgery
+趙	U+8D99	hyogai	1	1522	nimble; late-going
+趨	U+8DA8	hyogai	1		run; go; quick; tend towards
+趾	U+8DBE	hyogai	1		footprint; remains
+跋	U+8DCB	hyogai	1		epilogue; postscript
+跏	U+8DCF	hyogai	1		sitting in the lotus position
+踵	U+8E35	hyogai	1		heel
+蹊	U+8E4A	hyogai	1		path
+躁	U+8E81	hyogai	1		noisy
+躇	U+8E87	hyogai	1		hesitate
+躊	U+8E8A	hyogai	1		hesitate
+躬	U+8EAC	hyogai	1		body; self
+軀	U+8EC0	hyogai	0213		body
+軋	U+8ECB	hyogai	1		squeak; creak; grate
+轍	U+8F4D	hyogai	1	2484	rut; wheel track
+轢	U+8F62	hyogai	1		run over
+逍	U+900D	hyogai	1		saunter; loaf
+逼	U+903C	hyogai	1		urge; force; imminent; spur on
+遽	U+907D	hyogai	1		fear; agitation; confusion; hurry
+邁	U+9081	hyogai	1		go; excel
+邇	U+9087	hyogai	1		approach; near; close
+邱	U+90B1	hyogai	1		hill
+鄙	U+9119	hyogai	1		lowly; the country; the countryside; be countrified
+鄧	U+9127	hyogai	0213		surname
+酋	U+914B	hyogai	1		chieftain
+醱	U+91B1	hyogai	0213		to brew for the second time
+鈔	U+9214	hyogai	1		selection; summary; 1/10 shaku
+鉗	U+9257	hyogai	1		shut up
+鉤	U+9264	hyogai	1		hook; barb; gaff; brackets
+鉦	U+9266	hyogai	1		bell; gong; chimes
+鉾	U+927E	hyogai	1	2453	halberd; arms; festival float
+銚	U+929A	hyogai	1	2102	sake bottle
+鋏	U+92CF	hyogai	1		scissors
+鋤	U+92E4	hyogai	1		spade up; plow
+鍼	U+937C	hyogai	1	2338	needle
+鍾	U+937E	hyogai	1	2321	spindle; gather; collect
+鎚	U+939A	hyogai	1		hammer; mallet
+鐸	U+9438	hyogai	1		large hand bell
+鑓	U+9453	hyogai	1		spear; javelin; (kokuji)
+閨	U+95A8	hyogai	1		bedroom
+閻	U+95BB	hyogai	1		town
+閾	U+95BE	hyogai	1		threshold
+闊	U+95CA	hyogai	1	2406	wide
+闍	U+95CD	hyogai	1		watchtower; used phonetically
+陝	U+965D	hyogai	1		place name
+隋	U+968B	hyogai	1		name of a Chinese dynasty; remains of sacrifice; bury; fall;
+隕	U+9695	hyogai	1		fall
+隧	U+96A7	hyogai	1		fall; go around
+雉	U+96C9	hyogai	1		pheasant
+雖	U+96D6	hyogai	1		although; however
+霰	U+9730	hyogai	1		hail; hailstones; small cubes
+靄	U+9744	hyogai	1		mist; haze; fog
+靡	U+9761	hyogai	1		flutter; wave; bow to; obey; seduce
+靱	U+9771	hyogai	1		soft; pliable; quiver
+鞋	U+978B	hyogai	1		straw sandals
+韋	U+97CB	hyogai	1		tanned leather radical (no. 178)
+韮	U+97EE	hyogai	1	2353	leek
+頷	U+9837	hyogai	1		nod approval
+頸	U+9838	hyogai	1		neck; head
+頽	U+983D	hyogai	1		decline; slide
+顆	U+9846	hyogai	1		grain (e.g. rice)
+飫	U+98EB	hyogai	1		satiety
+飴	U+98F4	hyogai	1		rice jelly; candy
+餐	U+9910	hyogai	1		eat; drink; swallow
+饅	U+9945	hyogai	1		bean-jam dumpling; manjuu
+饉	U+9949	hyogai	1		hunger
+饒	U+9952	hyogai	1		abundant
+駁	U+99C1	hyogai	1		refutation; contradiction
+騙	U+9A19	hyogai	1		deceive
+驒	U+9A52	hyogai	0213		dappled
+髭	U+9AED	hyogai	1		beard; mustache
+髷	U+9AF7	hyogai	1		topknot
+髻	U+9AFB	hyogai	1		samurai topknot
+鬘	U+9B18	hyogai	1		wig; hair piece
+鬚	U+9B1A	hyogai	1		beard; mustache
+鬢	U+9B22	hyogai	1		sideburns
+魏	U+9B4F	hyogai	1	2075	high; large; Kingdom of Wei
+鮒	U+9B92	hyogai	1		carp
+鮨	U+9BA8	hyogai	1		sushi; seasoned rice
+鮫	U+9BAB	hyogai	1	2244	shark
+鮭	U+9BAD	hyogai	1	2477	salmon
+鯖	U+9BD6	hyogai	1		mackerel
+鰊	U+9C0A	hyogai	1		herring
+鰐	U+9C10	hyogai	1		alligator; crocodile
+鰓	U+9C13	hyogai	1		gills; gill slits
+鰹	U+9C39	hyogai	1		bonito
+鰺	U+9C3A	hyogai	1		horse mackerel
+鰻	U+9C3B	hyogai	1		eel
+鴉	U+9D09	hyogai	1		crow; raven
+鵠	U+9D60	hyogai	1	2292	swan
+鵡	U+9D61	hyogai	1		cockatoo
+鶯	U+9DAF	hyogai	1		nightingale
+鸚	U+9E1A	hyogai	1		parrot; parakeet
+鸞	U+9E1E	hyogai	1		fabulous mythical bird; imperial
+鹼	U+9E7C	hyogai	0213		alkaline; alkali; lye; salt
+麴	U+9EB4	hyogai	0213		yeast; leaven; surname
+麵	U+9EB5	hyogai	0213		flour; dough; noodles
+鼠	U+9F20	hyogai	1		rat; mouse; dark gray
+齟	U+9F5F	hyogai	1		uneven; bite; disagree
+齬	U+9F6C	hyogai	1		irregular teeth
+﨟	U+FA1F	hyogai	0213		
+唖	U+5516	hyogai-simplified	1		mute; dumb
+噛	U+565B	hyogai-simplified	1	2399	chew; bite; gnaw
+屏	U+5C4F	hyogai-simplified	1	2002	wall; fence
+并	U+5E76	hyogai-simplified	1		put together
+弯	U+5F2F	hyogai-simplified	1		curve; stretching a bow
+掻	U+63BB	hyogai-simplified	1		scratch; rake; comb; paddle; behead
+撹	U+64B9	hyogai-simplified	1		disturb; throw into confusion
+桝	U+685D	hyogai-simplified	1	2401	measuring box; (kokuji)
+沪	U+6CAA	hyogai-simplified	0213		filter; Shanghai; river near Shanghai
+繍	U+7E4D	hyogai-simplified	1		sew; figured cloth
+蒋	U+848B	hyogai-simplified	1	2251	reed
+蝋	U+874B	hyogai-simplified	1		wax
+醤	U+91A4	hyogai-simplified	1	2485	a kind of miso
+頴	U+9834	hyogai-simplified	1		heads of grain; cleverness
+鴎	U+9D0E	hyogai-simplified	1	2187	seagull
+鹸	U+9E78	hyogai-simplified	1		saltiness
+麹	U+9EB9	hyogai-simplified	1	1988	malt; yeast
